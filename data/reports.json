@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-15T14:15:05.965Z",
+  "generatedAt": "2026-04-15T15:59:57.450Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 63,
-    "failedFetches": 0,
+    "fetchedUrlSets": 62,
+    "failedFetches": 1,
     "childLocs": 63,
     "visitedCount": 64
   },
@@ -179,17 +179,11 @@
       ]
     },
     "2026-04-08": {
-      "totalChecked": 597,
-      "totalIzi": 129,
+      "totalChecked": 555,
+      "totalIzi": 123,
       "totalIiz": 2,
-      "totalAi": 131,
+      "totalAi": 125,
       "topLinks": [
-        "https://iz.ru/2075378/v-fas-ukazali-na-rabotu-rynochnykh-mekhanizmov-pri-formirovanii-tcen-na-iaitca-v-rf-izi",
-        "https://iz.ru/2075393/v-armenii-soobshchili-o-zhestkom-razgovore-putina-i-pashiniana-za-zakrytymi-dveriami-izi",
-        "https://iz.ru/2075398/dmitriev-predskazal-nato-mrachnoe-budushchee-izi",
-        "https://iz.ru/2075411/sud-otkazalsia-vzyskat-47-mln-rublei-s-lichnoi-pomoshchnitcy-blinovskoi-izi",
-        "https://iz.ru/2075456/slukhi-ob-otstranenii-prokurora-iz-za-fitnes-kursov-lerchek-ne-podtverdilis-izi",
-        "https://iz.ru/2075464/molodye-inzhenery-predstaviat-prototipy-robotov-na-tekhnicheskom-forume-v-peterburge-izi",
         "https://iz.ru/2060068/daria-komarova/vazhnyi-prazdnik-chistyi-chetverg-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2070925/nastupaet-chistyi-chetverg-krasochnye-otkrytki-i-pozdravleniia-dlia-vsei-semi-iiz",
         "https://iz.ru/2073820/2026-04-08/uchenye-rasskazali-o-roli-astrotcitov-v-formirovanii-pamiati-strakha-izi",
@@ -203,19 +197,21 @@
         "https://iz.ru/2074705/posol-irana-zaiavil-o-progresse-v-uregulirovanii-konflikta-s-ssha-izi",
         "https://iz.ru/2074706/tasnim-iran-rasshirit-spisok-voennykh-tcelei-v-sluchae-ataki-ssha-na-elektrostantcii-izi",
         "https://iz.ru/2074711/v-op-napomnili-o-shtrafakh-do-3-mln-rublei-za-nezakonnuiu-vyrubku-derevev-izi",
-        "https://iz.ru/2074725/v-rossii-razrabotali-gost-po-prigotovleniiu-korzhika-i-pirozhnogo-kartoshka-izi"
+        "https://iz.ru/2074725/v-rossii-razrabotali-gost-po-prigotovleniiu-korzhika-i-pirozhnogo-kartoshka-izi",
+        "https://iz.ru/2074727/peremirie-mezhdu-ssha-i-iranom-glavnoe-izi",
+        "https://iz.ru/2074733/stalo-izvestno-o-pervonachalnoi-tceli-terroristov-iz-krokusa-izi",
+        "https://iz.ru/2074740/ap-uznalo-ob-ispolzovanii-vsu-territorii-livii-dlia-udara-po-arktik-metagaz-izi",
+        "https://iz.ru/2074747/ekspert-predupredila-rossiian-ob-ugolovnoi-otvetstvennosti-za-vyrashchivanie-kaktusov-izi",
+        "https://iz.ru/2074756/v-gd-soobshchili-o-vozmozhnosti-semei-s-iiunia-poluchat-dengi-po-novoi-nalogovoi-vyplate-izi",
+        "https://iz.ru/2074758/na-ukraine-zaiavili-o-problemakh-s-dostavkoi-topliva-iz-za-mobilizatcii-izi"
       ]
     },
     "2026-04-09": {
-      "totalChecked": 971,
-      "totalIzi": 241,
+      "totalChecked": 930,
+      "totalIzi": 237,
       "totalIiz": 1,
-      "totalAi": 242,
+      "totalAi": 238,
       "topLinks": [
-        "https://iz.ru/2075470/madridskii-atletiko-obygral-barselonu-v-pervom-matche-14-finala-lch-izi",
-        "https://iz.ru/2075481/galibaf-ssha-narushili-tri-kliuchevykh-punkta-iranskogo-predlozheniia-izi",
-        "https://iz.ru/2075486/v-rossii-utverdili-novyi-gost-dlia-elektromototciklov-i-mopedov-izi",
-        "https://iz.ru/2075487/v-posolstve-frantcii-predupredili-rossiian-o-moshennichestve-s-vizami-izi",
         "https://iz.ru/2075494/v-gosdume-predlozhili-vvesti-lgotnyi-stazh-dlia-medikov-i-spasatelei-izi",
         "https://iz.ru/2075508/v-gosdume-nazvali-kategorii-grazhdan-s-vozmozhnostiu-polucheniia-dvoinoi-pensii-izi",
         "https://iz.ru/2075510/tramp-posle-vstrechi-s-riutte-napomnil-o-raznoglasiiakh-po-voprosu-grenlandii-izi",
@@ -231,11 +227,15 @@
         "https://iz.ru/2075580/v-zabaikale-inostrantca-osudili-na-12-let-za-opravdanie-terrorizma-izi",
         "https://iz.ru/2075582/v-germanii-shkolniki-budut-chashche-khodit-na-ekskursii-v-kontclageria-izi",
         "https://iz.ru/2075584/tri-cheloveka-postradali-pri-padenii-oblomkov-bpla-v-krasnodarskom-krae-izi",
-        "https://iz.ru/2075586/iurist-predupredil-o-shtrafe-za-snimanie-shelukhi-s-luka-v-magazinakh-dlia-pokraski-iaitc-izi"
+        "https://iz.ru/2075586/iurist-predupredil-o-shtrafe-za-snimanie-shelukhi-s-luka-v-magazinakh-dlia-pokraski-iaitc-izi",
+        "https://iz.ru/2075590/zhurnalist-karlson-udivilsia-vliianiiu-izrailia-na-ssha-izi",
+        "https://iz.ru/2075601/narodnyi-front-zapustil-srochnyi-sbor-sredstv-dlia-postradavshikh-v-dagestane-izi",
+        "https://iz.ru/2075614/vsu-v-krasnoarmeiske-pytalis-ubit-spasshego-rossiiskikh-boitcov-muzhchinu-izi",
+        "https://iz.ru/2075615/samolet-mchs-dostavil-v-dagestan-bolee-23-t-gumanitarnoi-pomoshchi-izi"
       ]
     },
     "2026-04-10": {
-      "totalChecked": 1014,
+      "totalChecked": 1013,
       "totalIzi": 194,
       "totalIiz": 7,
       "totalAi": 201,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-04-15": {
-      "totalChecked": 656,
-      "totalIzi": 112,
+      "totalChecked": 883,
+      "totalIzi": 199,
       "totalIiz": 0,
-      "totalAi": 112,
+      "totalAi": 199,
       "topLinks": [
         "https://iz.ru/2077863/narodnye-primety-na-15-aprelia-chto-mozhno-i-nelzia-delat-izi",
         "https://iz.ru/2078895/2026-04-15/uchenye-rasskazali-o-vliianii-khleba-na-nabor-vesa-bez-izbytka-kalorii-izi",
