@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T22:14:31.422Z",
+  "generatedAt": "2026-04-15T23:12:50.944Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,21 +179,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 861,
-      "totalIzi": 226,
+      "totalChecked": 807,
+      "totalIzi": 216,
       "totalIiz": 1,
-      "totalAi": 227,
+      "totalAi": 217,
       "topLinks": [
-        "https://iz.ru/2075575/politico-soobshchila-o-nedovolstve-v-ssha-iz-za-platy-iranu-za-prokhod-cherez-ormuz-izi",
-        "https://iz.ru/2075580/v-zabaikale-inostrantca-osudili-na-12-let-za-opravdanie-terrorizma-izi",
-        "https://iz.ru/2075582/v-germanii-shkolniki-budut-chashche-khodit-na-ekskursii-v-kontclageria-izi",
-        "https://iz.ru/2075584/tri-cheloveka-postradali-pri-padenii-oblomkov-bpla-v-krasnodarskom-krae-izi",
-        "https://iz.ru/2075586/iurist-predupredil-o-shtrafe-za-snimanie-shelukhi-s-luka-v-magazinakh-dlia-pokraski-iaitc-izi",
-        "https://iz.ru/2075590/zhurnalist-karlson-udivilsia-vliianiiu-izrailia-na-ssha-izi",
-        "https://iz.ru/2075601/narodnyi-front-zapustil-srochnyi-sbor-sredstv-dlia-postradavshikh-v-dagestane-izi",
-        "https://iz.ru/2075614/vsu-v-krasnoarmeiske-pytalis-ubit-spasshego-rossiiskikh-boitcov-muzhchinu-izi",
-        "https://iz.ru/2075615/samolet-mchs-dostavil-v-dagestan-bolee-23-t-gumanitarnoi-pomoshchi-izi",
-        "https://iz.ru/2075634/filmy-krasnyi-shelk-i-iaga-na-nashu-golovu-pokazhut-na-festivale-v-singapure-izi",
         "https://iz.ru/2075639/v-moskve-zaderzhali-prichastnogo-k-khishcheniiu-17-mln-u-studentki-moshennika-izi",
         "https://iz.ru/2075641/nemetckii-akter-mario-adorf-umer-v-vozraste-95-let-izi",
         "https://iz.ru/2075660/baiopik-o-maikle-dzheksone-vyidet-v-aprele-data-premery-siuzhet-izi",
@@ -203,11 +193,21 @@
         "https://iz.ru/2075693/vtciom-nazval-chislo-ispolzovavshikh-za-god-ii-rossiian-izi",
         "https://iz.ru/2075720/armeniia-ne-budet-obsuzhdat-za-spinoi-rossii-voprosy-po-zhd-zaiavil-pashinian-izi",
         "https://iz.ru/2075732/2026-04-09/bolee-180-chelovek-obratilis-s-ostroi-kishechnoi-infektciei-v-bolnitcy-muroma-izi",
-        "https://iz.ru/2075733/v-atlantike-zafiksirovano-zamedlenie-techeniia-na-neskolkikh-shirotakh-izi"
+        "https://iz.ru/2075733/v-atlantike-zafiksirovano-zamedlenie-techeniia-na-neskolkikh-shirotakh-izi",
+        "https://iz.ru/2075741/v-minoborony-zaiavili-o-vysokikh-rezultatakh-primeneniia-bpla-gruppirovkoi-tcentr-izi",
+        "https://iz.ru/2075743/uchenye-vyiavili-sviaz-mezhdu-optimizmom-i-riskom-razvitiia-dementcii-izi",
+        "https://iz.ru/2075746/tass-soobshchilo-o-podgotovke-ukrainoi-i-norvegiei-teraktov-na-rossiiskie-suda-izi",
+        "https://iz.ru/2075748/vyneseno-reshenie-o-zaderzhanii-14-turetckikh-znamenitostei-po-delu-o-narkotikakh-izi",
+        "https://iz.ru/2075750/umer-akter-iz-igry-prestolov-maikl-patrik-izi",
+        "https://iz.ru/2075751/onishchenko-prizval-usilit-mery-bezopasnosti-v-dagestane-iz-za-riska-kholery-izi",
+        "https://iz.ru/2075757/verkhovnyi-sud-rossii-priznal-dvizhenie-memorial-ekstremistskim-izi",
+        "https://iz.ru/2075761/blagodatnyi-ogon-dostaviat-v-rf-v-velikuiu-subbotu-izi",
+        "https://iz.ru/2075763/v-peterburge-zaderzhali-muzhchinu-za-publikatciiu-postov-s-prizyvami-k-terroru-izi",
+        "https://iz.ru/2075767/korabl-vmf-rf-soprovodil-rossiiskie-tankery-cherez-la-mansh-izi"
       ]
     },
     "2026-04-10": {
-      "totalChecked": 1013,
+      "totalChecked": 1010,
       "totalIzi": 194,
       "totalIiz": 7,
       "totalAi": 201,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-04-13": {
-      "totalChecked": 1024,
+      "totalChecked": 1022,
       "totalIzi": 268,
       "totalIiz": 2,
       "totalAi": 270,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-04-14": {
-      "totalChecked": 944,
+      "totalChecked": 943,
       "totalIzi": 252,
       "totalIiz": 0,
       "totalAi": 252,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-04-15": {
-      "totalChecked": 1023,
-      "totalIzi": 233,
+      "totalChecked": 1052,
+      "totalIzi": 235,
       "totalIiz": 0,
-      "totalAi": 233,
+      "totalAi": 235,
       "topLinks": [
         "https://iz.ru/2077863/narodnye-primety-na-15-aprelia-chto-mozhno-i-nelzia-delat-izi",
         "https://iz.ru/2078895/2026-04-15/uchenye-rasskazali-o-vliianii-khleba-na-nabor-vesa-bez-izbytka-kalorii-izi",
@@ -375,11 +375,14 @@
       ]
     },
     "2026-04-16": {
-      "totalChecked": 0,
+      "totalChecked": 116,
       "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalIiz": 2,
+      "totalAi": 2,
+      "topLinks": [
+        "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
+        "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz"
+      ]
     }
   }
 }
