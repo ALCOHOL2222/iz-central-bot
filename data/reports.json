@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-15T15:59:57.450Z",
+  "generatedAt": "2026-04-15T17:41:14.355Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 62,
-    "failedFetches": 1,
+    "fetchedUrlSets": 63,
+    "failedFetches": 0,
     "childLocs": 63,
     "visitedCount": 64
   },
@@ -207,14 +207,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 930,
-      "totalIzi": 237,
+      "totalChecked": 913,
+      "totalIzi": 234,
       "totalIiz": 1,
-      "totalAi": 238,
+      "totalAi": 235,
       "topLinks": [
-        "https://iz.ru/2075494/v-gosdume-predlozhili-vvesti-lgotnyi-stazh-dlia-medikov-i-spasatelei-izi",
-        "https://iz.ru/2075508/v-gosdume-nazvali-kategorii-grazhdan-s-vozmozhnostiu-polucheniia-dvoinoi-pensii-izi",
-        "https://iz.ru/2075510/tramp-posle-vstrechi-s-riutte-napomnil-o-raznoglasiiakh-po-voprosu-grenlandii-izi",
         "https://iz.ru/2075519/stomatolog-rasskazala-o-vliianii-stressa-na-zdorove-zubov-izi",
         "https://iz.ru/2075521/dizainer-rasskazala-o-povyshaiushchikh-uroven-stressa-resheniiakh-v-kvartire-izi",
         "https://iz.ru/2075547/khk-niu-jork-reindzhers-proigral-baffalo-seibrz-v-matche-nkhl-izi",
@@ -231,7 +228,10 @@
         "https://iz.ru/2075590/zhurnalist-karlson-udivilsia-vliianiiu-izrailia-na-ssha-izi",
         "https://iz.ru/2075601/narodnyi-front-zapustil-srochnyi-sbor-sredstv-dlia-postradavshikh-v-dagestane-izi",
         "https://iz.ru/2075614/vsu-v-krasnoarmeiske-pytalis-ubit-spasshego-rossiiskikh-boitcov-muzhchinu-izi",
-        "https://iz.ru/2075615/samolet-mchs-dostavil-v-dagestan-bolee-23-t-gumanitarnoi-pomoshchi-izi"
+        "https://iz.ru/2075615/samolet-mchs-dostavil-v-dagestan-bolee-23-t-gumanitarnoi-pomoshchi-izi",
+        "https://iz.ru/2075634/filmy-krasnyi-shelk-i-iaga-na-nashu-golovu-pokazhut-na-festivale-v-singapure-izi",
+        "https://iz.ru/2075639/v-moskve-zaderzhali-prichastnogo-k-khishcheniiu-17-mln-u-studentki-moshennika-izi",
+        "https://iz.ru/2075641/nemetckii-akter-mario-adorf-umer-v-vozraste-95-let-izi"
       ]
     },
     "2026-04-10": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-04-15": {
-      "totalChecked": 883,
-      "totalIzi": 199,
+      "totalChecked": 900,
+      "totalIzi": 206,
       "totalIiz": 0,
-      "totalAi": 199,
+      "totalAi": 206,
       "topLinks": [
         "https://iz.ru/2077863/narodnye-primety-na-15-aprelia-chto-mozhno-i-nelzia-delat-izi",
         "https://iz.ru/2078895/2026-04-15/uchenye-rasskazali-o-vliianii-khleba-na-nabor-vesa-bez-izbytka-kalorii-izi",
