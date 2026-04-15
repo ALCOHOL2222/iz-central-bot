@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T17:41:14.355Z",
+  "generatedAt": "2026-04-15T19:53:23.403Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -207,15 +207,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 913,
-      "totalIzi": 234,
+      "totalChecked": 884,
+      "totalIzi": 230,
       "totalIiz": 1,
-      "totalAi": 235,
+      "totalAi": 231,
       "topLinks": [
-        "https://iz.ru/2075519/stomatolog-rasskazala-o-vliianii-stressa-na-zdorove-zubov-izi",
-        "https://iz.ru/2075521/dizainer-rasskazala-o-povyshaiushchikh-uroven-stressa-resheniiakh-v-kvartire-izi",
-        "https://iz.ru/2075547/khk-niu-jork-reindzhers-proigral-baffalo-seibrz-v-matche-nkhl-izi",
-        "https://iz.ru/2075549/tramp-zaiavil-o-sokhranenii-voennogo-prisutstviia-ssha-vokrug-irana-izi",
         "https://iz.ru/2075557/v-gosdume-rasskazali-o-deistviiakh-pri-obnaruzhenii-oformlennogo-chuzhogo-kredita-izi",
         "https://iz.ru/2075559/ap-soobshchilo-o-spasenii-nakhodivshegosia-pod-zavalami-14-dnei-shakhtera-izi",
         "https://iz.ru/2075562/stalo-izvestno-ob-unichtozhenii-komandovaniem-vsu-svoikh-soldat-v-sumskoi-oblasti-izi",
@@ -231,7 +227,11 @@
         "https://iz.ru/2075615/samolet-mchs-dostavil-v-dagestan-bolee-23-t-gumanitarnoi-pomoshchi-izi",
         "https://iz.ru/2075634/filmy-krasnyi-shelk-i-iaga-na-nashu-golovu-pokazhut-na-festivale-v-singapure-izi",
         "https://iz.ru/2075639/v-moskve-zaderzhali-prichastnogo-k-khishcheniiu-17-mln-u-studentki-moshennika-izi",
-        "https://iz.ru/2075641/nemetckii-akter-mario-adorf-umer-v-vozraste-95-let-izi"
+        "https://iz.ru/2075641/nemetckii-akter-mario-adorf-umer-v-vozraste-95-let-izi",
+        "https://iz.ru/2075660/baiopik-o-maikle-dzheksone-vyidet-v-aprele-data-premery-siuzhet-izi",
+        "https://iz.ru/2075665/pashinian-soobshchil-o-dogovorennosti-s-putinym-o-vstreche-v-iiune-izi",
+        "https://iz.ru/2075666/kalashnikov-ispytal-mnogopulnye-avtomatnye-patrony-dlia-borby-s-dronami-izi",
+        "https://iz.ru/2075673/kallas-ukazala-na-ugrozu-dlia-peremiriia-ssha-i-irana-iz-za-atak-izrailia-na-livan-izi"
       ]
     },
     "2026-04-10": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-04-15": {
-      "totalChecked": 900,
-      "totalIzi": 206,
+      "totalChecked": 1001,
+      "totalIzi": 232,
       "totalIiz": 0,
-      "totalAi": 206,
+      "totalAi": 232,
       "topLinks": [
         "https://iz.ru/2077863/narodnye-primety-na-15-aprelia-chto-mozhno-i-nelzia-delat-izi",
         "https://iz.ru/2078895/2026-04-15/uchenye-rasskazali-o-vliianii-khleba-na-nabor-vesa-bez-izbytka-kalorii-izi",
