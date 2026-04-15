@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T19:53:23.403Z",
+  "generatedAt": "2026-04-15T21:16:30.580Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 64
   },
   "days": {
-    "2026-04-02": {
-      "totalChecked": 567,
-      "totalIzi": 91,
-      "totalIiz": 0,
-      "totalAi": 91,
-      "topLinks": [
-        "https://iz.ru/2071095/nekotorym-pensioneram-perechisliat-maiskie-vyplaty-v-aprele-iz-za-prazdnikov-izi",
-        "https://iz.ru/2071122/kanada-vydelila-ukraine-pomoshch-v-razmere-bolee-14-mln-izi",
-        "https://iz.ru/2071139/svarshchiki-lidirovali-po-rostu-zarplat-v-rossii-s-nachala-2026-goda-izi",
-        "https://iz.ru/2071155/propavshikh-bez-vesti-soldat-210-polka-vsu-mogli-kaznit-izi",
-        "https://iz.ru/2071157/vrach-soobshchila-ob-otsutstvii-allergii-na-dym-sigaret-izi",
-        "https://iz.ru/2071163/v-sk-otmetili-ukrainskii-pocherk-v-pokushenii-na-generala-sarvarova-v-izi",
-        "https://iz.ru/2071164/bezhenetc-rasskazal-o-spasenii-rossiiskimi-voennymi-semi-pensionerov-iz-plena-vsu-izi",
-        "https://iz.ru/2071167/v-mvd-rf-oprovergli-soobshcheniia-o-proverke-telefonov-iz-za-ispolzovaniia-vpn-izi",
-        "https://iz.ru/2071170/bastrykin-nazval-tcinichnym-ispolzovanie-kievom-rossiian-dlia-izi",
-        "https://iz.ru/2071171/v-aeroportakh-vnukovo-i-domodedovo-sniali-ogranicheniia-na-polety-izi",
-        "https://iz.ru/2071175/otetc-ilona-maska-rasskazal-o-privetstvii-putina-pri-vstreche-izi",
-        "https://iz.ru/2071178/smi-ukazali-na-ustavshii-vid-trampa-vo-vremia-obrashcheniia-k-natcii-izi",
-        "https://iz.ru/2071180/pravitelstvo-rossii-rasprostranilo-zapret-na-eksport-benzina-do-31-iiulia-izi",
-        "https://iz.ru/2071184/peredacha-panarina-pomogla-los-andzhelesu-oderzhat-pobedu-nad-sent-izi",
-        "https://iz.ru/2071185/wildberries-kupil-sitimobil-taksovichkof-i-gruzovichkof-izi",
-        "https://iz.ru/2071187/v-avtovaze-otmetili-aktualnost-platnoi-podpiski-na-lada-dlia-iurlitc-izi",
-        "https://iz.ru/2071190/v-gosdume-rasskazali-o-raznitce-mezhdu-rossiianami-i-amerikantcami-izi",
-        "https://iz.ru/2071198/v-vologodskoi-oblasti-avtomobil-stolknulsia-s-gruzovym-poezdom-na-pereezde-izi",
-        "https://iz.ru/2071199/v-aeroportakh-kaliningrada-i-sochi-sniali-ogranicheniia-izi",
-        "https://iz.ru/2071201/overchuk-otcenil-poteri-v-torgovle-s-armeniei-iz-za-sblizheniia-s-es-v-51-mlrd-izi"
-      ]
-    },
     "2026-04-03": {
       "totalChecked": 507,
       "totalIzi": 94,
@@ -207,15 +179,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 884,
-      "totalIzi": 230,
+      "totalChecked": 861,
+      "totalIzi": 226,
       "totalIiz": 1,
-      "totalAi": 231,
+      "totalAi": 227,
       "topLinks": [
-        "https://iz.ru/2075557/v-gosdume-rasskazali-o-deistviiakh-pri-obnaruzhenii-oformlennogo-chuzhogo-kredita-izi",
-        "https://iz.ru/2075559/ap-soobshchilo-o-spasenii-nakhodivshegosia-pod-zavalami-14-dnei-shakhtera-izi",
-        "https://iz.ru/2075562/stalo-izvestno-ob-unichtozhenii-komandovaniem-vsu-svoikh-soldat-v-sumskoi-oblasti-izi",
-        "https://iz.ru/2075571/v-ssha-muzhchina-lishilsia-konechnostei-posle-priema-u-stomatologa-izi",
         "https://iz.ru/2075575/politico-soobshchila-o-nedovolstve-v-ssha-iz-za-platy-iranu-za-prokhod-cherez-ormuz-izi",
         "https://iz.ru/2075580/v-zabaikale-inostrantca-osudili-na-12-let-za-opravdanie-terrorizma-izi",
         "https://iz.ru/2075582/v-germanii-shkolniki-budut-chashche-khodit-na-ekskursii-v-kontclageria-izi",
@@ -231,7 +199,11 @@
         "https://iz.ru/2075660/baiopik-o-maikle-dzheksone-vyidet-v-aprele-data-premery-siuzhet-izi",
         "https://iz.ru/2075665/pashinian-soobshchil-o-dogovorennosti-s-putinym-o-vstreche-v-iiune-izi",
         "https://iz.ru/2075666/kalashnikov-ispytal-mnogopulnye-avtomatnye-patrony-dlia-borby-s-dronami-izi",
-        "https://iz.ru/2075673/kallas-ukazala-na-ugrozu-dlia-peremiriia-ssha-i-irana-iz-za-atak-izrailia-na-livan-izi"
+        "https://iz.ru/2075673/kallas-ukazala-na-ugrozu-dlia-peremiriia-ssha-i-irana-iz-za-atak-izrailia-na-livan-izi",
+        "https://iz.ru/2075693/vtciom-nazval-chislo-ispolzovavshikh-za-god-ii-rossiian-izi",
+        "https://iz.ru/2075720/armeniia-ne-budet-obsuzhdat-za-spinoi-rossii-voprosy-po-zhd-zaiavil-pashinian-izi",
+        "https://iz.ru/2075732/2026-04-09/bolee-180-chelovek-obratilis-s-ostroi-kishechnoi-infektciei-v-bolnitcy-muroma-izi",
+        "https://iz.ru/2075733/v-atlantike-zafiksirovano-zamedlenie-techeniia-na-neskolkikh-shirotakh-izi"
       ]
     },
     "2026-04-10": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-04-15": {
-      "totalChecked": 1001,
-      "totalIzi": 232,
+      "totalChecked": 1023,
+      "totalIzi": 233,
       "totalIiz": 0,
-      "totalAi": 232,
+      "totalAi": 233,
       "topLinks": [
         "https://iz.ru/2077863/narodnye-primety-na-15-aprelia-chto-mozhno-i-nelzia-delat-izi",
         "https://iz.ru/2078895/2026-04-15/uchenye-rasskazali-o-vliianii-khleba-na-nabor-vesa-bez-izbytka-kalorii-izi",
@@ -401,6 +373,13 @@
         "https://iz.ru/2079248/vsu-brosili-vooruzhenie-pri-otstuplenii-iz-dimitrova-v-dnr-izi",
         "https://iz.ru/2079250/v-pszh-voskhitilis-igroi-safonova-v-matche-ligi-chempionov-s-liverpulem-izi"
       ]
+    },
+    "2026-04-16": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
