@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T06:22:59.573Z",
+  "generatedAt": "2026-04-16T08:16:04.022Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,23 +179,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 766,
-      "totalIzi": 208,
+      "totalChecked": 734,
+      "totalIzi": 196,
       "totalIiz": 1,
-      "totalAi": 209,
+      "totalAi": 197,
       "topLinks": [
-        "https://iz.ru/2075732/2026-04-09/bolee-180-chelovek-obratilis-s-ostroi-kishechnoi-infektciei-v-bolnitcy-muroma-izi",
-        "https://iz.ru/2075733/v-atlantike-zafiksirovano-zamedlenie-techeniia-na-neskolkikh-shirotakh-izi",
-        "https://iz.ru/2075741/v-minoborony-zaiavili-o-vysokikh-rezultatakh-primeneniia-bpla-gruppirovkoi-tcentr-izi",
-        "https://iz.ru/2075743/uchenye-vyiavili-sviaz-mezhdu-optimizmom-i-riskom-razvitiia-dementcii-izi",
-        "https://iz.ru/2075746/tass-soobshchilo-o-podgotovke-ukrainoi-i-norvegiei-teraktov-na-rossiiskie-suda-izi",
-        "https://iz.ru/2075748/vyneseno-reshenie-o-zaderzhanii-14-turetckikh-znamenitostei-po-delu-o-narkotikakh-izi",
-        "https://iz.ru/2075750/umer-akter-iz-igry-prestolov-maikl-patrik-izi",
-        "https://iz.ru/2075751/onishchenko-prizval-usilit-mery-bezopasnosti-v-dagestane-iz-za-riska-kholery-izi",
-        "https://iz.ru/2075757/verkhovnyi-sud-rossii-priznal-dvizhenie-memorial-ekstremistskim-izi",
-        "https://iz.ru/2075761/blagodatnyi-ogon-dostaviat-v-rf-v-velikuiu-subbotu-izi",
-        "https://iz.ru/2075763/v-peterburge-zaderzhali-muzhchinu-za-publikatciiu-postov-s-prizyvami-k-terroru-izi",
-        "https://iz.ru/2075767/korabl-vmf-rf-soprovodil-rossiiskie-tankery-cherez-la-mansh-izi",
         "https://iz.ru/2075779/v-rosatome-zaiavili-ob-uluchshenii-obstanovki-vokrug-aes-busher-izi",
         "https://iz.ru/2075782/vsu-28-raz-za-sutki-obstreliali-kurskoe-prigraniche-iz-artillerii-izi",
         "https://iz.ru/2075785/opublikovany-kadry-novogo-obmena-telami-pogibshikh-voennykh-mezhdu-rf-i-ukrainoi-izi",
@@ -203,11 +191,23 @@
         "https://iz.ru/2075790/telekanal-abc-news-soobshchil-o-podache-apelliatcii-advokatami-repera-pi-diddi-izi",
         "https://iz.ru/2075798/smi-soobshchili-ob-ispolzovanii-ii-britanskimi-vlastiami-pri-podgotovke-zakonov-izi",
         "https://iz.ru/2075799/rossiia-planiruet-provesti-skanirovanie-luny-v-2028-godu-izi",
-        "https://iz.ru/2075806/v-otnoshenii-semena-slepakova-vozbudili-ugolovnoe-delo-izi"
+        "https://iz.ru/2075806/v-otnoshenii-semena-slepakova-vozbudili-ugolovnoe-delo-izi",
+        "https://iz.ru/2075807/v-tomskoi-oblasti-podrostki-poluchili-prigovor-po-delu-o-diversii-izi",
+        "https://iz.ru/2075808/karasin-nazval-sotrudnichestvo-iaponii-i-ukrainy-ugrozoi-dlia-otnoshenii-s-rf-izi",
+        "https://iz.ru/2075810/v-pskovskoi-oblasti-zastrelili-dvukh-sobak-otriada-lizaalert-izi",
+        "https://iz.ru/2075814/pezeshkian-soobshchil-o-narushenii-izrailem-soglasheniia-o-peremirii-v-livane-izi",
+        "https://iz.ru/2075815/gidromettcentr-sprognoziroval-silnye-dozhdi-v-regionakh-severnogo-kavkaza-izi",
+        "https://iz.ru/2075816/kto-takoi-khiu-khefner-biografiia-osnovatelia-playboy-i-ego-nasledie-izi",
+        "https://iz.ru/2075818/matvienko-zaiavila-o-zashchite-kaliningrada-ot-provokatcii-v-nato-izi",
+        "https://iz.ru/2075831/nbc-news-soobshchil-o-poimke-okazavshegosia-maniakom-arkhitektora-izi",
+        "https://iz.ru/2075834/pensioner-vo-frantcii-sbil-bespilotnik-mestnykh-vlastei-izi",
+        "https://iz.ru/2075843/nyp-soobshchila-ob-obvinenii-pary-iz-ssha-v-mnogoletnem-izdevatelstve-nad-shestiu-detmi-izi",
+        "https://iz.ru/2075847/mintrud-dopustil-sokhranenie-vyplat-po-ukhodu-za-rebenkom-pri-smene-raboty-izi",
+        "https://iz.ru/2075848/kakie-sobytiia-v-sfere-ii-proizoshli-za-nedeliu-izi"
       ]
     },
     "2026-04-10": {
-      "totalChecked": 1008,
+      "totalChecked": 1005,
       "totalIzi": 194,
       "totalIiz": 6,
       "totalAi": 200,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-04-11": {
-      "totalChecked": 661,
+      "totalChecked": 660,
       "totalIzi": 190,
       "totalIiz": 3,
       "totalAi": 193,
@@ -375,19 +375,31 @@
       ]
     },
     "2026-04-16": {
-      "totalChecked": 189,
-      "totalIzi": 6,
+      "totalChecked": 283,
+      "totalIzi": 42,
       "totalIiz": 2,
-      "totalAi": 8,
+      "totalAi": 44,
       "topLinks": [
         "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
         "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
         "https://iz.ru/2079838/brazilskii-naemnik-rasskazal-o-dezertirakh-pod-kupianskom-izi",
         "https://iz.ru/2079846/drony-marsianin-atakovali-avtobusy-i-doma-v-gorlovke-izi",
-        "https://iz.ru/1683705/2026-04-16/kakoi-segodnia-den-izi",
-        "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
-        "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
-        "https://iz.ru/2079838/brazilskii-naemnik-rasskazal-o-dezertirakh-pod-kupianskom-izi"
+        "https://iz.ru/2079856/v-turtcii-uchitelnitca-zakryla-uchenikov-ot-strelka-i-pogibla-izi",
+        "https://iz.ru/2079857/milliarderu-suleimanovu-dobavili-k-obvineniiu-v-organizatcii-ubiistv-sozdanie-ops-izi",
+        "https://iz.ru/2079860/peskov-vyrazil-sozhalenie-o-reshenii-moldavii-ofitcialno-vyiti-iz-sng-izi",
+        "https://iz.ru/2079861/posol-rf-soobshchil-ob-otrabotke-nato-v-finliandii-konflikta-s-rossiei-izi",
+        "https://iz.ru/2079862/osnovatel-zara-i-bershka-stal-krupneishim-vladeltcem-nedvizhimosti-v-mire-izi",
+        "https://iz.ru/2079863/verkhovnyi-sud-opravdal-osuzhdennogo-za-pedofiliiu-po-zaiavleniiu-eks-suprugi-muzhchinu-izi",
+        "https://iz.ru/2079865/mchs-predupredilo-o-zaprete-tushit-goriashchii-bytovoi-gaz-izi",
+        "https://iz.ru/2079867/bessarab-vykhodnye-izi",
+        "https://iz.ru/2079869/eks-senator-arashukov-potreboval-100-tys-rublei-za-nevydachu-produktov-v-kolonii-izi",
+        "https://iz.ru/2079870/vlasti-frantcii-otmenili-arest-sudna-deyna-izi",
+        "https://iz.ru/2079871/v-rezultate-ataki-ukrainskikh-bespilotnikov-na-tuapse-pogibli-dva-rebenka-izi",
+        "https://iz.ru/2079874/prokuratura-kryma-zaderzhala-dvukh-zhitelei-za-podgotovku-terakta-izi",
+        "https://iz.ru/2079875/v-grenlandii-rasskazali-ob-opaseniiakh-stat-sleduiushchei-tceliu-ssha-posle-venesuely-izi",
+        "https://iz.ru/2079880/v-tatarstane-predlozhili-provesti-referendum-o-smene-chasovogo-poiasa-izi",
+        "https://iz.ru/2079881/zastriavshego-na-gore-sotrudnika-meteostantcii-evakuirovali-vertoletom-izi",
+        "https://iz.ru/2079885/sk-soobshchil-o-zaderzhanii-odnogo-iz-kuratorov-napadeniia-na-stroginskom-buklvare-izi"
       ]
     }
   }
