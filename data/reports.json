@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T00:09:31.340Z",
+  "generatedAt": "2026-04-16T04:02:28.473Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,17 +179,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 807,
-      "totalIzi": 216,
+      "totalChecked": 784,
+      "totalIzi": 210,
       "totalIiz": 1,
-      "totalAi": 217,
+      "totalAi": 211,
       "topLinks": [
-        "https://iz.ru/2075639/v-moskve-zaderzhali-prichastnogo-k-khishcheniiu-17-mln-u-studentki-moshennika-izi",
-        "https://iz.ru/2075641/nemetckii-akter-mario-adorf-umer-v-vozraste-95-let-izi",
-        "https://iz.ru/2075660/baiopik-o-maikle-dzheksone-vyidet-v-aprele-data-premery-siuzhet-izi",
-        "https://iz.ru/2075665/pashinian-soobshchil-o-dogovorennosti-s-putinym-o-vstreche-v-iiune-izi",
-        "https://iz.ru/2075666/kalashnikov-ispytal-mnogopulnye-avtomatnye-patrony-dlia-borby-s-dronami-izi",
-        "https://iz.ru/2075673/kallas-ukazala-na-ugrozu-dlia-peremiriia-ssha-i-irana-iz-za-atak-izrailia-na-livan-izi",
         "https://iz.ru/2075693/vtciom-nazval-chislo-ispolzovavshikh-za-god-ii-rossiian-izi",
         "https://iz.ru/2075720/armeniia-ne-budet-obsuzhdat-za-spinoi-rossii-voprosy-po-zhd-zaiavil-pashinian-izi",
         "https://iz.ru/2075732/2026-04-09/bolee-180-chelovek-obratilis-s-ostroi-kishechnoi-infektciei-v-bolnitcy-muroma-izi",
@@ -203,16 +197,21 @@
         "https://iz.ru/2075757/verkhovnyi-sud-rossii-priznal-dvizhenie-memorial-ekstremistskim-izi",
         "https://iz.ru/2075761/blagodatnyi-ogon-dostaviat-v-rf-v-velikuiu-subbotu-izi",
         "https://iz.ru/2075763/v-peterburge-zaderzhali-muzhchinu-za-publikatciiu-postov-s-prizyvami-k-terroru-izi",
-        "https://iz.ru/2075767/korabl-vmf-rf-soprovodil-rossiiskie-tankery-cherez-la-mansh-izi"
+        "https://iz.ru/2075767/korabl-vmf-rf-soprovodil-rossiiskie-tankery-cherez-la-mansh-izi",
+        "https://iz.ru/2075779/v-rosatome-zaiavili-ob-uluchshenii-obstanovki-vokrug-aes-busher-izi",
+        "https://iz.ru/2075782/vsu-28-raz-za-sutki-obstreliali-kurskoe-prigraniche-iz-artillerii-izi",
+        "https://iz.ru/2075785/opublikovany-kadry-novogo-obmena-telami-pogibshikh-voennykh-mezhdu-rf-i-ukrainoi-izi",
+        "https://iz.ru/2075789/v-ssha-vysoko-otcenili-vozmozhnosti-novogo-rossiiskogo-nrtk-bagulnik-82-izi",
+        "https://iz.ru/2075790/telekanal-abc-news-soobshchil-o-podache-apelliatcii-advokatami-repera-pi-diddi-izi",
+        "https://iz.ru/2075798/smi-soobshchili-ob-ispolzovanii-ii-britanskimi-vlastiami-pri-podgotovke-zakonov-izi"
       ]
     },
     "2026-04-10": {
-      "totalChecked": 1010,
+      "totalChecked": 1008,
       "totalIzi": 194,
-      "totalIiz": 7,
-      "totalAi": 201,
+      "totalIiz": 6,
+      "totalAi": 200,
       "topLinks": [
-        "https://iz.ru/2075643/iuliia-fokina/strastnaia-piatnitca-luchshie-otkrytki-i-kartinki-v-traurnyi-den-iiz",
         "https://iz.ru/2075777/anastasiia-shliakhtina/samyi-skorbnyi-den-tcerkovnogo-kalendaria-vazhnye-zaprety-strastnoi-piatnitcy-iiz",
         "https://iz.ru/2075809/podrazdelenie-gorynych-unichtozhilo-punkt-upravleniia-bespilotnikami-vsu-izi",
         "https://iz.ru/2076174/analitik-kent-dopustil-vykhod-ssha-iz-nato-iz-za-blizhnego-vostoka-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2076294/v-ssha-soobshchili-ob-obvinenii-vyzhivshimi-v-kuveite-voennymi-glavy-pentagona-vo-lzhi-izi",
         "https://iz.ru/2076299/dmitriev-nazval-rossiiu-neobkhodimoi-evrope-dlia-vyzhivaniia-izi",
         "https://iz.ru/2076302/vsu-atakovali-brianskuiu-oblast-raketami-neptun-izi",
-        "https://iz.ru/2076323/na-kamchatke-piatero-iz-propavshikh-semi-turistov-zhivy-izi"
+        "https://iz.ru/2076323/na-kamchatke-piatero-iz-propavshikh-semi-turistov-zhivy-izi",
+        "https://iz.ru/2076326/v-zaporozhskoi-oblasti-zaderzhali-agenta-kieva-za-peredachu-dannykh-o-dislokatcii-vs-rf-izi"
       ]
     },
     "2026-04-11": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-04-13": {
-      "totalChecked": 1022,
+      "totalChecked": 1020,
       "totalIzi": 268,
       "totalIiz": 2,
       "totalAi": 270,
@@ -375,13 +375,18 @@
       ]
     },
     "2026-04-16": {
-      "totalChecked": 116,
-      "totalIzi": 0,
+      "totalChecked": 170,
+      "totalIzi": 5,
       "totalIiz": 2,
-      "totalAi": 2,
+      "totalAi": 7,
       "topLinks": [
         "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
-        "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz"
+        "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
+        "https://iz.ru/2079838/brazilskii-naemnik-rasskazal-o-dezertirakh-pod-kupianskom-izi",
+        "https://iz.ru/1683705/2026-04-16/kakoi-segodnia-den-izi",
+        "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
+        "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
+        "https://iz.ru/2079838/brazilskii-naemnik-rasskazal-o-dezertirakh-pod-kupianskom-izi"
       ]
     }
   }
