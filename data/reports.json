@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T16:07:25.699Z",
+  "generatedAt": "2026-04-16T17:54:41.674Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,12 +179,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 520,
-      "totalIzi": 123,
+      "totalChecked": 508,
+      "totalIzi": 122,
       "totalIiz": 1,
-      "totalAi": 124,
+      "totalAi": 123,
       "topLinks": [
-        "https://iz.ru/2076171/reuters-soobshchilo-o-vizite-dmitrieva-v-ssha-izi",
         "https://iz.ru/2060055/daria-komarova/vazhneishii-prazdnik-strastnaia-piatnitca-istoriia-smysl-i-traditcii-iiz",
         "https://iz.ru/2067693/prokuratura-stambula-zaderzhala-16-znamenitostei-po-delu-o-narkotikakh-glavnoe-izi",
         "https://iz.ru/2075121/70-luchshie-otkrytki-i-pozdravleniia-s-chistym-chetvergom-izi",
@@ -203,19 +202,16 @@
         "https://iz.ru/2075557/v-gosdume-rasskazali-o-deistviiakh-pri-obnaruzhenii-oformlennogo-chuzhogo-kredita-izi",
         "https://iz.ru/2075559/ap-soobshchilo-o-spasenii-nakhodivshegosia-pod-zavalami-14-dnei-shakhtera-izi",
         "https://iz.ru/2075562/stalo-izvestno-ob-unichtozhenii-komandovaniem-vsu-svoikh-soldat-v-sumskoi-oblasti-izi",
-        "https://iz.ru/2075571/v-ssha-muzhchina-lishilsia-konechnostei-posle-priema-u-stomatologa-izi"
+        "https://iz.ru/2075571/v-ssha-muzhchina-lishilsia-konechnostei-posle-priema-u-stomatologa-izi",
+        "https://iz.ru/2075575/politico-soobshchila-o-nedovolstve-v-ssha-iz-za-platy-iranu-za-prokhod-cherez-ormuz-izi"
       ]
     },
     "2026-04-10": {
-      "totalChecked": 966,
-      "totalIzi": 193,
+      "totalChecked": 930,
+      "totalIzi": 189,
       "totalIiz": 5,
-      "totalAi": 198,
+      "totalAi": 194,
       "topLinks": [
-        "https://iz.ru/2076174/analitik-kent-dopustil-vykhod-ssha-iz-nato-iz-za-blizhnego-vostoka-izi",
-        "https://iz.ru/2076183/zelenskii-zaiavil-o-gotovnosti-podderzhat-paskhalnoe-peremirie-naravne-s-rf-izi",
-        "https://iz.ru/2076194/rosstandart-utverdil-novyi-gost-dlia-vodnykh-attraktcionov-izi",
-        "https://iz.ru/2076199/sudia-matcha-barselona-atletiko-otstranen-ot-raboty-v-lch-do-kontca-sezona-izi",
         "https://iz.ru/2076232/dotcent-rasskazal-o-vozmozhnosti-oplatit-chastnuiu-shkolu-matkapitalom-izi",
         "https://iz.ru/2076246/v-britanii-soobshchili-ob-otkaze-ot-zaderzhaniia-sudov-rf-iz-za-riskov-izi",
         "https://iz.ru/2076251/uchenye-predupredili-o-povyshenii-temperatury-na-zemle-pri-razrushenii-golfstrima-izi",
@@ -231,7 +227,11 @@
         "https://iz.ru/2076323/na-kamchatke-piatero-iz-propavshikh-semi-turistov-zhivy-izi",
         "https://iz.ru/2076326/v-zaporozhskoi-oblasti-zaderzhali-agenta-kieva-za-peredachu-dannykh-o-dislokatcii-vs-rf-izi",
         "https://iz.ru/2076327/v-belgorodskoi-oblasti-za-vremia-svo-pogibli-sem-boitcov-orlana-i-eshche-98-raneny-izi",
-        "https://iz.ru/2076337/si-tczinpin-vstretilsia-s-glavoi-taivanskoi-oppozitcii-chzhen-liven-v-pekine-izi"
+        "https://iz.ru/2076337/si-tczinpin-vstretilsia-s-glavoi-taivanskoi-oppozitcii-chzhen-liven-v-pekine-izi",
+        "https://iz.ru/2076339/bolee-430-uchastkov-avtomobilnykh-dorog-byli-povrezhdeny-v-chechne-iz-za-nepogody-izi",
+        "https://iz.ru/2076346/riabkov-podtverdil-namerenie-rossii-prodolzhat-okazyvat-podderzhku-kube-izi",
+        "https://iz.ru/2076352/v-tatarstane-iz-za-snegopada-ogranichili-dvizhenie-po-riadu-trass-izi",
+        "https://iz.ru/2076355/v-moskve-podrostok-obstrelial-elektropoezd-iz-pnevmaticheskogo-pistoleta-izi"
       ]
     },
     "2026-04-11": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-04-16": {
-      "totalChecked": 801,
-      "totalIzi": 232,
+      "totalChecked": 849,
+      "totalIzi": 243,
       "totalIiz": 2,
-      "totalAi": 234,
+      "totalAi": 245,
       "topLinks": [
         "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
         "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
