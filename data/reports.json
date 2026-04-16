@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T04:02:28.473Z",
+  "generatedAt": "2026-04-16T06:22:59.573Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,13 +179,11 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 784,
-      "totalIzi": 210,
+      "totalChecked": 766,
+      "totalIzi": 208,
       "totalIiz": 1,
-      "totalAi": 211,
+      "totalAi": 209,
       "topLinks": [
-        "https://iz.ru/2075693/vtciom-nazval-chislo-ispolzovavshikh-za-god-ii-rossiian-izi",
-        "https://iz.ru/2075720/armeniia-ne-budet-obsuzhdat-za-spinoi-rossii-voprosy-po-zhd-zaiavil-pashinian-izi",
         "https://iz.ru/2075732/2026-04-09/bolee-180-chelovek-obratilis-s-ostroi-kishechnoi-infektciei-v-bolnitcy-muroma-izi",
         "https://iz.ru/2075733/v-atlantike-zafiksirovano-zamedlenie-techeniia-na-neskolkikh-shirotakh-izi",
         "https://iz.ru/2075741/v-minoborony-zaiavili-o-vysokikh-rezultatakh-primeneniia-bpla-gruppirovkoi-tcentr-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2075785/opublikovany-kadry-novogo-obmena-telami-pogibshikh-voennykh-mezhdu-rf-i-ukrainoi-izi",
         "https://iz.ru/2075789/v-ssha-vysoko-otcenili-vozmozhnosti-novogo-rossiiskogo-nrtk-bagulnik-82-izi",
         "https://iz.ru/2075790/telekanal-abc-news-soobshchil-o-podache-apelliatcii-advokatami-repera-pi-diddi-izi",
-        "https://iz.ru/2075798/smi-soobshchili-ob-ispolzovanii-ii-britanskimi-vlastiami-pri-podgotovke-zakonov-izi"
+        "https://iz.ru/2075798/smi-soobshchili-ob-ispolzovanii-ii-britanskimi-vlastiami-pri-podgotovke-zakonov-izi",
+        "https://iz.ru/2075799/rossiia-planiruet-provesti-skanirovanie-luny-v-2028-godu-izi",
+        "https://iz.ru/2075806/v-otnoshenii-semena-slepakova-vozbudili-ugolovnoe-delo-izi"
       ]
     },
     "2026-04-10": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-04-11": {
-      "totalChecked": 662,
+      "totalChecked": 661,
       "totalIzi": 190,
       "totalIiz": 3,
       "totalAi": 193,
@@ -375,14 +375,15 @@
       ]
     },
     "2026-04-16": {
-      "totalChecked": 170,
-      "totalIzi": 5,
+      "totalChecked": 189,
+      "totalIzi": 6,
       "totalIiz": 2,
-      "totalAi": 7,
+      "totalAi": 8,
       "topLinks": [
         "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
         "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
         "https://iz.ru/2079838/brazilskii-naemnik-rasskazal-o-dezertirakh-pod-kupianskom-izi",
+        "https://iz.ru/2079846/drony-marsianin-atakovali-avtobusy-i-doma-v-gorlovke-izi",
         "https://iz.ru/1683705/2026-04-16/kakoi-segodnia-den-izi",
         "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
         "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
