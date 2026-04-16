@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T08:16:04.022Z",
+  "generatedAt": "2026-04-16T09:59:21.441Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-04-09": {
-      "totalChecked": 734,
-      "totalIzi": 196,
+      "totalChecked": 685,
+      "totalIzi": 179,
       "totalIiz": 1,
-      "totalAi": 197,
+      "totalAi": 180,
       "topLinks": [
-        "https://iz.ru/2075779/v-rosatome-zaiavili-ob-uluchshenii-obstanovki-vokrug-aes-busher-izi",
-        "https://iz.ru/2075782/vsu-28-raz-za-sutki-obstreliali-kurskoe-prigraniche-iz-artillerii-izi",
-        "https://iz.ru/2075785/opublikovany-kadry-novogo-obmena-telami-pogibshikh-voennykh-mezhdu-rf-i-ukrainoi-izi",
-        "https://iz.ru/2075789/v-ssha-vysoko-otcenili-vozmozhnosti-novogo-rossiiskogo-nrtk-bagulnik-82-izi",
-        "https://iz.ru/2075790/telekanal-abc-news-soobshchil-o-podache-apelliatcii-advokatami-repera-pi-diddi-izi",
-        "https://iz.ru/2075798/smi-soobshchili-ob-ispolzovanii-ii-britanskimi-vlastiami-pri-podgotovke-zakonov-izi",
-        "https://iz.ru/2075799/rossiia-planiruet-provesti-skanirovanie-luny-v-2028-godu-izi",
-        "https://iz.ru/2075806/v-otnoshenii-semena-slepakova-vozbudili-ugolovnoe-delo-izi",
-        "https://iz.ru/2075807/v-tomskoi-oblasti-podrostki-poluchili-prigovor-po-delu-o-diversii-izi",
-        "https://iz.ru/2075808/karasin-nazval-sotrudnichestvo-iaponii-i-ukrainy-ugrozoi-dlia-otnoshenii-s-rf-izi",
-        "https://iz.ru/2075810/v-pskovskoi-oblasti-zastrelili-dvukh-sobak-otriada-lizaalert-izi",
-        "https://iz.ru/2075814/pezeshkian-soobshchil-o-narushenii-izrailem-soglasheniia-o-peremirii-v-livane-izi",
-        "https://iz.ru/2075815/gidromettcentr-sprognoziroval-silnye-dozhdi-v-regionakh-severnogo-kavkaza-izi",
-        "https://iz.ru/2075816/kto-takoi-khiu-khefner-biografiia-osnovatelia-playboy-i-ego-nasledie-izi",
-        "https://iz.ru/2075818/matvienko-zaiavila-o-zashchite-kaliningrada-ot-provokatcii-v-nato-izi",
-        "https://iz.ru/2075831/nbc-news-soobshchil-o-poimke-okazavshegosia-maniakom-arkhitektora-izi",
-        "https://iz.ru/2075834/pensioner-vo-frantcii-sbil-bespilotnik-mestnykh-vlastei-izi",
         "https://iz.ru/2075843/nyp-soobshchila-ob-obvinenii-pary-iz-ssha-v-mnogoletnem-izdevatelstve-nad-shestiu-detmi-izi",
         "https://iz.ru/2075847/mintrud-dopustil-sokhranenie-vyplat-po-ukhodu-za-rebenkom-pri-smene-raboty-izi",
-        "https://iz.ru/2075848/kakie-sobytiia-v-sfere-ii-proizoshli-za-nedeliu-izi"
+        "https://iz.ru/2075848/kakie-sobytiia-v-sfere-ii-proizoshli-za-nedeliu-izi",
+        "https://iz.ru/2075851/blogera-cash-cartier-prigovorili-k-75-godam-tiurmy-za-ubiistvo-devushki-izi",
+        "https://iz.ru/2075856/novaia-gazeta-soobshchila-ob-obyskakh-v-redaktcii-izi",
+        "https://iz.ru/2075857/v-blizhaishie-dvoe-sutok-tcentralnuiu-rossiiu-nakroet-sneg-s-dozhdem-izi",
+        "https://iz.ru/2075871/mishustin-anonsiroval-snizhenie-poshlin-dlia-85-tovarov-iz-eaes-i-oae-izi",
+        "https://iz.ru/2075872/vs-rf-nanesli-udar-po-ispolzuemym-v-interesakh-vsu-obektam-energetiki-izi",
+        "https://iz.ru/2075874/zhena-organizovala-pokhishchenie-i-izbienie-muzha-v-podmoskove-izi",
+        "https://iz.ru/2075883/v-badmintone-nachnut-ispolzovat-sinteticheskie-volany-iz-za-nekhvatki-perev-izi",
+        "https://iz.ru/2075886/umer-pervyi-chempion-mira-v-metanii-diska-imrikh-bugar-izi",
+        "https://iz.ru/2075897/mezhdunarodnye-rezervy-rossii-vyrosli-do-7675-mlrd-izi",
+        "https://iz.ru/2075900/lukashenko-naznachil-novogo-vitce-premera-i-dvukh-ministrov-izi",
+        "https://iz.ru/2075903/minzdrav-lnr-soobshchil-o-trekh-postradavshikh-zhitelei-v-rezultate-ataki-vsu-izi",
+        "https://iz.ru/2075920/v-mid-irana-zaiavili-o-vozmozhnosti-prokhoda-cherez-ormuzskii-proliv-pri-razreshenii-izi",
+        "https://iz.ru/2075923/pashinian-dopustil-prodazhu-kontcessii-rf-na-armianskie-zheleznye-dorogi-kazakhstanu-izi",
+        "https://iz.ru/2075924/hr-ekspert-nazvala-priznaki-skorogo-uvolneniia-izi",
+        "https://iz.ru/2075925/glava-mininforma-rasskazal-o-blokirovke-youtube-v-belarusi-izi",
+        "https://iz.ru/2075933/kogda-i-gde-proidet-mirovoe-turne-bts-arirang-daty-goroda-novosti-izi",
+        "https://iz.ru/2075934/manturov-rasskazal-o-podgotovke-kosmonavtov-iz-druzhestvennykh-stran-izi"
       ]
     },
     "2026-04-10": {
-      "totalChecked": 1005,
-      "totalIzi": 194,
-      "totalIiz": 6,
-      "totalAi": 200,
+      "totalChecked": 999,
+      "totalIzi": 193,
+      "totalIiz": 5,
+      "totalAi": 198,
       "topLinks": [
-        "https://iz.ru/2075777/anastasiia-shliakhtina/samyi-skorbnyi-den-tcerkovnogo-kalendaria-vazhnye-zaprety-strastnoi-piatnitcy-iiz",
-        "https://iz.ru/2075809/podrazdelenie-gorynych-unichtozhilo-punkt-upravleniia-bespilotnikami-vsu-izi",
         "https://iz.ru/2076174/analitik-kent-dopustil-vykhod-ssha-iz-nato-iz-za-blizhnego-vostoka-izi",
         "https://iz.ru/2076183/zelenskii-zaiavil-o-gotovnosti-podderzhat-paskhalnoe-peremirie-naravne-s-rf-izi",
         "https://iz.ru/2076194/rosstandart-utverdil-novyi-gost-dlia-vodnykh-attraktcionov-izi",
@@ -231,11 +229,13 @@
         "https://iz.ru/2076299/dmitriev-nazval-rossiiu-neobkhodimoi-evrope-dlia-vyzhivaniia-izi",
         "https://iz.ru/2076302/vsu-atakovali-brianskuiu-oblast-raketami-neptun-izi",
         "https://iz.ru/2076323/na-kamchatke-piatero-iz-propavshikh-semi-turistov-zhivy-izi",
-        "https://iz.ru/2076326/v-zaporozhskoi-oblasti-zaderzhali-agenta-kieva-za-peredachu-dannykh-o-dislokatcii-vs-rf-izi"
+        "https://iz.ru/2076326/v-zaporozhskoi-oblasti-zaderzhali-agenta-kieva-za-peredachu-dannykh-o-dislokatcii-vs-rf-izi",
+        "https://iz.ru/2076327/v-belgorodskoi-oblasti-za-vremia-svo-pogibli-sem-boitcov-orlana-i-eshche-98-raneny-izi",
+        "https://iz.ru/2076337/si-tczinpin-vstretilsia-s-glavoi-taivanskoi-oppozitcii-chzhen-liven-v-pekine-izi"
       ]
     },
     "2026-04-11": {
-      "totalChecked": 660,
+      "totalChecked": 659,
       "totalIzi": 190,
       "totalIiz": 3,
       "totalAi": 193,
@@ -263,12 +263,11 @@
       ]
     },
     "2026-04-12": {
-      "totalChecked": 624,
+      "totalChecked": 623,
       "totalIzi": 206,
-      "totalIiz": 6,
-      "totalAi": 212,
+      "totalIiz": 5,
+      "totalAi": 211,
       "topLinks": [
-        "https://iz.ru/2075781/iuliia-fokina/khristos-voskrese-pravoslavnye-otkrytki-na-paskhu-iiz",
         "https://iz.ru/2076568/narodnye-primety-na-12-aprelia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2077325/bakanov-soobshchil-o-finalnykh-dorabotkakh-novogo-nositelia-soiuz-5-izi",
         "https://iz.ru/2077333/v-gosdume-predlozhili-uvelichit-doliu-matkapitala-na-kazhdogo-posleduiushchego-rebenka-izi",
@@ -287,7 +286,8 @@
         "https://iz.ru/2077409/mirshaimer-zaiavil-o-nezhelanii-ssha-davat-oruzhie-i-tekhniku-ukraine-izi",
         "https://iz.ru/2077410/v-rossii-razrabotaiut-novyi-perechen-vuzovskikh-spetcialnostei-izi",
         "https://iz.ru/2077412/v-mchs-soobshchili-o-516-podtoplennykh-domov-v-dagestane-izi",
-        "https://iz.ru/2077415/rossiianam-napomnili-srok-khraneniia-svarennykh-na-paskhu-iaitc-izi"
+        "https://iz.ru/2077415/rossiianam-napomnili-srok-khraneniia-svarennykh-na-paskhu-iaitc-izi",
+        "https://iz.ru/2077418/ulberg-nokautiroval-prokhazku-i-stal-chempionom-ufc-v-polutiazhelom-vese-izi"
       ]
     },
     "2026-04-13": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-04-16": {
-      "totalChecked": 283,
-      "totalIzi": 42,
+      "totalChecked": 340,
+      "totalIzi": 60,
       "totalIiz": 2,
-      "totalAi": 44,
+      "totalAi": 62,
       "topLinks": [
         "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
         "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
