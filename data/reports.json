@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-04-17T15:19:17.773Z",
+  "generatedAt": "2026-04-18T19:55:43.014Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 3,
-    "failedFetches": 60,
+    "fetchedUrlSets": 4,
+    "failedFetches": 59,
     "childLocs": 63,
     "visitedCount": 64
   },
   "days": {
-    "2026-04-04": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-04-05": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -60,48 +53,18 @@
       "topLinks": []
     },
     "2026-04-11": {
-      "totalChecked": 284,
-      "totalIzi": 92,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 92,
-      "topLinks": [
-        "https://iz.ru/2076890/v-minprosveshcheniia-nazvali-datu-prokhozhdeniia-vypusknykh-v-shkolakh-izi",
-        "https://iz.ru/2076902/iurist-predupredil-o-moshennichestve-s-kosmicheskimi-investitciiami-izi",
-        "https://iz.ru/2076904/v-rossii-zaiavili-o-snizhenii-chislennosti-pchel-izi",
-        "https://iz.ru/2076905/nalogovyi-ekspert-zaiavil-ob-uzhestochenii-kontrolia-za-sdachei-zhilia-v-arendu-izi",
-        "https://iz.ru/2076913/opublikovany-kadry-zhizni-v-tegerane-posle-konflikta-s-ssha-izi",
-        "https://iz.ru/2076937/professor-mirshaimer-dopustil-risk-iadernogo-udara-izrailia-po-iranu-izi",
-        "https://iz.ru/2076950/v-gosdume-predlozhili-vvesti-besplatnyi-proezd-dlia-vrachei-i-uchitelei-izi",
-        "https://iz.ru/2076965/stalo-izvestno-o-planakh-amerikanskoi-npo-vyvezti-s-ukrainy-sotni-chelovek-izi",
-        "https://iz.ru/2076969/izrail-nanes-udar-po-elektropodstantcii-na-iuge-livana-izi",
-        "https://iz.ru/2076974/moskalkova-zaiavila-o-vozvrashchenii-poslednikh-kurskikh-zalozhnikov-v-rf-izi",
-        "https://iz.ru/2076985/rossiianam-raskryli-samye-populiarnye-skhemy-obmana-pered-paskhoi-izi",
-        "https://iz.ru/2076991/irantcy-massovo-vyshli-na-mitingi-v-podderzhku-vlastei-pered-peregovorami-s-ssha-izi",
-        "https://iz.ru/2076996/na-neftebaze-krymska-proizoshel-pozhar-posle-padeniia-oblomkov-bpla-izi",
-        "https://iz.ru/2077004/desiatki-tysiach-ukrainskikh-voennykh-nashli-sposob-sbezhat-iz-vsu-izi",
-        "https://iz.ru/2077010/nyt-soobshchila-o-nesposobnosti-irana-polnostiu-otkryt-ormuzskii-proliv-iz-za-min-izi",
-        "https://iz.ru/2077018/sviashchennik-rasskazal-o-traditcii-pokloniatsia-plashchanitce-v-velikuiu-subbotu-izi",
-        "https://iz.ru/2077020/istorik-nazval-zaderzhanie-diplomata-obukhova-provalom-britanskoi-razvedki-izi",
-        "https://iz.ru/2077022/rospotrebnadzor-priostanovil-oborot-detskoi-smesi-innovanta-standartenergiia-izi",
-        "https://iz.ru/2077024/v-parlamente-kryma-predlozhili-pereselit-zelenskogo-s-ukrainy-radi-mira-izi",
-        "https://iz.ru/2077025/putin-provel-vstrechu-s-gubernatorom-krasnodarskogo-kraia-kondratevym-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-04-12": {
-      "totalChecked": 287,
-      "totalIzi": 103,
+      "totalChecked": 194,
+      "totalIzi": 94,
       "totalIiz": 0,
-      "totalAi": 103,
+      "totalAi": 94,
       "topLinks": [
-        "https://iz.ru/2077325/bakanov-soobshchil-o-finalnykh-dorabotkakh-novogo-nositelia-soiuz-5-izi",
-        "https://iz.ru/2077333/v-gosdume-predlozhili-uvelichit-doliu-matkapitala-na-kazhdogo-posleduiushchego-rebenka-izi",
-        "https://iz.ru/2077344/v-sovfede-napomnili-ob-otsutstvii-u-pristavov-prav-spisyvat-alimentnye-platezhi-izi",
-        "https://iz.ru/2077347/v-gosdume-predupredili-ob-izmenenii-dat-peredachi-pokazanii-schetchika-za-vodu-izi",
-        "https://iz.ru/2077349/ekspert-predupredil-o-moshennicheskoi-skheme-s-falshivymi-kurerami-izi",
-        "https://iz.ru/2077358/professor-nazval-summu-oklada-nachinaiushchikh-kosmonavtov-v-rossii-izi",
-        "https://iz.ru/2077362/opros-pokazal-povyshennyi-interes-k-teme-kosmosa-u-studentov-izi",
-        "https://iz.ru/2077368/ekspert-predupredil-o-shtrafakh-za-kurenie-na-balkone-izi",
-        "https://iz.ru/2077377/iuar-podderzhit-proekt-rossii-po-predotvrashcheniiu-gonki-vooruzhenii-v-kosmose-izi",
         "https://iz.ru/2077387/stalo-izvestno-o-sborakh-ukrainskikh-volonterov-na-remont-mashin-skoroi-dlia-vsu-izi",
         "https://iz.ru/2077395/v-astane-troe-detei-pogibli-pri-pozhare-v-mnogoetazhnom-dome-izi",
         "https://iz.ru/2077396/kitai-predstavil-paket-politicheskikh-mer-po-ukrepleniiu-sviazei-s-taivanem-izi",
@@ -112,11 +75,20 @@
         "https://iz.ru/2077412/v-mchs-soobshchili-o-516-podtoplennykh-domov-v-dagestane-izi",
         "https://iz.ru/2077415/rossiianam-napomnili-srok-khraneniia-svarennykh-na-paskhu-iaitc-izi",
         "https://iz.ru/2077418/ulberg-nokautiroval-prokhazku-i-stal-chempionom-ufc-v-polutiazhelom-vese-izi",
-        "https://iz.ru/2077422/rossiian-predupredili-ob-ugolovnom-nakazanii-i-shtrafe-za-rybalku-v-period-neresta-izi"
+        "https://iz.ru/2077422/rossiian-predupredili-ob-ugolovnom-nakazanii-i-shtrafe-za-rybalku-v-period-neresta-izi",
+        "https://iz.ru/2077426/ovechkin-rastrogalsia-ot-ovatcii-fanatov-pittsburga-izi",
+        "https://iz.ru/2077428/rossiiskii-boetc-murzakanov-poterpel-pervoe-porazhenie-v-ufc-izi",
+        "https://iz.ru/2077436/rossiiskii-vratar-vasilevskii-pobil-rekord-po-pobedam-v-nkhl-izi",
+        "https://iz.ru/2077438/sergei-sobianin-pozdravil-zhitelei-moskvy-s-paskhoi-izi",
+        "https://iz.ru/2077445/na-ukraine-ukazali-na-poslednii-shans-podpisat-soglashenie-s-rossiei-v-2026-godu-izi",
+        "https://iz.ru/2077447/v-tomskoi-oblasti-73-cheloveka-evakuirovali-iz-za-navodneniia-i-razmestili-v-pvr-izi",
+        "https://iz.ru/2077450/gol-rossiiskogo-napadaiushchego-dorofeeva-pomog-vegasu-pobedit-v-matche-nkhl-izi",
+        "https://iz.ru/2077451/orban-zaiavil-o-priblizhenii-evropy-k-sereznomu-krizisu-izi",
+        "https://iz.ru/2077455/mari-luize-eta-naznachena-glavnym-trenerom-muzhskoi-komandy-fk-union-izi"
       ]
     },
     "2026-04-13": {
-      "totalChecked": 497,
+      "totalChecked": 495,
       "totalIzi": 134,
       "totalIiz": 0,
       "totalAi": 134,
@@ -228,10 +200,10 @@
       ]
     },
     "2026-04-17": {
-      "totalChecked": 423,
-      "totalIzi": 121,
+      "totalChecked": 518,
+      "totalIzi": 161,
       "totalIiz": 0,
-      "totalAi": 121,
+      "totalAi": 161,
       "topLinks": [
         "https://iz.ru/2080501/2026-04-17/samolet-nato-provel-razvedku-nad-chernym-morem-u-granitc-ukrainy-izi",
         "https://iz.ru/2080505/v-gosdume-predlozhili-uvelichit-otpusk-rabotaiushchim-na-tamozhne-veteranam-bd-izi",
@@ -253,6 +225,34 @@
         "https://iz.ru/2080592/moldaviia-obiavila-personami-non-grata-komandovanie-voisk-rf-v-pridnestrove-izi",
         "https://iz.ru/2080595/v-kurskoi-oblasti-rebenok-postradal-pri-atake-bespilotnika-vsu-izi",
         "https://iz.ru/2080596/v-indii-neirokhirurgi-pereputali-patcientok-i-poniali-eto-vo-vremia-operatcii-izi"
+      ]
+    },
+    "2026-04-18": {
+      "totalChecked": 286,
+      "totalIzi": 44,
+      "totalIiz": 0,
+      "totalAi": 44,
+      "topLinks": [
+        "https://iz.ru/2080709/uchenye-izuchili-vliianie-defitcita-sna-na-mikrofloru-kishechnika-izi",
+        "https://iz.ru/2080737/uchenye-iskliuchili-priamoe-vliianie-odinochestva-na-razvitie-dementcii-izi",
+        "https://iz.ru/2080905/2026-04-18/uchenye-raskryli-rol-belka-smerti-v-starenii-stvolovykh-kletok-krovi-izi",
+        "https://iz.ru/2080907/2026-04-18/uchenye-sviazali-epilepticheskii-gen-s-tiazheloi-formoi-migreni-izi",
+        "https://iz.ru/2081261/spasateli-v-poiskakh-usoltcevykh-obsledovali-25-km-za-den-izi",
+        "https://iz.ru/2081266/2026-04-18/v-gosdume-predlozhili-povysit-indeksatciiu-sotcialnykh-pensii-do-15-izi",
+        "https://iz.ru/2081299/zakharova-ironichno-prokommentirovala-iskazheniia-istorii-so-storony-ukrainy-izi",
+        "https://iz.ru/2081304/dzhersi-ovechkina-stali-vtorymi-po-prodazham-v-reguliarnom-sezone-nkhl-izi",
+        "https://iz.ru/2081316/v-orenburgskoi-oblasti-zaderzhali-otkryvshego-ogon-po-politceiskim-prestupnika-izi",
+        "https://iz.ru/2081320/lukashenko-zaiavil-o-neitralnom-kharaktere-dialoga-s-ssha-dlia-rf-i-knr-izi",
+        "https://iz.ru/2081328/v-cheliabinskoi-oblasti-oprovergli-soobshcheniia-o-proryve-damby-na-ozere-kumliak-izi",
+        "https://iz.ru/2081334/sinoptik-sprognoziroval-nochnye-zamorozki-v-moskve-v-nachale-nedeli-izi",
+        "https://iz.ru/2081338/spiker-parlamenta-irana-obvinil-trampa-v-rasprostranenii-lzhi-o-peregovorakh-izi",
+        "https://iz.ru/2081348/v-finliandii-izi",
+        "https://iz.ru/2081359/iran-vosstanovil-voennyi-rezhim-kontrolia-nad-ormuzskim-prolivom-izi",
+        "https://iz.ru/2081384/v-rossii-gotoviat-novye-pdd-dlia-sredstv-individualnoi-mobilnosti-izi",
+        "https://iz.ru/2081396/odin-chelovek-pogib-pri-naezde-avtomobilia-v-avstralii-izi",
+        "https://iz.ru/2081398/v-fk-real-sviazali-vylet-kluba-iz-lch-s-mestiu-uefa-za-superligu-izi",
+        "https://iz.ru/2081408/v-moskve-moshenniki-obmanuli-pensionerku-na-bolee-6-mln-rublei-izi",
+        "https://iz.ru/2081411/zamglavy-pentagona-prizval-soiuznikov-ssha-vziat-na-sebia-podderzhku-ukrainy-izi"
       ]
     }
   }
