@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-19T07:48:36.820Z",
+  "generatedAt": "2026-04-19T11:03:47.428Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 3,
-    "failedFetches": 60,
+    "fetchedUrlSets": 10,
+    "failedFetches": 53,
     "childLocs": 63,
     "visitedCount": 64
   },
@@ -53,35 +53,33 @@
       "topLinks": []
     },
     "2026-04-12": {
-      "totalChecked": 65,
-      "totalIzi": 33,
+      "totalChecked": 43,
+      "totalIzi": 18,
       "totalIiz": 0,
-      "totalAi": 33,
+      "totalAi": 18,
       "topLinks": [
-        "https://iz.ru/2077605/izrail-vyzval-diplomata-ispanii-posle-sozhzheniia-chuchela-netaniakhu-izi",
-        "https://iz.ru/2077615/v-dagestane-zaderzhali-byvshego-direktora-kompanii-po-delu-o-proryve-plotiny-izi",
-        "https://iz.ru/2077616/tramp-prigrozil-kitaiu-poshlinami-v-50-v-sluchae-voennoi-pomoshchi-iranu-izi",
-        "https://iz.ru/2077618/reuters-nazvalo-summu-raskhodov-izrailia-na-voinu-s-iranom-izi",
-        "https://iz.ru/2077619/mer-khelsinki-sazonov-vozmutilsia-otpravkoi-finskikh-detei-v-artek-izi",
-        "https://iz.ru/2077620/dmitriev-sprognoziroval-rost-tcen-na-neft-do-150-za-barrel-na-sleduiushchei-nedele-izi",
-        "https://iz.ru/2077621/putin-zaiavil-o-rastushchem-vklade-kosmicheskogo-potentciala-v-ekonomiku-strany-izi",
-        "https://iz.ru/2077623/peskov-schel-obuchenie-kallas-v-sovetskoi-shkole-nekachestvennym-izi",
-        "https://iz.ru/2077624/rossiianka-mirra-andreeva-stala-pobeditelnitcei-tennisnogo-turnira-v-lintce-izi",
-        "https://iz.ru/2077626/iurist-predupredil-ob-otvetstvennosti-za-lebedei-iz-pokryshek-izi",
-        "https://iz.ru/2077631/putin-podvig-iuriia-gagarina-stal-voploshcheniem-derznovennoi-mechty-chelovechestva-izi",
-        "https://iz.ru/2077632/rossiia-sygraet-s-ukrainoi-v-matche-kubka-mira-po-vodnomu-polo-izi",
-        "https://iz.ru/2077633/manturov-zaiavil-o-neobkhodimosti-uluchshit-pozitcii-rf-v-raketno-kosmicheskoi-otrasli-izi",
-        "https://iz.ru/2077634/v-germanii-proshla-tceremoniia-pamiati-zhertv-natcistskikh-kontclagerei-izi",
-        "https://iz.ru/2077635/peskov-zaiavil-o-prodolzhenii-svo-posle-okonchaniia-paskhalnogo-peremiriia-izi",
         "https://iz.ru/2077637/spartak-i-rostov-sygrali-vnichiu-v-matche-rpl-izi",
         "https://iz.ru/2077640/peskov-sprognoziroval-slozhnye-peregovory-posle-vykhoda-vs-rf-k-novym-granitcam-izi",
         "https://iz.ru/2077642/presstv-soobshchil-o-vozmozhnoi-ugroze-unichtozheniia-esmintcev-ssha-v-ormuzskom-prolive-izi",
         "https://iz.ru/2077643/v-vengrii-zafiksirovali-rekordnuiu-iavku-na-vyborakh-v-74-k-1700-izi",
-        "https://iz.ru/2077644/sovetnik-orbana-obvinil-v-narusheniiakh-vybornogo-protcessa-storonnikov-partii-tisa-izi"
+        "https://iz.ru/2077644/sovetnik-orbana-obvinil-v-narusheniiakh-vybornogo-protcessa-storonnikov-partii-tisa-izi",
+        "https://iz.ru/2077646/v-orekhovo-zuevo-rebenok-lishilsia-paltcev-iz-za-vzryva-naidennogo-predmeta-izi",
+        "https://iz.ru/2077650/presstv-soobshchil-o-zhestkom-otvete-ksir-voennym-sudam-v-ormuzskom-prolive-izi",
+        "https://iz.ru/2077651/v-latvii-rasskazali-o-buksirovke-gazovoza-arktik-metagaz-v-mezhdunarodnye-vody-izi",
+        "https://iz.ru/2077652/mirnyi-zhitel-ranen-pri-atake-ukrainskogo-drona-pod-belgorodom-izi",
+        "https://iz.ru/2077658/peskov-dopustil-poiavlenie-v-evrope-sobstvennogo-voennogo-aliansa-izi",
+        "https://iz.ru/2077661/glava-mvf-zaiavila-o-neobkhodimosti-podderzhat-ukrainu-posle-zaversheniia-konflikta-izi",
+        "https://iz.ru/2077662/v-dagestane-ustranili-ugrozu-proryva-damby-na-miureginskom-vodokhranilishche-izi",
+        "https://iz.ru/2077664/patriarkh-kirill-pozdravil-putina-lukashenko-s-paskhoi-izi",
+        "https://iz.ru/2077666/al-arabiya-soobshchil-o-prodolzhenii-raboty-uitkoffa-i-kushnera-v-islamabade-izi",
+        "https://iz.ru/2077667/krasnodar-sokhranil-liderstvo-v-rpl-posle-nichei-s-zenitom-izi",
+        "https://iz.ru/2077671/mid-chekhii-distantcirovalsia-ot-vyskazyvanii-prezidenta-pavela-v-adres-trampa-izi",
+        "https://iz.ru/2077676/v-kremle-zaiavili-o-nedalnovidnosti-es-iz-za-otkaza-ot-nefti-i-gaza-rf-izi",
+        "https://iz.ru/2077697/bbc-soobshchila-ob-ustanovke-pamiatnika-kryse-saperu-v-kambodzhe-izi"
       ]
     },
     "2026-04-13": {
-      "totalChecked": 490,
+      "totalChecked": 488,
       "totalIzi": 134,
       "totalIiz": 0,
       "totalAi": 134,
@@ -249,16 +247,17 @@
       ]
     },
     "2026-04-19": {
-      "totalChecked": 112,
-      "totalIzi": 14,
+      "totalChecked": 136,
+      "totalIzi": 21,
       "totalIiz": 2,
-      "totalAi": 16,
+      "totalAi": 23,
       "topLinks": [
         "https://iz.ru/2079299/luchshie-otkrytki-s-krasnoi-gorkoi-i-antipaskhoi-kartinki-i-pozdravleniia-ot-vsei-dushi-iiz",
         "https://iz.ru/2079681/luchshie-otkrytki-na-radonitcu-2026-teplye-slova-pamiati-v-roditelskii-den-do-slez-iiz",
         "https://iz.ru/2080828/issledovateli-ukazali-na-sposobnost-gadzhetov-predskazyvat-depressiiu-izi",
         "https://iz.ru/2080869/uchenye-nashli-sposob-lecheniia-ozhireniia-prirodnym-gormonom-izi",
         "https://iz.ru/2080909/2026-04-19/uchenye-rasskazali-o-skrytom-razmnozhenii-virusa-prostudy-v-mindalinakh-izi",
+        "https://iz.ru/2081432/sistema-kupol-donbassa-za-nedeliu-predotvratila-80-terroristicheskikh-atak-vsu-izi",
         "https://iz.ru/2081601/zakharova-obiasnila-prichinu-istoricheskoi-slepoty-zapada-izi",
         "https://iz.ru/2081626/saldo-soobshchil-o-razrusheniiakh-shkol-v-aleshkakh-iz-za-udarov-vsu-izi",
         "https://iz.ru/2081631/stali-izvestny-lidiruiushchie-po-chislu-vydannykh-kreditov-regiony-izi",
@@ -269,7 +268,10 @@
         "https://iz.ru/2081667/v-rossiia-vchetvero-sokratilsia-import-evropeiskogo-piva-za-fevral-izi",
         "https://iz.ru/2081668/malkin-sravnialsia-s-khou-po-chislu-golov-v-plei-nkhl-izi",
         "https://iz.ru/2081673/lukashenko-prizval-ssha-dogovoritsia-s-rossiei-izi",
-        "https://iz.ru/2081676/lukashenko-zaiavil-ob-osvedomlennosti-mira-v-gotovnosti-rf-zashchitit-belorussiiu-izi"
+        "https://iz.ru/2081676/lukashenko-zaiavil-ob-osvedomlennosti-mira-v-gotovnosti-rf-zashchitit-belorussiiu-izi",
+        "https://iz.ru/2081684/lukashenko-zaiavil-chto-poteriat-belorussiiu-dlia-rossii-nepriemlemo-izi",
+        "https://iz.ru/2081690/premer-ministr-malaizii-soobshchil-o-planakh-rassmotreniia-zakupok-rossiiskoi-nefti-izi",
+        "https://iz.ru/2081694/v-pekine-robot-gumanoid-proshel-polumarafon-pobiv-rekord-cheloveka-izi"
       ]
     }
   }
