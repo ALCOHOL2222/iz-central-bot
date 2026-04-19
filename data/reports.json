@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-04-18T19:55:43.014Z",
+  "generatedAt": "2026-04-19T07:48:36.820Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 4,
-    "failedFetches": 59,
+    "fetchedUrlSets": 3,
+    "failedFetches": 60,
     "childLocs": 63,
     "visitedCount": 64
   },
   "days": {
-    "2026-04-05": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-04-06": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -60,35 +53,35 @@
       "topLinks": []
     },
     "2026-04-12": {
-      "totalChecked": 194,
-      "totalIzi": 94,
+      "totalChecked": 65,
+      "totalIzi": 33,
       "totalIiz": 0,
-      "totalAi": 94,
+      "totalAi": 33,
       "topLinks": [
-        "https://iz.ru/2077387/stalo-izvestno-o-sborakh-ukrainskikh-volonterov-na-remont-mashin-skoroi-dlia-vsu-izi",
-        "https://iz.ru/2077395/v-astane-troe-detei-pogibli-pri-pozhare-v-mnogoetazhnom-dome-izi",
-        "https://iz.ru/2077396/kitai-predstavil-paket-politicheskikh-mer-po-ukrepleniiu-sviazei-s-taivanem-izi",
-        "https://iz.ru/2077401/errol-mask-nazval-rossiiu-superderzhavoi-izi",
-        "https://iz.ru/2077403/sheremet-nazval-ideiu-zelenskogo-o-voennykh-bazakh-na-ukraine-mertvoi-izi",
-        "https://iz.ru/2077409/mirshaimer-zaiavil-o-nezhelanii-ssha-davat-oruzhie-i-tekhniku-ukraine-izi",
-        "https://iz.ru/2077410/v-rossii-razrabotaiut-novyi-perechen-vuzovskikh-spetcialnostei-izi",
-        "https://iz.ru/2077412/v-mchs-soobshchili-o-516-podtoplennykh-domov-v-dagestane-izi",
-        "https://iz.ru/2077415/rossiianam-napomnili-srok-khraneniia-svarennykh-na-paskhu-iaitc-izi",
-        "https://iz.ru/2077418/ulberg-nokautiroval-prokhazku-i-stal-chempionom-ufc-v-polutiazhelom-vese-izi",
-        "https://iz.ru/2077422/rossiian-predupredili-ob-ugolovnom-nakazanii-i-shtrafe-za-rybalku-v-period-neresta-izi",
-        "https://iz.ru/2077426/ovechkin-rastrogalsia-ot-ovatcii-fanatov-pittsburga-izi",
-        "https://iz.ru/2077428/rossiiskii-boetc-murzakanov-poterpel-pervoe-porazhenie-v-ufc-izi",
-        "https://iz.ru/2077436/rossiiskii-vratar-vasilevskii-pobil-rekord-po-pobedam-v-nkhl-izi",
-        "https://iz.ru/2077438/sergei-sobianin-pozdravil-zhitelei-moskvy-s-paskhoi-izi",
-        "https://iz.ru/2077445/na-ukraine-ukazali-na-poslednii-shans-podpisat-soglashenie-s-rossiei-v-2026-godu-izi",
-        "https://iz.ru/2077447/v-tomskoi-oblasti-73-cheloveka-evakuirovali-iz-za-navodneniia-i-razmestili-v-pvr-izi",
-        "https://iz.ru/2077450/gol-rossiiskogo-napadaiushchego-dorofeeva-pomog-vegasu-pobedit-v-matche-nkhl-izi",
-        "https://iz.ru/2077451/orban-zaiavil-o-priblizhenii-evropy-k-sereznomu-krizisu-izi",
-        "https://iz.ru/2077455/mari-luize-eta-naznachena-glavnym-trenerom-muzhskoi-komandy-fk-union-izi"
+        "https://iz.ru/2077605/izrail-vyzval-diplomata-ispanii-posle-sozhzheniia-chuchela-netaniakhu-izi",
+        "https://iz.ru/2077615/v-dagestane-zaderzhali-byvshego-direktora-kompanii-po-delu-o-proryve-plotiny-izi",
+        "https://iz.ru/2077616/tramp-prigrozil-kitaiu-poshlinami-v-50-v-sluchae-voennoi-pomoshchi-iranu-izi",
+        "https://iz.ru/2077618/reuters-nazvalo-summu-raskhodov-izrailia-na-voinu-s-iranom-izi",
+        "https://iz.ru/2077619/mer-khelsinki-sazonov-vozmutilsia-otpravkoi-finskikh-detei-v-artek-izi",
+        "https://iz.ru/2077620/dmitriev-sprognoziroval-rost-tcen-na-neft-do-150-za-barrel-na-sleduiushchei-nedele-izi",
+        "https://iz.ru/2077621/putin-zaiavil-o-rastushchem-vklade-kosmicheskogo-potentciala-v-ekonomiku-strany-izi",
+        "https://iz.ru/2077623/peskov-schel-obuchenie-kallas-v-sovetskoi-shkole-nekachestvennym-izi",
+        "https://iz.ru/2077624/rossiianka-mirra-andreeva-stala-pobeditelnitcei-tennisnogo-turnira-v-lintce-izi",
+        "https://iz.ru/2077626/iurist-predupredil-ob-otvetstvennosti-za-lebedei-iz-pokryshek-izi",
+        "https://iz.ru/2077631/putin-podvig-iuriia-gagarina-stal-voploshcheniem-derznovennoi-mechty-chelovechestva-izi",
+        "https://iz.ru/2077632/rossiia-sygraet-s-ukrainoi-v-matche-kubka-mira-po-vodnomu-polo-izi",
+        "https://iz.ru/2077633/manturov-zaiavil-o-neobkhodimosti-uluchshit-pozitcii-rf-v-raketno-kosmicheskoi-otrasli-izi",
+        "https://iz.ru/2077634/v-germanii-proshla-tceremoniia-pamiati-zhertv-natcistskikh-kontclagerei-izi",
+        "https://iz.ru/2077635/peskov-zaiavil-o-prodolzhenii-svo-posle-okonchaniia-paskhalnogo-peremiriia-izi",
+        "https://iz.ru/2077637/spartak-i-rostov-sygrali-vnichiu-v-matche-rpl-izi",
+        "https://iz.ru/2077640/peskov-sprognoziroval-slozhnye-peregovory-posle-vykhoda-vs-rf-k-novym-granitcam-izi",
+        "https://iz.ru/2077642/presstv-soobshchil-o-vozmozhnoi-ugroze-unichtozheniia-esmintcev-ssha-v-ormuzskom-prolive-izi",
+        "https://iz.ru/2077643/v-vengrii-zafiksirovali-rekordnuiu-iavku-na-vyborakh-v-74-k-1700-izi",
+        "https://iz.ru/2077644/sovetnik-orbana-obvinil-v-narusheniiakh-vybornogo-protcessa-storonnikov-partii-tisa-izi"
       ]
     },
     "2026-04-13": {
-      "totalChecked": 495,
+      "totalChecked": 490,
       "totalIzi": 134,
       "totalIiz": 0,
       "totalAi": 134,
@@ -228,10 +221,10 @@
       ]
     },
     "2026-04-18": {
-      "totalChecked": 286,
-      "totalIzi": 44,
+      "totalChecked": 307,
+      "totalIzi": 46,
       "totalIiz": 0,
-      "totalAi": 44,
+      "totalAi": 46,
       "topLinks": [
         "https://iz.ru/2080709/uchenye-izuchili-vliianie-defitcita-sna-na-mikrofloru-kishechnika-izi",
         "https://iz.ru/2080737/uchenye-iskliuchili-priamoe-vliianie-odinochestva-na-razvitie-dementcii-izi",
@@ -253,6 +246,30 @@
         "https://iz.ru/2081398/v-fk-real-sviazali-vylet-kluba-iz-lch-s-mestiu-uefa-za-superligu-izi",
         "https://iz.ru/2081408/v-moskve-moshenniki-obmanuli-pensionerku-na-bolee-6-mln-rublei-izi",
         "https://iz.ru/2081411/zamglavy-pentagona-prizval-soiuznikov-ssha-vziat-na-sebia-podderzhku-ukrainy-izi"
+      ]
+    },
+    "2026-04-19": {
+      "totalChecked": 112,
+      "totalIzi": 14,
+      "totalIiz": 2,
+      "totalAi": 16,
+      "topLinks": [
+        "https://iz.ru/2079299/luchshie-otkrytki-s-krasnoi-gorkoi-i-antipaskhoi-kartinki-i-pozdravleniia-ot-vsei-dushi-iiz",
+        "https://iz.ru/2079681/luchshie-otkrytki-na-radonitcu-2026-teplye-slova-pamiati-v-roditelskii-den-do-slez-iiz",
+        "https://iz.ru/2080828/issledovateli-ukazali-na-sposobnost-gadzhetov-predskazyvat-depressiiu-izi",
+        "https://iz.ru/2080869/uchenye-nashli-sposob-lecheniia-ozhireniia-prirodnym-gormonom-izi",
+        "https://iz.ru/2080909/2026-04-19/uchenye-rasskazali-o-skrytom-razmnozhenii-virusa-prostudy-v-mindalinakh-izi",
+        "https://iz.ru/2081601/zakharova-obiasnila-prichinu-istoricheskoi-slepoty-zapada-izi",
+        "https://iz.ru/2081626/saldo-soobshchil-o-razrusheniiakh-shkol-v-aleshkakh-iz-za-udarov-vsu-izi",
+        "https://iz.ru/2081631/stali-izvestny-lidiruiushchie-po-chislu-vydannykh-kreditov-regiony-izi",
+        "https://iz.ru/2081648/osipov-nazval-predpolagaemuiu-prichinu-dtp-s-grazhdanami-knr-v-zabaikale-izi",
+        "https://iz.ru/2081660/gol-malkina-ne-spas-khk-pittsburg-pingvinz-ot-porazheniia-v-matche-plei-nkhl-izi",
+        "https://iz.ru/2081661/pervyi-match-plei-nkhl-nachalsia-s-draki-kapitanov-karoliny-i-ottavy-izi",
+        "https://iz.ru/2081664/smi-soobshchili-o-problemakh-iaponskoi-promyshlennosti-iz-za-vozmozhnoi-nekhvatki-nafty-izi",
+        "https://iz.ru/2081667/v-rossiia-vchetvero-sokratilsia-import-evropeiskogo-piva-za-fevral-izi",
+        "https://iz.ru/2081668/malkin-sravnialsia-s-khou-po-chislu-golov-v-plei-nkhl-izi",
+        "https://iz.ru/2081673/lukashenko-prizval-ssha-dogovoritsia-s-rossiei-izi",
+        "https://iz.ru/2081676/lukashenko-zaiavil-ob-osvedomlennosti-mira-v-gotovnosti-rf-zashchitit-belorussiiu-izi"
       ]
     }
   }
