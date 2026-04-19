@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-04-19T11:03:47.428Z",
+  "generatedAt": "2026-04-19T23:55:31.041Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 10,
-    "failedFetches": 53,
+    "fetchedUrlSets": 3,
+    "failedFetches": 60,
     "childLocs": 63,
     "visitedCount": 64
   },
   "days": {
-    "2026-04-06": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-04-07": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -53,61 +46,42 @@
       "topLinks": []
     },
     "2026-04-12": {
-      "totalChecked": 43,
-      "totalIzi": 18,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 18,
-      "topLinks": [
-        "https://iz.ru/2077637/spartak-i-rostov-sygrali-vnichiu-v-matche-rpl-izi",
-        "https://iz.ru/2077640/peskov-sprognoziroval-slozhnye-peregovory-posle-vykhoda-vs-rf-k-novym-granitcam-izi",
-        "https://iz.ru/2077642/presstv-soobshchil-o-vozmozhnoi-ugroze-unichtozheniia-esmintcev-ssha-v-ormuzskom-prolive-izi",
-        "https://iz.ru/2077643/v-vengrii-zafiksirovali-rekordnuiu-iavku-na-vyborakh-v-74-k-1700-izi",
-        "https://iz.ru/2077644/sovetnik-orbana-obvinil-v-narusheniiakh-vybornogo-protcessa-storonnikov-partii-tisa-izi",
-        "https://iz.ru/2077646/v-orekhovo-zuevo-rebenok-lishilsia-paltcev-iz-za-vzryva-naidennogo-predmeta-izi",
-        "https://iz.ru/2077650/presstv-soobshchil-o-zhestkom-otvete-ksir-voennym-sudam-v-ormuzskom-prolive-izi",
-        "https://iz.ru/2077651/v-latvii-rasskazali-o-buksirovke-gazovoza-arktik-metagaz-v-mezhdunarodnye-vody-izi",
-        "https://iz.ru/2077652/mirnyi-zhitel-ranen-pri-atake-ukrainskogo-drona-pod-belgorodom-izi",
-        "https://iz.ru/2077658/peskov-dopustil-poiavlenie-v-evrope-sobstvennogo-voennogo-aliansa-izi",
-        "https://iz.ru/2077661/glava-mvf-zaiavila-o-neobkhodimosti-podderzhat-ukrainu-posle-zaversheniia-konflikta-izi",
-        "https://iz.ru/2077662/v-dagestane-ustranili-ugrozu-proryva-damby-na-miureginskom-vodokhranilishche-izi",
-        "https://iz.ru/2077664/patriarkh-kirill-pozdravil-putina-lukashenko-s-paskhoi-izi",
-        "https://iz.ru/2077666/al-arabiya-soobshchil-o-prodolzhenii-raboty-uitkoffa-i-kushnera-v-islamabade-izi",
-        "https://iz.ru/2077667/krasnodar-sokhranil-liderstvo-v-rpl-posle-nichei-s-zenitom-izi",
-        "https://iz.ru/2077671/mid-chekhii-distantcirovalsia-ot-vyskazyvanii-prezidenta-pavela-v-adres-trampa-izi",
-        "https://iz.ru/2077676/v-kremle-zaiavili-o-nedalnovidnosti-es-iz-za-otkaza-ot-nefti-i-gaza-rf-izi",
-        "https://iz.ru/2077697/bbc-soobshchila-ob-ustanovke-pamiatnika-kryse-saperu-v-kambodzhe-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-04-13": {
-      "totalChecked": 488,
-      "totalIzi": 134,
+      "totalChecked": 358,
+      "totalIzi": 110,
       "totalIiz": 0,
-      "totalAi": 134,
+      "totalAi": 110,
       "topLinks": [
-        "https://iz.ru/2077680/err-soobshchila-ob-obnaruzhenii-chasti-predpolozhitelno-drona-vsu-na-pliazhe-estonii-izi",
-        "https://iz.ru/2077743/ovechkin-otkazalsia-ot-rukopozhatiia-s-igrokami-pittsburga-posle-matcha-izi",
-        "https://iz.ru/2077746/nazvany-rossiiskie-goroda-s-samym-vysokim-kachestvom-zhizni-izi",
-        "https://iz.ru/2077750/v-gosdume-predlozhili-rasprostranit-voennuiu-ipoteku-na-silovye-vedomstva-izi",
-        "https://iz.ru/2077751/iurist-rasskazal-o-nakazanii-za-oskvernenie-georgievskoi-lenty-izi",
-        "https://iz.ru/2077761/iurist-nazval-nezakonnym-otkliuchenie-vody-vo-vsem-dome-iz-za-dolgov-sosedei-izi",
-        "https://iz.ru/2077763/opublikovany-kadry-obstanovki-v-budapeshte-posle-parlamentskikh-vyborov-izi",
-        "https://iz.ru/2077766/analitiki-nazvali-samye-vysokooplachivaemye-vakansii-dlia-studentov-v-rossii-izi",
-        "https://iz.ru/2077781/minzdrav-uzhestochil-kontrol-za-prodazhei-trekh-lekarstvennykh-preparatov-izi",
-        "https://iz.ru/2077799/v-graivorone-mirnaia-zhitelnitca-postradala-pri-detonatcii-drona-vsu-izi",
-        "https://iz.ru/2077801/dietolog-rasskazala-o-vrede-zdorovykh-desertov-izi",
-        "https://iz.ru/2077803/v-mvd-rasskazali-o-moshennicheskikh-skhemakh-s-vyplatami-ko-dniu-pobedy-izi",
-        "https://iz.ru/2077804/moshenniki-nachali-ispolzovat-razdel-moe-zdorove-dlia-obmana-rossiian-izi",
-        "https://iz.ru/2077807/weltwoche-ukazal-na-popadanie-es-v-lovushku-iz-za-pobedy-madiara-v-vengrii-izi",
-        "https://iz.ru/2077810/smi-soobshchili-o-rezkom-uvelichenii-auditorii-aziatskikh-messendzherov-izi",
-        "https://iz.ru/2077811/savelev-soobshchil-o-planakh-rzhd-postroit-kvantovuiu-set-na-15-tys-km-izi",
-        "https://iz.ru/2077812/v-malaizii-zaderzhali-dva-tankera-po-podozreniiu-v-nezakonnoi-peregruzke-topliva-izi",
-        "https://iz.ru/2077813/tramp-predstal-v-obraze-tcelitelia-izi",
-        "https://iz.ru/2077818/tramp-vms-ssha-nachnut-blokadu-vsekh-sudov-v-ormuzskom-prolive-izi",
-        "https://iz.ru/2077821/ekspert-otcenil-vliianie-bosonogoi-obuvi-na-pokhodku-izi"
+        "https://iz.ru/2077840/zakharova-nazvala-publichnye-konflikty-makrona-s-zhenoi-povodom-dlia-karikatur-izi",
+        "https://iz.ru/2077842/savelev-zaiavil-o-polze-vvedeniia-klassa-prostranstva-dlia-bpla-izi",
+        "https://iz.ru/2077848/snezhnaia-lavina-nakryla-dva-doma-v-dagestane-izi",
+        "https://iz.ru/2077852/ovechkin-provel-100-i-match-protiv-krosbi-i-pomog-vashington-kepitalz-pobedit-izi",
+        "https://iz.ru/2077860/lerchek-obratilas-k-sudu-s-prosboi-o-sniskhozhdenii-k-byvshemu-muzhu-glavnoe-izi",
+        "https://iz.ru/2077862/tennisist-iannik-sinner-podnialsia-na-pervoe-mestov-v-reitinge-atp-izi",
+        "https://iz.ru/2077866/otetc-vosmerykh-detei-pogib-ot-vzryva-pri-popytke-razobrat-snariad-v-buriatii-izi",
+        "https://iz.ru/2077868/ugolovnoe-delo-o-vziatkakh-v-otnoshenii-eks-glavy-serpukhova-napravili-v-sud-izi",
+        "https://iz.ru/2077874/rossiiskim-rybakam-razreshili-lovit-glubokovodnykh-ryb-vedm-izi",
+        "https://iz.ru/2077875/ganskii-futbolist-frimpong-pogib-posle-napadeniia-grabitelei-na-klubnyi-avtobus-izi",
+        "https://iz.ru/2077883/patcientka-chastnoi-kliniki-skonchalas-v-tcentre-moskvy-izi",
+        "https://iz.ru/2077886/politico-nazvala-pozitciiu-novogo-premera-vengrii-nevygodnoi-dlia-ukrainy-izi",
+        "https://iz.ru/2077894/piat-chelovek-postradali-i-odin-pogib-ot-atak-vsu-na-zaporozhskuiu-oblast-izi",
+        "https://iz.ru/2077901/pushilin-rasskazal-o-prodvizhenii-rossiiskikh-voisk-v-dnr-izi",
+        "https://iz.ru/2077908/akron-dinamo-vo-skolko-nachalo-matcha-24-go-tura-rpl-gde-proidet-izi",
+        "https://iz.ru/2077911/na-ukraine-prizvali-ne-radovatsia-porazheniiu-orbana-na-vyborakh-izi",
+        "https://iz.ru/2077915/v-peterburge-vystavili-na-prodazhu-torgovyi-tcentr-novaia-aura-izi",
+        "https://iz.ru/2077916/minoborony-rossii-soobshchilo-o-6558-narusheniiakh-paskhalnogo-peremiriia-ukrainoi-izi",
+        "https://iz.ru/2077917/armiia-rossii-nochiu-nanesla-udary-po-mestam-khraneniia-bpla-vsu-izi",
+        "https://iz.ru/2077923/v-mid-knr-prizvali-obespechit-svobodnyi-prokhod-korablei-v-ormuzskom-prolive-izi"
       ]
     },
     "2026-04-14": {
-      "totalChecked": 468,
+      "totalChecked": 467,
       "totalIzi": 126,
       "totalIiz": 0,
       "totalAi": 126,
@@ -247,10 +221,10 @@
       ]
     },
     "2026-04-19": {
-      "totalChecked": 136,
-      "totalIzi": 21,
+      "totalChecked": 259,
+      "totalIzi": 37,
       "totalIiz": 2,
-      "totalAi": 23,
+      "totalAi": 39,
       "topLinks": [
         "https://iz.ru/2079299/luchshie-otkrytki-s-krasnoi-gorkoi-i-antipaskhoi-kartinki-i-pozdravleniia-ot-vsei-dushi-iiz",
         "https://iz.ru/2079681/luchshie-otkrytki-na-radonitcu-2026-teplye-slova-pamiati-v-roditelskii-den-do-slez-iiz",
@@ -272,6 +246,15 @@
         "https://iz.ru/2081684/lukashenko-zaiavil-chto-poteriat-belorussiiu-dlia-rossii-nepriemlemo-izi",
         "https://iz.ru/2081690/premer-ministr-malaizii-soobshchil-o-planakh-rassmotreniia-zakupok-rossiiskoi-nefti-izi",
         "https://iz.ru/2081694/v-pekine-robot-gumanoid-proshel-polumarafon-pobiv-rekord-cheloveka-izi"
+      ]
+    },
+    "2026-04-20": {
+      "totalChecked": 51,
+      "totalIzi": 1,
+      "totalIiz": 0,
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2081942/2026-04-20/iran-zapodozril-ssha-v-podgotovke-udara-pod-vidom-peregovorov-izi"
       ]
     }
   }
