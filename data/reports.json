@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-19T23:55:31.041Z",
+  "generatedAt": "2026-04-20T15:53:19.082Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 3,
-    "failedFetches": 60,
+    "fetchedUrlSets": 46,
+    "failedFetches": 17,
     "childLocs": 63,
     "visitedCount": 64
   },
@@ -53,35 +53,35 @@
       "topLinks": []
     },
     "2026-04-13": {
-      "totalChecked": 358,
-      "totalIzi": 110,
+      "totalChecked": 63,
+      "totalIzi": 20,
       "totalIiz": 0,
-      "totalAi": 110,
+      "totalAi": 20,
       "topLinks": [
-        "https://iz.ru/2077840/zakharova-nazvala-publichnye-konflikty-makrona-s-zhenoi-povodom-dlia-karikatur-izi",
-        "https://iz.ru/2077842/savelev-zaiavil-o-polze-vvedeniia-klassa-prostranstva-dlia-bpla-izi",
-        "https://iz.ru/2077848/snezhnaia-lavina-nakryla-dva-doma-v-dagestane-izi",
-        "https://iz.ru/2077852/ovechkin-provel-100-i-match-protiv-krosbi-i-pomog-vashington-kepitalz-pobedit-izi",
-        "https://iz.ru/2077860/lerchek-obratilas-k-sudu-s-prosboi-o-sniskhozhdenii-k-byvshemu-muzhu-glavnoe-izi",
-        "https://iz.ru/2077862/tennisist-iannik-sinner-podnialsia-na-pervoe-mestov-v-reitinge-atp-izi",
-        "https://iz.ru/2077866/otetc-vosmerykh-detei-pogib-ot-vzryva-pri-popytke-razobrat-snariad-v-buriatii-izi",
-        "https://iz.ru/2077868/ugolovnoe-delo-o-vziatkakh-v-otnoshenii-eks-glavy-serpukhova-napravili-v-sud-izi",
-        "https://iz.ru/2077874/rossiiskim-rybakam-razreshili-lovit-glubokovodnykh-ryb-vedm-izi",
-        "https://iz.ru/2077875/ganskii-futbolist-frimpong-pogib-posle-napadeniia-grabitelei-na-klubnyi-avtobus-izi",
-        "https://iz.ru/2077883/patcientka-chastnoi-kliniki-skonchalas-v-tcentre-moskvy-izi",
-        "https://iz.ru/2077886/politico-nazvala-pozitciiu-novogo-premera-vengrii-nevygodnoi-dlia-ukrainy-izi",
-        "https://iz.ru/2077894/piat-chelovek-postradali-i-odin-pogib-ot-atak-vsu-na-zaporozhskuiu-oblast-izi",
-        "https://iz.ru/2077901/pushilin-rasskazal-o-prodvizhenii-rossiiskikh-voisk-v-dnr-izi",
-        "https://iz.ru/2077908/akron-dinamo-vo-skolko-nachalo-matcha-24-go-tura-rpl-gde-proidet-izi",
-        "https://iz.ru/2077911/na-ukraine-prizvali-ne-radovatsia-porazheniiu-orbana-na-vyborakh-izi",
-        "https://iz.ru/2077915/v-peterburge-vystavili-na-prodazhu-torgovyi-tcentr-novaia-aura-izi",
-        "https://iz.ru/2077916/minoborony-rossii-soobshchilo-o-6558-narusheniiakh-paskhalnogo-peremiriia-ukrainoi-izi",
-        "https://iz.ru/2077917/armiia-rossii-nochiu-nanesla-udary-po-mestam-khraneniia-bpla-vsu-izi",
-        "https://iz.ru/2077923/v-mid-knr-prizvali-obespechit-svobodnyi-prokhod-korablei-v-ormuzskom-prolive-izi"
+        "https://iz.ru/2078267/tramp-udalil-iz-truth-social-izobrazhenie-sebia-v-obraze-tcelitelia-izi",
+        "https://iz.ru/2078273/v-irane-predupredili-ob-eskalatcii-v-sluchae-vmeshatelstva-v-ormuzskii-proliv-izi",
+        "https://iz.ru/2078283/umer-operator-filmov-ne-bylo-pechali-i-ruf-igor-bek-izi",
+        "https://iz.ru/2078286/tramp-soobshchil-o-prokhozhdenii-cherez-ormuzskii-proliv-34-sudov-izi",
+        "https://iz.ru/2078287/v-gosdume-napomnili-o-prave-privlekat-shkolnikov-k-trudu-bez-soglasiia-roditelei-izi",
+        "https://iz.ru/2078288/moskovskoe-dinamo-obygralo-akron-so-schetom-32-v-matche-24-go-tura-rpl-izi",
+        "https://iz.ru/2078292/v-rossii-namereny-otpravit-sputnik-k-priblizhaiushchemusia-asteroidu-apofis-izi",
+        "https://iz.ru/2078300/vs-ukazal-na-nedopustimost-lishaiushchikh-pensionerov-sredstv-na-zhizn-vzyskanii-izi",
+        "https://iz.ru/2078310/fmba-poluchilo-odobrenie-klinicheskogo-primeneniia-vaktciny-protiv-raka-kishechnika-izi",
+        "https://iz.ru/2078312/tramp-utverzhdaet-chto-iran-idet-na-kontakty-i-stremitsia-zakliuchit-sdelku-izi",
+        "https://iz.ru/2078316/dmitriev-nazval-antirossiiskie-zaiavleniia-na-zapade-usilivaiushchimi-simpatiiu-k-rf-izi",
+        "https://iz.ru/2078323/nebenzia-nazval-slova-kallas-o-knr-i-sssr-vyzyvaiushchimi-voprosy-k-ee-uchiteliu-istorii-izi",
+        "https://iz.ru/2078336/ushcherb-sdelki-s-kvartiroi-propavshei-moskvichki-khaliapovoi-otcenili-v-79-mln-rublei-izi",
+        "https://iz.ru/2078339/nebenzia-ukazal-na-litcemerie-es-i-ego-rol-v-razzhiganii-konflikta-na-ukraine-izi",
+        "https://iz.ru/2078343/bolee-tysiachi-deiatelei-gollivuda-podpisali-pismo-protiv-pogloshcheniia-warner-izi",
+        "https://iz.ru/2078347/prichina-smerti-kinooperatora-mosfilma-beka-stala-serdechnaia-nedostatochnost-izi",
+        "https://iz.ru/2078350/fsb-planiruet-rasshirit-pogrankontrol-okolo-portov-leningradskoi-oblasti-izi",
+        "https://iz.ru/2078351/ft-uznala-o-trebovanii-es-ot-madiara-vypolnit-27-uslovii-dlia-polucheniia-sredstv-izi",
+        "https://iz.ru/2078363/fmba-pervomu-patcientu-vveli-peptidnuiu-vaktcinu-ot-kolorektalnogo-raka-izi",
+        "https://iz.ru/2078377/2026-04-13/pravkomissiia-odobrila-uzhestochenie-vnzh-dlia-uchastvuiushchikh-v-svo-inostrantcev-izi"
       ]
     },
     "2026-04-14": {
-      "totalChecked": 467,
+      "totalChecked": 444,
       "totalIzi": 126,
       "totalIiz": 0,
       "totalAi": 126,
@@ -109,12 +109,11 @@
       ]
     },
     "2026-04-15": {
-      "totalChecked": 526,
-      "totalIzi": 117,
+      "totalChecked": 522,
+      "totalIzi": 116,
       "totalIiz": 0,
-      "totalAi": 117,
+      "totalAi": 116,
       "topLinks": [
-        "https://iz.ru/2077863/narodnye-primety-na-15-aprelia-chto-mozhno-i-nelzia-delat-izi",
         "https://iz.ru/2078895/2026-04-15/uchenye-rasskazali-o-vliianii-khleba-na-nabor-vesa-bez-izbytka-kalorii-izi",
         "https://iz.ru/2079101/safonov-sovershil-shest-seivov-v-chetvertfinale-ligi-chempionov-izi",
         "https://iz.ru/2079105/2026-04-15/vlasti-tatarstana-soobshchili-o-postradavshikh-pri-pozhare-na-zavode-v-kazani-izi",
@@ -133,16 +132,16 @@
         "https://iz.ru/2079222/v-tcentre-moskvy-otetc-zastrelil-syna-izi",
         "https://iz.ru/2079230/stoimost-shashlychnogo-nabora-v-rossii-vyrosla-do-4-986-rublei-izi",
         "https://iz.ru/2079248/vsu-brosili-vooruzhenie-pri-otstuplenii-iz-dimitrova-v-dnr-izi",
-        "https://iz.ru/2079250/v-pszh-voskhitilis-igroi-safonova-v-matche-ligi-chempionov-s-liverpulem-izi"
+        "https://iz.ru/2079250/v-pszh-voskhitilis-igroi-safonova-v-matche-ligi-chempionov-s-liverpulem-izi",
+        "https://iz.ru/2079252/gutcan-zaiavil-o-razrushenii-mezhdunarodnykh-norm-iz-za-zakhvata-korablei-rossii-izi"
       ]
     },
     "2026-04-16": {
-      "totalChecked": 511,
+      "totalChecked": 508,
       "totalIzi": 139,
-      "totalIiz": 1,
-      "totalAi": 140,
+      "totalIiz": 0,
+      "totalAi": 139,
       "topLinks": [
-        "https://iz.ru/2077943/ne-delaite-etogo-na-krasnuiu-gorku-chtoby-ne-ostatsia-v-odinochestve-strogie-zaprety-prazdnika-iiz",
         "https://iz.ru/2079831/rossiian-s-18-let-nachnut-proveriat-na-rannee-starenie-izi",
         "https://iz.ru/2079838/brazilskii-naemnik-rasskazal-o-dezertirakh-pod-kupianskom-izi",
         "https://iz.ru/2079846/drony-marsianin-atakovali-avtobusy-i-doma-v-gorlovke-izi",
@@ -161,7 +160,8 @@
         "https://iz.ru/2079875/v-grenlandii-rasskazali-ob-opaseniiakh-stat-sleduiushchei-tceliu-ssha-posle-venesuely-izi",
         "https://iz.ru/2079880/v-tatarstane-predlozhili-provesti-referendum-o-smene-chasovogo-poiasa-izi",
         "https://iz.ru/2079881/zastriavshego-na-gore-sotrudnika-meteostantcii-evakuirovali-vertoletom-izi",
-        "https://iz.ru/2079885/sk-soobshchil-o-zaderzhanii-odnogo-iz-kuratorov-napadeniia-na-stroginskom-buklvare-izi"
+        "https://iz.ru/2079885/sk-soobshchil-o-zaderzhanii-odnogo-iz-kuratorov-napadeniia-na-stroginskom-buklvare-izi",
+        "https://iz.ru/2079887/v-zaporozhskoi-oblasti-zaderzhali-zhitelia-za-peredachu-dannykh-o-raspolozhenii-voisk-rf-izi"
       ]
     },
     "2026-04-17": {
@@ -249,12 +249,31 @@
       ]
     },
     "2026-04-20": {
-      "totalChecked": 51,
-      "totalIzi": 1,
+      "totalChecked": 376,
+      "totalIzi": 111,
       "totalIiz": 0,
-      "totalAi": 1,
+      "totalAi": 111,
       "topLinks": [
-        "https://iz.ru/2081942/2026-04-20/iran-zapodozril-ssha-v-podgotovke-udara-pod-vidom-peregovorov-izi"
+        "https://iz.ru/2081942/2026-04-20/iran-zapodozril-ssha-v-podgotovke-udara-pod-vidom-peregovorov-izi",
+        "https://iz.ru/2081969/v-op-prizvali-vernut-programmu-detskogo-turisticheskogo-keshbeka-izi",
+        "https://iz.ru/2081988/2026-04-20/v-khersonskoi-oblasti-zaiavili-o-prinuzhdenii-zhitelei-k-vyezdu-iz-khersona-kievom-izi",
+        "https://iz.ru/2081990/v-gd-predlozhili-shtrafovat-za-znak-invalid-na-avto-bez-zapisi-v-reestre-izi",
+        "https://iz.ru/2082002/2026-04-20/mironov-predlozhil-umenshit-pensionnyi-stazh-vrachei-izi",
+        "https://iz.ru/2082009/v-gd-soobshchili-o-vozmozhnom-priniatii-zakona-ob-uvelichenii-vyplat-po-osago-v-mae-izi",
+        "https://iz.ru/2082013/v-ldpr-predlozhili-uvelichit-shtrafy-kommunalshchikam-za-narusheniia-v-sfere-zhkkh-izi",
+        "https://iz.ru/2082014/natcgvardiiu-i-voennuiu-politciiu-ukrainy-pereveli-v-shturmoviki-izi",
+        "https://iz.ru/2082015/rossiianam-nazvali-sposoby-uvelicheniia-kolichestva-pensionnykh-ballov-izi",
+        "https://iz.ru/2082016/v-germanii-raskritikovali-stremlenie-mertca-pomoch-ukraine-izi",
+        "https://iz.ru/2082020/stalo-izvestno-o-pravilakh-zameny-gazovoi-plity-izi",
+        "https://iz.ru/2082021/cnn-uznal-o-zaprose-irana-k-ssha-o-smiagchenii-sanktcii-i-razblokirovke-20-mlrd-izi",
+        "https://iz.ru/2082022/genprokuratura-sostavila-portret-rossiiskogo-korruptcionera-izi",
+        "https://iz.ru/2082025/lider-kolumbii-petro-nameren-podat-isk-k-prezidentu-ekvadora-noboa-za-klevetu-izi",
+        "https://iz.ru/2082026/v-gosdume-nazvali-usloviia-polucheniia-dvoinykh-vyplat-po-bolnichnomu-izi",
+        "https://iz.ru/2082029/lukashenko-nazval-kim-chen-yna-krepkim-muzhikom-izi",
+        "https://iz.ru/2082031/filolog-nazvala-glavnye-oshibki-uchastnikov-totalnogo-diktanta-izi",
+        "https://iz.ru/2082033/lukashenko-nazval-otnosheniia-s-putinym-druzheskimi-izi",
+        "https://iz.ru/2082035/v-stavropolskom-krae-zaderzhali-grazhdanku-germanii-za-podgotovku-terakta-izi",
+        "https://iz.ru/2082037/transportnaia-infrastruktura-povrezhdena-v-portu-tuapse-posle-ataki-dronov-vsu-izi"
       ]
     }
   }
