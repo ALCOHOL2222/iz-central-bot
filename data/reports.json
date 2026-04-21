@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-21T14:12:37.722Z",
+  "generatedAt": "2026-04-21T15:45:41.067Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 13,
-    "failedFetches": 50,
+    "fetchedUrlSets": 4,
+    "failedFetches": 59,
     "childLocs": 63,
     "visitedCount": 64
   },
@@ -53,35 +53,14 @@
       "topLinks": []
     },
     "2026-04-14": {
-      "totalChecked": 59,
-      "totalIzi": 22,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 22,
-      "topLinks": [
-        "https://iz.ru/2078948/balitckii-soobshchil-ob-otsutstvii-sveta-v-piati-okrugakh-zaporozhia-posle-atak-vsu-izi",
-        "https://iz.ru/2078951/vo-frantcii-soobshchili-ob-obyskakh-v-rezidentcii-makrona-po-delu-o-goskontraktakh-izi",
-        "https://iz.ru/2078953/germaniia-i-ukraina-podpisali-soglashenie-ob-oboronnom-sotrudnichestve-izi",
-        "https://iz.ru/2078955/politciia-zaderzhala-18-letnego-parnia-s-muliazhom-vintovki-v-teplom-stane-izi",
-        "https://iz.ru/2078962/dva-cheloveka-postradali-pri-pozhare-na-porokhovom-zavode-kazani-izi",
-        "https://iz.ru/2078965/moskalkova-prizvala-predostavit-pravo-truditsia-nakhodiashchimsia-v-sizo-obviniaemym-izi",
-        "https://iz.ru/2078973/sily-pvo-za-den-sbili-11-dronov-vsu-nad-regionami-rossii-izi",
-        "https://iz.ru/2078977/v-kitae-v-moreproduktakh-obnaruzhili-vyzyvaiushchii-slepotu-virus-izi",
-        "https://iz.ru/2078987/v-moldavii-sozdali-petitciiu-ob-otzyve-vsekh-nagrad-i-zvanii-u-prezidenta-sandu-izi",
-        "https://iz.ru/2078988/ne-menee-250-chelovek-propali-bez-vesti-posle-krusheniia-sudna-u-bangladesh-izi",
-        "https://iz.ru/2078995/mendel-priznala-bolshoi-otklik-v-vengrii-na-slova-madiara-o-rossii-izi",
-        "https://iz.ru/2078997/ugolovnoe-delo-vozbuzhdeno-po-faktu-pozhara-na-porokhovom-zavode-v-kazani-izi",
-        "https://iz.ru/2078999/vlasti-obiasnili-gromkii-zvuk-i-volnu-pri-pozhare-na-porokhovom-zavode-v-kazani-izi",
-        "https://iz.ru/2079000/iurist-predupredil-ob-otvetstvennosti-polzovatelei-sotcsetei-za-avatarki-izi",
-        "https://iz.ru/2079001/medvedev-otmetil-rost-interesa-shkolnikov-rf-k-matematike-i-estestvennym-naukam-izi",
-        "https://iz.ru/2079005/gosduma-v-i-chtenii-odobrila-proekt-o-shtrafakh-za-nezakonnyi-maining-izi",
-        "https://iz.ru/2079008/repera-gufa-oshtrafovali-na-10-tys-rublei-za-neoplatu-drugogo-shtrafa-za-parkovku-izi",
-        "https://iz.ru/2079009/posol-izrailia-v-ssha-zaiavil-o-edinstve-s-livanom-v-voprose-borby-s-khezbolloi-izi",
-        "https://iz.ru/2079011/minfin-ne-iskliuchil-obsuzhdenie-naloga-na-sverkhpribyl-oseniu-izi",
-        "https://iz.ru/2079016/byvshego-glavu-mid-kirgizii-obvinili-v-zloupotreblenii-dolzhnostnym-polozheniem-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-04-15": {
-      "totalChecked": 491,
+      "totalChecked": 476,
       "totalIzi": 115,
       "totalIiz": 0,
       "totalAi": 115,
@@ -249,10 +228,10 @@
       ]
     },
     "2026-04-21": {
-      "totalChecked": 400,
-      "totalIzi": 109,
+      "totalChecked": 474,
+      "totalIzi": 131,
       "totalIiz": 2,
-      "totalAi": 111,
+      "totalAi": 133,
       "topLinks": [
         "https://iz.ru/2079279/prazdnovanie-81-letiia-pobedy-v-moskve-i-regionakh-chto-izvestno-iiz",
         "https://iz.ru/2082151/s-dnem-pobedy-zashchitniki-pozdravleniia-s-9-maia-dlia-voennykh-i-veteranov-svo-iiz",
