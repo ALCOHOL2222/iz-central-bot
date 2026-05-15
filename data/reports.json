@@ -1,29 +1,15 @@
 {
-  "generatedAt": "2026-05-13T07:34:08.099Z",
+  "generatedAt": "2026-05-15T17:03:01.035Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 9,
-    "failedFetches": 55,
+    "fetchedUrlSets": 6,
+    "failedFetches": 58,
     "childLocs": 64,
     "visitedCount": 65
   },
   "days": {
-    "2026-04-30": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
-    "2026-05-01": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-05-02": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -53,98 +39,53 @@
       "topLinks": []
     },
     "2026-05-06": {
-      "totalChecked": 282,
-      "totalIzi": 86,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 86,
-      "topLinks": [
-        "https://iz.ru/2092042/v-muzee-sen-remi-usilili-mery-bezopasnosti-posle-krazhi-zolotykh-monet-izi",
-        "https://iz.ru/2092045/passazhir-sudna-mv-hondius-soobshchil-o-spokoinoi-obstanovke-na-bortu-izi",
-        "https://iz.ru/2092046/a24-vypustila-treiler-baiopika-toni-o-molodom-shef-povare-entoni-burdeine-izi",
-        "https://iz.ru/2092049/krushenie-legkomotornogo-samoleta-v-omskoi-oblasti-chto-izvestno-izi",
-        "https://iz.ru/2092053/v-omskoi-oblasti-vozbudili-delo-posle-otravleniia-shkolnikov-gazom-izi",
-        "https://iz.ru/2092056/spiker-parlamenta-armenii-schel-neumestnymi-izvineniia-za-slova-v-adres-belorussii-izi",
-        "https://iz.ru/2092059/chto-posmotret-iz-turetckikh-serialov-piat-glavnykh-khitov-2026-goda-izi",
-        "https://iz.ru/2092064/senat-ssha-zaprosil-1-mlrd-na-sistemy-bezopasnosti-balnogo-zala-belogo-doma-izi",
-        "https://iz.ru/2092065/bloomberg-sravnil-nato-i-struktury-oon-s-zombi-organizatciiami-izi",
-        "https://iz.ru/2092067/propavshie-v-karachaevo-cherkesii-turistki-naideny-v-raione-ozera-liubvi-izi",
-        "https://iz.ru/2092070/mema-zaiavil-o-priamoi-otvetstvennosti-es-za-udary-dronov-vsu-po-infrastrukture-rf-izi",
-        "https://iz.ru/2092077/sviashchennik-raskryl-detali-neudachnogo-telefonnogo-razgovora-papy-rimskogo-s-bankom-izi",
-        "https://iz.ru/2092084/chetyre-cheloveka-pogibli-pri-izrailskikh-udarakh-po-livanu-izi",
-        "https://iz.ru/2092089/minfin-rf-zaiavil-o-vozobnovlenii-s-8-maia-operatcii-s-valiutoi-na-vnutrennem-rynke-izi",
-        "https://iz.ru/2092090/zhitel-norvegii-nashel-zolotuiu-nakladku-na-nozhny-mecha-pod-upavshim-derevom-izi",
-        "https://iz.ru/2092091/mosgorsud-utverdil-shtrafy-google-na-76-mln-rublei-za-zapreshchennyi-kontent-izi",
-        "https://iz.ru/2092095/kanada-planiruet-zakupit-samolety-radiolokatcionnoi-razvedki-na-37-mlrd-izi",
-        "https://iz.ru/2092096/ukraina-planiruet-sozdat-sobstvennuiu-sistemu-pro-na-fone-sokrashcheniia-izi",
-        "https://iz.ru/2092098/eks-futbolist-intera-i-chempion-italii-bekkalossi-umer-v-vozraste-69-let-izi",
-        "https://iz.ru/2092112/ekstremistskuiu-literaturu-nashli-sredi-detskikh-knig-iz-britanii-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-05-07": {
-      "totalChecked": 536,
-      "totalIzi": 134,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 134,
-      "topLinks": [
-        "https://iz.ru/2092055/uchenye-sviazali-nestabilnyi-grafik-sna-s-riskom-serdechnogo-pristupa-izi",
-        "https://iz.ru/2092151/uchenye-obiasnili-polzu-chuvstva-trepeta-dlia-psikhicheskogo-zdorovia-izi",
-        "https://iz.ru/2092321/psikhologi-opisali-novyi-tip-strakha-pered-poterei-reputatcii-i-chesti-izi",
-        "https://iz.ru/2092479/na-ukraine-soobshchili-o-zaderzhanii-sotrudnika-sbu-za-poluchenie-vziatki-izi",
-        "https://iz.ru/2092488/smi-soobshchili-o-poluchenii-sarkozi-uslovno-dosrochnogo-osvobozhdeniia-izi",
-        "https://iz.ru/2092502/mid-germanii-predstavil-plan-po-reformirovaniiu-evrosoiuza-izi",
-        "https://iz.ru/2092507/pszh-sygral-vnichiu-s-bavariei-i-vyshel-v-final-ligi-chempionov-izi",
-        "https://iz.ru/2092510/rossiianam-rasskazali-o-vozmozhnosti-sekonomit-s-pomoshchiu-umnykh-rozetok-izi",
-        "https://iz.ru/2092524/maksimalnoe-posobie-po-ukhodu-za-rebenkom-vyroslo-v-chetyre-raza-izi",
-        "https://iz.ru/2092530/v-gosdume-predlozhili-zapretit-chinovnikam-vladet-zhilem-za-rubezhom-izi",
-        "https://iz.ru/2092533/v-gosdume-predlozhili-sertifitcirovat-fotografov-novorozhdennykh-izi",
-        "https://iz.ru/2092534/rossiianam-rasskazali-o-deistviiakh-pri-oformlenii-kredita-moshennikami-izi",
-        "https://iz.ru/2092535/rossiianam-rasskazali-o-roste-zarplaty-v-strane-pochti-v-tri-raza-za-10-let-izi",
-        "https://iz.ru/2092543/2026-05-07/stalo-izvestno-o-zhalobakh-zhenshchin-v-vsu-na-otsutstvie-rotatcii-na-peredovoi-izi",
-        "https://iz.ru/2092544/rosobrnadzor-nazval-zapreshchennye-deistviia-na-ege-v-2026-godu-izi",
-        "https://iz.ru/2092546/ekspert-zaiavil-o-snizhenii-sprosa-rossiian-na-turpoezdki-za-rubezh-v-maiskie-prazdniki-izi",
-        "https://iz.ru/2092548/v-gosdume-rasskazali-o-novoi-moshennicheskoi-skheme-s-pereprodazhei-aviabiletov-izi",
-        "https://iz.ru/2092549/chislo-individualnykh-predprinimatelei-v-rossii-vyroslo-na-7-izi",
-        "https://iz.ru/2092550/v-gosdume-nazvali-prichiny-snizheniia-platy-za-zhku-posle-otkliucheniia-otopleniia-izi",
-        "https://iz.ru/2092553/glavnyi-peregovorshchik-irana-galibaf-poshutil-o-provale-operatcii-doversia-mne-bro-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-05-08": {
-      "totalChecked": 525,
-      "totalIzi": 109,
+      "totalChecked": 130,
+      "totalIzi": 20,
       "totalIiz": 0,
-      "totalAi": 109,
+      "totalAi": 20,
       "topLinks": [
-        "https://iz.ru/2092270/vrachi-dali-rekomendatcii-po-oblegcheniiu-poslerodovoi-boli-izi",
-        "https://iz.ru/2092851/vzryvy-na-shakhte-raspadskaia-v-2010-godu-khronika-prichiny-tragedii-izi",
-        "https://iz.ru/2092881/neirobiologi-predupredili-ob-opasnosti-ignorirovaniia-apnoe-sna-izi",
-        "https://iz.ru/2092884/2026-05-08/uchenye-dokazali-vzaimosviaz-mezhdu-fizicheskoi-aktivnostiu-i-khoroshim-nastroeniem-izi",
-        "https://iz.ru/2092890/2026-05-08/kardiologi-prizvali-snizhat-upotreblenie-ultraobrabotannykh-produktov-izi",
-        "https://iz.ru/2093230/2026-05-08/ronaldu-pomog-al-nasru-obygrat-al-shabab-i-zabil-971-i-gol-v-karere-izi",
-        "https://iz.ru/2093236/2026-05-08/tramp-ne-upomianul-ukrainu-v-kontekste-besedy-s-fon-der-liaien-izi",
-        "https://iz.ru/2093241/novye-sotrudniki-v-rossii-stali-poluchat-bolshe-opytnykh-kolleg-izi",
-        "https://iz.ru/2093244/dmitriev-sviazal-krizis-v-evrosoiuze-s-otkazom-ot-energonositelei-rf-izi",
-        "https://iz.ru/2093254/sredniaia-pensiia-v-rossii-vyrosla-v-dva-raza-za-10-let-izi",
-        "https://iz.ru/2093258/smi-soobshchili-o-nachale-parizhem-rassledovaniia-protiv-ilona-maska-i-kompanii-x-izi",
-        "https://iz.ru/2093260/zakharova-ukazala-na-ukryvatelstvo-kanadoi-kollaboratcionistov-izi",
-        "https://iz.ru/2093261/2026-05-08/reuters-soobshchilo-o-vzryve-v-shtab-kvartire-krupneishei-niderlandskoi-partii-izi",
-        "https://iz.ru/2093266/v-op-predlozhili-vvesti-vyplaty-semiam-s-detmi-k-1-iiunia-izi",
-        "https://iz.ru/2093271/v-minpromtorge-rf-soobshchili-o-peregovorakh-o-postavkakh-novogo-tu-214-dlia-red-wings-izi",
-        "https://iz.ru/2093272/v-gosdume-napomnili-o-kompensatcii-pensioneram-vznosov-na-kapremont-izi",
-        "https://iz.ru/2093286/v-aeroportu-samary-sniali-ogranicheniia-na-polety-izi",
-        "https://iz.ru/2093289/tramp-nazval-udary-po-iranu-liubovnym-pokhlopyvaniem-i-zaiavil-o-peremirii-izi",
-        "https://iz.ru/2093323/2026-05-08/zakharova-nazvala-nasledie-obamy-i-baidena-avgievymi-koniushniami-izi",
-        "https://iz.ru/2093335/deputat-kartaizer-zaiavil-ob-usilenii-agressivnoi-ritoriki-v-storonu-rf-izi"
+        "https://iz.ru/2093683/polety-na-iug-rossii-i-obratno-chastichno-vozobnovilis-posle-bespilotnikov-izi",
+        "https://iz.ru/2093685/shakira-predstavila-ofitcialnyi-gimn-chempionata-mira-po-futbolu-2026-izi",
+        "https://iz.ru/2093687/v-rospotrebnadzore-nazvali-maloveroiatnoi-mutatciiu-khantavirusa-v-rossii-izi",
+        "https://iz.ru/2093691/v-zheneve-proshla-aktciia-bessmertnyi-polk-izi",
+        "https://iz.ru/2093702/na-ukraine-pozhalovalis-na-polupustye-batarei-pvo-izi",
+        "https://iz.ru/2093708/narkolog-otcenil-kolichestvo-ukradennykh-nikotinom-let-zhizni-izi",
+        "https://iz.ru/2093711/umer-prorabotavshii-35-let-v-programme-vremia-zhurnalist-vladimir-fedorov-izi",
+        "https://iz.ru/2093718/marko-rubio-zaiavil-o-tupike-v-peregovorakh-po-ukraine-izi",
+        "https://iz.ru/2093727/peskov-zaiavil-o-razocharovanii-iz-za-resheniia-mok-po-rossiiskim-sportsmenam-izi",
+        "https://iz.ru/2093732/euroclear-uzhe-perevela-kievu-eu66-mlrd-dokhodov-ot-aktivov-rf-izi",
+        "https://iz.ru/2093760/ushakov-podtverdil-uchastie-tokaev-i-mirzieeva-na-torzhestva-9-maia-izi",
+        "https://iz.ru/2093771/v-rosatome-soobshchili-o-vozobnovlenii-stroitelstva-aes-busher-izi",
+        "https://iz.ru/2093788/prezident-uzbekistana-pribyl-v-moskvu-ko-dniu-pobedy-izi",
+        "https://iz.ru/2093793/axios-soobshchil-o-vstreche-vitce-prezidenta-ssha-s-premerom-katara-dlia-peregovorov-izi",
+        "https://iz.ru/2093808/pashinian-nazval-dvizhenie-za-prisoedinenie-karabakha-k-armenii-oshibkoi-izi",
+        "https://iz.ru/2093846/soveshchanie-putina-s-postoiannymi-chlenami-sovbeza-glavnoe-izi",
+        "https://iz.ru/2093851/zakharova-nazvala-spasenie-detei-vazhnee-komforta-pri-otkliucheniiakh-sviazi-izi",
+        "https://iz.ru/2093871/v-minprosveshcheniia-nazvali-prichiny-dlia-otkaza-uchitelei-ot-raboty-na-ege-izi",
+        "https://iz.ru/2093872/putin-nagradil-kollektiv-rspp-ordenom-za-doblestnyi-trud-izi",
+        "https://iz.ru/2093920/putin-poblagodaril-tokaeva-za-priezd-v-moskvu-k-dniu-pobedy-izi"
       ]
     },
     "2026-05-09": {
-      "totalChecked": 428,
-      "totalIzi": 38,
-      "totalIiz": 1,
-      "totalAi": 39,
+      "totalChecked": 408,
+      "totalIzi": 36,
+      "totalIiz": 0,
+      "totalAi": 36,
       "topLinks": [
-        "https://iz.ru/2092618/margarita-rebrova/81-ia-godovshchina-velikoi-pobedy-chto-proiskhodit-v-moskve-i-na-krasnoi-ploshchadi-poslednie-iiz",
-        "https://iz.ru/2093447/uchenye-predupredili-o-sviazi-slabosti-myshtc-s-riskom-insulta-izi",
-        "https://iz.ru/2093499/uchenye-sviazali-potreblenie-bobovykh-so-snizheniem-riska-gipertonii-izi",
         "https://iz.ru/2093928/moskovskaia-rodina-vpervye-v-istorii-vyshla-v-rpl-izi",
         "https://iz.ru/2093969/smi-soobshchili-o-nezhelanii-trampa-prodolzhat-iranskii-konflikt-izi",
         "https://iz.ru/2094001/v-op-predlozhili-vvesti-vyplaty-voennym-ko-dniu-pobedy-izi",
@@ -161,19 +102,18 @@
         "https://iz.ru/2094109/zakharova-ukazala-na-obedinenie-rossiian-v-protivostoianii-ugrozam-zelenskogo-izi",
         "https://iz.ru/2094110/v-gd-predupredili-rossiian-o-moshennicheskikh-lovushkakh-vokrug-kapremonta-izi",
         "https://iz.ru/2094180/lukashenko-pozdravil-rossiian-s-dnem-pobedy-i-nazval-ego-velikim-prazdnikom-izi",
-        "https://iz.ru/2094279/zhena-natcista-gerkhardta-privezla-v-braziliiu-mylo-iz-zhira-uznikov-aushvitc-birkenau-izi"
+        "https://iz.ru/2094279/zhena-natcista-gerkhardta-privezla-v-braziliiu-mylo-iz-zhira-uznikov-aushvitc-birkenau-izi",
+        "https://iz.ru/2094286/cnn-uznal-ob-uchastii-khamenei-v-razrabotke-strategii-peregovorov-s-ssha-izi",
+        "https://iz.ru/2094305/moskvichi-otprazdnovali-den-pobedy-na-tverskoi-ulitce-i-poklonnoi-gore-izi",
+        "https://iz.ru/2094315/minoborony-rf-vsu-atakovali-18-regionov-rossii-v-period-peremiriia-izi"
       ]
     },
     "2026-05-10": {
-      "totalChecked": 307,
-      "totalIzi": 61,
-      "totalIiz": 1,
-      "totalAi": 62,
+      "totalChecked": 295,
+      "totalIzi": 58,
+      "totalIiz": 0,
+      "totalAi": 58,
       "topLinks": [
-        "https://iz.ru/2093472/2026-05-10/uchenye-raskryli-mekhanizm-podavleniia-razmnozheniia-nasekomykh-vreditelei-chesnokom-izi",
-        "https://iz.ru/2093478/narodnye-primety-na-10-maia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2093485/ekspert-nazvala-neiroseti-luchshim-instrumentom-dlia-izucheniia-inostrannykh-iazykov-izi",
-        "https://iz.ru/2093548/uchenye-sviazali-upotreblenie-iaitc-so-snizheniem-riska-bolezni-altcgeimera-izi",
         "https://iz.ru/2094523/2026-05-10/ivangorodu-prisvoili-pochetnoe-zvanie-gorod-voinskoi-doblesti-izi",
         "https://iz.ru/2094529/posol-rf-nazval-uslovie-dlia-vozobnovleniia-postavok-nefti-v-iaponiiu-izi",
         "https://iz.ru/2094539/v-moskve-narastili-obem-vysokotekhnologichnoi-medpomoshchi-izi",
@@ -189,16 +129,19 @@
         "https://iz.ru/2094585/putin-otmetil-rol-osetin-v-velikoi-otechestvennoi-voine-izi",
         "https://iz.ru/2094588/dmitriev-vnov-prizval-starmera-uiti-v-otstavku-dlia-budushchego-grazhdan-britanii-izi",
         "https://iz.ru/2094591/v-tveri-torzhestvenno-pozdravili-veterana-vov-petra-potemkina-izi",
-        "https://iz.ru/2094597/space-energy-zaplanirovala-stroitelstvo-v-primore-kosmodroma-v-2026-godu-izi"
+        "https://iz.ru/2094597/space-energy-zaplanirovala-stroitelstvo-v-primore-kosmodroma-v-2026-godu-izi",
+        "https://iz.ru/2094599/karolina-obygrala-filadelfiiu-i-vyshla-v-polufinal-kubka-stenli-izi",
+        "https://iz.ru/2094619/v-minobrnauki-soobshchili-o-nachale-priemnoi-kampanii-v-vuzy-20-iiunia-izi",
+        "https://iz.ru/2094620/sud-ostavil-v-sizo-eks-zamministra-oborony-bulgakova-do-avgusta-izi",
+        "https://iz.ru/2094638/rossiianam-nazvali-srednii-razmer-pensii-gossluzhashchikh-izi"
       ]
     },
     "2026-05-11": {
-      "totalChecked": 290,
+      "totalChecked": 279,
       "totalIzi": 81,
-      "totalIiz": 1,
-      "totalAi": 82,
+      "totalIiz": 0,
+      "totalAi": 81,
       "topLinks": [
-        "https://iz.ru/2093626/narodnye-primety-na-11-maia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2093750/somnolog-obiasnil-vliianie-standartnykh-grafikov-na-zhizn-zhavoronkov-i-sov-izi",
         "https://iz.ru/2094919/lokomotiv-obygral-baltiku-v-matche-29-go-tura-rpl-izi",
         "https://iz.ru/2094964/v-mvd-predupredili-ob-atake-moshennikami-sotrudnikov-krupnykh-kompanii-izi",
@@ -217,16 +160,16 @@
         "https://iz.ru/2095056/britanskii-analitik-uvidel-proval-antirossiiskogo-kursa-zapada-izi",
         "https://iz.ru/2095057/anakhaim-sravnial-schet-v-serii-plei-s-vegasom-izi",
         "https://iz.ru/2095058/rubio-stal-personazhem-memov-vnutri-administratcii-ssha-izi",
-        "https://iz.ru/2095059/sem-stran-evropy-zapretili-rossiianam-vezd-po-zagranpasportam-bez-biometrii-izi"
+        "https://iz.ru/2095059/sem-stran-evropy-zapretili-rossiianam-vezd-po-zagranpasportam-bez-biometrii-izi",
+        "https://iz.ru/2095061/v-dvukh-selakh-lenskogo-raiona-iakutii-obiavlena-srochnaia-evakuatciia-izi"
       ]
     },
     "2026-05-12": {
-      "totalChecked": 475,
+      "totalChecked": 465,
       "totalIzi": 96,
-      "totalIiz": 1,
-      "totalAi": 97,
+      "totalIiz": 0,
+      "totalAi": 96,
       "topLinks": [
-        "https://iz.ru/2093662/narodnye-primety-na-12-maia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2095303/zarplaty-vyrosli-vtroe-v-40-regionakh-rf-za-10-let-izi",
         "https://iz.ru/2095305/ekspert-predpolozhil-sokrytie-frg-dannykh-o-postavkakh-taurus-ukraine-izi",
         "https://iz.ru/2095312/2026-05-12/v-voz-rasskazali-o-nervnykh-sryvakh-u-passazhirov-kruiznogo-lainera-mv-hondius-izi",
@@ -245,14 +188,15 @@
         "https://iz.ru/2095364/vrach-predupredila-ob-opasnosti-sputat-khantavirus-s-grippom-izi",
         "https://iz.ru/2095365/v-gosdume-nazvali-zakonnye-sposoby-uvelichit-vyplatu-otpusknykh-izi",
         "https://iz.ru/2095369/glavreda-dozhdia-dziadko-zaochno-prigovorili-k-vosmi-godam-po-dvum-statiam-uk-rf-izi",
-        "https://iz.ru/2095388/prichinoi-smerti-aktera-aleksandrova-stala-travma-golovy-v-rezultate-padeniia-izi"
+        "https://iz.ru/2095388/prichinoi-smerti-aktera-aleksandrova-stala-travma-golovy-v-rezultate-padeniia-izi",
+        "https://iz.ru/2095391/v-infobrics-zaiavili-ob-obiavlenii-nato-voiny-rossii-izi"
       ]
     },
     "2026-05-13": {
-      "totalChecked": 157,
-      "totalIzi": 25,
+      "totalChecked": 526,
+      "totalIzi": 124,
       "totalIiz": 0,
-      "totalAi": 25,
+      "totalAi": 124,
       "topLinks": [
         "https://iz.ru/2095517/uchenye-dokazali-sviaz-prichastnosti-k-iskusstvu-s-zamedleniem-stareniia-izi",
         "https://iz.ru/2095582/uchenye-predupredili-o-riskakh-rpp-u-zhenshchin-srednego-vozrasta-izi",
@@ -274,6 +218,62 @@
         "https://iz.ru/2096082/klubnika-v-rossii-za-mesiatc-podeshevela-pochti-na-tret-izi",
         "https://iz.ru/2096083/v-poselke-volna-temriukskogo-raiona-proizoshel-pozhar-posle-udara-bespilotnika-izi",
         "https://iz.ru/2096084/sleduiushchie-v-krym-i-obratno-poezda-zaderzhalis-iz-za-perekrytiia-krymskogo-mosta-izi"
+      ]
+    },
+    "2026-05-14": {
+      "totalChecked": 491,
+      "totalIzi": 78,
+      "totalIiz": 0,
+      "totalAi": 78,
+      "topLinks": [
+        "https://iz.ru/2096204/uchenye-sviazali-osobennosti-rechi-s-riskom-razvitiia-dementcii-izi",
+        "https://iz.ru/2096252/uchenye-nashli-sposob-omolozheniia-starykh-stvolovykh-kletok-krovi-izi",
+        "https://iz.ru/2096740/vitce-spiker-parlamenta-slovakii-rasskazal-ob-oshchushchenii-sebia-v-bezopasnosti-v-rf-izi",
+        "https://iz.ru/2096754/deviat-vykhodnykh-dnei-budut-zhdat-rossiian-v-iiune-2026-go-goda-izi",
+        "https://iz.ru/2096755/v-gd-rasskazali-ob-uvelichenii-chisla-poddelnykh-saitov-gostinitc-izi",
+        "https://iz.ru/2096771/voennosluzhashchii-rasskazal-o-pereboiakh-s-prodovolstviem-u-vsu-izi",
+        "https://iz.ru/2096775/ekspert-nazvala-tri-prichiny-ostanovki-pensii-izi",
+        "https://iz.ru/2096795/v-kitae-passazhiry-aeroporta-goroda-iu-sledili-za-vstrechei-si-tczinpina-i-trampa-izi",
+        "https://iz.ru/2096829/v-germanii-nazvali-molchanie-zelenskogo-posle-obvineniia-v-korruptcii-ermaka-opasnym-izi",
+        "https://iz.ru/2096830/tramp-soobshchil-o-prevoskhodnykh-peregovorakh-s-si-tczinpinom-izi",
+        "https://iz.ru/2096835/zhitelia-cheliabinskoi-oblasti-prigovorili-k-22-godam-za-podgotovku-terakta-v-moskve-izi",
+        "https://iz.ru/2096837/senat-kongressa-ssha-v-sedmoi-raz-otklonil-rezoliutciiu-o-zavershenii-voiny-v-irane-izi",
+        "https://iz.ru/2096839/khk-kolorado-vybil-minnesotu-iz-plei-nkhl-izi",
+        "https://iz.ru/2096841/tikhookeanskii-flot-nashel-zatonuvshii-v-nachale-khkh-veka-parokhod-v-zalive-primoria-izi",
+        "https://iz.ru/2096843/dvigatel-pd-8-dlia-samoleta-sj-100-proshel-vse-sertifikatcionnye-ispytaniia-izi",
+        "https://iz.ru/2096866/abc-news-soobshchil-o-priblizhenii-asteroida-razmerom-do-30-m-k-zemle-izi",
+        "https://iz.ru/2096868/amerikanskii-trener-skott-gordon-vozglavit-cheliabinskii-khk-traktor-izi",
+        "https://iz.ru/2096869/bolee-31-tys-potrebitelei-ostalis-bez-sveta-na-severe-ukrainy-izi",
+        "https://iz.ru/2096875/v-mid-rossii-ukazali-na-dogovorosposobnost-ssha-po-uregulirovaniiu-na-ukraine-izi",
+        "https://iz.ru/2096884/vsu-reguliarno-pytaiutsia-atakovat-bpla-vosstanovlennyi-mariupolskii-dramteatr-izi"
+      ]
+    },
+    "2026-05-15": {
+      "totalChecked": 406,
+      "totalIzi": 93,
+      "totalIiz": 0,
+      "totalAi": 93,
+      "topLinks": [
+        "https://iz.ru/2096440/uchenye-nashli-obshchuiu-uiazvimost-u-virusov-poliomielita-i-prostudy-izi",
+        "https://iz.ru/2096906/uchenye-nashli-molekuliarnyi-perekliuchatel-dlia-ukrepleniia-kostei-izi",
+        "https://iz.ru/2097081/uchenye-sviazali-nedostatok-i-izbytok-sna-s-uskorennym-stareniem-izi",
+        "https://iz.ru/2097414/nutritciolog-ukazal-na-otsutstvie-neobkhodimosti-zameniat-grechku-na-kinoa-izi",
+        "https://iz.ru/2097450/psikholog-rasskazala-o-moshennichestve-cherez-kursy-bystrogo-pokhudeniia-izi",
+        "https://iz.ru/2097479/v-mid-rf-soobshchili-o-pereselenii-soten-tysiach-ukraintcev-v-rf-izi",
+        "https://iz.ru/2097521/v-mid-knr-prizvali-ssha-i-iran-uregulirovat-konflikt-izi",
+        "https://iz.ru/2097536/moskovskie-promyshlenniki-obespechivaiut-oborudovaniem-teatry-goroda-i-strany-izi",
+        "https://iz.ru/2097539/v-rezultate-udara-vsu-povrezhdeny-fasady-zhilykh-domov-v-energodare-izi",
+        "https://iz.ru/2097540/sudia-v-gaage-ne-vypustil-na-lechenie-generala-mladicha-izi",
+        "https://iz.ru/2097542/umer-narodnyi-artist-armenii-tcaturian-izi",
+        "https://iz.ru/2097544/umer-byvshii-posol-rossii-v-bangladesh-i-kambodzhe-aleksandr-ignatov-izi",
+        "https://iz.ru/2097545/tramp-ssha-mogut-povtorit-udary-po-iranskim-iadernym-obektam-izi",
+        "https://iz.ru/2097548/semero-postradavshikh-pri-atake-bespilotnikov-v-riazani-gospitalizirovany-izi",
+        "https://iz.ru/2097549/v-podvodnoi-peshchere-na-maldivakh-pogibli-piat-italianskikh-daiverov-izi",
+        "https://iz.ru/2097550/vozobnovlena-prodazha-biletov-na-superfinal-kubka-rossii-izi",
+        "https://iz.ru/2097551/pravitelstvo-predlozhilo-sokratit-dolgi-po-biudzhetnym-kreditam-shesti-regionov-rf-izi",
+        "https://iz.ru/2097555/v-gosdume-predlozhili-vvesti-nalogovyi-vychet-na-raskhody-na-svadbu-izi",
+        "https://iz.ru/2097557/nazvavshii-pashiniana-predatelem-bloger-avetisian-arestovan-v-armenii-izi",
+        "https://iz.ru/2097559/v-mvf-nazvali-poleznymi-dlia-globalnoi-ekonomiki-peregovory-liderov-knr-i-ssha-izi"
       ]
     }
   }
