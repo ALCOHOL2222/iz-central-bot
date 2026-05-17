@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-17T04:36:19.394Z",
+  "generatedAt": "2026-05-17T19:40:59.173Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 17,
-    "failedFetches": 47,
+    "fetchedUrlSets": 4,
+    "failedFetches": 60,
     "childLocs": 64,
     "visitedCount": 65
   },
@@ -46,51 +46,38 @@
       "topLinks": []
     },
     "2026-05-09": {
-      "totalChecked": 97,
-      "totalIzi": 12,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 12,
-      "topLinks": [
-        "https://iz.ru/2094372/sait-pentagona-s-raskrytymi-dannymi-ob-nlo-posetili-340-mln-raz-poldnia-izi",
-        "https://iz.ru/2094387/ushakov-nazval-nerealnoi-vstrechu-putina-i-trampa-v-kitae-izi",
-        "https://iz.ru/2094397/v-belgorodskoi-oblasti-tri-cheloveka-postradali-pri-udare-bpla-vo-vremia-peremiriia-izi",
-        "https://iz.ru/2094412/putin-otmetil-pozitivnoe-razvitie-otnoshenii-rossii-i-iuzhnoi-osetii-izi",
-        "https://iz.ru/2094435/minoborony-ne-dokladyvalo-putinu-o-popytkakh-provokatcii-kieva-v-den-pobedy-izi",
-        "https://iz.ru/2094437/rossiia-peredala-ukraine-predlozhenie-ob-obmene-i-spisok-iz-500-voennykh-vsu-izi",
-        "https://iz.ru/2094441/putin-ukazal-na-osobye-otnosheniia-rossii-i-armenii-na-protiazhenii-stoletii-izi",
-        "https://iz.ru/2094473/v-peterburge-proshlo-shestvie-bessmertnogo-polka-po-nevskomu-prospektu-izi",
-        "https://iz.ru/2094476/putin-rossiia-podderzhit-vse-chto-vygodno-armianskomu-narodu-izi",
-        "https://iz.ru/2094493/sobolenko-sensatcionno-proigrala-v-tretem-kruge-turnira-wta-1000-v-rime-izi",
-        "https://iz.ru/2094495/v-varshave-provokatory-pytalis-sorvat-vozlozhenie-tcvetov-k-memorialu-izi",
-        "https://iz.ru/2094499/avtor-romanov-zvonok-kodzi-sudzuki-skonchalsia-v-vozraste-68-let-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-05-10": {
-      "totalChecked": 290,
-      "totalIzi": 58,
+      "totalChecked": 206,
+      "totalIzi": 41,
       "totalIiz": 0,
-      "totalAi": 58,
+      "totalAi": 41,
       "topLinks": [
-        "https://iz.ru/2094523/2026-05-10/ivangorodu-prisvoili-pochetnoe-zvanie-gorod-voinskoi-doblesti-izi",
-        "https://iz.ru/2094529/posol-rf-nazval-uslovie-dlia-vozobnovleniia-postavok-nefti-v-iaponiiu-izi",
-        "https://iz.ru/2094539/v-moskve-narastili-obem-vysokotekhnologichnoi-medpomoshchi-izi",
-        "https://iz.ru/2094542/putin-nazval-dzhonsona-predstavitelem-shou-biznesa-izi",
-        "https://iz.ru/2094557/polianskii-zaiavil-ob-izmenenii-pozitcii-es-o-peregovorakh-po-ukraine-izi",
-        "https://iz.ru/2094559/rossiian-predupredili-o-novykh-blokirovkakh-v-zarubezhnykh-neirosetiakh-izi",
-        "https://iz.ru/2094560/putin-obiasnil-pochemu-vozderzhalsia-ot-zhestov-i-slov-v-adres-finliandii-izi",
-        "https://iz.ru/2094561/vypusknikam-rasskazali-o-srokakh-peresdachi-ege-v-2026-godu-izi",
-        "https://iz.ru/2094575/starshii-prepodavatel-nazvala-professii-s-samym-dlinnym-ezhegodnym-otpuskom-v-rf-izi",
-        "https://iz.ru/2094577/na-ukraine-ukazali-na-bezrassudstvo-zelenskogo-iz-za-ukaza-izi",
-        "https://iz.ru/2094582/iuventus-obygral-lechche-v-gostevom-matche-chempionata-italii-po-futbolu-izi",
-        "https://iz.ru/2094584/stalo-izvestno-o-razgovorakh-moshennikov-v-skam-tcentrakh-mianmy-na-russkom-iazyke-izi",
-        "https://iz.ru/2094585/putin-otmetil-rol-osetin-v-velikoi-otechestvennoi-voine-izi",
-        "https://iz.ru/2094588/dmitriev-vnov-prizval-starmera-uiti-v-otstavku-dlia-budushchego-grazhdan-britanii-izi",
-        "https://iz.ru/2094591/v-tveri-torzhestvenno-pozdravili-veterana-vov-petra-potemkina-izi",
-        "https://iz.ru/2094597/space-energy-zaplanirovala-stroitelstvo-v-primore-kosmodroma-v-2026-godu-izi",
-        "https://iz.ru/2094599/karolina-obygrala-filadelfiiu-i-vyshla-v-polufinal-kubka-stenli-izi",
         "https://iz.ru/2094619/v-minobrnauki-soobshchili-o-nachale-priemnoi-kampanii-v-vuzy-20-iiunia-izi",
         "https://iz.ru/2094620/sud-ostavil-v-sizo-eks-zamministra-oborony-bulgakova-do-avgusta-izi",
-        "https://iz.ru/2094638/rossiianam-nazvali-srednii-razmer-pensii-gossluzhashchikh-izi"
+        "https://iz.ru/2094638/rossiianam-nazvali-srednii-razmer-pensii-gossluzhashchikh-izi",
+        "https://iz.ru/2094641/pushilin-schel-maloveroiatnym-vosstanie-na-ukraine-izi",
+        "https://iz.ru/2094644/pensionerka-iz-khabarovskogo-kraia-otdala-moshennikam-45-mln-rublei-izi",
+        "https://iz.ru/2094647/chto-proizoshlo-za-noch-10-maia-glavnoe-izi",
+        "https://iz.ru/2094648/minnesota-obygrala-kolorado-v-matche-kubka-stenli-izi",
+        "https://iz.ru/2094654/putin-plany-armenii-vstupit-v-es-trebuiut-osobogo-rassmotreniia-izi",
+        "https://iz.ru/2094656/v-sovfede-zaiavili-ob-ispolzovanii-moshennikami-poddelnykh-captcha-izi",
+        "https://iz.ru/2094658/smi-uznali-o-planakh-nato-ispolzovat-territoriiu-iaponii-dlia-zapuska-sputnikov-izi",
+        "https://iz.ru/2094659/filippo-zaiavil-ob-oshchushchenii-obmana-u-kieva-posle-slov-koshty-o-dialoge-s-rossiei-izi",
+        "https://iz.ru/2094660/v-rossii-utverdili-kontceptciiu-istoricheskogo-prosveshcheniia-v-shkolakh-izi",
+        "https://iz.ru/2094666/posol-rf-v-avstrii-vyrazil-obespokoennost-po-vozrozhdeniiu-natcizma-v-evrope-izi",
+        "https://iz.ru/2094669/moshenniki-stali-ubezhdat-rossiian-brat-kredity-iakoby-iz-za-pomoshchi-vsu-izi",
+        "https://iz.ru/2094676/rossiiskie-sapery-primenili-elektromagnitnye-pushki-dlia-razminirovaniia-v-dnr-izi",
+        "https://iz.ru/2094685/iran-sovmestil-pozdravlenie-livitt-s-rozhdeniem-rebenka-s-udarom-ssha-po-shkole-izi",
+        "https://iz.ru/2094688/bloomberg-soobshchilo-ob-ubytke-trump-media-bolee-400-mln-v-i-kvartale-2026-goda-izi",
+        "https://iz.ru/2094714/v-ator-nazvali-samuiu-populiarnuiu-stranu-evropy-u-rossiian-na-maiskie-prazdniki-izi",
+        "https://iz.ru/2094716/ombudsmen-lubinetc-osudil-ispolzovanie-sotrudnikami-ttck-balaklav-pri-mobilizatcii-izi",
+        "https://iz.ru/2094718/iurist-obiasnil-pravila-vyplaty-kompensatcii-za-publikatciiu-foto-bez-soglasiia-izi"
       ]
     },
     "2026-05-11": {
@@ -262,10 +249,10 @@
       ]
     },
     "2026-05-17": {
-      "totalChecked": 77,
-      "totalIzi": 7,
+      "totalChecked": 258,
+      "totalIzi": 68,
       "totalIiz": 1,
-      "totalAi": 8,
+      "totalAi": 69,
       "topLinks": [
         "https://iz.ru/2097724/uchenye-priznali-bolshuiu-rol-sna-i-pitaniia-v-borbe-so-stressom-izi",
         "https://iz.ru/2097741/narodnye-primety-na-17-maia-chto-mozhno-i-nelzia-delat-iiz",
@@ -274,7 +261,19 @@
         "https://iz.ru/2098553/za-desiatiletie-razmer-pensii-v-rf-uvelichilsia-primerno-vdvoe-izi",
         "https://iz.ru/2098561/vens-obvinil-vlasti-ssha-v-finansirovanii-terroristov-izi",
         "https://iz.ru/2098569/uchastnikam-ege-obiasnili-dopustimye-sposoby-ispravleniia-oshibok-v-blankakh-izi",
-        "https://iz.ru/2098574/2026-05-17/v-velikobritanii-zaiavili-o-vozmozhnom-ukhode-starmera-s-posta-premera-izi"
+        "https://iz.ru/2098571/astrofizik-ukazala-na-trudnosti-v-poiske-podobnykh-zemle-planet-izi",
+        "https://iz.ru/2098574/2026-05-17/v-velikobritanii-zaiavili-o-vozmozhnom-ukhode-starmera-s-posta-premera-izi",
+        "https://iz.ru/2098576/2026-05-17/bolee-poloviny-proshenii-ob-ubezhishche-v-rf-podali-grazhdane-ukrainy-izi",
+        "https://iz.ru/2098599/monreal-proigral-baffalo-v-matche-plei-nkhl-izi",
+        "https://iz.ru/2098600/vlasti-frg-ne-nashli-reshenie-dlia-preodoleniia-defitcita-topliva-izi",
+        "https://iz.ru/2098604/sily-pvo-otrazili-massirovannuiu-ataku-na-podmoskove-izi",
+        "https://iz.ru/2098609/svitshoty-s-tcitatami-putina-stali-khitom-prodazh-na-vystavke-v-kharbine-izi",
+        "https://iz.ru/2098614/futbolnyi-klub-iz-kndr-pribyl-v-iuzhnuiu-koreiu-izi",
+        "https://iz.ru/2098615/v-ssha-zaiavili-ob-obnaruzhenii-chetyrekh-vidov-prisheltcev-izi",
+        "https://iz.ru/2098621/glava-delegatcii-mkkk-soobshchila-o-moshennichestve-v-otnoshenii-semei-propavshikh-izi",
+        "https://iz.ru/2098622/italianskii-senator-prizval-k-dialogu-s-rf-na-fone-skandalov-vokrug-biennale-izi",
+        "https://iz.ru/2098623/bloger-lerchek-v-ianvare-otkazalas-ot-srochnoi-gospitalizatcii-chto-izvestno-izi",
+        "https://iz.ru/2098625/ekonomist-sprognoziroval-uzhestochenie-uslovii-podderzhki-kieva-iz-za-dela-ermaka-izi"
       ]
     }
   }
