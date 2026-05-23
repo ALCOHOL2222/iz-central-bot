@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-23T12:11:12.811Z",
+  "generatedAt": "2026-05-23T14:07:53.843Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 15,
-    "failedFetches": 49,
+    "fetchedUrlSets": 27,
+    "failedFetches": 37,
     "childLocs": 64,
     "visitedCount": 65
   },
