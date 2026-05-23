@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-23T21:11:16.069Z",
+  "generatedAt": "2026-05-23T23:15:32.541Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 13,
-    "failedFetches": 51,
+    "fetchedUrlSets": 21,
+    "failedFetches": 43,
     "childLocs": 64,
     "visitedCount": 65
   },
@@ -53,14 +53,11 @@
       "topLinks": []
     },
     "2026-05-17": {
-      "totalChecked": 231,
-      "totalIzi": 66,
+      "totalChecked": 200,
+      "totalIzi": 63,
       "totalIiz": 0,
-      "totalAi": 66,
+      "totalAi": 63,
       "topLinks": [
-        "https://iz.ru/2098547/v-minobrnauki-perechislili-vozmozhnosti-poluchit-dopolnitelnye-bally-k-ege-izi",
-        "https://iz.ru/2098553/za-desiatiletie-razmer-pensii-v-rf-uvelichilsia-primerno-vdvoe-izi",
-        "https://iz.ru/2098561/vens-obvinil-vlasti-ssha-v-finansirovanii-terroristov-izi",
         "https://iz.ru/2098569/uchastnikam-ege-obiasnili-dopustimye-sposoby-ispravleniia-oshibok-v-blankakh-izi",
         "https://iz.ru/2098571/astrofizik-ukazala-na-trudnosti-v-poiske-podobnykh-zemle-planet-izi",
         "https://iz.ru/2098574/2026-05-17/v-velikobritanii-zaiavili-o-vozmozhnom-ukhode-starmera-s-posta-premera-izi",
@@ -77,7 +74,10 @@
         "https://iz.ru/2098625/ekonomist-sprognoziroval-uzhestochenie-uslovii-podderzhki-kieva-iz-za-dela-ermaka-izi",
         "https://iz.ru/2098626/putin-obratilsia-k-uchastnikam-rossiisko-kitaiskogo-ekspo-izi",
         "https://iz.ru/2098628/uchenye-vosstanovili-pamiat-u-myshei-s-dementciei-pri-vozdeistvii-na-mitokhondrii-izi",
-        "https://iz.ru/2098631/v-khersonskoi-oblasti-proizoshlo-massovoe-otkliuchenie-elektrichestva-izi"
+        "https://iz.ru/2098631/v-khersonskoi-oblasti-proizoshlo-massovoe-otkliuchenie-elektrichestva-izi",
+        "https://iz.ru/2098632/eks-chempiony-ufc-rouzi-i-ngannu-oderzhali-dosrochnye-pobedy-na-turnire-mvp-izi",
+        "https://iz.ru/2098633/v-irane-nazvali-novyi-proekt-mirnogo-plana-s-ssha-krasnoi-liniei-dlia-respubliki-izi",
+        "https://iz.ru/2098634/vosem-poezdov-iz-kryma-zaderzhivaiutsia-iz-za-perekrytiia-krymskogo-mosta-izi"
       ]
     },
     "2026-05-18": {
@@ -221,7 +221,7 @@
       ]
     },
     "2026-05-23": {
-      "totalChecked": 269,
+      "totalChecked": 275,
       "totalIzi": 30,
       "totalIiz": 0,
       "totalAi": 30,
@@ -249,7 +249,7 @@
       ]
     },
     "2026-05-24": {
-      "totalChecked": 0,
+      "totalChecked": 25,
       "totalIzi": 0,
       "totalIiz": 0,
       "totalAi": 0,
