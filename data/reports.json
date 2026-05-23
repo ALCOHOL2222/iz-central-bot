@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-05-23T19:40:45.230Z",
+  "generatedAt": "2026-05-23T21:11:16.069Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 9,
-    "failedFetches": 55,
+    "fetchedUrlSets": 13,
+    "failedFetches": 51,
     "childLocs": 64,
     "visitedCount": 65
   },
   "days": {
-    "2026-05-10": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-05-11": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -53,14 +46,14 @@
       "topLinks": []
     },
     "2026-05-16": {
-      "totalChecked": 3,
+      "totalChecked": 0,
       "totalIzi": 0,
       "totalIiz": 0,
       "totalAi": 0,
       "topLinks": []
     },
     "2026-05-17": {
-      "totalChecked": 245,
+      "totalChecked": 231,
       "totalIzi": 66,
       "totalIiz": 0,
       "totalAi": 66,
@@ -228,10 +221,10 @@
       ]
     },
     "2026-05-23": {
-      "totalChecked": 252,
-      "totalIzi": 29,
+      "totalChecked": 269,
+      "totalIzi": 30,
       "totalIiz": 0,
-      "totalAi": 29,
+      "totalAi": 30,
       "topLinks": [
         "https://iz.ru/2101188/uchenye-nazvali-zdorovyi-obraz-zhizni-kliuchevym-faktorom-profilaktiki-diabeta-izi",
         "https://iz.ru/2101407/uchenye-nashli-sposob-uskorit-vosstanovlenie-kishechnika-posle-khimioterapii-izi",
@@ -254,6 +247,13 @@
         "https://iz.ru/2102488/v-latvii-neopoznannyi-bespilotnik-upal-v-ozero-dridzis-i-sdetoniroval-izi",
         "https://iz.ru/2102493/pasechnik-opublikoval-imena-pogibshikh-i-postradavshikh-pri-atake-na-kolledzh-v-lnr-izi"
       ]
+    },
+    "2026-05-24": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
