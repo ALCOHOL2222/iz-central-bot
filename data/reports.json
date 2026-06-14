@@ -1,43 +1,15 @@
 {
-  "generatedAt": "2026-06-10T11:05:46.411Z",
+  "generatedAt": "2026-06-14T06:59:50.602Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 2,
-    "failedFetches": 62,
+    "fetchedUrlSets": 4,
+    "failedFetches": 60,
     "childLocs": 64,
     "visitedCount": 65
   },
   "days": {
-    "2026-05-28": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
-    "2026-05-29": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
-    "2026-05-30": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
-    "2026-05-31": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-06-01": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -102,6 +74,34 @@
       "topLinks": []
     },
     "2026-06-10": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
+    },
+    "2026-06-11": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
+    },
+    "2026-06-12": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
+    },
+    "2026-06-13": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
+    },
+    "2026-06-14": {
       "totalChecked": 0,
       "totalIzi": 0,
       "totalIiz": 0,
