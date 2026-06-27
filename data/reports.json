@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-06-26T10:30:15.711Z",
+  "generatedAt": "2026-06-27T06:07:05.850Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 3,
-    "failedFetches": 62,
+    "fetchedUrlSets": 28,
+    "failedFetches": 37,
     "childLocs": 65,
     "visitedCount": 66
   },
   "days": {
-    "2026-06-13": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-06-14": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -53,45 +46,18 @@
       "topLinks": []
     },
     "2026-06-19": {
-      "totalChecked": 266,
-      "totalIzi": 72,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 72,
-      "topLinks": [
-        "https://iz.ru/2118253/issledovateli-nashli-skrytye-volny-dlia-ochistki-zemli-ot-opasnykh-elektronov-izi",
-        "https://iz.ru/2118261/fifa-nazvala-luchshikh-igrokov-pervogo-tura-gruppovogo-etapa-chm-2026-izi",
-        "https://iz.ru/2118265/uchenye-obnaruzhili-shtammy-chumy-vozrastom-55-tys-let-izi",
-        "https://iz.ru/2118270/zaiavlenie-minoborony-rossii-o-biolaboratoriiakh-na-ukraine-glavnoe-izi",
-        "https://iz.ru/2118272/sobianin-soobshchil-ob-unichtozhenii-desiati-letevshikh-bespilotnikov-na-moskvu-izi",
-        "https://iz.ru/2118277/podozrevaemyi-v-ubiistve-chempiona-rf-v-kaluge-zameshan-v-pokhishchenii-ego-devushki-izi",
-        "https://iz.ru/2118281/uchenye-oprovergli-teoriiu-o-proiskhozhdenii-sukhoputnykh-zhivotnykh-ot-amfibii-izi",
-        "https://iz.ru/2118284/v-gosdume-otcenili-strategiiu-es-v-otnoshenii-vozmozhnogo-porazheniia-rossii-izi",
-        "https://iz.ru/2118296/uchenye-raskryli-unikalnuiu-nakhodku-pri-raskopkakh-v-drevnem-aspendose-izi",
-        "https://iz.ru/2118297/minoborony-ukazalo-na-vazhnost-osvobozhdeniia-iurkovki-v-borbe-za-slaviansk-izi",
-        "https://iz.ru/2118299/indeks-mosbirzhi-pereshel-k-snizheniiu-posle-resheniia-tcb-o-snizhenii-kliuchevoi-stavki-izi",
-        "https://iz.ru/2118304/klub-dinamo-prodlil-kontrakt-s-gendirektorom-pavlom-pivovarovym-do-2029-goda-izi",
-        "https://iz.ru/2118315/uchenye-vyiavili-skrytyi-mekhanizm-zapuska-bolezni-altcgeimera-izi",
-        "https://iz.ru/2118319/kosmonavt-rasskazal-ob-otrabotke-neshtatnykh-situatcii-ekipazhem-mks-75-izi",
-        "https://iz.ru/2118320/chestnyi-znak-nazval-regiony-rossii-s-bolshim-chislom-prodazh-pitevoi-vody-izi",
-        "https://iz.ru/2118322/gutcan-nazval-nedopustimoi-zaderzhku-strakhovykh-vyplat-uchastnikam-svo-izi",
-        "https://iz.ru/2118339/sledovateli-belorussii-osmotreli-atakovannyi-bpla-avtobus-s-detmi-izi",
-        "https://iz.ru/2118342/astronomy-obiasnili-nekhvatku-zvezd-v-krupneishikh-galaktikakh-vselennoi-izi",
-        "https://iz.ru/2118345/nabiullina-soobshchila-o-vozmozhnom-ogranichenii-snizheniia-kliuchevoi-stavki-izi",
-        "https://iz.ru/2118354/nabiullina-zaiavila-o-medlennom-snizhenii-napriazhennosti-na-rynke-truda-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-06-20": {
-      "totalChecked": 293,
-      "totalIzi": 82,
+      "totalChecked": 258,
+      "totalIzi": 76,
       "totalIiz": 0,
-      "totalAi": 82,
+      "totalAi": 76,
       "topLinks": [
-        "https://iz.ru/2118317/uchenye-iskliuchili-sposobnost-rybego-zhira-predotvratit-bolezn-altcgeimera-izi",
-        "https://iz.ru/2118343/uchenye-sviazali-sladkuiu-zhevatelnuiu-rezinku-so-snizheniem-davleniia-izi",
-        "https://iz.ru/2118394/2026-06-20/astronomy-obnaruzhili-pervuiu-dvoinuiu-sistemu-so-vzryvom-obeikh-zvezd-izi",
-        "https://iz.ru/2118403/2026-06-20/uchenye-vyiasnili-vliianie-sredy-na-geneticheskuiu-predraspolozhennost-k-ozhireniiu-izi",
-        "https://iz.ru/2118722/dmitriev-zaiavil-o-mekhanizme-podavleniia-alternativnykh-vzgliadov-pri-covid-19-izi",
-        "https://iz.ru/2118736/velikobritaniia-izmenila-usloviia-litcenzii-dlia-struktury-lukoil-international-izi",
         "https://iz.ru/2118741/evrodeputat-nazval-sanktcii-protiv-rf-odnoi-iz-prichin-ekonomicheskikh-trudnostei-es-izi",
         "https://iz.ru/2118746/amerikanskii-telerezhisser-i-prodiuser-dzheims-berrouz-biografiia-izi",
         "https://iz.ru/2118760/v-minprosveshcheniia-anonsirovali-izmeneniia-v-programme-starshikh-klassov-s-2027-goda-izi",
@@ -105,11 +71,17 @@
         "https://iz.ru/2118831/ushakov-zaiavil-o-liubopytnykh-niuansakh-pozitcii-madiara-po-ukraine-i-es-izi",
         "https://iz.ru/2118837/v-rossii-startovala-priemnaia-kampaniia-v-vuzy-izi",
         "https://iz.ru/2118845/v-gosdume-predlozhili-borotsia-s-praktikoi-psevdozozh-pri-markirovke-produktov-izi",
-        "https://iz.ru/2118848/vpervye-na-chm-udalili-futbolista-za-prikrytyi-rot-vo-vremia-konflikta-izi"
+        "https://iz.ru/2118848/vpervye-na-chm-udalili-futbolista-za-prikrytyi-rot-vo-vremia-konflikta-izi",
+        "https://iz.ru/2118858/finskii-premer-zaochno-otvetil-na-kritiku-latvii-po-peregovoram-s-rf-izi",
+        "https://iz.ru/2118860/podpis-maksima-fadeeva-v-dokumentakh-ob-avtorskikh-pravakh-okazalas-poddelnoi-izi",
+        "https://iz.ru/2118864/gosdolg-armenii-za-vremia-premerstva-pashiniana-vyros-na-110-izi",
+        "https://iz.ru/2118869/prezident-brazilii-poshutil-o-neuchastii-neimara-v-matchakh-sbornoi-na-chm-izi",
+        "https://iz.ru/2118878/v-gosdume-ukazali-na-polozhitelnyi-rezultat-mer-po-borbe-s-kibermoshennikami-izi",
+        "https://iz.ru/2118883/medvedev-otreagiroval-na-otrabotku-v-niderlandakh-kontclagerei-dlia-rossiiskikh-plennykh-izi"
       ]
     },
     "2026-06-21": {
-      "totalChecked": 283,
+      "totalChecked": 273,
       "totalIzi": 83,
       "totalIiz": 0,
       "totalAi": 83,
@@ -137,7 +109,7 @@
       ]
     },
     "2026-06-22": {
-      "totalChecked": 458,
+      "totalChecked": 442,
       "totalIzi": 105,
       "totalIiz": 0,
       "totalAi": 105,
@@ -165,7 +137,7 @@
       ]
     },
     "2026-06-23": {
-      "totalChecked": 469,
+      "totalChecked": 464,
       "totalIzi": 99,
       "totalIiz": 0,
       "totalAi": 99,
@@ -249,10 +221,10 @@
       ]
     },
     "2026-06-26": {
-      "totalChecked": 219,
-      "totalIzi": 34,
+      "totalChecked": 455,
+      "totalIzi": 118,
       "totalIiz": 0,
-      "totalAi": 34,
+      "totalAi": 118,
       "topLinks": [
         "https://iz.ru/2121290/uchenye-dokazali-polzu-dvukhchasovykh-silovykh-nagruzok-protiv-diabeta-izi",
         "https://iz.ru/2121754/uchenye-vyiavili-skrytyi-perekliuchatel-fokusirovki-v-mozge-izi",
@@ -274,6 +246,27 @@
         "https://iz.ru/2122291/novak-zaiavil-o-dostatochnom-kolichestve-zapasov-topliva-v-rossii-izi",
         "https://iz.ru/2122292/zhiteli-venesuely-rasskazali-o-posledstviiakh-zemletriaseniia-izi",
         "https://iz.ru/2122295/elektronnaia-registratciia-dlia-vezda-vo-vetnam-zapushchena-v-testovom-rezhime-izi"
+      ]
+    },
+    "2026-06-27": {
+      "totalChecked": 96,
+      "totalIzi": 12,
+      "totalIiz": 1,
+      "totalAi": 13,
+      "topLinks": [
+        "https://iz.ru/2120926/60-prikolnye-otkrytki-s-dnem-molodezhi-iarkie-kartinki-gifki-i-veselye-pozdravleniia-iiz",
+        "https://iz.ru/2122316/uchenye-vyiavili-sviaz-mezhdu-urovnem-gistidina-i-uspekhom-terapii-raka-izi",
+        "https://iz.ru/2122366/uchenye-nazvali-smekh-kliuchom-k-izucheniiu-evoliutcii-chelovecheskoi-rechi-izi",
+        "https://iz.ru/2122841/2026-06-27/sbornaia-senegala-oderzhala-pobedu-v-matche-s-irakom-so-schetom-50-na-chm-2026-izi",
+        "https://iz.ru/2122848/bastrykin-predlozhil-vvesti-otvetstvennost-dlia-roditelei-za-prestupleniia-detei-izi",
+        "https://iz.ru/2122849/novyi-gost-na-plombir-vvedut-v-rossii-izi",
+        "https://iz.ru/2122874/2026-06-27/rossiianam-posovetovali-ne-vyezzhat-za-granitcu-v-period-letnego-otpuska-izi",
+        "https://iz.ru/2122893/2026-06-27/deputat-evroparlamenta-zaiavil-o-roste-storonnikov-dialoga-s-rf-izi",
+        "https://iz.ru/2122912/astronom-rasskazal-o-nabliudenii-letne-osennego-treugolnika-v-iiule-izi",
+        "https://iz.ru/2122923/premer-latvii-obiasnil-uskorennoe-vstuplenie-ukrainy-v-es-nuzhdoi-v-ee-resursakh-izi",
+        "https://iz.ru/2122934/ekspert-rasskazala-o-prichinakh-poleznosti-zhevatelnoi-rezinki-izi",
+        "https://iz.ru/2122949/unichtozheny-dva-bespilotnika-na-podlete-k-moskve-izi",
+        "https://iz.ru/2122950/mbappe-oboshel-messi-po-chislu-rezultativnykh-deistvii-na-chm-2026-izi"
       ]
     }
   }
