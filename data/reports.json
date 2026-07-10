@@ -1,28 +1,30 @@
 {
-  "generatedAt": "2026-07-10T04:17:37.452Z",
+  "generatedAt": "2026-07-10T07:56:48.754Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 1,
-    "failedFetches": 64,
+    "fetchedUrlSets": 2,
+    "failedFetches": 63,
     "childLocs": 65,
     "visitedCount": 66
   },
   "days": {
     "2026-06-27": {
-      "totalChecked": 0,
+      "totalChecked": 8,
       "totalIzi": 0,
       "totalIiz": 0,
       "totalAi": 0,
       "topLinks": []
     },
     "2026-06-28": {
-      "totalChecked": 0,
-      "totalIzi": 0,
+      "totalChecked": 1,
+      "totalIzi": 1,
       "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2118142/predprinimatel-i-osnovatel-kompanii-spacex-ilon-mask-biografiia-izi"
+      ]
     },
     "2026-06-29": {
       "totalChecked": 0,
@@ -32,7 +34,7 @@
       "topLinks": []
     },
     "2026-06-30": {
-      "totalChecked": 0,
+      "totalChecked": 1,
       "totalIzi": 0,
       "totalIiz": 0,
       "totalAi": 0,
@@ -95,11 +97,13 @@
       "topLinks": []
     },
     "2026-07-09": {
-      "totalChecked": 0,
-      "totalIzi": 0,
+      "totalChecked": 1,
+      "totalIzi": 1,
       "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2115903/pevitca-bonni-tailer-biografiia-izi"
+      ]
     },
     "2026-07-10": {
       "totalChecked": 0,
