@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T19:33:51.517Z",
+  "generatedAt": "2026-07-12T22:09:57.877Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,13 +10,6 @@
     "visitedCount": 66
   },
   "days": {
-    "2026-06-29": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-06-30": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -46,20 +39,11 @@
       "topLinks": []
     },
     "2026-07-04": {
-      "totalChecked": 161,
-      "totalIzi": 51,
+      "totalChecked": 141,
+      "totalIzi": 42,
       "totalIiz": 0,
-      "totalAi": 51,
+      "totalAi": 42,
       "topLinks": [
-        "https://iz.ru/2127018/beglov-soobshchil-ob-otrazhenii-masshtabnoi-ataki-dronov-na-peterburg-izi",
-        "https://iz.ru/2127021/v-altaiskom-krae-passazhirskii-mikroavtobus-oprokinulsia-v-kiuvet-izi",
-        "https://iz.ru/2127022/v-gatchine-zaderzhali-podozrevaemogo-v-ubiistve-12-letnei-devochki-izi",
-        "https://iz.ru/2127023/lavrov-pozdravil-ssha-s-dnem-nezavisimosti-i-prizval-k-chestnomu-dialogu-izi",
-        "https://iz.ru/2127025/euractiv-vysmeial-sanktcii-es-v-2050-godu-zapretiat-borshch-i-dressirovshchikov-medvedei-izi",
-        "https://iz.ru/2127029/v-slovakii-nachalsia-referendum-o-lishenii-fitco-pozhiznennykh-vyplat-izi",
-        "https://iz.ru/2127038/zaderzhannyi-agent-sbu-sledil-za-gosudarstvennymi-vizitami-v-sochi-izi",
-        "https://iz.ru/2127043/v-norvegii-nazvali-finliandiiu-krupneishim-frontom-zapada-protiv-rossii-izi",
-        "https://iz.ru/2127046/genshtab-soobshchil-o-popytkakh-vsu-uderzhat-konstantinovku-dlia-zapada-izi",
         "https://iz.ru/2127070/zaderzhannyi-za-ubiistvo-12-letnei-devochki-v-lenoblasti-priznal-vinu-izi",
         "https://iz.ru/2127082/odin-chelovek-pogib-pri-udare-molnii-na-pliazhe-vo-floride-izi",
         "https://iz.ru/2127085/deputat-lantratova-obratilas-v-oon-iz-za-atak-ukrainy-na-grazhdanskoe-naselenie-izi",
@@ -70,7 +54,16 @@
         "https://iz.ru/2127096/zakharova-prokommentirovala-zaiavlenie-o-signale-putina-miru-izi",
         "https://iz.ru/2127097/sud-v-peterburge-otpravili-pod-strazhu-boevika-vsu-panina-izi",
         "https://iz.ru/2127099/pri-pozhare-na-sklade-v-stavropole-postradal-chelovek-izi",
-        "https://iz.ru/2127101/genshtab-rf-poobeshchal-vypolnit-zadachi-po-osvobozhdeniiu-donbassa-izi"
+        "https://iz.ru/2127101/genshtab-rf-poobeshchal-vypolnit-zadachi-po-osvobozhdeniiu-donbassa-izi",
+        "https://iz.ru/2127102/medvedev-i-pezeshkian-obsudili-sozdanie-obedineniia-podsanktcionnykh-stran-izi",
+        "https://iz.ru/2127111/umer-odin-iz-osnovatelei-rossiiskogo-it-rynka-aleksandr-kalinin-izi",
+        "https://iz.ru/2127112/sinoptik-predupredila-ob-ugroze-smerchei-na-poberezhe-kubani-izi",
+        "https://iz.ru/2127117/donald-tusk-poobeshchal-podumat-o-sokrashchenii-pomoshchi-ukraine-izi",
+        "https://iz.ru/2127118/v-peterburge-prostilis-s-olimpiiskim-chempionom-arturom-dmitrievym-izi",
+        "https://iz.ru/2127121/dmitriev-raskritikoval-britanskie-smi-za-napadki-na-trampa-izi",
+        "https://iz.ru/2127123/belousov-pozdravil-rossiiskikh-boitcov-s-osvobozhdeniem-konstantinovki-v-dnr-izi",
+        "https://iz.ru/2127124/v-erfurte-proshli-mnogotysiachnye-protesty-protiv-sezda-adg-izi",
+        "https://iz.ru/2127131/v-reke-tom-v-kuzbasse-obnaruzhili-telo-propavshei-9-letnei-devochki-izi"
       ]
     },
     "2026-07-05": {
@@ -270,10 +263,10 @@
       ]
     },
     "2026-07-12": {
-      "totalChecked": 214,
-      "totalIzi": 55,
+      "totalChecked": 233,
+      "totalIzi": 64,
       "totalIiz": 1,
-      "totalAi": 56,
+      "totalAi": 65,
       "topLinks": [
         "https://iz.ru/2130264/narodnye-primety-na-12-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2131087/khegset-ukazal-na-rasplatu-irana-za-sovershennye-oshibki-izi",
@@ -296,6 +289,13 @@
         "https://iz.ru/2131211/opredeleny-vse-pary-polufinala-chempionata-mira-po-futbolu-izi",
         "https://iz.ru/2131212/v-rossii-sozdali-kollagenovye-plenki-dlia-vyrashchivaniia-kletok-rogovitcy-izi"
       ]
+    },
+    "2026-07-13": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
