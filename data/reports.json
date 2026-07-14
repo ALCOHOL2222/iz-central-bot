@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-14T14:16:19.039Z",
+  "generatedAt": "2026-07-14T17:35:44.528Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 5,
-    "failedFetches": 60,
+    "fetchedUrlSets": 2,
+    "failedFetches": 63,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -46,32 +46,14 @@
       "topLinks": []
     },
     "2026-07-06": {
-      "totalChecked": 45,
-      "totalIzi": 17,
+      "totalChecked": 0,
+      "totalIzi": 0,
       "totalIiz": 0,
-      "totalAi": 17,
-      "topLinks": [
-        "https://iz.ru/2128199/paragvaiskii-senator-amarilia-oskorbila-na-rasistskoi-pochve-mbappe-izi",
-        "https://iz.ru/2128210/ukrainskie-smi-soobshchili-o-krushenii-vertoleta-mi-8-v-poltavskoi-oblasti-izi",
-        "https://iz.ru/2128213/v-nato-prizvali-otcenit-vozmozhnosti-podderzhki-so-storony-ssha-izi",
-        "https://iz.ru/2128226/sud-otkazal-operatoru-severnykh-potokov-vo-vzyskanii-strakhovoi-kompensatcii-izi",
-        "https://iz.ru/2128231/rossiiskie-spetcsluzhby-poluchili-dostup-k-bazam-dannykh-ukrainskikh-voennykh-izi",
-        "https://iz.ru/2128232/sily-pvo-sbili-za-12-chasov-116-ukrainskikh-bespilotnikov-nad-territoriei-rossii-izi",
-        "https://iz.ru/2128242/verkauteren-vystupil-protiv-boikota-matcha-so-sbornoi-ssha-izi",
-        "https://iz.ru/2128245/solist-gosudarstvennogo-orkestra-utonul-v-tatarstane-izi",
-        "https://iz.ru/2128246/infantino-zaiavil-o-nezavisimosti-fifa-po-delu-o-diskvalifikatcii-baloguna-izi",
-        "https://iz.ru/2128251/rossiianam-grozit-20-let-tiurmy-za-podem-na-empair-steit-bilding-izi",
-        "https://iz.ru/2128255/v-polshe-zaiavili-o-znachitelnom-snizhenii-postavok-oruzhiia-ukraine-izi",
-        "https://iz.ru/2128261/v-gosdume-predlozhili-uvelichit-osnovaniia-dlia-vydvoreniia-migrantov-izi",
-        "https://iz.ru/2128266/v-rossiiskii-plen-popal-mechtavshii-igrat-za-tcska-ukrainskii-eks-futbolist-izi",
-        "https://iz.ru/2128273/lantratova-napravila-obrashchenie-v-oon-posle-udara-vsu-po-avtobusu-izi",
-        "https://iz.ru/2128274/minoborony-britanii-zaiavilo-o-sblizhenii-samoleta-vs-rossii-s-avianostcem-izi",
-        "https://iz.ru/2128278/ministr-transporta-rasskazal-o-novykh-pravilakh-aviapereletov-dlia-semei-s-detmi-izi",
-        "https://iz.ru/2128282/iurist-zaiavil-o-neobkhodimosti-sobliudeniia-zakona-o-shume-na-dache-izi"
-      ]
+      "totalAi": 0,
+      "topLinks": []
     },
     "2026-07-07": {
-      "totalChecked": 401,
+      "totalChecked": 360,
       "totalIzi": 90,
       "totalIiz": 0,
       "totalAi": 90,
@@ -267,10 +249,10 @@
       ]
     },
     "2026-07-14": {
-      "totalChecked": 343,
-      "totalIzi": 76,
+      "totalChecked": 428,
+      "totalIzi": 111,
       "totalIiz": 1,
-      "totalAi": 77,
+      "totalAi": 112,
       "topLinks": [
         "https://iz.ru/2130263/narodnye-primety-na-14-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2131546/uchenye-obnaruzhili-sviaz-mezhdu-serotoninom-i-bolezniami-klapanov-serdtca-izi",
