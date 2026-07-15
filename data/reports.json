@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-15T14:14:26.455Z",
+  "generatedAt": "2026-07-15T17:41:31.006Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 5,
-    "failedFetches": 60,
+    "fetchedUrlSets": 7,
+    "failedFetches": 58,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -46,29 +46,18 @@
       "topLinks": []
     },
     "2026-07-07": {
-      "totalChecked": 12,
+      "totalChecked": 0,
       "totalIzi": 0,
       "totalIiz": 0,
       "totalAi": 0,
       "topLinks": []
     },
     "2026-07-08": {
-      "totalChecked": 391,
-      "totalIzi": 96,
+      "totalChecked": 289,
+      "totalIzi": 85,
       "totalIiz": 0,
-      "totalAi": 96,
+      "totalAi": 85,
       "topLinks": [
-        "https://iz.ru/2128993/plennyi-vsu-ukazal-na-bessmyslennost-deistvii-kieva-iz-za-poter-i-dolgov-izi",
-        "https://iz.ru/2128994/turoperator-soobshchil-o-roste-sprosa-na-sladosti-sredi-rossiian-v-turtcii-izi",
-        "https://iz.ru/2129005/egipet-napravil-zhalobu-v-fifa-na-deistviia-sudi-v-18-finala-chm-2026-izi",
-        "https://iz.ru/2129014/shturmoviki-rf-zametili-zhenshchinu-sredi-otstupaiushchikh-soldat-vsu-izi",
-        "https://iz.ru/2129021/armiia-rossii-nanesli-udary-po-obektam-vpk-ukrainy-v-kieve-izi",
-        "https://iz.ru/2129026/v-rossii-napomnili-ob-iskliucheniiakh-pri-oplate-kapitalnogo-remonta-izi",
-        "https://iz.ru/2129030/zhurnalist-otcenil-vozmozhnuiu-reaktciiu-trampa-na-zaiavlenie-stubba-izi",
-        "https://iz.ru/2129032/novak-v-rossii-rassmatrivaiut-mery-po-nasyshcheniiu-rynka-nefteproduktami-izi",
-        "https://iz.ru/2129043/na-poliakh-sammita-nato-v-ankare-zakliuchili-oboronnye-soglasheniia-na-50-mlrd-izi",
-        "https://iz.ru/2129044/v-moskve-na-oranzhevoi-vetke-metro-uvelichili-intervaly-dvizheniia-poezdov-izi",
-        "https://iz.ru/2129050/dve-turistki-sorvalis-so-skaly-kamen-zheltyi-v-permskom-krae-izi",
         "https://iz.ru/2129061/chislo-zabolevshikh-likhoradkoi-ebola-v-dr-kongo-prevysilo-17-tys-izi",
         "https://iz.ru/2129084/v-kongresse-ssha-vystupili-protiv-vozmozhnoi-prodazhi-f-35-turtcii-izi",
         "https://iz.ru/2129086/max-nachal-testirovat-funktciiu-sozdaniia-kanalov-dlia-polzovatelei-messendzhera-izi",
@@ -77,7 +66,18 @@
         "https://iz.ru/2129102/uchenye-izuchili-dnk-neandertaltcev-s-tceliu-vyiasnit-vozmozhnost-klonirovaniia-izi",
         "https://iz.ru/2129109/vs-rf-porazili-obekty-transportnoi-infrastruktury-ukrainy-izi",
         "https://iz.ru/2129121/rossiia-rasschityvaet-na-reaktciiu-turtcii-vvidu-ataki-po-golubomu-potoku-izi",
-        "https://iz.ru/2129124/v-kremle-nazvali-reshenie-mok-vazhnym-shagom-k-vozvrashcheniiu-rossiian-na-turniry-izi"
+        "https://iz.ru/2129124/v-kremle-nazvali-reshenie-mok-vazhnym-shagom-k-vozvrashcheniiu-rossiian-na-turniry-izi",
+        "https://iz.ru/2129128/peskov-rasskazal-ob-otvete-rossii-na-ataki-po-tankeram-v-kaspiiskom-more-izi",
+        "https://iz.ru/2129143/uchenye-razrabotali-sistemu-dlia-identifikatcii-signalov-zhizni-v-kosmose-izi",
+        "https://iz.ru/2129154/ni-odin-iz-ministrov-stran-evrosoiuza-ne-priekhal-v-irlandiiu-na-vstrechu-soveta-es-izi",
+        "https://iz.ru/2129167/vs-rf-porazili-bespilotnikami-geran-lokomotivy-vsu-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2129169/gosduma-priniala-zakon-o-vvedenii-stazhirovki-dlia-vypusknikov-kolledzhei-i-vuzov-izi",
+        "https://iz.ru/2129173/kreml-nazval-udary-po-tankeram-v-azovskom-more-terroristicheskoi-atakoi-kieva-izi",
+        "https://iz.ru/2129176/fizik-prodemonstriroval-teoriiu-vremeni-na-sozdannoi-mini-vselennoi-izi",
+        "https://iz.ru/2129183/smi-uznali-o-poruchenii-trampa-bessentu-sokratit-torgovliu-s-ispaniei-izi",
+        "https://iz.ru/2129187/bolelshchik-sbornoi-argentiny-pogib-vo-vremia-prazdnovaniia-pobedy-komandy-na-chm-izi",
+        "https://iz.ru/2129192/2026-07-08/v-gd-priniali-zakon-o-razvitii-tekhnologii-iskusstvennogo-intellekta-izi",
+        "https://iz.ru/2129195/v-moskve-arestovali-glavu-sekty-grazhdane-sssr-izi"
       ]
     },
     "2026-07-09": {
@@ -109,12 +109,11 @@
       ]
     },
     "2026-07-10": {
-      "totalChecked": 394,
+      "totalChecked": 393,
       "totalIzi": 107,
-      "totalIiz": 1,
-      "totalAi": 108,
+      "totalIiz": 0,
+      "totalAi": 107,
       "topLinks": [
-        "https://iz.ru/2129054/narodnye-primety-na-10-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2129217/uchenye-zafiksirovali-rost-chisla-sluchaev-besplodiia-u-zhenshchin-starshe-35-let-izi",
         "https://iz.ru/2129334/uchenye-obnaruzhili-sviaz-mezhdu-perenesennym-covid-19-i-porazheniem-glaz-izi",
         "https://iz.ru/2129698/2026-07-10/krupneishaia-aviakatastrofa-sssr-chto-proizoshlo-pod-uchkudukom-izi",
@@ -133,7 +132,8 @@
         "https://iz.ru/2130227/vsu-pereshli-na-samodelnye-miny-s-iglami-i-monetami-izi",
         "https://iz.ru/2130229/sistemy-pvo-sbili-chetyre-letevshikh-na-moskvu-bespilotnika-izi",
         "https://iz.ru/2130230/v-rostovskoi-oblasti-iz-za-ataki-bpla-zagorelis-obekty-khraneniia-nefti-izi",
-        "https://iz.ru/2130231/v-krymu-nazvali-oshibochnym-vospriiatie-riutte-rossii-v-kachestve-ugrozy-izi"
+        "https://iz.ru/2130231/v-krymu-nazvali-oshibochnym-vospriiatie-riutte-rossii-v-kachestve-ugrozy-izi",
+        "https://iz.ru/2130232/nyt-rasskazala-pouchitelnuiu-istoriiu-dlia-ukrainy-s-zavodom-patriot-izi"
       ]
     },
     "2026-07-11": {
@@ -249,10 +249,10 @@
       ]
     },
     "2026-07-15": {
-      "totalChecked": 336,
-      "totalIzi": 71,
+      "totalChecked": 451,
+      "totalIzi": 116,
       "totalIiz": 1,
-      "totalAi": 72,
+      "totalAi": 117,
       "topLinks": [
         "https://iz.ru/2131641/narodnye-primety-na-15-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2131822/uchenye-vyiavili-sviaz-mezhdu-mestom-prozhivaniia-i-riskom-dementcii-izi",
