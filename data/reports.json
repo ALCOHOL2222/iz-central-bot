@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T09:42:41.025Z",
+  "generatedAt": "2026-07-24T12:04:31.735Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-07-16": {
-      "totalChecked": 664,
-      "totalIzi": 197,
+      "totalChecked": 629,
+      "totalIzi": 190,
       "totalIiz": 1,
-      "totalAi": 198,
+      "totalAi": 191,
       "topLinks": [
-        "https://iz.ru/2133516/v-krymu-zaderzhali-prizyvavshego-k-nasiliiu-storonnika-ukrainskikh-natcionalistov-izi",
-        "https://iz.ru/2133521/vs-rossii-priblizilis-k-okrestnostiam-slavianska-i-stali-tuda-zakhodit-izi",
-        "https://iz.ru/2133523/egipet-zamenit-bumazhnye-vizy-na-qr-kody-v-aeroportu-kaira-s-1-avgusta-izi",
-        "https://iz.ru/2133529/v-lnr-tri-cheloveka-pogibli-i-sem-postradali-pri-atakakh-ukrainskikh-bpla-izi",
-        "https://iz.ru/2133533/pevetc-grigorii-leps-biografiia-izi",
-        "https://iz.ru/2133534/v-kitae-ukazali-na-stabilnost-v-mire-ot-druzhby-s-rossiei-izi",
-        "https://iz.ru/2133539/v-drk-otkryli-novyi-vid-obezian-s-oranzhevymi-gubami-izi",
         "https://iz.ru/2133542/fsb-presekla-dve-popytki-teraktov-na-krymskom-mostu-izi",
         "https://iz.ru/2133543/fedorov-posle-obiavleniia-ob-otstavke-podtverdil-konflikt-s-glavkomom-vsu-izi",
         "https://iz.ru/2133547/rezhim-chs-vveden-v-10-munitcipalitetakh-sverdlovskoi-oblasti-izi",
@@ -175,16 +168,22 @@
         "https://iz.ru/2133567/putin-zaiavil-o-neobkhodimosti-obespechivat-rossiian-kuplennym-zhilem-v-srok-izi",
         "https://iz.ru/2133570/iuzhnaia-koreia-mozhet-zapretit-detiam-do-14-let-polzovatsia-sotcsetiami-izi",
         "https://iz.ru/2133571/prezident-rfs-vozmutilsia-iz-za-nevozmozhnosti-prosmotra-matcha-frantciia-ispaniia-izi",
-        "https://iz.ru/2133572/putin-nazval-obem-investitcii-rossiian-v-zhile-v-16-trln-rublei-izi"
+        "https://iz.ru/2133572/putin-nazval-obem-investitcii-rossiian-v-zhile-v-16-trln-rublei-izi",
+        "https://iz.ru/2133575/vlasti-priniali-reshenie-o-subsidiiakh-na-zakupki-topliva-dlia-kryma-izi",
+        "https://iz.ru/2133583/v-armenii-rossiianina-pereputali-s-khakerom-i-zaderzhali-po-zaprosu-ssha-izi",
+        "https://iz.ru/2133586/v-turtcii-nazvali-ubiistvo-glavnogo-inzhenera-zaes-meniaiushchim-kharakter-konflikta-izi",
+        "https://iz.ru/2133587/fedorov-predlagal-zelenskomu-otpravit-v-otstavku-syrskogo-izi",
+        "https://iz.ru/2133590/deputat-ep-raskritikovala-zelenskogo-za-slova-pri-vruchenii-ordena-fon-der-liaien-izi",
+        "https://iz.ru/2133591/zhitelei-los-andzhelesa-mogut-evakuirovat-iz-za-toksinov-ot-gniiushchego-sklada-edy-izi",
+        "https://iz.ru/2133597/na-zaes-uvekovechat-pamiat-ubitogo-vsu-glavnogo-inzhenera-iakovleva-izi"
       ]
     },
     "2026-07-17": {
-      "totalChecked": 810,
-      "totalIzi": 188,
+      "totalChecked": 805,
+      "totalIzi": 187,
       "totalIiz": 0,
-      "totalAi": 188,
+      "totalAi": 187,
       "topLinks": [
-        "https://iz.ru/2133522/uchenye-obnaruzhili-vyzyvaiushchie-rak-geneticheskie-mutatcii-u-gekkonov-izi",
         "https://iz.ru/2133837/rossiia-obratilas-v-vto-po-sporu-s-es-iz-za-uglerodnogo-mekhanizma-izi",
         "https://iz.ru/2133885/rossiia-sokratili-postavki-piva-iz-nedruzhestvennykh-stran-izi",
         "https://iz.ru/2133898/futbolku-pele-s-finala-chm-1958-prodali-pochti-za-5-mln-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2133996/final-chempionata-mira-po-futbolu-mogut-perenesti-iz-za-lesnykh-pozharov-izi",
         "https://iz.ru/2134001/vozliublennyi-lerchek-vpervye-pokazal-ee-bez-parika-posle-khimioterapii-izi",
         "https://iz.ru/2134002/zhena-spasshego-devochku-v-konstantinovke-boitca-vozmet-ee-pod-opeku-izi",
-        "https://iz.ru/2134015/v-evrope-obiasnili-nevozmozhnost-vstupleniia-ukrainy-v-es-k-2028-godu-izi"
+        "https://iz.ru/2134015/v-evrope-obiasnili-nevozmozhnost-vstupleniia-ukrainy-v-es-k-2028-godu-izi",
+        "https://iz.ru/2134020/sovfed-odobril-zakonoproekt-o-podderzhke-pochty-rossii-izi"
       ]
     },
     "2026-07-18": {
@@ -235,12 +235,11 @@
       ]
     },
     "2026-07-19": {
-      "totalChecked": 569,
-      "totalIzi": 214,
+      "totalChecked": 568,
+      "totalIzi": 213,
       "totalIiz": 2,
-      "totalAi": 216,
+      "totalAi": 215,
       "topLinks": [
-        "https://iz.ru/2133520/ot-gomera-do-gogolia-chto-chitat-pered-odisseei-nolana-izi",
         "https://iz.ru/2134066/narodnye-primety-na-19-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2134189/neirobiologi-oprovergli-teoriiu-o-raznykh-retceptorakh-tepla-i-kholoda-izi",
         "https://iz.ru/2134303/2026-07-19/napadaiushchii-barselony-i-sbornoi-ispanii-lamin-iamal-biografiia-izi",
@@ -259,11 +258,12 @@
         "https://iz.ru/2134907/ap-soobshchilo-o-zaderzhanii-bratev-teit-po-zaprosu-britanskikh-vlastei-v-ssha-izi",
         "https://iz.ru/2134913/rossiia-sokratila-vvoz-nemetckogo-piva-do-istoricheskogo-minimuma-izi",
         "https://iz.ru/2134917/ekspert-po-nedvizhimosti-nazval-nedootcenennye-pliusy-i-minusy-zhizni-za-mkadom-izi",
-        "https://iz.ru/2134918/pedagog-nazvala-prichiny-bystroi-ustalosti-sovremennykh-detei-dazhe-bez-nagruzok-izi"
+        "https://iz.ru/2134918/pedagog-nazvala-prichiny-bystroi-ustalosti-sovremennykh-detei-dazhe-bez-nagruzok-izi",
+        "https://iz.ru/2134919/it-ekspert-obiasnil-uiazvimost-slozhnykh-parolei-pri-povtornom-ispolzovanii-izi"
       ]
     },
     "2026-07-20": {
-      "totalChecked": 921,
+      "totalChecked": 920,
       "totalIzi": 177,
       "totalIiz": 3,
       "totalAi": 180,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-07-21": {
-      "totalChecked": 796,
+      "totalChecked": 795,
       "totalIzi": 136,
       "totalIiz": 2,
       "totalAi": 138,
@@ -375,16 +375,17 @@
       ]
     },
     "2026-07-24": {
-      "totalChecked": 316,
-      "totalIzi": 61,
+      "totalChecked": 359,
+      "totalIzi": 73,
       "totalIiz": 3,
-      "totalAi": 64,
+      "totalAi": 76,
       "topLinks": [
         "https://iz.ru/2137095/uchenye-sviazali-perenesennye-infektcii-s-riskom-psikhicheskikh-zabolevanii-izi",
         "https://iz.ru/2137116/uchenye-ukazali-na-risk-obrashcheniia-k-ii-za-psikhologicheskoi-pomoshchiu-izi",
         "https://iz.ru/2137310/narodnye-primety-na-24-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2137318/ldpr-predlozhila-uvelichit-kreditnye-kanikuly-pri-finansovykh-trudnostiakh-do-3-let-izi",
         "https://iz.ru/2137359/rynok-elitnoi-nedvizhimosti-moskvy-vyros-v-shest-raz-za-piat-let-izi",
+        "https://iz.ru/2137361/byvshii-posol-rf-rasskazal-o-roli-ekonomicheskogo-sotrudnichestva-rossii-i-kitaia-izi",
         "https://iz.ru/2137410/2026-07-24/doverie-na-vynos-kak-serial-laki-prodolzhil-istoriiu-ekrannykh-moshennitc-izi",
         "https://iz.ru/2137586/2026-07-24/na-zemle-zafiksirovali-vtoruiu-magnitnuiu-buriu-s-nachala-iiulia-izi",
         "https://iz.ru/2137636/bezhenka-iz-latvii-rasskazala-ob-otkrytosti-liudei-v-rossii-izi",
@@ -398,8 +399,7 @@
         "https://iz.ru/2137655/ssha-vveli-poshlinu-v-125-na-import-tovarov-iz-rossii-izi",
         "https://iz.ru/2137657/bolnaia-rakom-lerchek-stantcevala-s-vozliublennym-na-iakhtennoi-vecherinke-izi",
         "https://iz.ru/2137658/v-moskve-predotvratili-popytku-podryva-avtomobilia-sotrudnika-organov-bezopasnosti-izi",
-        "https://iz.ru/2137661/sk-vozbudil-delo-o-primenenii-kievom-zapreshchennykh-sredstv-voiny-izi",
-        "https://iz.ru/2137663/v-kirove-predpriiatie-podverglos-raketnoi-atake-vsu-izi"
+        "https://iz.ru/2137661/sk-vozbudil-delo-o-primenenii-kievom-zapreshchennykh-sredstv-voiny-izi"
       ]
     }
   }
