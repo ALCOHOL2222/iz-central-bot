@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:56:20.630Z",
+  "generatedAt": "2026-07-24T18:02:13.323Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,22 +151,11 @@
       ]
     },
     "2026-07-16": {
-      "totalChecked": 524,
-      "totalIzi": 148,
+      "totalChecked": 501,
+      "totalIzi": 137,
       "totalIiz": 1,
-      "totalAi": 149,
+      "totalAi": 138,
       "topLinks": [
-        "https://iz.ru/2133702/chto-proizoshlo-za-den-16-iiulia-glavnoe-izi",
-        "https://iz.ru/2133703/lider-khusitov-prigrozil-saudovskoi-aravii-udarami-po-neftianym-obektam-izi",
-        "https://iz.ru/2133705/ksir-nazval-nedvizhimost-trampa-na-blizhnem-vostoke-zakonnoi-tceliu-dlia-irana-izi",
-        "https://iz.ru/2133709/uchenye-nashli-zashchitnyi-mekhanizm-vnutri-nervnykh-kletok-izi",
-        "https://iz.ru/2133712/fk-barselona-vpervye-podpisala-kontrakt-s-kazakhstanskim-futbolistom-izi",
-        "https://iz.ru/2133720/ombudsmen-soobshchila-o-zhalobakh-na-otkazy-v-zachislenii-detei-v-10-klass-izi",
-        "https://iz.ru/2133722/koreiskaia-kompaniia-hyundai-zaregistrirovala-chetyre-tovarnykh-znaka-v-rf-izi",
-        "https://iz.ru/2133730/vosmikratnyi-obladatel-zolotogo-miacha-lionel-messi-biografiia-izi",
-        "https://iz.ru/2133734/ks-zaiavil-o-prave-vzroslykh-detei-lishat-roditelskikh-prav-za-nasilie-nad-nimi-izi",
-        "https://iz.ru/2133735/zelenskii-poruchi-i-o-predsedatelia-sbu-ispolniat-obiazannosti-ministra-oborony-izi",
-        "https://iz.ru/2133736/vs-rf-porazili-lokomotivy-dlia-voennykh-gruzov-vsu-v-dnepropetrovskoi-oblasti-izi",
         "https://iz.ru/2133757/sud-v-moskve-zaochno-arestoval-byvshego-sovladeltca-fesco-rabinovicha-izi",
         "https://iz.ru/2133758/ekspert-nazval-prichinu-mnogikh-soobshchenii-ob-nlo-izi",
         "https://iz.ru/2133764/passazhiry-poezda-v-dagestane-pri-stolknovenii-s-gruzovikom-ne-postradali-izi",
@@ -175,11 +164,22 @@
         "https://iz.ru/2133775/ubitogo-vsu-glavnogo-inzhenera-zaes-iakovleva-predstaviat-k-gosnagrade-posmertno-izi",
         "https://iz.ru/2133776/pravitelstvo-dubaia-oproverglo-informatciiu-o-vzryvakh-v-gorode-izi",
         "https://iz.ru/2133778/turoperatory-ne-poluchali-informatciiu-o-vozmozhnom-vvedenii-viz-v-chernogoriiu-izi",
-        "https://iz.ru/2133787/prokuratura-nachala-proverku-posle-dtp-s-poezdom-v-dagestane-izi"
+        "https://iz.ru/2133787/prokuratura-nachala-proverku-posle-dtp-s-poezdom-v-dagestane-izi",
+        "https://iz.ru/2133788/sily-pvo-za-den-unichtozhili-117-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2133794/vlasti-niderlandov-podderzhat-otstraneniia-karima-khana-ot-dolzhnosti-prokurora-mus-izi",
+        "https://iz.ru/2133798/ronaldu-ustanovil-antirekord-po-golam-v-plei-chm-izi",
+        "https://iz.ru/2133801/v-belom-dome-zaiavili-o-zhelanii-ssha-zakliuchit-sdelku-izi",
+        "https://iz.ru/2133804/trassu-m-3-ukraina-rasshiriat-do-shesti-polos-v-2026-godu-izi",
+        "https://iz.ru/2133813/belyi-dom-uvolil-operatora-telesuflera-iz-za-stavok-na-rechi-trampa-izi",
+        "https://iz.ru/2133814/v-orlovskoi-oblasti-otmenili-zapravku-avtomobilei-po-sisteme-chet-nechet-izi",
+        "https://iz.ru/2133821/die-welt-zaiavila-o-smerti-trekh-chelovek-iz-za-padeniia-so-smotrovoi-ploshchadki-v-frg-izi",
+        "https://iz.ru/2133822/skonchalas-vdova-iuriia-nikolaeva-eleonora-v-vozraste-74-let-izi",
+        "https://iz.ru/2133826/premer-vengrii-madiar-soobshchil-o-rassledovanii-iakoby-sviazei-siiiarto-s-rossiei-izi",
+        "https://iz.ru/2132249/narodnye-primety-na-16-iiulia-chto-mozhno-i-nelzia-delat-iiz"
       ]
     },
     "2026-07-17": {
-      "totalChecked": 798,
+      "totalChecked": 792,
       "totalIzi": 187,
       "totalIiz": 0,
       "totalAi": 187,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-24": {
-      "totalChecked": 584,
-      "totalIzi": 138,
+      "totalChecked": 707,
+      "totalIzi": 180,
       "totalIiz": 3,
-      "totalAi": 141,
+      "totalAi": 183,
       "topLinks": [
         "https://iz.ru/2137095/uchenye-sviazali-perenesennye-infektcii-s-riskom-psikhicheskikh-zabolevanii-izi",
         "https://iz.ru/2137116/uchenye-ukazali-na-risk-obrashcheniia-k-ii-za-psikhologicheskoi-pomoshchiu-izi",
