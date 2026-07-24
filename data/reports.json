@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:38:40.348Z",
+  "generatedAt": "2026-07-24T23:25:41.471Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,7 +123,7 @@
       ]
     },
     "2026-07-16": {
-      "totalChecked": 459,
+      "totalChecked": 450,
       "totalIzi": 118,
       "totalIiz": 1,
       "totalAi": 119,
@@ -151,12 +151,11 @@
       ]
     },
     "2026-07-17": {
-      "totalChecked": 780,
-      "totalIzi": 186,
+      "totalChecked": 758,
+      "totalIzi": 185,
       "totalIiz": 0,
-      "totalAi": 186,
+      "totalAi": 185,
       "topLinks": [
-        "https://iz.ru/2133885/rossiia-sokratili-postavki-piva-iz-nedruzhestvennykh-stran-izi",
         "https://iz.ru/2133898/futbolku-pele-s-finala-chm-1958-prodali-pochti-za-5-mln-izi",
         "https://iz.ru/2133901/ukrainskie-smi-soobshchili-o-vozmozhnom-vozvrashchenii-sibigi-k-rukovodstvu-mid-ukrainy-izi",
         "https://iz.ru/2133924/zakharova-nazvala-povedenie-kieva-vo-vremia-peregovorov-v-turtcii-tcirkom-na-kolesakh-izi",
@@ -175,7 +174,8 @@
         "https://iz.ru/2134002/zhena-spasshego-devochku-v-konstantinovke-boitca-vozmet-ee-pod-opeku-izi",
         "https://iz.ru/2134015/v-evrope-obiasnili-nevozmozhnost-vstupleniia-ukrainy-v-es-k-2028-godu-izi",
         "https://iz.ru/2134020/sovfed-odobril-zakonoproekt-o-podderzhke-pochty-rossii-izi",
-        "https://iz.ru/2134030/uroven-doveriia-rossiian-k-putinu-sostavil-71-izi"
+        "https://iz.ru/2134030/uroven-doveriia-rossiian-k-putinu-sostavil-71-izi",
+        "https://iz.ru/2134032/v-polshe-rezko-vyroslo-chislo-napadenii-na-ukraintcev-na-pochve-nenavisti-izi"
       ]
     },
     "2026-07-18": {
@@ -375,11 +375,13 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 0,
+      "totalChecked": 31,
       "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalIiz": 1,
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2137831/narodnye-primety-na-25-iiulia-chto-mozhno-i-nelzia-delat-iiz"
+      ]
     }
   }
 }
