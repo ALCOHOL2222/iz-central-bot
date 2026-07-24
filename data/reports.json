@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T14:23:21.796Z",
+  "generatedAt": "2026-07-24T15:56:20.630Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,22 +151,11 @@
       ]
     },
     "2026-07-16": {
-      "totalChecked": 564,
-      "totalIzi": 159,
+      "totalChecked": 524,
+      "totalIzi": 148,
       "totalIiz": 1,
-      "totalAi": 160,
+      "totalAi": 149,
       "topLinks": [
-        "https://iz.ru/2133627/astronomy-podtverdili-vozrast-vselennoi-po-zvezdam-mlechnogo-puti-izi",
-        "https://iz.ru/2133631/sud-moskvy-ostavil-v-sile-reshenie-o-vzyskanii-s-euroclear-eu200-mlrd-po-isku-tcb-izi",
-        "https://iz.ru/2133640/press-sluzhba-vkontakte-soobshchila-o-zavershenii-perevoda-servisov-na-domen-vkru-izi",
-        "https://iz.ru/2133641/katolicheskii-sviashchennik-nazval-premer-ministra-vengrii-orudiem-satany-izi",
-        "https://iz.ru/2133647/v-chernogorii-mogut-vvesti-vizy-dlia-rossiian-uzhe-1-oktiabria-izi",
-        "https://iz.ru/2133658/khusnullin-soobshchil-o-plane-otkryt-trassu-m-12-vostok-do-tiumeni-v-dekabre-izi",
-        "https://iz.ru/2133666/novak-prizval-otraslevye-kompanii-sobliudat-obiazatelstva-po-postavkam-topliva-izi",
-        "https://iz.ru/2133682/shtab-kvartiru-vsemirnoi-organizatcii-sotrudnichestva-po-ii-razmestiat-v-shankhae-izi",
-        "https://iz.ru/2133692/novyi-premer-ukrainy-koretckii-perepisal-vse-mashiny-i-kompaniiu-na-zhenu-i-doch-izi",
-        "https://iz.ru/2133693/v-bodrume-25-turistov-iz-otelia-popali-v-bolnitcu-s-pishchevym-otravleniem-izi",
-        "https://iz.ru/2133695/v-armenii-kompaniiu-tcarukiana-ararattcement-peredali-pod-gosupravlenie-izi",
         "https://iz.ru/2133702/chto-proizoshlo-za-den-16-iiulia-glavnoe-izi",
         "https://iz.ru/2133703/lider-khusitov-prigrozil-saudovskoi-aravii-udarami-po-neftianym-obektam-izi",
         "https://iz.ru/2133705/ksir-nazval-nedvizhimost-trampa-na-blizhnem-vostoke-zakonnoi-tceliu-dlia-irana-izi",
@@ -175,11 +164,22 @@
         "https://iz.ru/2133720/ombudsmen-soobshchila-o-zhalobakh-na-otkazy-v-zachislenii-detei-v-10-klass-izi",
         "https://iz.ru/2133722/koreiskaia-kompaniia-hyundai-zaregistrirovala-chetyre-tovarnykh-znaka-v-rf-izi",
         "https://iz.ru/2133730/vosmikratnyi-obladatel-zolotogo-miacha-lionel-messi-biografiia-izi",
-        "https://iz.ru/2133734/ks-zaiavil-o-prave-vzroslykh-detei-lishat-roditelskikh-prav-za-nasilie-nad-nimi-izi"
+        "https://iz.ru/2133734/ks-zaiavil-o-prave-vzroslykh-detei-lishat-roditelskikh-prav-za-nasilie-nad-nimi-izi",
+        "https://iz.ru/2133735/zelenskii-poruchi-i-o-predsedatelia-sbu-ispolniat-obiazannosti-ministra-oborony-izi",
+        "https://iz.ru/2133736/vs-rf-porazili-lokomotivy-dlia-voennykh-gruzov-vsu-v-dnepropetrovskoi-oblasti-izi",
+        "https://iz.ru/2133757/sud-v-moskve-zaochno-arestoval-byvshego-sovladeltca-fesco-rabinovicha-izi",
+        "https://iz.ru/2133758/ekspert-nazval-prichinu-mnogikh-soobshchenii-ob-nlo-izi",
+        "https://iz.ru/2133764/passazhiry-poezda-v-dagestane-pri-stolknovenii-s-gruzovikom-ne-postradali-izi",
+        "https://iz.ru/2133766/mid-rf-vyrazil-bespokoistvo-iz-za-uglubleniia-iuzhnoi-korei-otnoshenii-s-nato-izi",
+        "https://iz.ru/2133769/stali-izvestny-podrobnosti-o-razyskivaemom-interpolom-khakere-ermakove-izi",
+        "https://iz.ru/2133775/ubitogo-vsu-glavnogo-inzhenera-zaes-iakovleva-predstaviat-k-gosnagrade-posmertno-izi",
+        "https://iz.ru/2133776/pravitelstvo-dubaia-oproverglo-informatciiu-o-vzryvakh-v-gorode-izi",
+        "https://iz.ru/2133778/turoperatory-ne-poluchali-informatciiu-o-vozmozhnom-vvedenii-viz-v-chernogoriiu-izi",
+        "https://iz.ru/2133787/prokuratura-nachala-proverku-posle-dtp-s-poezdom-v-dagestane-izi"
       ]
     },
     "2026-07-17": {
-      "totalChecked": 802,
+      "totalChecked": 798,
       "totalIzi": 187,
       "totalIiz": 0,
       "totalAi": 187,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-07-18": {
-      "totalChecked": 564,
+      "totalChecked": 562,
       "totalIzi": 214,
       "totalIiz": 2,
       "totalAi": 216,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-07-19": {
-      "totalChecked": 568,
+      "totalChecked": 567,
       "totalIzi": 213,
       "totalIiz": 2,
       "totalAi": 215,
@@ -319,12 +319,11 @@
       ]
     },
     "2026-07-22": {
-      "totalChecked": 865,
-      "totalIzi": 185,
+      "totalChecked": 864,
+      "totalIzi": 184,
       "totalIiz": 2,
-      "totalAi": 187,
+      "totalAi": 186,
       "topLinks": [
-        "https://iz.ru/2133696/put-domoi-dlinoi-v-70-let-luchshie-ekranizatcii-odissei-do-filma-nolana-izi",
         "https://iz.ru/2135941/uchenye-vyiavili-osobennosti-vospriiatiia-mimiki-liudei-pri-autizme-izi",
         "https://iz.ru/2135975/narodnye-primety-na-22-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2135979/2026-07-22/uchenye-vyiavili-vozmozhnuiu-prichinu-poteri-sna-pri-bolezni-altcgeimera-izi",
@@ -343,7 +342,8 @@
         "https://iz.ru/2136464/lavrov-i-glava-mid-indii-dogovorilis-prodolzhit-doveritelnyi-dialog-na-vsekh-urovniakh-izi",
         "https://iz.ru/2136468/perepiski-polzovatelei-deepseek-okazalis-v-otkrytom-dostupe-cherez-google-izi",
         "https://iz.ru/2136471/druga-repera-macan-zaderzhali-za-pokhishchenie-i-vymogatelstvo-u-studenta-izi",
-        "https://iz.ru/2136475/wildberries-priostanovil-rabotu-skladov-v-krasnodare-i-nevinnomysske-izi"
+        "https://iz.ru/2136475/wildberries-priostanovil-rabotu-skladov-v-krasnodare-i-nevinnomysske-izi",
+        "https://iz.ru/2136476/vs-rossii-porazili-batareiu-beregovogo-raketnogo-kompleksa-neptun-pod-odessoi-izi"
       ]
     },
     "2026-07-23": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-24": {
-      "totalChecked": 536,
-      "totalIzi": 119,
+      "totalChecked": 584,
+      "totalIzi": 138,
       "totalIiz": 3,
-      "totalAi": 122,
+      "totalAi": 141,
       "topLinks": [
         "https://iz.ru/2137095/uchenye-sviazali-perenesennye-infektcii-s-riskom-psikhicheskikh-zabolevanii-izi",
         "https://iz.ru/2137116/uchenye-ukazali-na-risk-obrashcheniia-k-ii-za-psikhologicheskoi-pomoshchiu-izi",
