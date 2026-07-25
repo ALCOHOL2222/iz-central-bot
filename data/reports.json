@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T23:25:41.471Z",
+  "generatedAt": "2026-07-25T03:49:31.221Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,14 +151,11 @@
       ]
     },
     "2026-07-17": {
-      "totalChecked": 758,
-      "totalIzi": 185,
+      "totalChecked": 726,
+      "totalIzi": 182,
       "totalIiz": 0,
-      "totalAi": 185,
+      "totalAi": 182,
       "topLinks": [
-        "https://iz.ru/2133898/futbolku-pele-s-finala-chm-1958-prodali-pochti-za-5-mln-izi",
-        "https://iz.ru/2133901/ukrainskie-smi-soobshchili-o-vozmozhnom-vozvrashchenii-sibigi-k-rukovodstvu-mid-ukrainy-izi",
-        "https://iz.ru/2133924/zakharova-nazvala-povedenie-kieva-vo-vremia-peregovorov-v-turtcii-tcirkom-na-kolesakh-izi",
         "https://iz.ru/2133955/v-nizhegorodskoi-oblasti-gruzovik-stolknulsia-s-poezdom-na-pereezde-izi",
         "https://iz.ru/2133958/chto-proizoshlo-za-noch-17-iiulia-glavnoe-izi",
         "https://iz.ru/2133959/v-sovfede-predupredili-o-skheme-moshennikov-s-virtualnymi-kartami-izi",
@@ -175,7 +172,10 @@
         "https://iz.ru/2134015/v-evrope-obiasnili-nevozmozhnost-vstupleniia-ukrainy-v-es-k-2028-godu-izi",
         "https://iz.ru/2134020/sovfed-odobril-zakonoproekt-o-podderzhke-pochty-rossii-izi",
         "https://iz.ru/2134030/uroven-doveriia-rossiian-k-putinu-sostavil-71-izi",
-        "https://iz.ru/2134032/v-polshe-rezko-vyroslo-chislo-napadenii-na-ukraintcev-na-pochve-nenavisti-izi"
+        "https://iz.ru/2134032/v-polshe-rezko-vyroslo-chislo-napadenii-na-ukraintcev-na-pochve-nenavisti-izi",
+        "https://iz.ru/2134035/teleskop-dzheims-uebb-obnaruzhil-skrytuiu-planetu-u-bety-zhivopistca-izi",
+        "https://iz.ru/2134036/sovfed-odobril-zakon-o-razrabotke-i-regulirovanii-ii-v-rossii-izi",
+        "https://iz.ru/2134041/riutte-izi"
       ]
     },
     "2026-07-18": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-07-24": {
-      "totalChecked": 819,
+      "totalChecked": 825,
       "totalIzi": 198,
       "totalIiz": 3,
       "totalAi": 201,
@@ -375,12 +375,20 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 31,
-      "totalIzi": 0,
-      "totalIiz": 1,
-      "totalAi": 1,
+      "totalChecked": 108,
+      "totalIzi": 6,
+      "totalIiz": 3,
+      "totalAi": 9,
       "topLinks": [
-        "https://iz.ru/2137831/narodnye-primety-na-25-iiulia-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2137183/ot-dvortcovykh-intrig-do-semeinykh-dram-turetckie-serialy-griadushchei-oseni-izi",
+        "https://iz.ru/2137742/vrachi-predlozhili-reformirovat-sistemu-lecheniia-khronicheskikh-zabolevanii-izi",
+        "https://iz.ru/2137751/2026-07-25/eksperty-rasskazali-o-pitanii-dlia-sokhraneniia-rabotosposobnosti-izi",
+        "https://iz.ru/2137831/narodnye-primety-na-25-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2138239/rossiiskie-universitety-pereidut-na-novuiu-sistemu-vysshego-obrazovaniia-izi",
+        "https://iz.ru/2138275/komandir-vzvoda-litvintcev-evakuiroval-dvukh-shturmovikov-v-zone-svo-izi",
+        "https://iz.ru/2129065/zvezdopad-perseidy-kogda-rossiiane-smogut-uvidet-odno-iz-samykh-krasivykh-iavlenii-avgusta-iiz",
+        "https://iz.ru/2137831/narodnye-primety-na-25-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2138239/rossiiskie-universitety-pereidut-na-novuiu-sistemu-vysshego-obrazovaniia-izi"
       ]
     }
   }
