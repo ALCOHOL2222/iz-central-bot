@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:12:17.096Z",
+  "generatedAt": "2026-07-25T15:37:47.042Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-17": {
-      "totalChecked": 610,
-      "totalIzi": 158,
+      "totalChecked": 586,
+      "totalIzi": 153,
       "totalIiz": 0,
-      "totalAi": 158,
+      "totalAi": 153,
       "topLinks": [
-        "https://iz.ru/2134078/v-ugande-pri-avarii-shkolnogo-avtobusa-pogibli-21-chelovek-izi",
-        "https://iz.ru/2134087/pevitca-lana-del-rei-rasskazala-o-podgotovke-dvukh-novykh-albomov-izi",
-        "https://iz.ru/2134091/astronomy-vpervye-obnaruzhili-atmosferu-u-pokhozhei-na-zemliu-ekzoplanety-izi",
-        "https://iz.ru/2134094/lavrov-otmetil-stremlenie-rf-i-azerbaidzhana-k-raskrytiiu-potentciala-otnoshenii-izi",
-        "https://iz.ru/2134099/nyt-nazvala-politicheskii-krizis-na-ukraine-samym-sereznym-s-2024-goda-izi",
         "https://iz.ru/2134108/uchenye-vyiavili-vliianie-podslastitelei-na-bakterii-kishechnika-izi",
         "https://iz.ru/2134112/uchenye-dokazali-uchastie-drevneegipetskikh-printcess-v-okhote-i-srazheniiakh-izi",
         "https://iz.ru/2134124/putin-nazval-aziatsko-tikhookeanskii-region-odnim-iz-vazhneishikh-interesov-rossii-izi",
@@ -175,11 +170,16 @@
         "https://iz.ru/2134164/lavrov-ukazal-na-riski-perekrytiia-bab-el-mandebskogo-proliva-izi",
         "https://iz.ru/2134167/piat-dronov-vsu-atakovali-supermarket-v-energodare-izi",
         "https://iz.ru/2134175/v-seriale-god-war-zameniat-ispolnitelia-roli-kratosa-chto-izvestno-izi",
-        "https://iz.ru/2134177/vs-initciiroval-antikorruptcionnye-iski-v-otnoshenii-dvukh-glav-oblsudov-izi"
+        "https://iz.ru/2134177/vs-initciiroval-antikorruptcionnye-iski-v-otnoshenii-dvukh-glav-oblsudov-izi",
+        "https://iz.ru/2134194/rezhisser-programmy-kvn-svetlana-masliakova-biografiia-izi",
+        "https://iz.ru/2134198/chislo-postavok-dronov-v-vs-rossii-vyroslo-bolee-chem-v-dva-raza-v-2026-godu-izi",
+        "https://iz.ru/2134200/v-efire-radio-sudnogo-dnia-prozvuchalo-slovo-plugoponi-izi",
+        "https://iz.ru/2134203/anders-otklonil-predlozhenie-bolena-o-vozrozhdenii-gruppy-modern-talking-izi",
+        "https://iz.ru/2134210/uchenye-nashli-v-ispanii-drevniuiu-kolesnitcu-sredi-ostankov-tainstvennogo-obshchestva-izi"
       ]
     },
     "2026-07-18": {
-      "totalChecked": 558,
+      "totalChecked": 557,
       "totalIzi": 213,
       "totalIiz": 1,
       "totalAi": 214,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-07-19": {
-      "totalChecked": 565,
+      "totalChecked": 564,
       "totalIzi": 213,
       "totalIiz": 1,
       "totalAi": 214,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-07-20": {
-      "totalChecked": 919,
+      "totalChecked": 917,
       "totalIzi": 177,
       "totalIiz": 3,
       "totalAi": 180,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 363,
-      "totalIzi": 47,
+      "totalChecked": 391,
+      "totalIzi": 55,
       "totalIiz": 3,
-      "totalAi": 50,
+      "totalAi": 58,
       "topLinks": [
         "https://iz.ru/2137183/ot-dvortcovykh-intrig-do-semeinykh-dram-turetckie-serialy-griadushchei-oseni-izi",
         "https://iz.ru/2137742/vrachi-predlozhili-reformirovat-sistemu-lecheniia-khronicheskikh-zabolevanii-izi",
