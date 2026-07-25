@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T03:49:31.221Z",
+  "generatedAt": "2026-07-25T06:39:23.391Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,7 +123,7 @@
       ]
     },
     "2026-07-16": {
-      "totalChecked": 450,
+      "totalChecked": 449,
       "totalIzi": 118,
       "totalIiz": 1,
       "totalAi": 119,
@@ -151,7 +151,7 @@
       ]
     },
     "2026-07-17": {
-      "totalChecked": 726,
+      "totalChecked": 714,
       "totalIzi": 182,
       "totalIiz": 0,
       "totalAi": 182,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 108,
-      "totalIzi": 6,
+      "totalChecked": 150,
+      "totalIzi": 13,
       "totalIiz": 3,
-      "totalAi": 9,
+      "totalAi": 16,
       "topLinks": [
         "https://iz.ru/2137183/ot-dvortcovykh-intrig-do-semeinykh-dram-turetckie-serialy-griadushchei-oseni-izi",
         "https://iz.ru/2137742/vrachi-predlozhili-reformirovat-sistemu-lecheniia-khronicheskikh-zabolevanii-izi",
@@ -386,9 +386,16 @@
         "https://iz.ru/2137831/narodnye-primety-na-25-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2138239/rossiiskie-universitety-pereidut-na-novuiu-sistemu-vysshego-obrazovaniia-izi",
         "https://iz.ru/2138275/komandir-vzvoda-litvintcev-evakuiroval-dvukh-shturmovikov-v-zone-svo-izi",
+        "https://iz.ru/2138291/pianye-britanskie-soldaty-ugnali-bronetransporter-i-protaranili-avtomobili-izi",
+        "https://iz.ru/2138296/tramp-pripomnil-kennedi-mladshemu-neobychnuiu-istoriiu-s-enotom-izi",
         "https://iz.ru/2129065/zvezdopad-perseidy-kogda-rossiiane-smogut-uvidet-odno-iz-samykh-krasivykh-iavlenii-avgusta-iiz",
+        "https://iz.ru/2137183/ot-dvortcovykh-intrig-do-semeinykh-dram-turetckie-serialy-griadushchei-oseni-izi",
+        "https://iz.ru/2137742/vrachi-predlozhili-reformirovat-sistemu-lecheniia-khronicheskikh-zabolevanii-izi",
+        "https://iz.ru/2137751/2026-07-25/eksperty-rasskazali-o-pitanii-dlia-sokhraneniia-rabotosposobnosti-izi",
         "https://iz.ru/2137831/narodnye-primety-na-25-iiulia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2138239/rossiiskie-universitety-pereidut-na-novuiu-sistemu-vysshego-obrazovaniia-izi"
+        "https://iz.ru/2138239/rossiiskie-universitety-pereidut-na-novuiu-sistemu-vysshego-obrazovaniia-izi",
+        "https://iz.ru/2138275/komandir-vzvoda-litvintcev-evakuiroval-dvukh-shturmovikov-v-zone-svo-izi",
+        "https://iz.ru/2138291/pianye-britanskie-soldaty-ugnali-bronetransporter-i-protaranili-avtomobili-izi"
       ]
     }
   }
