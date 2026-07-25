@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T15:37:47.042Z",
+  "generatedAt": "2026-07-25T17:26:33.683Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,14 +151,11 @@
       ]
     },
     "2026-07-17": {
-      "totalChecked": 586,
-      "totalIzi": 153,
+      "totalChecked": 571,
+      "totalIzi": 150,
       "totalIiz": 0,
-      "totalAi": 153,
+      "totalAi": 150,
       "topLinks": [
-        "https://iz.ru/2134108/uchenye-vyiavili-vliianie-podslastitelei-na-bakterii-kishechnika-izi",
-        "https://iz.ru/2134112/uchenye-dokazali-uchastie-drevneegipetskikh-printcess-v-okhote-i-srazheniiakh-izi",
-        "https://iz.ru/2134124/putin-nazval-aziatsko-tikhookeanskii-region-odnim-iz-vazhneishikh-interesov-rossii-izi",
         "https://iz.ru/2134129/sf-odobril-shtrafy-do-500-tys-rub-za-priem-stavok-u-grazhdan-s-samozapretom-izi",
         "https://iz.ru/2134131/prichinoi-smerti-vdovy-televedushchego-iuriia-nikolaeva-eleonory-stal-gepatit-izi",
         "https://iz.ru/2134138/britanskii-politik-endi-bernem-biografiia-izi",
@@ -175,7 +172,10 @@
         "https://iz.ru/2134198/chislo-postavok-dronov-v-vs-rossii-vyroslo-bolee-chem-v-dva-raza-v-2026-godu-izi",
         "https://iz.ru/2134200/v-efire-radio-sudnogo-dnia-prozvuchalo-slovo-plugoponi-izi",
         "https://iz.ru/2134203/anders-otklonil-predlozhenie-bolena-o-vozrozhdenii-gruppy-modern-talking-izi",
-        "https://iz.ru/2134210/uchenye-nashli-v-ispanii-drevniuiu-kolesnitcu-sredi-ostankov-tainstvennogo-obshchestva-izi"
+        "https://iz.ru/2134210/uchenye-nashli-v-ispanii-drevniuiu-kolesnitcu-sredi-ostankov-tainstvennogo-obshchestva-izi",
+        "https://iz.ru/2134213/glava-rosobrnadzora-izi",
+        "https://iz.ru/2134214/sk-vozbudil-ugolovnoe-delo-protiv-sudi-iz-kaliningrada-za-vziatki-izi",
+        "https://iz.ru/2134215/v-bishkeke-i-riade-regionov-kirgizii-proizoshel-masshtabnyi-blekaut-izi"
       ]
     },
     "2026-07-18": {
@@ -207,7 +207,7 @@
       ]
     },
     "2026-07-19": {
-      "totalChecked": 564,
+      "totalChecked": 563,
       "totalIzi": 213,
       "totalIiz": 1,
       "totalAi": 214,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-07-20": {
-      "totalChecked": 917,
+      "totalChecked": 916,
       "totalIzi": 177,
       "totalIiz": 3,
       "totalAi": 180,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 391,
-      "totalIzi": 55,
+      "totalChecked": 464,
+      "totalIzi": 78,
       "totalIiz": 3,
-      "totalAi": 58,
+      "totalAi": 81,
       "topLinks": [
         "https://iz.ru/2137183/ot-dvortcovykh-intrig-do-semeinykh-dram-turetckie-serialy-griadushchei-oseni-izi",
         "https://iz.ru/2137742/vrachi-predlozhili-reformirovat-sistemu-lecheniia-khronicheskikh-zabolevanii-izi",
