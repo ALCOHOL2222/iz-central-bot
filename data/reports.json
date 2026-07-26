@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:10:42.608Z",
+  "generatedAt": "2026-07-26T07:13:45.253Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,19 +123,11 @@
       ]
     },
     "2026-07-17": {
-      "totalChecked": 485,
-      "totalIzi": 122,
+      "totalChecked": 463,
+      "totalIzi": 114,
       "totalIiz": 0,
-      "totalAi": 122,
+      "totalAi": 114,
       "topLinks": [
-        "https://iz.ru/2134258/evrosoiuz-vkliuchil-shest-figurantov-v-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2134264/v-krymu-dva-cheloveka-pogibli-i-odin-postradal-pri-udare-vsu-izi",
-        "https://iz.ru/2134265/armiia-rossii-unichtozhila-ukrainskie-bek-v-chernom-more-s-pomoshchiu-dronov-lantcet-izi",
-        "https://iz.ru/2134275/ekspert-rasskazal-o-roli-emodzi-v-soobshcheniiakh-izi",
-        "https://iz.ru/2134276/pravitelstvo-ukrainy-naznachilo-evgeniia-khmaru-vrio-ministra-oborony-izi",
-        "https://iz.ru/2134278/v-kharkovskoi-oblasti-povrezhden-gazodobyvaiushchii-obekt-naftogaza-izi",
-        "https://iz.ru/2134290/apple-obognala-nvidia-i-stala-samoi-dorogo-kompaniei-v-mire-izi",
-        "https://iz.ru/2134306/blogeru-ile-remeslo-prediavili-obvineniia-v-rasprostranenii-feikov-o-vs-rossii-izi",
         "https://iz.ru/2134318/mid-rf-vyrazil-protest-vremennomu-poverennomu-v-delakh-estonii-v-rossii-izi",
         "https://iz.ru/2134331/boitcy-armii-rossii-geraniu-4-siker-porazili-tri-sukhogruza-vsu-v-portu-nikolaeva-izi",
         "https://iz.ru/2134339/sandra-audkirk-stala-vremennoi-poverennoi-v-delakh-ssha-na-ukraine-izi",
@@ -147,11 +139,19 @@
         "https://iz.ru/2134359/zakharova-nazvala-mobilizatciiu-na-ukraine-genotcidom-sobstvennogo-naroda-izi",
         "https://iz.ru/2134373/narodnyi-front-soobshchil-ob-atake-vsu-na-kolonnu-mashin-v-khersonskoi-oblasti-izi",
         "https://iz.ru/2134374/lavrov-v-ankoridzhe-rossiia-priniala-predlozhenie-trampa-po-ukraine-izi",
-        "https://iz.ru/2134385/zakharova-prizvala-es-vvesti-sanktcii-protiv-ukrainy-i-ssha-izi"
+        "https://iz.ru/2134385/zakharova-prizvala-es-vvesti-sanktcii-protiv-ukrainy-i-ssha-izi",
+        "https://iz.ru/2134391/fas-predlozhila-izmenit-pravila-vozvrata-zheleznodorozhnykh-biletov-izi",
+        "https://iz.ru/2134392/prezident-argentiny-propustit-final-chm-2026-iz-za-sueverii-izi",
+        "https://iz.ru/2134393/eks-glavu-departamenta-minpromtorga-arestovali-po-delu-o-khishcheniiakh-izi",
+        "https://iz.ru/2134397/zakharova-podtverdila-otkaz-pozhat-ruku-poslu-germanii-lambsdorffu-izi",
+        "https://iz.ru/2134399/v-sevastopole-vveli-dopogranicheniia-moshchnosti-dlia-balansirovki-energosistemy-izi",
+        "https://iz.ru/2134404/zelenskii-naznachil-zamglavy-sbu-poklada-vrio-predsedatelia-spetcsluzhby-izi",
+        "https://iz.ru/2134406/raboty-po-razminirovaniiu-upavshego-na-dom-bespilotnika-v-lipetcke-nachnutsia-18-iiulia-izi",
+        "https://iz.ru/2132811/narodnye-primety-na-17-iiulia-chto-mozhno-i-nelzia-delat-izi"
       ]
     },
     "2026-07-18": {
-      "totalChecked": 549,
+      "totalChecked": 545,
       "totalIzi": 211,
       "totalIiz": 1,
       "totalAi": 212,
@@ -179,12 +179,11 @@
       ]
     },
     "2026-07-19": {
-      "totalChecked": 557,
-      "totalIzi": 212,
+      "totalChecked": 554,
+      "totalIzi": 211,
       "totalIiz": 1,
-      "totalAi": 213,
+      "totalAi": 212,
       "topLinks": [
-        "https://iz.ru/2134303/2026-07-19/napadaiushchii-barselony-i-sbornoi-ispanii-lamin-iamal-biografiia-izi",
         "https://iz.ru/2134319/glavnyi-trener-sbornoi-argentiny-lionel-skaloni-biografiia-izi",
         "https://iz.ru/2134326/kapitan-sbornoi-ispanii-rodrigo-ernandes-biografiia-izi",
         "https://iz.ru/2134335/2026-07-19/glavnyi-trener-sbornoi-ispanii-po-futbolu-luis-de-la-fuente-biografiia-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2134918/pedagog-nazvala-prichiny-bystroi-ustalosti-sovremennykh-detei-dazhe-bez-nagruzok-izi",
         "https://iz.ru/2134919/it-ekspert-obiasnil-uiazvimost-slozhnykh-parolei-pri-povtornom-ispolzovanii-izi",
         "https://iz.ru/2134939/moshenniki-vymanivaiut-u-pensionerov-dengi-pod-predlogom-kompensatcii-za-lekarstva-izi",
-        "https://iz.ru/2134942/stali-izvestny-samye-populiarnye-napravleniia-v-vuzakh-izi"
+        "https://iz.ru/2134942/stali-izvestny-samye-populiarnye-napravleniia-v-vuzakh-izi",
+        "https://iz.ru/2134946/v-rostovskoi-oblasti-za-noch-sbili-okolo-15-bespilotnikov-i-rakety-izi"
       ]
     },
     "2026-07-20": {
-      "totalChecked": 909,
+      "totalChecked": 906,
       "totalIzi": 177,
       "totalIiz": 2,
       "totalAi": 179,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-26": {
-      "totalChecked": 94,
-      "totalIzi": 10,
+      "totalChecked": 157,
+      "totalIzi": 20,
       "totalIiz": 3,
-      "totalAi": 13,
+      "totalAi": 23,
       "topLinks": [
         "https://iz.ru/2137702/2026-07-26/ekspert-nazval-glavnye-oshibki-polzovatelei-posle-utechki-dannykh-izi",
         "https://iz.ru/2137826/vrachi-predupredili-o-posledstviiakh-izbytochnogo-priema-zhevatelnykh-vitaminov-izi",
@@ -388,11 +388,18 @@
         "https://iz.ru/2138638/iurist-predupredil-o-riskakh-priviazki-bankovskikh-kart-k-onlain-servisam-izi",
         "https://iz.ru/2138642/2026-07-26/rossiia-rasshirila-prisutstvie-v-mezhdunarodnom-alianse-krupnykh-koshachikh-izi",
         "https://iz.ru/2138651/2026-07-26/v-op-predlozhili-sdelat-1-sentiabria-nerabochim-dnem-dlia-roditelei-pervoklassnikov-izi",
+        "https://iz.ru/2138671/bolee-60-politceiskikh-postradali-v-stolknoveniiakh-s-protestuiushchimi-v-italii-izi",
+        "https://iz.ru/2138673/2026-07-26/podnimavshiesia-na-elbrus-alpinisty-shli-bez-gida-izi",
+        "https://iz.ru/2138683/pereekhavshaia-iz-latvii-v-pskov-bezhenka-rasskazala-o-mifakh-rossiian-o-evrope-izi",
+        "https://iz.ru/2138703/chislo-zaderzhivaiushchikhsia-poezdov-iz-za-nepogody-v-rostovskoi-oblasti-vozroslo-do-89-izi",
         "https://iz.ru/2128057/60-krasivye-otkrytki-s-dnem-vmf-kartinki-gifki-i-pozdravleniia-dlia-moriakov-iiz",
+        "https://iz.ru/2137702/2026-07-26/ekspert-nazval-glavnye-oshibki-polzovatelei-posle-utechki-dannykh-izi",
+        "https://iz.ru/2137826/vrachi-predupredili-o-posledstviiakh-izbytochnogo-priema-zhevatelnykh-vitaminov-izi",
         "https://iz.ru/2137890/narodnye-primety-na-26-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2138619/2026-07-26/ankalaev-nokautiroval-guskova-v-glavnom-boiu-ufc-fight-night-282-v-abu-dabi-izi",
         "https://iz.ru/2138626/bilety-na-elektrichki-s-ukazaniem-mest-mozhno-budet-vozvrashchat-onlain-s-sentiabria-izi",
-        "https://iz.ru/2138638/iurist-predupredil-o-riskakh-priviazki-bankovskikh-kart-k-onlain-servisam-izi"
+        "https://iz.ru/2138638/iurist-predupredil-o-riskakh-priviazki-bankovskikh-kart-k-onlain-servisam-izi",
+        "https://iz.ru/2138642/2026-07-26/rossiia-rasshirila-prisutstvie-v-mezhdunarodnom-alianse-krupnykh-koshachikh-izi"
       ]
     }
   }
