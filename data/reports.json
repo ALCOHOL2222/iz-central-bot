@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T18:57:40.937Z",
+  "generatedAt": "2026-07-27T20:52:12.878Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-07-19": {
-      "totalChecked": 308,
-      "totalIzi": 111,
+      "totalChecked": 287,
+      "totalIzi": 107,
       "totalIiz": 1,
-      "totalAi": 112,
+      "totalAi": 108,
       "topLinks": [
-        "https://iz.ru/2135156/opublikovany-kadry-obstanovki-v-madride-pered-finalom-chm-2026-izi",
-        "https://iz.ru/2135157/mertc-priznal-zavisimost-germanii-ot-rossiiskogo-gaza-izi",
-        "https://iz.ru/2135158/v-mid-rossii-vyrazili-obespokoennost-soobshcheniiami-ob-udare-po-aes-darkhovin-izi",
-        "https://iz.ru/2135177/ssha-otkazalis-ot-predlozhennykh-ukrainskikh-tekhnologii-borby-s-bespilotnikami-izi",
         "https://iz.ru/2133520/ot-gomera-do-gogolia-chto-chitat-pered-odisseei-nolana-izi",
         "https://iz.ru/2134066/narodnye-primety-na-19-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2134189/neirobiologi-oprovergli-teoriiu-o-raznykh-retceptorakh-tepla-i-kholoda-izi",
@@ -175,16 +171,19 @@
         "https://iz.ru/2134856/ft-uznala-o-vydelenii-ssha-grantov-na-podderzhku-dvizheniia-maga-v-evrope-izi",
         "https://iz.ru/2134857/ukrainskie-smi-soobshchili-o-tretem-dne-provedeniia-mitingov-v-podderzhku-fedorova-izi",
         "https://iz.ru/2134888/desham-ushel-c-posta-glavnogo-trenera-futbolnoi-sbornoi-frantcii-izi",
-        "https://iz.ru/2134897/s-1-avgusta-na-gosuslugakh-budut-avtomaticheski-prikhodit-uvedomleniia-po-nalogam-izi"
+        "https://iz.ru/2134897/s-1-avgusta-na-gosuslugakh-budut-avtomaticheski-prikhodit-uvedomleniia-po-nalogam-izi",
+        "https://iz.ru/2134907/ap-soobshchilo-o-zaderzhanii-bratev-teit-po-zaprosu-britanskikh-vlastei-v-ssha-izi",
+        "https://iz.ru/2134913/rossiia-sokratila-vvoz-nemetckogo-piva-do-istoricheskogo-minimuma-izi",
+        "https://iz.ru/2134917/ekspert-po-nedvizhimosti-nazval-nedootcenennye-pliusy-i-minusy-zhizni-za-mkadom-izi",
+        "https://iz.ru/2134918/pedagog-nazvala-prichiny-bystroi-ustalosti-sovremennykh-detei-dazhe-bez-nagruzok-izi"
       ]
     },
     "2026-07-20": {
-      "totalChecked": 896,
-      "totalIzi": 177,
+      "totalChecked": 882,
+      "totalIzi": 176,
       "totalIiz": 2,
-      "totalAi": 179,
+      "totalAi": 178,
       "topLinks": [
-        "https://iz.ru/2135198/premer-vengrii-predlozhil-shakhmatistke-iudit-polgar-post-prezidenta-izi",
         "https://iz.ru/2135201/tramp-nazval-nelepym-otkaz-britanii-ot-dobychi-nefti-v-severnom-more-izi",
         "https://iz.ru/2135207/v-gosdume-predlozhili-uchityvat-sluzhbu-v-svo-v-stazhe-grazhdanskoi-sluzhby-izi",
         "https://iz.ru/2135210/smi-soobshchili-ob-otravlenii-liudei-parami-khlora-v-basseine-italii-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2135319/putin-poruchil-proverit-razvitie-nastavnichestva-dlia-vypusknikov-medvuzov-izi",
         "https://iz.ru/2135332/bloger-lerchek-zavershila-deviat-kursov-khimioterapii-chto-izvestno-izi",
         "https://iz.ru/2135333/bespilotniki-snova-atakovali-neftetanker-na-terminale-ktk-izi",
-        "https://iz.ru/2135334/odisseia-kristofera-nolana-pokazala-luchshii-start-v-karere-rezhissera-izi"
+        "https://iz.ru/2135334/odisseia-kristofera-nolana-pokazala-luchshii-start-v-karere-rezhissera-izi",
+        "https://iz.ru/2135335/putin-otmetil-povyshenie-kachestva-i-konkurentosposobnosti-produktcii-avtovaza-izi"
       ]
     },
     "2026-07-21": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 738,
-      "totalIzi": 176,
+      "totalChecked": 773,
+      "totalIzi": 192,
       "totalIiz": 2,
-      "totalAi": 178,
+      "totalAi": 194,
       "topLinks": [
         "https://iz.ru/2137946/narodnye-primety-na-27-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2137969/bukhgalter-rasskazala-o-vygodakh-otpuska-za-svoi-schet-izi",
