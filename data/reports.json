@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:16:57.892Z",
+  "generatedAt": "2026-07-27T08:02:29.786Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,35 +123,35 @@
       ]
     },
     "2026-07-18": {
-      "totalChecked": 344,
-      "totalIzi": 144,
+      "totalChecked": 300,
+      "totalIzi": 112,
       "totalIiz": 1,
-      "totalAi": 145,
+      "totalAi": 113,
       "topLinks": [
-        "https://iz.ru/2134759/v-turtcii-predupredili-o-problemakh-s-obmenom-dollarov-starogo-obraztca-izi",
-        "https://iz.ru/2134760/v-chernovtcakh-na-ukraine-stupeni-na-ploshchadi-otremontirovali-mogilnymi-plitami-izi",
-        "https://iz.ru/2134762/zakharova-nazvala-korporatciiu-palantir-odnoi-iz-glavnykh-ugroz-sovremennomu-miru-izi",
-        "https://iz.ru/2134768/bastrykin-potreboval-doklad-o-massovom-otravlenii-v-stavropolskom-krae-izi",
-        "https://iz.ru/2134772/osnovatel-pink-floyd-uoters-prizval-zapad-sotrudnichat-s-rf-izi",
-        "https://iz.ru/2134774/vsu-nanesli-massirovannye-udary-po-grazhdanskim-obektam-v-energodare-izi",
-        "https://iz.ru/2134784/britanetc-kerr-ustanovil-mirovoi-rekord-v-bege-na-odnu-miliu-izi",
-        "https://iz.ru/2134785/mendel-obvinila-zelenskogo-vo-lzhi-o-nesokrushimom-dukhe-i-pytkakh-v-voenkomatakh-izi",
-        "https://iz.ru/2134786/mer-niu-jorka-proveriaet-vozmozhnost-zaderzhaniia-netaniakhu-pri-vizite-v-gorod-izi",
-        "https://iz.ru/2134787/2026-07-18/vs-rf-osvobodili-piskunovku-i-vyshli-na-okrainy-nikolaevki-izi",
-        "https://iz.ru/2134788/advokat-stelmakh-zaiavila-o-vozmozhnoi-prodazhe-imushchestva-telegina-za-dolgi-izi",
-        "https://iz.ru/2134789/v-rade-zaiavili-o-namerenii-napravit-zapros-zelenskomu-ob-otstavke-syrskogo-izi",
-        "https://iz.ru/2134790/edinstvennyi-rossiiskii-prizer-oi-2026-zaiavil-o-svoem-glavnom-strakhe-na-igrakh-izi",
-        "https://iz.ru/2134791/telegraph-ukazala-na-izoliatciiu-ssha-iranskogo-porta-bender-abbas-izi",
-        "https://iz.ru/2134793/rossiiskie-siloviki-vzlomali-smartfon-eks-ministra-oborony-ukrainy-fedorova-izi",
-        "https://iz.ru/2134796/chislo-postradavshikh-pri-atake-bpla-na-podmoskove-vozroslo-do-61-cheloveka-izi",
-        "https://iz.ru/2134797/armiia-rossii-nanesla-udary-po-rezervuaram-s-gsm-v-ukrainskom-portu-iuzhnyi-izi",
-        "https://iz.ru/2134798/zelenskii-poblagodaril-silovikov-za-udary-po-grazhdanskoi-infrastrukture-rf-izi",
-        "https://iz.ru/2134801/na-kubani-upal-selskokhoziaistvennyi-vertolet-mi-2-izi",
-        "https://iz.ru/2134802/nachalnik-genshtaba-vs-gerasimov-proveril-gruppirovku-voisk-zapad-chto-izvestno-izi"
+        "https://iz.ru/2134827/zenit-obygral-spartak-v-serii-penalti-i-vzial-superkubok-rossii-izi",
+        "https://iz.ru/2134828/nyt-ukazala-na-usilenie-opasenii-ssha-iz-za-zakona-o-sanktciiakh-protiv-rossii-izi",
+        "https://iz.ru/2134830/vadeful-prizval-evropu-aktivnee-sodeistvovat-peregovoram-po-ukraine-izi",
+        "https://iz.ru/2134849/rossiiskie-miasnye-produkty-nachali-prodavat-v-magazinakh-pkheniana-izi",
+        "https://iz.ru/2134850/zhurnalist-sergei-sholokhov-biografiia-izi",
+        "https://iz.ru/2133743/narodnye-primety-na-18-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2134058/issledovateli-raskryli-prichiny-khandry-v-den-rozhdeniia-izi",
+        "https://iz.ru/2134149/vrachi-dali-sovety-po-sniatiiu-boli-v-bolshom-paltce-pri-ispolzovanii-telefona-izi",
+        "https://iz.ru/2134216/match-za-trete-mesto-chm-2026-angliia-frantciia-forma-komand-statistika-prognozy-izi",
+        "https://iz.ru/2134453/v-gosdume-predlozhili-vernut-piatiletniuiu-garantiiu-na-novostroiki-izi",
+        "https://iz.ru/2134470/v-ldpr-predlozhili-povysit-nadbavki-pozharnym-do-100-oklada-izi",
+        "https://iz.ru/2134482/v-voz-nazvali-sposoby-profilaktiki-raka-izi",
+        "https://iz.ru/2134489/ldpr-predlozhila-ne-uchityvat-premii-shkolnikov-pri-naznachenii-posobii-izi",
+        "https://iz.ru/2134495/istorik-nazval-familiiu-so-znacheniem-russkii-samoi-populiarnoi-v-moldavii-izi",
+        "https://iz.ru/2134499/kabmin-ogranichil-gruzoperevozki-po-rossii-dlia-estonskikh-fur-izi",
+        "https://iz.ru/2134507/fns-zablokirovala-scheta-kompanii-basty-iz-za-zadolzhennosti-izi",
+        "https://iz.ru/2134510/mvd-predupredilo-o-novoi-sxeme-mosennikov-s-oformleniem-kreditov-pod-zalog-kvartiry-izi",
+        "https://iz.ru/2134514/iurist-rasskazal-o-riskakh-dareniia-nedvizhimosti-posle-izmenenii-zakonodatelstva-izi",
+        "https://iz.ru/2134537/v-gd-rasskazali-o-vozvrate-chasti-ndfl-po-dogovoru-strakhovaniia-zhizni-s-sentiabria-izi",
+        "https://iz.ru/2134543/rossiiane-nazvali-zhelaemyi-uroven-dokhoda-ot-podrabotki-izi"
       ]
     },
     "2026-07-19": {
-      "totalChecked": 547,
+      "totalChecked": 546,
       "totalIzi": 206,
       "totalIiz": 1,
       "totalAi": 207,
@@ -375,16 +375,30 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 105,
-      "totalIzi": 3,
+      "totalChecked": 190,
+      "totalIzi": 17,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 19,
       "topLinks": [
+        "https://iz.ru/2137946/narodnye-primety-na-27-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2137969/bukhgalter-rasskazala-o-vygodakh-otpuska-za-svoi-schet-izi",
+        "https://iz.ru/2138997/v-donetcke-proveli-aktciiu-v-pamiat-o-pogibshikh-detiakh-donbassa-izi",
+        "https://iz.ru/2139020/2026-07-27/putin-podpisal-zakon-ob-osvobozhdenii-ot-shtrafov-pri-soglashenii-ob-ispravlenii-izi",
+        "https://iz.ru/2139042/2026-07-27/sily-pvo-otrazili-ataku-letevshikh-na-moskvu-trekh-bespilotnikov-izi",
+        "https://iz.ru/2139043/bolee-15-tonn-gumpomoshchi-otpravili-boitcam-svo-volontery-iz-raiona-strogino-izi",
+        "https://iz.ru/2139046/nyt-nazvala-kolichestvo-postradavshikh-voennykh-ssha-za-vremia-operatcii-protiv-irana-izi",
+        "https://iz.ru/2139049/kievskoe-dinamo-pozhalovalos-uefa-na-flag-rossii-na-tribunakh-matcha-ligi-evropy-izi",
+        "https://iz.ru/2139050/mvd-raskrylo-novyi-sposob-khishcheniia-uchetnykh-zapisei-telegram-bez-parolia-izi",
+        "https://iz.ru/2139051/le-parisien-soobshchila-ob-ugroze-voennym-zavodam-v-bordo-iz-za-prirodnykh-pozharov-izi",
+        "https://iz.ru/2139054/v-khabarovske-zaderzhali-rabotavshego-na-razvedku-novoi-zelandii-rossiianina-izi",
+        "https://iz.ru/2139063/moshchnyi-fontan-vody-zalil-ulitcu-v-novosibirske-iz-za-proryva-teploseti-izi",
+        "https://iz.ru/2139066/sotrudnitcu-moskovskoi-kompanii-uvolili-za-razglashenie-tainy-cherez-deepseek-izi",
+        "https://iz.ru/2139067/v-sarapule-evakuirovali-sortirovochnyi-tcentr-i-logisticheskii-kompleks-izi",
         "https://iz.ru/2137946/narodnye-primety-na-27-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2138997/v-donetcke-proveli-aktciiu-v-pamiat-o-pogibshikh-detiakh-donbassa-izi",
         "https://iz.ru/2139020/2026-07-27/putin-podpisal-zakon-ob-osvobozhdenii-ot-shtrafov-pri-soglashenii-ob-ispravlenii-izi",
-        "https://iz.ru/2137946/narodnye-primety-na-27-iiulia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2138997/v-donetcke-proveli-aktciiu-v-pamiat-o-pogibshikh-detiakh-donbassa-izi"
+        "https://iz.ru/2139042/2026-07-27/sily-pvo-otrazili-ataku-letevshikh-na-moskvu-trekh-bespilotnikov-izi",
+        "https://iz.ru/2139043/bolee-15-tonn-gumpomoshchi-otpravili-boitcam-svo-volontery-iz-raiona-strogino-izi"
       ]
     }
   }
