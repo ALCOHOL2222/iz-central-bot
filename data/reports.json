@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T06:50:48.610Z",
+  "generatedAt": "2026-07-28T12:23:55.893Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,41 +151,39 @@
       ]
     },
     "2026-07-20": {
-      "totalChecked": 740,
-      "totalIzi": 153,
+      "totalChecked": 625,
+      "totalIzi": 132,
       "totalIiz": 2,
-      "totalAi": 155,
+      "totalAi": 134,
       "topLinks": [
-        "https://iz.ru/2135355/uchenye-vossozdali-kosmicheskuiu-pyl-v-butylke-izi",
-        "https://iz.ru/2135369/biuro-1440-uspeshno-vyvelo-na-orbitu-vtoruiu-gruppirovku-sputnikov-sviazi-izi",
-        "https://iz.ru/2135374/v-gosdume-predlozhili-vvesti-roditelskuiu-zarplatu-dlia-nerabotaiushchikh-materei-izi",
-        "https://iz.ru/2135376/uchenye-sviazali-shest-podslastitelei-s-ukhudsheniem-pamiati-izi",
-        "https://iz.ru/2135392/uchenye-sviazali-redkii-tip-asteroida-s-vymiraniem-dinozavrov-izi",
-        "https://iz.ru/2135403/smi-uznali-o-vozmozhnom-izmenenii-es-21-go-paketa-sanktcii-protiv-rf-iz-za-gretcii-izi",
-        "https://iz.ru/2135407/svr-v-nato-schitaiut-chto-frg-mozhet-za-god-sozdat-iadernoe-vzryvnoe-ustroistvo-izi",
-        "https://iz.ru/2135413/mid-rf-prizval-rossiian-v-iordanii-sobliudat-mery-predostorozhennosti-izi",
-        "https://iz.ru/2135418/germaniia-ne-dopustila-rossiian-k-uchastiiu-v-evropeiskikh-iunosheskikh-igrakh-glukhikh-izi",
-        "https://iz.ru/2135426/zakharova-nazvala-moralnym-urodstvom-nedopusk-rossiian-k-iunosheskim-igram-glukhikh-izi",
-        "https://iz.ru/2135434/v-gosdume-raskryli-grafik-povysheniia-vsekh-sotcialnykh-vyplat-izi",
-        "https://iz.ru/2135436/marsokhod-nasa-vyiavil-svidetelstva-stolknoveniia-s-asteroidom-4-mlrd-let-nazad-izi",
-        "https://iz.ru/2135438/express-soobshchila-ob-otchaianii-zelenskogo-pri-obrashchenii-k-soiuznikam-posle-atak-izi",
-        "https://iz.ru/2135440/putin-poruchil-izmenit-zakonodatelstvo-v-sfere-gruzoperevozok-izi",
-        "https://iz.ru/2135442/v-ssha-nazvali-nevozmozhnoi-vysadku-na-lunu-v-1969-godu-izi",
-        "https://iz.ru/2135455/astronomy-nauchilis-prognozirovat-intensivnost-solnechnykh-tciklov-izi",
-        "https://iz.ru/2135456/uchenye-raskryli-vozmozhnyi-mekhanizm-zashchitnogo-deistviia-kofe-izi",
-        "https://iz.ru/2135469/uchenye-sviazali-chastyi-prosmotr-televizora-s-umensheniem-obema-mozga-izi",
-        "https://iz.ru/2135478/zolovku-ekateriny-shulman-prigovorili-k-piati-godam-za-rastratu-sredstv-tszh-izi",
-        "https://iz.ru/2135479/endi-bernem-stal-novym-premer-ministrom-velikobritanii-izi"
+        "https://iz.ru/2135489/2026-07-20/figuranta-dela-o-khishchenii-8-mlrd-rublei-u-banka-prigovorili-k-165-godam-kolonii-izi",
+        "https://iz.ru/2135492/na-avtovaze-raskryli-podrobnosti-o-stoimosti-obnovlennoi-nivy-izi",
+        "https://iz.ru/2135494/ft-soobshchila-o-blokirovke-nekotorymi-stranami-es-sanktcii-protiv-rf-izi",
+        "https://iz.ru/2135495/ploshchad-pozhara-v-tcentre-moskvy-dostigla-200-kv-m-izi",
+        "https://iz.ru/2135497/uchenye-nashli-svidetelstva-rannego-rybolovstva-v-norvegii-izi",
+        "https://iz.ru/2135499/zakharova-soobshchila-o-prorabotke-vstrechi-lavrova-i-rubio-na-sammite-asean-izi",
+        "https://iz.ru/2135520/piat-chelovek-pogibli-i-23-postradali-pri-atake-vsu-na-avtobus-v-shebekino-izi",
+        "https://iz.ru/2135522/lavrov-zaiavil-o-vechnoi-pamiati-soldat-kndr-v-kurskoi-oblasti-izi",
+        "https://iz.ru/2135538/tcb-soobshchil-o-perenose-planovykh-remontov-na-sibirskikh-npz-izi",
+        "https://iz.ru/2135542/jemenskie-khusity-obiavili-o-morskoi-blokade-saudovskoi-aravii-izi",
+        "https://iz.ru/2135549/gosduma-rassmotrit-proekt-ob-obiazatelnom-uvedomlenii-o-vydache-kreditov-izi",
+        "https://iz.ru/2135553/armiia-rossii-porazila-mesta-sborki-i-khraneniia-dronov-vsu-bolshoi-dalnosti-izi",
+        "https://iz.ru/2135563/aktrisa-liubov-aksenova-rasskazala-o-granitcakh-dopustimogo-v-professii-izi",
+        "https://iz.ru/2135565/massirovannaia-ataka-bpla-na-moskovskii-region-v-noch-na-20-iiulia-chto-izvestno-izi",
+        "https://iz.ru/2135566/na-solntce-20-21-iiulia-vozmozhny-vspyshki-klassa-m-izi",
+        "https://iz.ru/2135573/novyi-premer-britanii-pervym-delom-nameren-pozvonit-zelenskomu-i-trampu-izi",
+        "https://iz.ru/2135576/argentinetc-umer-ot-poluchennykh-pri-popytke-zakurit-ozhogov-izi",
+        "https://iz.ru/2135586/pozhar-v-usadbe-naryshkinykh-ne-zatronul-zdanie-nii-minzdrava-izi",
+        "https://iz.ru/2135603/zakharova-obvinila-kiev-v-atakakh-na-tankery-u-terminala-ktk-izi",
+        "https://iz.ru/2135606/v-belgorodskoi-oblasti-25-chelovek-gospitalizirovali-posle-ataki-vsu-na-avtobus-izi"
       ]
     },
     "2026-07-21": {
-      "totalChecked": 792,
-      "totalIzi": 136,
-      "totalIiz": 2,
-      "totalAi": 138,
+      "totalChecked": 787,
+      "totalIzi": 135,
+      "totalIiz": 1,
+      "totalAi": 136,
       "topLinks": [
-        "https://iz.ru/2135356/2026-07-21/uchenye-rasskazali-o-sposobe-sokhranit-rezultat-pokhudeniia-izi",
-        "https://iz.ru/2135486/narodnye-primety-na-21-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2135635/psikhologi-rasskazali-o-sposobakh-sdelat-sebia-schastlivee-izi",
         "https://iz.ru/2135817/sredniaia-pensiia-rabotaiushchikh-rossiian-za-god-vyrosla-na-26-tys-rublei-izi",
         "https://iz.ru/2135827/ssha-bolee-chem-na-dva-goda-zaderzhali-postavki-podvodnykh-lodok-virginia-izi",
@@ -203,11 +201,13 @@
         "https://iz.ru/2135887/messi-zavershil-kareru-v-sbornoi-argentiny-izi",
         "https://iz.ru/2135892/ksir-zaiavil-o-likvidatcii-amerikanskikh-pro-i-istrebitelia-f-15-v-iordanii-izi",
         "https://iz.ru/2135899/onishchenko-prizval-rossiian-ne-vyezzhat-na-otdykh-za-granitcu-iz-za-riska-infektcii-izi",
-        "https://iz.ru/2135900/lavrov-pribyl-na-filippiny-dlia-uchastiia-v-meropriiatiiakh-asean-izi"
+        "https://iz.ru/2135900/lavrov-pribyl-na-filippiny-dlia-uchastiia-v-meropriiatiiakh-asean-izi",
+        "https://iz.ru/2135905/v-turtcii-predupredili-ukrainu-o-riske-poteri-suvereniteta-bez-dialoga-s-rossiei-izi",
+        "https://iz.ru/2135911/protiv-zaderzhannogo-byvshego-mera-kaspiiska-vozbudili-ugolovnoe-delo-o-vziatke-izi"
       ]
     },
     "2026-07-22": {
-      "totalChecked": 863,
+      "totalChecked": 862,
       "totalIzi": 184,
       "totalIiz": 2,
       "totalAi": 186,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-07-23": {
-      "totalChecked": 756,
+      "totalChecked": 755,
       "totalIzi": 198,
       "totalIiz": 3,
       "totalAi": 201,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-28": {
-      "totalChecked": 252,
-      "totalIzi": 25,
+      "totalChecked": 441,
+      "totalIzi": 85,
       "totalIiz": 2,
-      "totalAi": 27,
+      "totalAi": 87,
       "topLinks": [
         "https://iz.ru/2139117/uchenye-sviazali-postoiannye-finansovye-trudnosti-s-uskorennym-stareniem-mozga-izi",
         "https://iz.ru/2139150/uchenye-sviazali-anomalnuiu-poteriu-zhira-s-razvitiem-diabeta-izi",
@@ -392,14 +392,14 @@
         "https://iz.ru/2139695/rossiiskii-basketbolnyi-trener-i-funktcioner-eduard-sandler-biografiia-izi",
         "https://iz.ru/2139697/chto-proizoshlo-za-noch-28-iiulia-glavnoe-izi",
         "https://iz.ru/2139704/v-rossii-zaregistrirovali-preparat-dlia-lecheniia-khronicheskogo-leikoza-izi",
+        "https://iz.ru/2139705/v-obshchestvennoi-palate-predlozhili-povysit-mrot-do-50-tys-rublei-izi",
         "https://iz.ru/2139708/bezhenka-iz-latvii-elizaveta-otcenila-tceny-za-gaz-elektrichestvo-i-vodu-v-rossii-izi",
         "https://iz.ru/2139709/sheremet-predskazal-krakh-energetiki-ukrainy-cherez-dva-mesiatca-izi",
-        "https://iz.ru/2139117/uchenye-sviazali-postoiannye-finansovye-trudnosti-s-uskorennym-stareniem-mozga-izi",
-        "https://iz.ru/2139150/uchenye-sviazali-anomalnuiu-poteriu-zhira-s-razvitiem-diabeta-izi",
-        "https://iz.ru/2139169/biologi-smogli-izuchit-gibkost-chelovecheskoi-pamiati-s-pomoshchiu-igry-v-zmeiku-izi",
-        "https://iz.ru/2139320/narodnye-primety-na-28-iiulia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2139640/vyplaty-nerabotaiushchim-pensioneram-vyshe-40-tys-rublei-otmecheny-v-dvukh-regionakh-izi",
-        "https://iz.ru/2139644/v-gosdume-predupredili-o-novoi-skheme-moshennikov-cherez-domovye-chaty-izi"
+        "https://iz.ru/2139714/komandir-grishaev-rasskazal-o-popytke-vsu-obmanut-boitcov-rf-izi",
+        "https://iz.ru/2139715/dmitriev-ukazal-na-manipuliatcii-rynka-nefti-posle-atak-na-saudovskuiu-araviiu-izi",
+        "https://iz.ru/2139716/makron-nazval-pozhary-vo-frantcii-samoi-tiazheloi-situatciei-so-vtoroi-mirovoi-voiny-izi",
+        "https://iz.ru/2139717/nmitc-radiologii-opredeli-pokazaniia-dlia-pervoi-otechestvennoi-vaktciny-ot-melanomy-izi",
+        "https://iz.ru/2139724/fas-vozbudila-dela-iz-za-povysheniia-tcen-na-toplivo-v-neskolkikh-regionakh-rossii-izi"
       ]
     }
   }
