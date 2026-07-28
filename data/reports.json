@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T18:57:15.911Z",
+  "generatedAt": "2026-07-28T20:44:07.538Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-20": {
-      "totalChecked": 515,
-      "totalIzi": 97,
+      "totalChecked": 494,
+      "totalIzi": 92,
       "totalIiz": 2,
-      "totalAi": 99,
+      "totalAi": 94,
       "topLinks": [
-        "https://iz.ru/2135699/v-belgorode-odin-chelovek-pogib-i-10-postradali-pri-atake-vsu-na-avtomoiku-izi",
-        "https://iz.ru/2135700/na-ukraine-prizvali-zhitelei-gorodov-zadumatsia-o-pereezde-na-zimu-izi",
-        "https://iz.ru/2135706/rossiiskaia-figuristka-adeliia-petrosian-biografiia-izi",
-        "https://iz.ru/2135714/zhiteli-madrida-vstretili-sbornuiu-ispanii-posle-pobedy-na-chm-izi",
-        "https://iz.ru/2135717/bloomberg-nazvalo-drapatogo-glavnym-pretendentom-na-post-glavkoma-vsu-izi",
         "https://iz.ru/2135727/messi-ne-vyletel-v-argentinu-posle-porazheniia-v-finale-chempionata-mira-izi",
         "https://iz.ru/2135731/lionel-messi-nazval-nevynosimoi-bol-ot-proigrysha-v-finale-chm-2026-izi",
         "https://iz.ru/2135739/fitnes-bloger-vadim-ivanov-umer-v-37-let-izi",
@@ -175,7 +170,12 @@
         "https://iz.ru/2135226/v-gd-predlozhili-zakonodatelno-zakrepit-poniatie-odinokii-roditel-izi",
         "https://iz.ru/2135234/analitik-predupredil-o-riskakh-dosrochnogo-perevoda-pensionnykh-nakoplenii-izi",
         "https://iz.ru/2135237/chislo-zhertv-zemletriaseniia-v-venesuele-vyroslo-do-5208-chelovek-izi",
-        "https://iz.ru/2135241/germaniia-stala-glavnym-postavshchikom-shokolada-v-rf-izi"
+        "https://iz.ru/2135241/germaniia-stala-glavnym-postavshchikom-shokolada-v-rf-izi",
+        "https://iz.ru/2135253/v-gd-rasskazali-o-rezhime-shumnykh-remontnykh-rabot-v-novostroikakh-izi",
+        "https://iz.ru/2135269/rossiiskie-voennye-sorvali-ataku-kolumbiiskikh-naemnikov-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2135272/vsu-atakovali-dronami-sdaiushchikhsia-sosluzhivtcev-v-sumskoi-oblasti-izi",
+        "https://iz.ru/2135281/ispaniia-chempion-mira-po-futbolu-2026-kak-proshel-final-chm-izi",
+        "https://iz.ru/2135291/bpla-povredili-mnogokvartirnye-zhilye-doma-i-kommercheskie-obekty-v-podmoskove-izi"
       ]
     },
     "2026-07-21": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-28": {
-      "totalChecked": 767,
-      "totalIzi": 194,
+      "totalChecked": 788,
+      "totalIzi": 210,
       "totalIiz": 2,
-      "totalAi": 196,
+      "totalAi": 212,
       "topLinks": [
         "https://iz.ru/2139117/uchenye-sviazali-postoiannye-finansovye-trudnosti-s-uskorennym-stareniem-mozga-izi",
         "https://iz.ru/2139150/uchenye-sviazali-anomalnuiu-poteriu-zhira-s-razvitiem-diabeta-izi",
