@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T17:00:52.956Z",
+  "generatedAt": "2026-07-28T18:57:15.911Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-07-20": {
-      "totalChecked": 538,
-      "totalIzi": 104,
+      "totalChecked": 515,
+      "totalIzi": 97,
       "totalIiz": 2,
-      "totalAi": 106,
+      "totalAi": 99,
       "topLinks": [
-        "https://iz.ru/2135667/studiia-marvel-pokazala-pervyi-treiler-filma-mstiteli-sudnyi-den-izi",
-        "https://iz.ru/2135675/pvo-unichtozhila-vosem-letevshikh-na-moskvu-bespilotnikov-izi",
-        "https://iz.ru/2135677/chislo-postradavshikh-pri-udare-vsu-po-avtobusu-v-shebekino-vyroslo-do-27-izi",
-        "https://iz.ru/2135678/zakharova-nazvala-vysylku-italianskogo-voennogo-attashe-otvetom-rimu-izi",
-        "https://iz.ru/2135690/minfin-priostanovil-auktciony-po-razmeshcheniiu-ofz-dlia-stabilizatcii-rynka-izi",
-        "https://iz.ru/2135694/soavtor-pervykh-dvukh-chastei-terminatora-uiliam-uisher-umer-izi",
-        "https://iz.ru/2135695/izvestnaia-v-krugakh-baikerov-mototciklistka-sonata-pogibla-posle-dtp-v-rostove-izi",
         "https://iz.ru/2135699/v-belgorode-odin-chelovek-pogib-i-10-postradali-pri-atake-vsu-na-avtomoiku-izi",
         "https://iz.ru/2135700/na-ukraine-prizvali-zhitelei-gorodov-zadumatsia-o-pereezde-na-zimu-izi",
         "https://iz.ru/2135706/rossiiskaia-figuristka-adeliia-petrosian-biografiia-izi",
@@ -175,11 +168,18 @@
         "https://iz.ru/2126302/olene-polnolunie-2026-kogda-nabliudat-redkoe-i-neobychnoe-astronomicheskoe-sobytie-iiz",
         "https://iz.ru/2134147/narodnye-primety-na-20-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2135198/premer-vengrii-predlozhil-shakhmatistke-iudit-polgar-post-prezidenta-izi",
-        "https://iz.ru/2135201/tramp-nazval-nelepym-otkaz-britanii-ot-dobychi-nefti-v-severnom-more-izi"
+        "https://iz.ru/2135201/tramp-nazval-nelepym-otkaz-britanii-ot-dobychi-nefti-v-severnom-more-izi",
+        "https://iz.ru/2135207/v-gosdume-predlozhili-uchityvat-sluzhbu-v-svo-v-stazhe-grazhdanskoi-sluzhby-izi",
+        "https://iz.ru/2135210/smi-soobshchili-ob-otravlenii-liudei-parami-khlora-v-basseine-italii-izi",
+        "https://iz.ru/2135220/smi-soobshchili-o-nedopuske-voprosa-o-genotcide-armian-na-golosovanie-v-izraile-izi",
+        "https://iz.ru/2135226/v-gd-predlozhili-zakonodatelno-zakrepit-poniatie-odinokii-roditel-izi",
+        "https://iz.ru/2135234/analitik-predupredil-o-riskakh-dosrochnogo-perevoda-pensionnykh-nakoplenii-izi",
+        "https://iz.ru/2135237/chislo-zhertv-zemletriaseniia-v-venesuele-vyroslo-do-5208-chelovek-izi",
+        "https://iz.ru/2135241/germaniia-stala-glavnym-postavshchikom-shokolada-v-rf-izi"
       ]
     },
     "2026-07-21": {
-      "totalChecked": 772,
+      "totalChecked": 767,
       "totalIzi": 134,
       "totalIiz": 1,
       "totalAi": 135,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-28": {
-      "totalChecked": 662,
-      "totalIzi": 154,
+      "totalChecked": 767,
+      "totalIzi": 194,
       "totalIiz": 2,
-      "totalAi": 156,
+      "totalAi": 196,
       "topLinks": [
         "https://iz.ru/2139117/uchenye-sviazali-postoiannye-finansovye-trudnosti-s-uskorennym-stareniem-mozga-izi",
         "https://iz.ru/2139150/uchenye-sviazali-anomalnuiu-poteriu-zhira-s-razvitiem-diabeta-izi",
