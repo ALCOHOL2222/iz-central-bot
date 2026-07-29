@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:51:55.772Z",
+  "generatedAt": "2026-07-29T06:54:38.837Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-21": {
-      "totalChecked": 689,
-      "totalIzi": 121,
+      "totalChecked": 669,
+      "totalIzi": 116,
       "totalIiz": 1,
-      "totalAi": 122,
+      "totalAi": 117,
       "topLinks": [
-        "https://iz.ru/2135887/messi-zavershil-kareru-v-sbornoi-argentiny-izi",
-        "https://iz.ru/2135892/ksir-zaiavil-o-likvidatcii-amerikanskikh-pro-i-istrebitelia-f-15-v-iordanii-izi",
-        "https://iz.ru/2135899/onishchenko-prizval-rossiian-ne-vyezzhat-na-otdykh-za-granitcu-iz-za-riska-infektcii-izi",
-        "https://iz.ru/2135900/lavrov-pribyl-na-filippiny-dlia-uchastiia-v-meropriiatiiakh-asean-izi",
-        "https://iz.ru/2135905/v-turtcii-predupredili-ukrainu-o-riske-poteri-suvereniteta-bez-dialoga-s-rossiei-izi",
         "https://iz.ru/2135911/protiv-zaderzhannogo-byvshego-mera-kaspiiska-vozbudili-ugolovnoe-delo-o-vziatke-izi",
         "https://iz.ru/2135917/enn-kheteuei-podtverdila-vozobnovlenie-raboty-nad-dnevnikami-printcessy-3-izi",
         "https://iz.ru/2135921/wsj-soobshchila-podrobnosti-ob-atake-irana-po-voennoi-baze-ssha-v-iordanii-izi",
@@ -175,11 +170,16 @@
         "https://iz.ru/2135982/zhenshchina-postradala-iz-za-udara-vsu-po-zaporozhskoi-oblasti-izi",
         "https://iz.ru/2135993/wsj-ukazala-na-popytku-izrailia-ubedit-ssha-vozobnovit-masshtabnye-udary-v-irane-izi",
         "https://iz.ru/2135999/televedushchaia-vodonaeva-v-shutku-potrebovala-vykinut-rebenka-za-bort-vo-floride-izi",
-        "https://iz.ru/2136003/onishchenko-predupredil-o-roste-sluchaev-diabeta-i-dementcii-sredi-liudei-molozhe-50-let-izi"
+        "https://iz.ru/2136003/onishchenko-predupredil-o-roste-sluchaev-diabeta-i-dementcii-sredi-liudei-molozhe-50-let-izi",
+        "https://iz.ru/2136017/peskov-nazval-neprostoi-situatciiu-s-ubytkami-wildberries-i-ee-prodavtcov-izi",
+        "https://iz.ru/2136022/uchenye-obnaruzhili-u-beregov-zapadnoi-afriki-schitavshiisia-mertvym-korallovyi-rif-izi",
+        "https://iz.ru/2136024/politolog-dudakov-sviazal-veroiatnyi-vizit-glavy-fbr-patelia-v-rf-s-rashageitom-izi",
+        "https://iz.ru/2136034/dilery-otcenili-situatciiu-na-skidkami-na-avtomobili-v-rf-izi",
+        "https://iz.ru/2136036/kardiologi-nazvali-bezopasnoe-dlia-bolshinstva-vzroslykh-kolichestvo-kofe-izi"
       ]
     },
     "2026-07-22": {
-      "totalChecked": 860,
+      "totalChecked": 858,
       "totalIzi": 184,
       "totalIiz": 2,
       "totalAi": 186,
@@ -375,15 +375,16 @@
       ]
     },
     "2026-07-29": {
-      "totalChecked": 167,
-      "totalIzi": 19,
+      "totalChecked": 236,
+      "totalIzi": 30,
       "totalIiz": 2,
-      "totalAi": 21,
+      "totalAi": 32,
       "topLinks": [
         "https://iz.ru/2139210/uchenye-proverili-vliianie-gazirovannoi-vody-na-zuby-izi",
         "https://iz.ru/2139775/uchenye-ukazali-na-aktivizatciiu-immunnykh-kletok-posle-poseshcheniia-sauny-izi",
         "https://iz.ru/2139791/sny-okazalis-rezultatom-pererabotki-realnosti-mozgom-izi",
         "https://iz.ru/2139850/narodnye-primety-na-29-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2140027/podrazdelenie-gorynych-likvidirovalo-deviat-boevikov-vsu-v-konstantinovke-izi",
         "https://iz.ru/2140237/v-gosdume-oprovergli-izmenenie-srokov-peredachi-pokazanii-schetchikov-vody-izi",
         "https://iz.ru/2140239/v-italii-soobshchili-o-popytkakh-mafii-priobresti-ispolzuemye-na-ukraine-drony-izi",
         "https://iz.ru/2140247/v-sb-rf-rasskazali-o-peregovorakh-s-knr-i-indiei-po-proektam-v-klastere-redkozemov-izi",
@@ -392,14 +393,13 @@
         "https://iz.ru/2140272/v-op-rf-vystupili-za-sokrashchenie-domashnikh-zadanii-dlia-shkolnikov-izi",
         "https://iz.ru/2140276/ekipazhi-t-80bv-nanesli-udary-po-pozitciiam-vsu-v-zaporozhe-izi",
         "https://iz.ru/2140305/european-gymnastics-ratifitcirovala-vystuplenie-rossiian-s-flagom-i-gimnom-izi",
+        "https://iz.ru/2140306/v-gd-predlozhili-predostavit-mnogodetnym-vybor-mezhdu-zemlei-i-1-mln-rublei-izi",
         "https://iz.ru/2140309/minprosveshcheniia-obnovit-uchebnye-programmy-po-piati-predmetam-v-10-11-klassakh-izi",
+        "https://iz.ru/2140328/miroshnik-ukazal-na-ispolzovanie-es-infopovodov-dlia-podderzhki-ukrainy-izi",
         "https://iz.ru/2139210/uchenye-proverili-vliianie-gazirovannoi-vody-na-zuby-izi",
-        "https://iz.ru/2139850/narodnye-primety-na-29-iiulia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2140237/v-gosdume-oprovergli-izmenenie-srokov-peredachi-pokazanii-schetchikov-vody-izi",
-        "https://iz.ru/2140239/v-italii-soobshchili-o-popytkakh-mafii-priobresti-ispolzuemye-na-ukraine-drony-izi",
-        "https://iz.ru/2140247/v-sb-rf-rasskazali-o-peregovorakh-s-knr-i-indiei-po-proektam-v-klastere-redkozemov-izi",
-        "https://iz.ru/2140254/minzdrav-rasshiril-standart-meditcinskoi-pomoshchi-detiam-pri-tuberkuleze-izi",
-        "https://iz.ru/2140269/v-gosdume-napomnili-o-roste-razmera-vyplat-beremennym-i-molodym-mamam-v-2026-godu-izi"
+        "https://iz.ru/2139775/uchenye-ukazali-na-aktivizatciiu-immunnykh-kletok-posle-poseshcheniia-sauny-izi",
+        "https://iz.ru/2139791/sny-okazalis-rezultatom-pererabotki-realnosti-mozgom-izi",
+        "https://iz.ru/2139850/narodnye-primety-na-29-iiulia-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
   }
