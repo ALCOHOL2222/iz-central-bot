@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30T14:42:49.598Z",
+  "generatedAt": "2026-07-30T16:59:30.246Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 64,
-    "failedFetches": 1,
+    "fetchedUrlSets": 65,
+    "failedFetches": 0,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -151,22 +151,11 @@
       ]
     },
     "2026-07-22": {
-      "totalChecked": 533,
-      "totalIzi": 114,
+      "totalChecked": 492,
+      "totalIzi": 103,
       "totalIiz": 1,
-      "totalAi": 115,
+      "totalAi": 104,
       "topLinks": [
-        "https://iz.ru/2136773/v-tyve-voditel-legkovogo-avto-pogib-posle-stolknoveniia-s-benzovozom-izi",
-        "https://iz.ru/2136778/evakuirovannaia-zhitelnitca-konstantinovki-rasskazala-o-deistviiakh-boevikov-vsu-izi",
-        "https://iz.ru/2136785/zhurnalist-inoagent-maikl-naki-oshtrafovan-za-narushenie-zakona-ob-inoagentakh-izi",
-        "https://iz.ru/2136787/smi-nazvali-datu-premery-piatogo-sezona-kliukvennogo-shcherbeta-izi",
-        "https://iz.ru/2136794/vs-rf-vziali-v-plen-ofitcerov-pogransluzhby-ukrainy-pod-kharkovom-izi",
-        "https://iz.ru/2136812/twz-soobshchil-o-sposobnosti-novogo-robota-remontnika-ssha-unichtozhat-sputniki-izi",
-        "https://iz.ru/2136827/zakharova-napomnila-kallas-ob-izlechimosti-fobii-v-otvet-na-slova-ob-ugroze-iz-rf-izi",
-        "https://iz.ru/2136828/pozhar-na-sklade-wildberries-posle-udara-bpla-v-nevinnomysske-lokalizovali-izi",
-        "https://iz.ru/2136840/vs-rf-porazili-dva-sukhogruza-vsu-na-puti-v-odessu-i-chernomorsk-izi",
-        "https://iz.ru/2136847/ukrainskii-deputat-soobshchil-o-skoroi-komandirovke-zelenskogo-v-vashington-izi",
-        "https://iz.ru/2136851/degtiarev-nazval-samye-otmorozhennye-sportivnye-federatcii-izi",
         "https://iz.ru/2136867/v-gosdume-predlozhili-otpravit-deputatov-na-voennye-sbory-izi",
         "https://iz.ru/2136868/moldavskaia-partiia-shans-podast-zhalobu-v-espch-posle-resheniia-o-likvidatcii-izi",
         "https://iz.ru/2136872/sily-pvo-za-den-unichtozhili-80-ukrainskikh-bpla-nad-regionami-rossii-izi",
@@ -175,17 +164,26 @@
         "https://iz.ru/2136904/kim-nazvala-bezopasnost-liudei-prioritetom-pri-rabote-skladov-wildberries-izi",
         "https://iz.ru/2136911/vs-rossii-porazili-voennye-gruzy-i-tri-sklada-bpla-v-odesskoi-oblasti-izi",
         "https://iz.ru/2136913/ft-poschitala-dokhody-ssha-ot-venesuelskoi-nefti-izi",
-        "https://iz.ru/2136924/zhitelia-zaporozhskoi-oblasti-osudili-na-12-let-za-perevod-vsu-bolee-1-mln-rublei-izi"
+        "https://iz.ru/2136924/zhitelia-zaporozhskoi-oblasti-osudili-na-12-let-za-perevod-vsu-bolee-1-mln-rublei-izi",
+        "https://iz.ru/2136945/mertc-i-pashinian-obsudili-ukrainu-i-mirnyi-protcess-mezhdu-erevanom-i-baku-izi",
+        "https://iz.ru/2132514/khoreograf-i-baletmeister-boris-eifman-biografiia-izi",
+        "https://iz.ru/2133696/put-domoi-dlinoi-v-70-let-luchshie-ekranizatcii-odissei-do-filma-nolana-izi",
+        "https://iz.ru/2135941/uchenye-vyiavili-osobennosti-vospriiatiia-mimiki-liudei-pri-autizme-izi",
+        "https://iz.ru/2135975/narodnye-primety-na-22-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2135979/2026-07-22/uchenye-vyiavili-vozmozhnuiu-prichinu-poteri-sna-pri-bolezni-altcgeimera-izi",
+        "https://iz.ru/2136010/uchenye-vyiavili-fizicheskie-izmeneniia-mozga-pri-trenirovke-kognitivnykh-navykov-izi",
+        "https://iz.ru/2136058/uchenye-obiasnili-razlichiia-mezhdu-klinicheskimi-podkhodami-zhenshchin-i-muzhchin-medikov-izi",
+        "https://iz.ru/2136066/falkov-rasskazal-ob-uglublenii-kooperatcii-s-kitaem-v-sfere-vysokikh-tekhnologii-izi",
+        "https://iz.ru/2136388/2026-07-22/armiia-rossii-nanesla-udar-po-gazopererabatyvaiushchei-ustanovke-v-efremovke-izi",
+        "https://iz.ru/2136392/voennyi-ekspert-nazval-udarom-dlia-zelenskogo-naznachenie-novogo-glavkoma-vsu-izi"
       ]
     },
     "2026-07-23": {
-      "totalChecked": 732,
-      "totalIzi": 194,
+      "totalChecked": 722,
+      "totalIzi": 192,
       "totalIiz": 2,
-      "totalAi": 196,
+      "totalAi": 194,
       "topLinks": [
-        "https://iz.ru/2136793/uchenye-ukazali-na-uvelichenie-razryva-mezhdu-dolgoletiem-i-periodom-zdorovoi-zhizni-izi",
-        "https://iz.ru/2136810/uchenye-razrabotali-metod-rannei-diagnostiki-bolezni-altcgeimera-cherez-son-izi",
         "https://iz.ru/2136994/2026-07-23/v-madiara-pliunuli-na-ulitce-v-budapeshte-izi",
         "https://iz.ru/2137033/eksperty-perezvoni-sam-napomnili-o-gosudarstvennykh-merakh-zashchity-ot-moshennikov-izi",
         "https://iz.ru/2137035/posol-rf-v-moldavii-nazval-nezakonnym-zaderzhanie-diplomatov-v-respublike-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2137070/komandovanie-vsu-narashchivaet-chislennost-boevykh-grupp-v-chernigovskoi-oblasti-izi",
         "https://iz.ru/2137079/politico-uznala-o-blokirovke-gretciei-novogo-paketa-antirossiiskikh-sanktcii-es-izi",
         "https://iz.ru/2137083/chislo-pogibshikh-pri-atake-vsu-na-krym-vozroslo-do-dvukh-chelovek-izi",
-        "https://iz.ru/2137085/astronomy-soobshchili-o-vozmozhnom-obnaruzhenii-pervoi-ekzoluny-izi"
+        "https://iz.ru/2137085/astronomy-soobshchili-o-vozmozhnom-obnaruzhenii-pervoi-ekzoluny-izi",
+        "https://iz.ru/2137093/vozmozhnyi-organizator-krupneishei-ploshchadki-bumazhnogo-nds-zaderzhan-za-granitcei-izi",
+        "https://iz.ru/2137098/v-rospotrebnadzore-soobshchili-o-dostatochnom-zapase-vaktcin-ot-grippa-izi"
       ]
     },
     "2026-07-24": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-30": {
-      "totalChecked": 590,
-      "totalIzi": 123,
+      "totalChecked": 641,
+      "totalIzi": 134,
       "totalIiz": 3,
-      "totalAi": 126,
+      "totalAi": 137,
       "topLinks": [
         "https://iz.ru/2139849/uchenye-izuchili-vliianie-genetiki-na-pitanie-i-metabolicheskoe-zdorove-izi",
         "https://iz.ru/2140035/uchenye-nazvali-prostoi-sposob-snizit-risk-depressii-izi",
