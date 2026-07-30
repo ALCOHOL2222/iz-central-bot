@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30T12:14:55.634Z",
+  "generatedAt": "2026-07-30T14:42:49.598Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 65,
-    "failedFetches": 0,
+    "fetchedUrlSets": 64,
+    "failedFetches": 1,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -151,18 +151,11 @@
       ]
     },
     "2026-07-22": {
-      "totalChecked": 576,
-      "totalIzi": 121,
+      "totalChecked": 533,
+      "totalIzi": 114,
       "totalIiz": 1,
-      "totalAi": 122,
+      "totalAi": 115,
       "topLinks": [
-        "https://iz.ru/2136699/posolstvo-rf-v-bolgarii-podderzhalo-ee-otkaz-ot-uchastiia-v-koalitcii-zhelaiushchikh-izi",
-        "https://iz.ru/2136708/k-tusheniiu-pozhara-na-skladakh-v-krasnodare-privlechen-vertolet-mi-8-i-poezda-izi",
-        "https://iz.ru/2136723/byvshei-devushke-repera-pashi-tekhnika-prodlili-arest-po-delu-o-pornografii-izi",
-        "https://iz.ru/2136732/boetc-emelianenko-podal-v-sud-na-izdatelstvo-ast-iz-za-knigi-o-sebe-izi",
-        "https://iz.ru/2136757/gd-rasshirila-vozmozhnosti-zakliucheniia-kontrakta-s-vs-rf-dlia-sudimykh-grazhdan-izi",
-        "https://iz.ru/2136758/putin-podderzhal-initciativu-o-perenose-srokov-biudzhetnykh-kreditov-regionov-izi",
-        "https://iz.ru/2136768/astrofiziki-usomnilis-v-uskorennom-rasshirenii-vselennoi-izi",
         "https://iz.ru/2136773/v-tyve-voditel-legkovogo-avto-pogib-posle-stolknoveniia-s-benzovozom-izi",
         "https://iz.ru/2136778/evakuirovannaia-zhitelnitca-konstantinovki-rasskazala-o-deistviiakh-boevikov-vsu-izi",
         "https://iz.ru/2136785/zhurnalist-inoagent-maikl-naki-oshtrafovan-za-narushenie-zakona-ob-inoagentakh-izi",
@@ -175,16 +168,22 @@
         "https://iz.ru/2136847/ukrainskii-deputat-soobshchil-o-skoroi-komandirovke-zelenskogo-v-vashington-izi",
         "https://iz.ru/2136851/degtiarev-nazval-samye-otmorozhennye-sportivnye-federatcii-izi",
         "https://iz.ru/2136867/v-gosdume-predlozhili-otpravit-deputatov-na-voennye-sbory-izi",
-        "https://iz.ru/2136868/moldavskaia-partiia-shans-podast-zhalobu-v-espch-posle-resheniia-o-likvidatcii-izi"
+        "https://iz.ru/2136868/moldavskaia-partiia-shans-podast-zhalobu-v-espch-posle-resheniia-o-likvidatcii-izi",
+        "https://iz.ru/2136872/sily-pvo-za-den-unichtozhili-80-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2136882/konsuly-rf-otmetili-vyderzhku-osnovatelnitcy-sos-donbass-novikovoi-v-tiurme-frantcii-izi",
+        "https://iz.ru/2136899/v-sankt-peterburge-predlozhili-vvesti-prava-dlia-samokatchikov-izi",
+        "https://iz.ru/2136904/kim-nazvala-bezopasnost-liudei-prioritetom-pri-rabote-skladov-wildberries-izi",
+        "https://iz.ru/2136911/vs-rossii-porazili-voennye-gruzy-i-tri-sklada-bpla-v-odesskoi-oblasti-izi",
+        "https://iz.ru/2136913/ft-poschitala-dokhody-ssha-ot-venesuelskoi-nefti-izi",
+        "https://iz.ru/2136924/zhitelia-zaporozhskoi-oblasti-osudili-na-12-let-za-perevod-vsu-bolee-1-mln-rublei-izi"
       ]
     },
     "2026-07-23": {
-      "totalChecked": 737,
-      "totalIzi": 195,
+      "totalChecked": 732,
+      "totalIzi": 194,
       "totalIiz": 2,
-      "totalAi": 197,
+      "totalAi": 196,
       "topLinks": [
-        "https://iz.ru/2136739/2026-07-23/golos-kotoryi-nevozmozhno-zabyt-15-let-bez-emi-uainkhaus-izi",
         "https://iz.ru/2136793/uchenye-ukazali-na-uvelichenie-razryva-mezhdu-dolgoletiem-i-periodom-zdorovoi-zhizni-izi",
         "https://iz.ru/2136810/uchenye-razrabotali-metod-rannei-diagnostiki-bolezni-altcgeimera-cherez-son-izi",
         "https://iz.ru/2136994/2026-07-23/v-madiara-pliunuli-na-ulitce-v-budapeshte-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2137068/na-sakhaline-soobshchili-o-planakh-sokhranit-tcenu-na-krasnuiu-ikru-v-2026-godu-izi",
         "https://iz.ru/2137070/komandovanie-vsu-narashchivaet-chislennost-boevykh-grupp-v-chernigovskoi-oblasti-izi",
         "https://iz.ru/2137079/politico-uznala-o-blokirovke-gretciei-novogo-paketa-antirossiiskikh-sanktcii-es-izi",
-        "https://iz.ru/2137083/chislo-pogibshikh-pri-atake-vsu-na-krym-vozroslo-do-dvukh-chelovek-izi"
+        "https://iz.ru/2137083/chislo-pogibshikh-pri-atake-vsu-na-krym-vozroslo-do-dvukh-chelovek-izi",
+        "https://iz.ru/2137085/astronomy-soobshchili-o-vozmozhnom-obnaruzhenii-pervoi-ekzoluny-izi"
       ]
     },
     "2026-07-24": {
-      "totalChecked": 818,
+      "totalChecked": 817,
       "totalIzi": 198,
       "totalIiz": 3,
       "totalAi": 201,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-30": {
-      "totalChecked": 446,
-      "totalIzi": 92,
+      "totalChecked": 590,
+      "totalIzi": 123,
       "totalIiz": 3,
-      "totalAi": 95,
+      "totalAi": 126,
       "topLinks": [
         "https://iz.ru/2139849/uchenye-izuchili-vliianie-genetiki-na-pitanie-i-metabolicheskoe-zdorove-izi",
         "https://iz.ru/2140035/uchenye-nazvali-prostoi-sposob-snizit-risk-depressii-izi",
