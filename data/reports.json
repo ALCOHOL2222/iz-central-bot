@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T16:59:30.246Z",
+  "generatedAt": "2026-07-30T18:56:48.643Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-07-22": {
-      "totalChecked": 492,
-      "totalIzi": 103,
+      "totalChecked": 468,
+      "totalIzi": 99,
       "totalIiz": 1,
-      "totalAi": 104,
+      "totalAi": 100,
       "topLinks": [
-        "https://iz.ru/2136867/v-gosdume-predlozhili-otpravit-deputatov-na-voennye-sbory-izi",
-        "https://iz.ru/2136868/moldavskaia-partiia-shans-podast-zhalobu-v-espch-posle-resheniia-o-likvidatcii-izi",
-        "https://iz.ru/2136872/sily-pvo-za-den-unichtozhili-80-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2136882/konsuly-rf-otmetili-vyderzhku-osnovatelnitcy-sos-donbass-novikovoi-v-tiurme-frantcii-izi",
         "https://iz.ru/2136899/v-sankt-peterburge-predlozhili-vvesti-prava-dlia-samokatchikov-izi",
         "https://iz.ru/2136904/kim-nazvala-bezopasnost-liudei-prioritetom-pri-rabote-skladov-wildberries-izi",
         "https://iz.ru/2136911/vs-rossii-porazili-voennye-gruzy-i-tri-sklada-bpla-v-odesskoi-oblasti-izi",
@@ -175,11 +171,15 @@
         "https://iz.ru/2136058/uchenye-obiasnili-razlichiia-mezhdu-klinicheskimi-podkhodami-zhenshchin-i-muzhchin-medikov-izi",
         "https://iz.ru/2136066/falkov-rasskazal-ob-uglublenii-kooperatcii-s-kitaem-v-sfere-vysokikh-tekhnologii-izi",
         "https://iz.ru/2136388/2026-07-22/armiia-rossii-nanesla-udar-po-gazopererabatyvaiushchei-ustanovke-v-efremovke-izi",
-        "https://iz.ru/2136392/voennyi-ekspert-nazval-udarom-dlia-zelenskogo-naznachenie-novogo-glavkoma-vsu-izi"
+        "https://iz.ru/2136392/voennyi-ekspert-nazval-udarom-dlia-zelenskogo-naznachenie-novogo-glavkoma-vsu-izi",
+        "https://iz.ru/2136426/2026-07-22/iurist-predupredil-o-riske-krazhi-dannykh-cherez-foto-pasporta-v-telefone-izi",
+        "https://iz.ru/2136437/2026-07-22/ukraina-poteriala-interes-k-polskim-mig-29-iz-za-neobkhodimosti-dorogogo-remonta-izi",
+        "https://iz.ru/2136446/ivanovskie-desantniki-zaniali-vazhnyi-opornyi-punkt-vsu-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2136451/v-moskve-proshla-seriia-sportivnykh-meropriiatii-dlia-veteranov-svo-izi"
       ]
     },
     "2026-07-23": {
-      "totalChecked": 722,
+      "totalChecked": 719,
       "totalIzi": 192,
       "totalIiz": 2,
       "totalAi": 194,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-07-30": {
-      "totalChecked": 641,
-      "totalIzi": 134,
+      "totalChecked": 746,
+      "totalIzi": 152,
       "totalIiz": 3,
-      "totalAi": 137,
+      "totalAi": 155,
       "topLinks": [
         "https://iz.ru/2139849/uchenye-izuchili-vliianie-genetiki-na-pitanie-i-metabolicheskoe-zdorove-izi",
         "https://iz.ru/2140035/uchenye-nazvali-prostoi-sposob-snizit-risk-depressii-izi",
