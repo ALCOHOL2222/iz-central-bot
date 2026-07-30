@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-07-29T19:52:17.153Z",
+  "generatedAt": "2026-07-30T03:33:32.270Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 44,
-    "failedFetches": 21,
+    "fetchedUrlSets": 11,
+    "failedFetches": 54,
     "childLocs": 65,
     "visitedCount": 66
   },
   "days": {
-    "2026-07-16": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-07-17": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -53,35 +46,35 @@
       "topLinks": []
     },
     "2026-07-22": {
-      "totalChecked": 372,
-      "totalIzi": 86,
+      "totalChecked": 273,
+      "totalIzi": 63,
       "totalIiz": 0,
-      "totalAi": 86,
+      "totalAi": 63,
       "topLinks": [
-        "https://iz.ru/2136388/2026-07-22/armiia-rossii-nanesla-udar-po-gazopererabatyvaiushchei-ustanovke-v-efremovke-izi",
-        "https://iz.ru/2136392/voennyi-ekspert-nazval-udarom-dlia-zelenskogo-naznachenie-novogo-glavkoma-vsu-izi",
-        "https://iz.ru/2136426/2026-07-22/iurist-predupredil-o-riske-krazhi-dannykh-cherez-foto-pasporta-v-telefone-izi",
-        "https://iz.ru/2136437/2026-07-22/ukraina-poteriala-interes-k-polskim-mig-29-iz-za-neobkhodimosti-dorogogo-remonta-izi",
-        "https://iz.ru/2136446/ivanovskie-desantniki-zaniali-vazhnyi-opornyi-punkt-vsu-v-zaporozhskoi-oblasti-izi",
-        "https://iz.ru/2136451/v-moskve-proshla-seriia-sportivnykh-meropriiatii-dlia-veteranov-svo-izi",
-        "https://iz.ru/2136453/rossiiskie-silovye-struktury-uznali-lichnye-dannye-novogo-glavkoma-vsu-drapatogo-izi",
-        "https://iz.ru/2136456/armiia-rossii-porazila-obekty-toplivnoi-infrastruktury-v-sumakh-izi",
-        "https://iz.ru/2136462/v-silovykh-strukturakh-rf-soobshchili-o-smertiakh-vsu-iz-za-otsutstviia-medpomoshchi-izi",
-        "https://iz.ru/2136464/lavrov-i-glava-mid-indii-dogovorilis-prodolzhit-doveritelnyi-dialog-na-vsekh-urovniakh-izi",
-        "https://iz.ru/2136468/perepiski-polzovatelei-deepseek-okazalis-v-otkrytom-dostupe-cherez-google-izi",
-        "https://iz.ru/2136471/druga-repera-macan-zaderzhali-za-pokhishchenie-i-vymogatelstvo-u-studenta-izi",
-        "https://iz.ru/2136475/wildberries-priostanovil-rabotu-skladov-v-krasnodare-i-nevinnomysske-izi",
-        "https://iz.ru/2136476/vs-rossii-porazili-batareiu-beregovogo-raketnogo-kompleksa-neptun-pod-odessoi-izi",
-        "https://iz.ru/2136477/opublikovany-kadry-zaderzhaniia-gotovivshego-terakt-protiv-opk-v-peterburge-izi",
-        "https://iz.ru/2136478/syrskii-opublikoval-proshchalnyi-post-posle-uvolneniia-s-posta-glavkoma-vsu-izi",
-        "https://iz.ru/2136481/zhara-v-evrope-snizila-stoimost-urozhaia-zerna-na-eu2-mlrd-izi",
-        "https://iz.ru/2136484/roiam-geranei-s-ii-algoritmami-udavalos-peregruzit-ukrainskuiu-pvo-na-400-izi",
-        "https://iz.ru/2136485/bolee-30-chelovek-postradali-v-dtp-s-avtobusom-v-turtcii-izi",
-        "https://iz.ru/2136489/lerchek-prodolzhaet-lechenie-raka-zheludka-i-professionalnuiu-deiatelnost-glavnoe-izi"
+        "https://iz.ru/2136504/uchastnik-chetyrekh-chempionatov-mira-po-futbolu-gilermo-ochoa-zavershil-kareru-izi",
+        "https://iz.ru/2136508/v-poselke-severnyi-pod-belgorodom-dron-vsu-ranil-dvukh-chelovek-izi",
+        "https://iz.ru/2136513/putin-otmetil-aktivnuiu-grazhdanskuiu-pozitciiu-gazmanova-izi",
+        "https://iz.ru/2136519/rosgeologiia-v-2025-godu-obnaruzhila-krupneishee-mestorozhdenie-zolota-v-rf-izi",
+        "https://iz.ru/2136526/otstavka-glavnokomanduiushchego-vsu-aleksandra-syrskogo-chto-izvestno-izi",
+        "https://iz.ru/2136528/shokhin-soobshchil-ob-ostanovke-ukhudsheniia-na-rynke-topliva-izi",
+        "https://iz.ru/2136533/novym-poslom-germanii-v-rossii-stal-klemens-fon-gettce-izi",
+        "https://iz.ru/2136534/v-norvegii-prizvali-strany-es-vosstanovit-diplomaticheskie-otnosheniia-s-rossiei-izi",
+        "https://iz.ru/2136548/peskov-zaiavil-ob-otsutstvii-predelov-u-sanktcii-evrosoiuza-izi",
+        "https://iz.ru/2136557/zhenskaia-sbornaia-rossii-po-vodnomu-polo-vyshla-v-polufinal-kubka-mira-izi",
+        "https://iz.ru/2136566/vo-frantcii-nashli-mertvym-predpolagaemogo-soobshchnika-epshteina-izi",
+        "https://iz.ru/2136567/v-ialte-17-chelovek-postradali-pri-udare-bespilotnika-vsu-po-zhilomu-domu-izi",
+        "https://iz.ru/2136574/uchenye-sviazali-zhaloby-na-ukhudshenie-obonianiia-s-depressiei-izi",
+        "https://iz.ru/2136575/megan-foks-mozhet-vernutsia-k-legendarnoi-roli-v-filme-telo-dzhennifer-2-izi",
+        "https://iz.ru/2136579/kotiakov-nazval-vostrebovannye-do-2032-goda-professii-v-rossii-izi",
+        "https://iz.ru/2136583/rossiia-primet-uchastie-v-sammite-g20-na-vysokom-urovne-izi",
+        "https://iz.ru/2136589/uchenye-rasskazali-o-vliianii-zagriaznennogo-vozdukha-na-detei-izi",
+        "https://iz.ru/2136595/sily-pvo-za-sutki-sbili-808-ukrainskikh-bespilotnikov-v-zone-svo-izi",
+        "https://iz.ru/2136597/arkheologi-obnaruzhili-sledy-magicheskikh-ritualov-v-avstralii-izi",
+        "https://iz.ru/2136607/izmeneniia-mikrobioma-rta-obnaruzhili-u-liudei-s-artrozom-kistei-izi"
       ]
     },
     "2026-07-23": {
-      "totalChecked": 373,
+      "totalChecked": 371,
       "totalIzi": 99,
       "totalIiz": 0,
       "totalAi": 99,
@@ -109,7 +102,7 @@
       ]
     },
     "2026-07-24": {
-      "totalChecked": 411,
+      "totalChecked": 409,
       "totalIzi": 99,
       "totalIiz": 1,
       "totalAi": 100,
@@ -249,7 +242,7 @@
       ]
     },
     "2026-07-29": {
-      "totalChecked": 437,
+      "totalChecked": 447,
       "totalIzi": 99,
       "totalIiz": 1,
       "totalAi": 100,
@@ -274,6 +267,29 @@
         "https://iz.ru/2140309/minprosveshcheniia-obnovit-uchebnye-programmy-po-piati-predmetam-v-10-11-klassakh-izi",
         "https://iz.ru/2140328/miroshnik-ukazal-na-ispolzovanie-es-infopovodov-dlia-podderzhki-ukrainy-izi",
         "https://iz.ru/2140333/zelenskii-nazval-neponiatnym-otsutstvie-priglasheniia-ukrainy-v-nato-izi"
+      ]
+    },
+    "2026-07-30": {
+      "totalChecked": 93,
+      "totalIzi": 14,
+      "totalIiz": 1,
+      "totalAi": 15,
+      "topLinks": [
+        "https://iz.ru/2139849/uchenye-izuchili-vliianie-genetiki-na-pitanie-i-metabolicheskoe-zdorove-izi",
+        "https://iz.ru/2140035/uchenye-nazvali-prostoi-sposob-snizit-risk-depressii-izi",
+        "https://iz.ru/2140384/narodnye-primety-na-30-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2140394/issledovateli-raskryli-osobennosti-energeticheskogo-obmena-vo-sne-izi",
+        "https://iz.ru/2140617/uchenye-raskryli-rol-kishechnika-v-formirovanii-dolgovremennoi-pamiati-izi",
+        "https://iz.ru/2140825/ep-raskryla-ekonomicheskie-poteri-ukrainy-za-prostaivanie-portov-izi",
+        "https://iz.ru/2140832/v-gosdume-predlozhili-snizit-ndfl-do-9-dlia-molodykh-spetcialistov-izi",
+        "https://iz.ru/2140833/fifa-nachala-rassledovanie-v-otnoshenii-sbornoi-argentiny-iz-za-sobytii-na-chm-26-izi",
+        "https://iz.ru/2140837/ekspluatiruemyi-bolee-66-let-samolet-ssha-byl-zamechen-nad-persidskim-zalivom-izi",
+        "https://iz.ru/2140843/moshenniki-pridumali-novuiu-skhemu-obmana-vernuvshikhsia-iz-za-granitcy-rossiian-izi",
+        "https://iz.ru/2140849/v-gd-vnesut-zakonoproekt-o-predostavlenii-lgotnikam-pravo-na-udalennuiu-rabotu-izi",
+        "https://iz.ru/2140853/markirovka-meditcinskikh-izdelii-izmenitsia-v-rossii-s-1-sentiabria-izi",
+        "https://iz.ru/2140854/ekspert-nazval-razmer-posobiia-po-beremennosti-pri-srednei-zarplate-v-rf-izi",
+        "https://iz.ru/2140871/summa-vzyskivaemykh-s-google-v-rossii-shtrafov-prevysila-56-mlrd-rublei-izi",
+        "https://iz.ru/2140886/turagent-predupredil-o-skheme-moshennichestva-pri-bronirovanii-otdykha-v-turtcii-izi"
       ]
     }
   }
