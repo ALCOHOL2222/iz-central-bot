@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-01T15:32:58.491Z",
+  "generatedAt": "2026-08-01T17:25:47.774Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 26,
-    "failedFetches": 39,
+    "fetchedUrlSets": 65,
+    "failedFetches": 0,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -39,11 +39,12 @@
       ]
     },
     "2026-07-20": {
-      "totalChecked": 462,
-      "totalIzi": 88,
+      "totalChecked": 463,
+      "totalIzi": 89,
       "totalIiz": 2,
-      "totalAi": 90,
+      "totalAi": 91,
       "topLinks": [
+        "https://iz.ru/1683705/2026-07-20/kakoi-segodnia-den-izi",
         "https://iz.ru/2126302/olene-polnolunie-2026-kogda-nabliudat-redkoe-i-neobychnoe-astronomicheskoe-sobytie-iiz",
         "https://iz.ru/2134147/narodnye-primety-na-20-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2135198/premer-vengrii-predlozhil-shakhmatistke-iudit-polgar-post-prezidenta-izi",
@@ -62,8 +63,7 @@
         "https://iz.ru/2135291/bpla-povredili-mnogokvartirnye-zhilye-doma-i-kommercheskie-obekty-v-podmoskove-izi",
         "https://iz.ru/2135292/pravitelstvo-rasporiadilos-uluchshit-vyezdnuiu-rabotu-detskikh-vrachei-izi",
         "https://iz.ru/2135314/podrazdelenie-gorynych-unichtozhilo-operatorov-dronov-vsu-v-konstantinovke-izi",
-        "https://iz.ru/2135319/putin-poruchil-proverit-razvitie-nastavnichestva-dlia-vypusknikov-medvuzov-izi",
-        "https://iz.ru/2135332/bloger-lerchek-zavershila-deviat-kursov-khimioterapii-chto-izvestno-izi"
+        "https://iz.ru/2135319/putin-poruchil-proverit-razvitie-nastavnichestva-dlia-vypusknikov-medvuzov-izi"
       ]
     },
     "2026-07-21": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-07-24": {
-      "totalChecked": 536,
-      "totalIzi": 132,
+      "totalChecked": 530,
+      "totalIzi": 131,
       "totalIiz": 2,
-      "totalAi": 134,
+      "totalAi": 133,
       "topLinks": [
-        "https://iz.ru/2137903/vo-vladivostoke-bolee-70-tys-zhitelei-ostalis-bez-kholodnogo-vodosnabzheniia-izi",
         "https://iz.ru/2137907/nabiullina-prizvala-ne-iskat-tainykh-signalov-v-ee-broshkakh-i-odezhde-izi",
         "https://iz.ru/2137909/nabiullina-ukazala-na-potentcial-dlia-smiagcheniia-denezhno-kreditnoi-politiki-izi",
         "https://iz.ru/2137913/v-barnaule-po-narodnoi-programme-edinoi-rossii-postroiat-shkolu-na-1100-uchenikov-izi",
@@ -175,11 +174,12 @@
         "https://iz.ru/2137970/smi-uznali-o-nalichii-u-drapatogo-rodstvennikov-i-sviazei-v-rossii-izi",
         "https://iz.ru/2137982/chto-proizoshlo-za-den-24-iiulia-glavnoe-izi",
         "https://iz.ru/2137984/vs-rf-porazili-v-prigorode-kieva-demonstriruiushchii-bplaobekt-izi",
-        "https://iz.ru/2137985/arkheologi-obnaruzhili-rimskii-voennyi-lager-v-slovakii-izi"
+        "https://iz.ru/2137985/arkheologi-obnaruzhili-rimskii-voennyi-lager-v-slovakii-izi",
+        "https://iz.ru/2137995/prokuratura-poprosila-sud-otpravit-blogera-lerchek-pod-domashnii-arest-izi"
       ]
     },
     "2026-07-25": {
-      "totalChecked": 553,
+      "totalChecked": 551,
       "totalIzi": 107,
       "totalIiz": 2,
       "totalAi": 109,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-07-26": {
-      "totalChecked": 560,
+      "totalChecked": 559,
       "totalIzi": 142,
       "totalIiz": 2,
       "totalAi": 144,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 909,
+      "totalChecked": 910,
       "totalIzi": 206,
       "totalIiz": 3,
       "totalAi": 209,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 422,
-      "totalIzi": 121,
+      "totalChecked": 431,
+      "totalIzi": 127,
       "totalIiz": 3,
-      "totalAi": 124,
+      "totalAi": 130,
       "topLinks": [
         "https://iz.ru/2141061/uchenye-sviazali-potreblenie-sakhara-v-mladenchestve-s-riskom-dementcii-izi",
         "https://iz.ru/2141105/uchenye-usomnilis-v-polze-vladeniia-domashnimi-zhivotnymi-dlia-zdorovia-izi",
