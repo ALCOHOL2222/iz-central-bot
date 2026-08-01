@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-01T11:37:06.651Z",
+  "generatedAt": "2026-08-01T14:03:37.931Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 6,
-    "failedFetches": 59,
+    "fetchedUrlSets": 52,
+    "failedFetches": 13,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -18,11 +18,13 @@
       "topLinks": []
     },
     "2026-07-20": {
-      "totalChecked": 0,
-      "totalIzi": 0,
+      "totalChecked": 1,
+      "totalIzi": 1,
       "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/1683705/2026-07-20/kakoi-segodnia-den-izi"
+      ]
     },
     "2026-07-21": {
       "totalChecked": 0,
@@ -46,12 +48,11 @@
       "topLinks": []
     },
     "2026-07-24": {
-      "totalChecked": 159,
-      "totalIzi": 39,
+      "totalChecked": 140,
+      "totalIzi": 38,
       "totalIiz": 0,
-      "totalAi": 39,
+      "totalAi": 38,
       "topLinks": [
-        "https://iz.ru/2137853/eks-solistka-mirazha-sukhankina-nazvala-prazdnikom-vzyskanie-s-prodiusera-litiagina-izi",
         "https://iz.ru/2137866/minoborony-rf-v-portu-odessy-unichtozheny-rezervuary-s-toplivom-dlia-vsu-izi",
         "https://iz.ru/2137868/v-tcb-otcenili-vliianie-konflikta-na-blizhnem-vostoke-na-infliatciiu-v-rf-izi",
         "https://iz.ru/2137870/zelenskii-prodlil-voennoe-polozhenie-i-mobilizatciiu-na-ukraine-eshche-na-90-dnei-izi",
@@ -70,11 +71,12 @@
         "https://iz.ru/2137957/zhurnalist-nikolai-zagnoiko-biografiia-izi",
         "https://iz.ru/2137960/zhurnalist-nikolai-zagnoiko-umer-na-80-m-godu-zhizni-izi",
         "https://iz.ru/2137962/v-krymu-presekli-nezakonnoe-obsluzhivanie-inostrannogo-vooruzheniia-izi",
-        "https://iz.ru/2137963/novikov-nazval-ataku-vsu-na-kirov-banditizmom-izi"
+        "https://iz.ru/2137963/novikov-nazval-ataku-vsu-na-kirov-banditizmom-izi",
+        "https://iz.ru/2137964/ot-dzhentlmenov-do-koletc-vlasti-glavnye-serialy-oseni-2026-izi"
       ]
     },
     "2026-07-25": {
-      "totalChecked": 270,
+      "totalChecked": 268,
       "totalIzi": 52,
       "totalIiz": 0,
       "totalAi": 52,
@@ -102,7 +104,7 @@
       ]
     },
     "2026-07-26": {
-      "totalChecked": 272,
+      "totalChecked": 271,
       "totalIzi": 70,
       "totalIiz": 1,
       "totalAi": 71,
@@ -130,7 +132,7 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 415,
+      "totalChecked": 414,
       "totalIzi": 111,
       "totalIiz": 1,
       "totalAi": 112,
@@ -270,10 +272,10 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 165,
-      "totalIzi": 42,
+      "totalChecked": 188,
+      "totalIzi": 52,
       "totalIiz": 1,
-      "totalAi": 43,
+      "totalAi": 53,
       "topLinks": [
         "https://iz.ru/2141061/uchenye-sviazali-potreblenie-sakhara-v-mladenchestve-s-riskom-dementcii-izi",
         "https://iz.ru/2141105/uchenye-usomnilis-v-polze-vladeniia-domashnimi-zhivotnymi-dlia-zdorovia-izi",
