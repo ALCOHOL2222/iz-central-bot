@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T19:45:02.731Z",
+  "generatedAt": "2026-08-02T21:20:08.109Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 66
   },
   "days": {
-    "2026-07-20": {
-      "totalChecked": 463,
-      "totalIzi": 89,
-      "totalIiz": 2,
-      "totalAi": 91,
-      "topLinks": [
-        "https://iz.ru/1683705/2026-07-20/kakoi-segodnia-den-izi",
-        "https://iz.ru/2126302/olene-polnolunie-2026-kogda-nabliudat-redkoe-i-neobychnoe-astronomicheskoe-sobytie-iiz",
-        "https://iz.ru/2134147/narodnye-primety-na-20-iiulia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2135198/premer-vengrii-predlozhil-shakhmatistke-iudit-polgar-post-prezidenta-izi",
-        "https://iz.ru/2135201/tramp-nazval-nelepym-otkaz-britanii-ot-dobychi-nefti-v-severnom-more-izi",
-        "https://iz.ru/2135207/v-gosdume-predlozhili-uchityvat-sluzhbu-v-svo-v-stazhe-grazhdanskoi-sluzhby-izi",
-        "https://iz.ru/2135210/smi-soobshchili-ob-otravlenii-liudei-parami-khlora-v-basseine-italii-izi",
-        "https://iz.ru/2135220/smi-soobshchili-o-nedopuske-voprosa-o-genotcide-armian-na-golosovanie-v-izraile-izi",
-        "https://iz.ru/2135226/v-gd-predlozhili-zakonodatelno-zakrepit-poniatie-odinokii-roditel-izi",
-        "https://iz.ru/2135234/analitik-predupredil-o-riskakh-dosrochnogo-perevoda-pensionnykh-nakoplenii-izi",
-        "https://iz.ru/2135237/chislo-zhertv-zemletriaseniia-v-venesuele-vyroslo-do-5208-chelovek-izi",
-        "https://iz.ru/2135241/germaniia-stala-glavnym-postavshchikom-shokolada-v-rf-izi",
-        "https://iz.ru/2135253/v-gd-rasskazali-o-rezhime-shumnykh-remontnykh-rabot-v-novostroikakh-izi",
-        "https://iz.ru/2135269/rossiiskie-voennye-sorvali-ataku-kolumbiiskikh-naemnikov-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2135272/vsu-atakovali-dronami-sdaiushchikhsia-sosluzhivtcev-v-sumskoi-oblasti-izi",
-        "https://iz.ru/2135281/ispaniia-chempion-mira-po-futbolu-2026-kak-proshel-final-chm-izi",
-        "https://iz.ru/2135291/bpla-povredili-mnogokvartirnye-zhilye-doma-i-kommercheskie-obekty-v-podmoskove-izi",
-        "https://iz.ru/2135292/pravitelstvo-rasporiadilos-uluchshit-vyezdnuiu-rabotu-detskikh-vrachei-izi",
-        "https://iz.ru/2135314/podrazdelenie-gorynych-unichtozhilo-operatorov-dronov-vsu-v-konstantinovke-izi",
-        "https://iz.ru/2135319/putin-poruchil-proverit-razvitie-nastavnichestva-dlia-vypusknikov-medvuzov-izi"
-      ]
-    },
     "2026-07-21": {
       "totalChecked": 401,
       "totalIzi": 68,
@@ -151,12 +123,11 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 423,
-      "totalIzi": 92,
+      "totalChecked": 410,
+      "totalIzi": 91,
       "totalIiz": 2,
-      "totalAi": 94,
+      "totalAi": 93,
       "topLinks": [
-        "https://iz.ru/2138403/direktor-ingurskoi-ges-nazval-avariiu-na-lep-imereti-prichinoi-blekauta-v-gruzii-izi",
         "https://iz.ru/2138408/orban-prizval-vengriiu-sokhraniat-neitralitet-po-konfliktu-na-ukraine-izi",
         "https://iz.ru/2138409/v-samarskoi-oblasti-dva-cheloveka-pogibli-pri-stolknovenii-kvadrotcikla-s-derevom-izi",
         "https://iz.ru/2138424/v-sankt-peterburge-prostilis-s-akterom-dmitriem-podnozovym-izi",
@@ -175,11 +146,12 @@
         "https://iz.ru/2138512/tokaev-opisal-otnosheniia-rossii-i-kazakhstana-poslovitcei-o-lade-izi",
         "https://iz.ru/2138515/putin-poblagodaril-omskuiu-oblast-za-provedenie-foruma-s-kazakhstanom-izi",
         "https://iz.ru/2138523/v-avstrii-nazvali-nerealistichnym-biudzhet-es-pochti-v-eu2-trln-izi",
-        "https://iz.ru/2138525/pozhar-na-tiumenskom-npz-posle-ataki-bespilotnika-likvidirovali-izi"
+        "https://iz.ru/2138525/pozhar-na-tiumenskom-npz-posle-ataki-bespilotnika-likvidirovali-izi",
+        "https://iz.ru/2138529/v-rossii-zapret-na-eksport-benzina-prodliat-do-kontca-goda-izi"
       ]
     },
     "2026-07-26": {
-      "totalChecked": 553,
+      "totalChecked": 552,
       "totalIzi": 142,
       "totalIiz": 2,
       "totalAi": 144,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 442,
-      "totalIzi": 133,
+      "totalChecked": 456,
+      "totalIzi": 136,
       "totalIiz": 4,
-      "totalAi": 137,
+      "totalAi": 140,
       "topLinks": [
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
@@ -401,6 +373,13 @@
         "https://iz.ru/2142516/boetc-soobshchil-ob-obnaruzhenii-na-pozitciiakh-vsu-pod-krasnym-kutom-preparatov-ot-vich-izi",
         "https://iz.ru/2142518/eshche-dvoikh-menedzherov-dochki-gazproma-arestovali-po-delu-o-krupnoi-vziatke-izi"
       ]
+    },
+    "2026-08-03": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
