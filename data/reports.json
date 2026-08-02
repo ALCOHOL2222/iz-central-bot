@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T17:26:48.419Z",
+  "generatedAt": "2026-08-02T19:45:02.731Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 436,
-      "totalIzi": 97,
+      "totalChecked": 423,
+      "totalIzi": 92,
       "totalIiz": 2,
-      "totalAi": 99,
+      "totalAi": 94,
       "topLinks": [
-        "https://iz.ru/2138371/armiia-rossii-porazila-balker-vsu-v-chernom-more-izi",
-        "https://iz.ru/2138375/mid-rf-obvinil-frantciiu-v-podderzhke-ukrainskikh-boevikov-v-afrike-izi",
-        "https://iz.ru/2138376/v-krasnodare-likvidirovan-pozhar-posle-ataki-drona-vsu-izi",
-        "https://iz.ru/2138377/zakharova-nazvala-terroristicheskim-metodom-udary-po-turbaze-v-zaporozhskoi-oblasti-izi",
-        "https://iz.ru/2138379/deputat-novichkov-napomnil-o-prave-selskikh-rabotnikov-na-nadbavku-v-25-k-pensii-izi",
         "https://iz.ru/2138403/direktor-ingurskoi-ges-nazval-avariiu-na-lep-imereti-prichinoi-blekauta-v-gruzii-izi",
         "https://iz.ru/2138408/orban-prizval-vengriiu-sokhraniat-neitralitet-po-konfliktu-na-ukraine-izi",
         "https://iz.ru/2138409/v-samarskoi-oblasti-dva-cheloveka-pogibli-pri-stolknovenii-kvadrotcikla-s-derevom-izi",
@@ -175,7 +170,12 @@
         "https://iz.ru/2138493/peskov-ataka-vsu-na-ktk-eto-napadenie-v-tom-chisle-na-ssha-i-kazakhstan-izi",
         "https://iz.ru/2138496/pod-ialtoi-iz-za-skhoda-selia-postradali-piat-zhilykh-domov-i-sanatorii-izi",
         "https://iz.ru/2138499/novak-dopustil-postavki-izlishkov-nefteproduktov-iz-kazakhstana-v-rossiiu-izi",
-        "https://iz.ru/2138500/tokaev-otkazalsia-byt-posrednikom-mezhdu-rossiei-i-ukrainoi-izi"
+        "https://iz.ru/2138500/tokaev-otkazalsia-byt-posrednikom-mezhdu-rossiei-i-ukrainoi-izi",
+        "https://iz.ru/2138505/v-turtcii-predupredili-o-zaderzhkakh-reisov-mezhdu-kurortami-i-moskvoi-iz-za-livnei-izi",
+        "https://iz.ru/2138512/tokaev-opisal-otnosheniia-rossii-i-kazakhstana-poslovitcei-o-lade-izi",
+        "https://iz.ru/2138515/putin-poblagodaril-omskuiu-oblast-za-provedenie-foruma-s-kazakhstanom-izi",
+        "https://iz.ru/2138523/v-avstrii-nazvali-nerealistichnym-biudzhet-es-pochti-v-eu2-trln-izi",
+        "https://iz.ru/2138525/pozhar-na-tiumenskom-npz-posle-ataki-bespilotnika-likvidirovali-izi"
       ]
     },
     "2026-07-26": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 394,
-      "totalIzi": 113,
+      "totalChecked": 442,
+      "totalIzi": 133,
       "totalIiz": 4,
-      "totalAi": 117,
+      "totalAi": 137,
       "topLinks": [
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
