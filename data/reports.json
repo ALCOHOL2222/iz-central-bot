@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T15:36:30.676Z",
+  "generatedAt": "2026-08-02T17:26:48.419Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 454,
-      "totalIzi": 98,
+      "totalChecked": 436,
+      "totalIzi": 97,
       "totalIiz": 2,
-      "totalAi": 100,
+      "totalAi": 99,
       "topLinks": [
-        "https://iz.ru/2138354/chislivshiisia-propavshim-rabotnik-posle-ataki-predpriiatiia-v-kirove-naiden-zhivym-izi",
         "https://iz.ru/2138371/armiia-rossii-porazila-balker-vsu-v-chernom-more-izi",
         "https://iz.ru/2138375/mid-rf-obvinil-frantciiu-v-podderzhke-ukrainskikh-boevikov-v-afrike-izi",
         "https://iz.ru/2138376/v-krasnodare-likvidirovan-pozhar-posle-ataki-drona-vsu-izi",
@@ -175,7 +174,8 @@
         "https://iz.ru/2138491/armiia-rossii-likvidirovala-maiora-vsu-vozle-kramatorska-izi",
         "https://iz.ru/2138493/peskov-ataka-vsu-na-ktk-eto-napadenie-v-tom-chisle-na-ssha-i-kazakhstan-izi",
         "https://iz.ru/2138496/pod-ialtoi-iz-za-skhoda-selia-postradali-piat-zhilykh-domov-i-sanatorii-izi",
-        "https://iz.ru/2138499/novak-dopustil-postavki-izlishkov-nefteproduktov-iz-kazakhstana-v-rossiiu-izi"
+        "https://iz.ru/2138499/novak-dopustil-postavki-izlishkov-nefteproduktov-iz-kazakhstana-v-rossiiu-izi",
+        "https://iz.ru/2138500/tokaev-otkazalsia-byt-posrednikom-mezhdu-rossiei-i-ukrainoi-izi"
       ]
     },
     "2026-07-26": {
@@ -207,7 +207,7 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 830,
+      "totalChecked": 829,
       "totalIzi": 221,
       "totalIiz": 1,
       "totalAi": 222,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 375,
-      "totalIzi": 106,
+      "totalChecked": 394,
+      "totalIzi": 113,
       "totalIiz": 4,
-      "totalAi": 110,
+      "totalAi": 117,
       "topLinks": [
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
