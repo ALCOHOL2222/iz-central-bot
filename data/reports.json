@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T04:06:27.018Z",
+  "generatedAt": "2026-08-02T06:54:18.581Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,12 +123,11 @@
       ]
     },
     "2026-07-24": {
-      "totalChecked": 447,
-      "totalIzi": 100,
+      "totalChecked": 433,
+      "totalIzi": 99,
       "totalIiz": 2,
-      "totalAi": 102,
+      "totalAi": 101,
       "topLinks": [
-        "https://iz.ru/2138161/novak-zaiavil-o-vkhozhdenii-rf-v-top-5-postavshchikov-provizii-v-saudovskuiu-araviiu-izi",
         "https://iz.ru/2128393/den-obratitsia-v-noch-gde-mozhno-budet-uvidet-polnoe-solnechnoe-zatmenie-v-avguste-iiz",
         "https://iz.ru/2137095/uchenye-sviazali-perenesennye-infektcii-s-riskom-psikhicheskikh-zabolevanii-izi",
         "https://iz.ru/2137116/uchenye-ukazali-na-risk-obrashcheniia-k-ii-za-psikhologicheskoi-pomoshchiu-izi",
@@ -147,11 +146,12 @@
         "https://iz.ru/2137652/nyt-soobshchila-ob-otkaze-irana-ot-prekrashcheniia-ognia-s-ssha-izi",
         "https://iz.ru/2137653/v-peterburge-bpla-atakovali-grazhdanskuiu-infrastrukturu-na-moskovskom-shosse-izi",
         "https://iz.ru/2137655/ssha-vveli-poshlinu-v-125-na-import-tovarov-iz-rossii-izi",
-        "https://iz.ru/2137657/bolnaia-rakom-lerchek-stantcevala-s-vozliublennym-na-iakhtennoi-vecherinke-izi"
+        "https://iz.ru/2137657/bolnaia-rakom-lerchek-stantcevala-s-vozliublennym-na-iakhtennoi-vecherinke-izi",
+        "https://iz.ru/2137658/v-moskve-predotvratili-popytku-podryva-avtomobilia-sotrudnika-organov-bezopasnosti-izi"
       ]
     },
     "2026-07-25": {
-      "totalChecked": 543,
+      "totalChecked": 542,
       "totalIzi": 107,
       "totalIiz": 2,
       "totalAi": 109,
@@ -375,19 +375,31 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 129,
-      "totalIzi": 4,
+      "totalChecked": 182,
+      "totalIzi": 16,
       "totalIiz": 4,
-      "totalAi": 8,
+      "totalAi": 20,
       "topLinks": [
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
         "https://iz.ru/2141647/psikhologi-ukazali-na-vliianie-mentalnogo-zdorovia-roditelei-na-detei-izi",
+        "https://iz.ru/2142457/minprosveshcheniia-predstavilo-perechen-vneurochnykh-kursov-dlia-shkolnikov-izi",
+        "https://iz.ru/2142460/boeviki-vsu-pri-otstuplenii-iz-konstantinovki-vzorvali-podval-s-mirnymi-zhiteliami-izi",
+        "https://iz.ru/2142461/chto-proizoshlo-za-noch-2-avgusta-glavnoe-izi",
+        "https://iz.ru/2142471/v-mvd-soobshchili-o-sozdanii-moshennikami-tcifrovykh-dose-po-dannym-iz-sotcsetei-izi",
         "https://iz.ru/2131473/den-zheleznodorozhnika-2026-istoriia-i-traditcii-stareishego-professionalnogo-prazdnika-rossii-iiz",
         "https://iz.ru/2132169/60-krasivye-otkrytki-s-dnem-vdv-kartinki-gifki-i-pozdravleniia-desantnikam-iiz",
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
-        "https://iz.ru/2141647/psikhologi-ukazali-na-vliianie-mentalnogo-zdorovia-roditelei-na-detei-izi"
+        "https://iz.ru/2141647/psikhologi-ukazali-na-vliianie-mentalnogo-zdorovia-roditelei-na-detei-izi",
+        "https://iz.ru/2142457/minprosveshcheniia-predstavilo-perechen-vneurochnykh-kursov-dlia-shkolnikov-izi",
+        "https://iz.ru/2142460/boeviki-vsu-pri-otstuplenii-iz-konstantinovki-vzorvali-podval-s-mirnymi-zhiteliami-izi",
+        "https://iz.ru/2142461/chto-proizoshlo-za-noch-2-avgusta-glavnoe-izi",
+        "https://iz.ru/2142469/pochti-50-pokupatelei-pozhalovalis-na-neprozrachnost-uslovii-skidok-i-bonusov-izi",
+        "https://iz.ru/2142471/v-mvd-soobshchili-o-sozdanii-moshennikami-tcifrovykh-dose-po-dannym-iz-sotcsetei-izi",
+        "https://iz.ru/2142474/politolog-ukazal-na-nezhelanie-kreditorov-ukrainy-zavershat-konflikt-izi",
+        "https://iz.ru/2142476/vsu-atakovali-logisticheskii-tcentr-wildberries-v-samarskoi-oblasti-izi",
+        "https://iz.ru/2142488/putina-otmetil-umelye-i-reshitelnye-deistviia-desantnikov-v-khode-svo-izi"
       ]
     }
   }
