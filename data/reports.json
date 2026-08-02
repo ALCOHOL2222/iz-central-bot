@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T11:44:00.498Z",
+  "generatedAt": "2026-08-02T14:07:27.984Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 501,
-      "totalIzi": 105,
+      "totalChecked": 477,
+      "totalIzi": 101,
       "totalIiz": 2,
-      "totalAi": 107,
+      "totalAi": 103,
       "topLinks": [
-        "https://iz.ru/2138291/pianye-britanskie-soldaty-ugnali-bronetransporter-i-protaranili-avtomobili-izi",
-        "https://iz.ru/2138296/tramp-pripomnil-kennedi-mladshemu-neobychnuiu-istoriiu-s-enotom-izi",
-        "https://iz.ru/2138299/eksporter-ukazal-na-rost-sprosa-na-kachestvennyi-kofe-v-rossii-izi",
-        "https://iz.ru/2138313/vs-rf-geraniu-unichtozhili-sklad-bpla-v-sumskoi-oblasti-izi",
         "https://iz.ru/2138343/v-bundestage-zaiavili-ob-interese-tretikh-stran-v-podryve-severnykh-potokov-izi",
         "https://iz.ru/2138347/wsj-soobshchila-o-predosterezhenii-ssha-kievskogo-rezhima-ot-atak-v-chernom-more-izi",
         "https://iz.ru/2138348/vyplaty-nerabotaiushchim-pensioneram-za-god-vyrosli-na-18-tysiachi-rublei-izi",
@@ -175,7 +171,11 @@
         "https://iz.ru/2138424/v-sankt-peterburge-prostilis-s-akterom-dmitriem-podnozovym-izi",
         "https://iz.ru/2138441/bakanov-zaiavil-o-gotovnosti-kazakhstana-k-zapuskam-novoi-rakety-soiuz-5-izi",
         "https://iz.ru/2138453/putin-nazval-rossiiu-liderom-po-investitciiam-v-ekonomiku-kazakhstana-izi",
-        "https://iz.ru/2138462/vnuk-de-gollia-nazval-zaiavleniia-glavkoma-vsu-primitivnymi-lozungami-izi"
+        "https://iz.ru/2138462/vnuk-de-gollia-nazval-zaiavleniia-glavkoma-vsu-primitivnymi-lozungami-izi",
+        "https://iz.ru/2138463/iz-pod-zavalov-posle-ataki-vsu-v-kirillovke-spasli-eshche-dvukh-zhenshchin-izi",
+        "https://iz.ru/2138469/zakharova-oprovergla-soobshchenie-o-peregovorakh-lavrova-i-glavy-mid-iaponii-na-manile-izi",
+        "https://iz.ru/2138472/v-dnepropetrovskoi-oblasti-vzorvalsia-sklad-s-boepripasami-izi",
+        "https://iz.ru/2138491/armiia-rossii-likvidirovala-maiora-vsu-vozle-kramatorska-izi"
       ]
     },
     "2026-07-26": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 282,
-      "totalIzi": 62,
+      "totalChecked": 306,
+      "totalIzi": 72,
       "totalIiz": 4,
-      "totalAi": 66,
+      "totalAi": 76,
       "topLinks": [
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
