@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T09:32:29.070Z",
+  "generatedAt": "2026-08-02T11:44:00.498Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 521,
-      "totalIzi": 106,
+      "totalChecked": 501,
+      "totalIzi": 105,
       "totalIiz": 2,
-      "totalAi": 108,
+      "totalAi": 107,
       "topLinks": [
-        "https://iz.ru/2138275/komandir-vzvoda-litvintcev-evakuiroval-dvukh-shturmovikov-v-zone-svo-izi",
         "https://iz.ru/2138291/pianye-britanskie-soldaty-ugnali-bronetransporter-i-protaranili-avtomobili-izi",
         "https://iz.ru/2138296/tramp-pripomnil-kennedi-mladshemu-neobychnuiu-istoriiu-s-enotom-izi",
         "https://iz.ru/2138299/eksporter-ukazal-na-rost-sprosa-na-kachestvennyi-kofe-v-rossii-izi",
@@ -175,7 +174,8 @@
         "https://iz.ru/2138409/v-samarskoi-oblasti-dva-cheloveka-pogibli-pri-stolknovenii-kvadrotcikla-s-derevom-izi",
         "https://iz.ru/2138424/v-sankt-peterburge-prostilis-s-akterom-dmitriem-podnozovym-izi",
         "https://iz.ru/2138441/bakanov-zaiavil-o-gotovnosti-kazakhstana-k-zapuskam-novoi-rakety-soiuz-5-izi",
-        "https://iz.ru/2138453/putin-nazval-rossiiu-liderom-po-investitciiam-v-ekonomiku-kazakhstana-izi"
+        "https://iz.ru/2138453/putin-nazval-rossiiu-liderom-po-investitciiam-v-ekonomiku-kazakhstana-izi",
+        "https://iz.ru/2138462/vnuk-de-gollia-nazval-zaiavleniia-glavkoma-vsu-primitivnymi-lozungami-izi"
       ]
     },
     "2026-07-26": {
@@ -375,14 +375,15 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 223,
-      "totalIzi": 32,
+      "totalChecked": 282,
+      "totalIzi": 62,
       "totalIiz": 4,
-      "totalAi": 36,
+      "totalAi": 66,
       "topLinks": [
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
         "https://iz.ru/2141647/psikhologi-ukazali-na-vliianie-mentalnogo-zdorovia-roditelei-na-detei-izi",
+        "https://iz.ru/2142368/sistema-kupol-donbassa-za-nedeliu-predotvratila-138-atak-bespilotnikov-izi",
         "https://iz.ru/2142457/minprosveshcheniia-predstavilo-perechen-vneurochnykh-kursov-dlia-shkolnikov-izi",
         "https://iz.ru/2142460/boeviki-vsu-pri-otstuplenii-iz-konstantinovki-vzorvali-podval-s-mirnymi-zhiteliami-izi",
         "https://iz.ru/2142461/chto-proizoshlo-za-noch-2-avgusta-glavnoe-izi",
@@ -398,8 +399,7 @@
         "https://iz.ru/2142512/eks-deputat-turtiainen-nazval-finliandiiu-ugrozoi-dlia-bezopasnosti-rossii-izi",
         "https://iz.ru/2142513/chislo-pogibshikh-pri-vzryve-v-moskovskom-restorane-vozroslo-do-piati-chelovek-izi",
         "https://iz.ru/2142516/boetc-soobshchil-ob-obnaruzhenii-na-pozitciiakh-vsu-pod-krasnym-kutom-preparatov-ot-vich-izi",
-        "https://iz.ru/2142518/eshche-dvoikh-menedzherov-dochki-gazproma-arestovali-po-delu-o-krupnoi-vziatke-izi",
-        "https://iz.ru/2142520/onishchenko-nazval-perechislil-glavnye-ugrozy-pri-kupanii-v-fontanakh-izi"
+        "https://iz.ru/2142518/eshche-dvoikh-menedzherov-dochki-gazproma-arestovali-po-delu-o-krupnoi-vziatke-izi"
       ]
     }
   }
