@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T07:58:01.679Z",
+  "generatedAt": "2026-08-03T11:55:25.918Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,7 +123,7 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 292,
+      "totalChecked": 286,
       "totalIzi": 55,
       "totalIiz": 2,
       "totalAi": 57,
@@ -151,35 +151,35 @@
       ]
     },
     "2026-07-26": {
-      "totalChecked": 550,
-      "totalIzi": 142,
+      "totalChecked": 422,
+      "totalIzi": 118,
       "totalIiz": 2,
-      "totalAi": 144,
+      "totalAi": 120,
       "topLinks": [
-        "https://iz.ru/2138619/2026-07-26/ankalaev-nokautiroval-guskova-v-glavnom-boiu-ufc-fight-night-282-v-abu-dabi-izi",
-        "https://iz.ru/2138626/bilety-na-elektrichki-s-ukazaniem-mest-mozhno-budet-vozvrashchat-onlain-s-sentiabria-izi",
-        "https://iz.ru/2138638/iurist-predupredil-o-riskakh-priviazki-bankovskikh-kart-k-onlain-servisam-izi",
-        "https://iz.ru/2138642/2026-07-26/rossiia-rasshirila-prisutstvie-v-mezhdunarodnom-alianse-krupnykh-koshachikh-izi",
-        "https://iz.ru/2138651/2026-07-26/v-op-predlozhili-sdelat-1-sentiabria-nerabochim-dnem-dlia-roditelei-pervoklassnikov-izi",
-        "https://iz.ru/2138671/bolee-60-politceiskikh-postradali-v-stolknoveniiakh-s-protestuiushchimi-v-italii-izi",
-        "https://iz.ru/2138673/2026-07-26/podnimavshiesia-na-elbrus-alpinisty-shli-bez-gida-izi",
-        "https://iz.ru/2138683/pereekhavshaia-iz-latvii-v-pskov-bezhenka-rasskazala-o-mifakh-rossiian-o-evrope-izi",
-        "https://iz.ru/2138694/podozrevaemyi-v-naezde-na-tolpu-v-berline-okazalsia-vykhodtcem-iz-detskoi-kolonii-izi",
-        "https://iz.ru/2138703/chislo-zaderzhivaiushchikhsia-poezdov-iz-za-nepogody-v-rostovskoi-oblasti-vozroslo-do-89-izi",
-        "https://iz.ru/2138719/v-vmf-rossii-sformirovany-polki-bespilotnykh-sistem-izi",
-        "https://iz.ru/2138722/rossiiskii-flot-v-den-iubileia-podtverdil-boegotovnost-na-mezhdunarodnykh-ucheniiakh-izi",
-        "https://iz.ru/2138729/bastrykin-poruchil-rassledovat-obstoiatelstva-gibeli-turistov-na-elbruse-izi",
-        "https://iz.ru/2138730/tim-tcziu-pobedil-errola-spensa-v-boiu-za-promezhutochnyi-ves-izi",
-        "https://iz.ru/2138733/zhiteli-osvobozhdennogo-belitckogo-rasskazali-ob-izdevatelstvakh-boevikov-vsu-izi",
-        "https://iz.ru/2138734/peskov-rasskazal-o-sposobe-obshcheniia-putina-s-sotrudnikami-administratcii-izi",
-        "https://iz.ru/2138746/v-dagestane-pogib-voditel-pri-stolknovenii-mashiny-s-poezdom-izi",
-        "https://iz.ru/2138751/mid-rf-usomnilsia-v-izmeneniiakh-v-sisteme-mus-posle-smeny-prokurora-izi",
-        "https://iz.ru/2138760/inostrannye-turisty-pogibli-na-elbruse-chto-izvestno-izi",
-        "https://iz.ru/2138771/formula-1-perenesla-gran-pri-bakhreina-v-malaiziiu-izi"
+        "https://iz.ru/2138819/pogibshie-na-elbruse-bosniitcy-byli-opytnymi-alpinistami-izi",
+        "https://iz.ru/2138822/v-kremle-uvideli-dualizm-v-podkhodakh-trampa-k-voprosam-ukrainy-izi",
+        "https://iz.ru/2138827/peskov-zaiavil-o-snizhenii-voennogo-potentciala-ukrainy-silami-vs-rf-izi",
+        "https://iz.ru/2138830/putin-pribyl-v-glavnoe-admiralteistvo-v-sankt-peterburge-izi",
+        "https://iz.ru/2138840/putin-podpisal-zakon-o-trudovykh-stazhirovkakh-dlia-vypusknikov-izi",
+        "https://iz.ru/2138843/putin-podpisal-zakon-o-shtrafakh-dlia-bukmekerov-za-narushenie-samozapreta-izi",
+        "https://iz.ru/2138848/glavkom-vmf-soobshchil-o-zavershenii-zavodskogo-remonta-kreisera-kareliia-izi",
+        "https://iz.ru/2138857/moiseev-poobeshchal-vvod-kreisera-admiral-nakhimov-v-sostav-vmf-do-kontca-2026-goda-izi",
+        "https://iz.ru/2138866/putin-garantiroval-bezopasnost-kaliningradskoi-oblasti-v-sluchae-ugroz-izi",
+        "https://iz.ru/2138870/chislo-postradavshikh-pri-naezde-avtomobilia-na-tolpu-v-berline-dostiglo-29-izi",
+        "https://iz.ru/2138875/opublikovany-kadry-evakuatcii-tel-pogibshikh-pri-voskhozhdenii-na-elbrus-alpinistov-izi",
+        "https://iz.ru/2138877/putin-nazval-opravdannym-napravlenie-resursov-na-tceli-svo-izi",
+        "https://iz.ru/2138885/putin-rasskazal-o-sereznoi-obratnoi-sviazi-na-vstrechakh-s-voennymi-izi",
+        "https://iz.ru/2138889/putin-ukazal-na-effektivnoe-ispolzovanie-moskitnogo-flota-na-blizhnem-vostoke-izi",
+        "https://iz.ru/2138892/peskov-soobshchil-o-sokhranenii-dialoga-rossii-i-ssha-po-ukraine-izi",
+        "https://iz.ru/2138895/podvodnyi-apparat-poseidon-nakhoditsia-na-zavershaiushchei-stadii-podgotovki-izi",
+        "https://iz.ru/2138897/sk-vozbudil-ugolovnoe-delo-posle-gibeli-alpinistov-na-elbruse-izi",
+        "https://iz.ru/2138898/putin-zaiavil-o-rastushchei-tochnosti-giperzvukovoi-rakety-tcirkon-izi",
+        "https://iz.ru/2138899/uragan-povredil-14-detsadov-i-16-shkol-v-rostove-na-donu-izi",
+        "https://iz.ru/2138902/putin-vyrazil-uverennost-v-pobede-rossii-v-svo-izi"
       ]
     },
     "2026-07-27": {
-      "totalChecked": 827,
+      "totalChecked": 824,
       "totalIzi": 221,
       "totalIiz": 1,
       "totalAi": 222,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 247,
-      "totalIzi": 39,
+      "totalChecked": 520,
+      "totalIzi": 128,
       "totalIiz": 2,
-      "totalAi": 41,
+      "totalAi": 130,
       "topLinks": [
         "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141679/karera-na-vyrost-kogda-soglashatsia-na-menshuiu-zarplatu-radi-novoi-professii-izi",
