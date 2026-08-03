@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:20:08.109Z",
+  "generatedAt": "2026-08-03T04:09:19.424Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,35 +123,35 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 410,
-      "totalIzi": 91,
+      "totalChecked": 343,
+      "totalIzi": 74,
       "totalIiz": 2,
-      "totalAi": 93,
+      "totalAi": 76,
       "topLinks": [
-        "https://iz.ru/2138408/orban-prizval-vengriiu-sokhraniat-neitralitet-po-konfliktu-na-ukraine-izi",
-        "https://iz.ru/2138409/v-samarskoi-oblasti-dva-cheloveka-pogibli-pri-stolknovenii-kvadrotcikla-s-derevom-izi",
-        "https://iz.ru/2138424/v-sankt-peterburge-prostilis-s-akterom-dmitriem-podnozovym-izi",
-        "https://iz.ru/2138441/bakanov-zaiavil-o-gotovnosti-kazakhstana-k-zapuskam-novoi-rakety-soiuz-5-izi",
-        "https://iz.ru/2138453/putin-nazval-rossiiu-liderom-po-investitciiam-v-ekonomiku-kazakhstana-izi",
-        "https://iz.ru/2138462/vnuk-de-gollia-nazval-zaiavleniia-glavkoma-vsu-primitivnymi-lozungami-izi",
-        "https://iz.ru/2138463/iz-pod-zavalov-posle-ataki-vsu-v-kirillovke-spasli-eshche-dvukh-zhenshchin-izi",
-        "https://iz.ru/2138469/zakharova-oprovergla-soobshchenie-o-peregovorakh-lavrova-i-glavy-mid-iaponii-na-manile-izi",
-        "https://iz.ru/2138472/v-dnepropetrovskoi-oblasti-vzorvalsia-sklad-s-boepripasami-izi",
-        "https://iz.ru/2138491/armiia-rossii-likvidirovala-maiora-vsu-vozle-kramatorska-izi",
-        "https://iz.ru/2138493/peskov-ataka-vsu-na-ktk-eto-napadenie-v-tom-chisle-na-ssha-i-kazakhstan-izi",
-        "https://iz.ru/2138496/pod-ialtoi-iz-za-skhoda-selia-postradali-piat-zhilykh-domov-i-sanatorii-izi",
-        "https://iz.ru/2138499/novak-dopustil-postavki-izlishkov-nefteproduktov-iz-kazakhstana-v-rossiiu-izi",
-        "https://iz.ru/2138500/tokaev-otkazalsia-byt-posrednikom-mezhdu-rossiei-i-ukrainoi-izi",
-        "https://iz.ru/2138505/v-turtcii-predupredili-o-zaderzhkakh-reisov-mezhdu-kurortami-i-moskvoi-iz-za-livnei-izi",
-        "https://iz.ru/2138512/tokaev-opisal-otnosheniia-rossii-i-kazakhstana-poslovitcei-o-lade-izi",
-        "https://iz.ru/2138515/putin-poblagodaril-omskuiu-oblast-za-provedenie-foruma-s-kazakhstanom-izi",
         "https://iz.ru/2138523/v-avstrii-nazvali-nerealistichnym-biudzhet-es-pochti-v-eu2-trln-izi",
         "https://iz.ru/2138525/pozhar-na-tiumenskom-npz-posle-ataki-bespilotnika-likvidirovali-izi",
-        "https://iz.ru/2138529/v-rossii-zapret-na-eksport-benzina-prodliat-do-kontca-goda-izi"
+        "https://iz.ru/2138529/v-rossii-zapret-na-eksport-benzina-prodliat-do-kontca-goda-izi",
+        "https://iz.ru/2138532/v-sheremetevo-vstretili-iunykh-shakhmatistov-posle-pobedy-na-pervenstve-azii-izi",
+        "https://iz.ru/2138533/putin-i-tokaev-obsudili-situatciiu-na-ukraine-i-sotrudnichestvo-moskvy-i-astany-izi",
+        "https://iz.ru/2138534/v-zaporozhskoi-oblasti-26-iiulia-obiavili-dnem-traura-po-pogibshim-v-kirillovke-izi",
+        "https://iz.ru/2138541/v-gruzii-vozbudili-delo-o-sabotazhe-posle-massovogo-otkliucheniia-sveta-izi",
+        "https://iz.ru/2138542/sily-pvo-sbili-146-ukrainskikh-bespilotnikov-za-12-chasov-izi",
+        "https://iz.ru/2138544/peskov-otmetil-nevozmozhnost-zamorozki-konflikta-na-ukraine-iz-za-pozitcii-kieva-izi",
+        "https://iz.ru/2138546/2026-07-25/kventina-tarantino-priglasili-na-gonku-geroev-v-mendeleevske-izi",
+        "https://iz.ru/2138549/uchastniki-gonki-geroev-podelilis-vpechatleniiami-ot-trassy-v-mendeleevske-izi",
+        "https://iz.ru/2138551/zhurova-otmetila-degradatciiu-mirovogo-figurnogo-kataniia-izi",
+        "https://iz.ru/2138554/khusity-atakovali-neftianye-obekty-saudi-aramco-v-dzhizane-i-ianbu-izi",
+        "https://iz.ru/2138555/v-mid-rossii-prizvali-mezhdunarodnye-struktury-ne-zamalchivat-prestupleniia-kieva-izi",
+        "https://iz.ru/2138557/peskov-zaiavil-o-neobkhodimosti-donesti-do-partnerov-pozitciiu-rf-po-ukraine-izi",
+        "https://iz.ru/2138561/putin-podrobno-rasskazal-tokaevu-o-khode-svo-izi",
+        "https://iz.ru/2138569/bokser-usik-ne-budet-ballotirovatsia-v-prezidenty-ukrainy-izi",
+        "https://iz.ru/2138571/wsj-uznala-o-perekhode-kompanii-ssha-na-bolee-deshevye-ii-modeli-izi",
+        "https://iz.ru/2138580/v-ulianovskoi-oblasti-polnostiu-likvidirovali-otkrytoe-gorenie-na-obekte-tek-izi",
+        "https://iz.ru/2129065/zvezdopad-perseidy-kogda-rossiiane-smogut-uvidet-odno-iz-samykh-krasivykh-iavlenii-avgusta-iiz"
       ]
     },
     "2026-07-26": {
-      "totalChecked": 552,
+      "totalChecked": 551,
       "totalIzi": 142,
       "totalIiz": 2,
       "totalAi": 144,
@@ -179,7 +179,7 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 829,
+      "totalChecked": 828,
       "totalIzi": 221,
       "totalIiz": 1,
       "totalAi": 222,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 456,
-      "totalIzi": 136,
+      "totalChecked": 472,
+      "totalIzi": 140,
       "totalIiz": 4,
-      "totalAi": 140,
+      "totalAi": 144,
       "topLinks": [
         "https://iz.ru/2140377/narodnye-primety-na-2-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141613/uchenye-sviazali-potreblenie-fruktozy-s-rasprostraneniem-raka-iaichnikov-izi",
@@ -375,11 +375,24 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 137,
+      "totalIzi": 10,
+      "totalIiz": 2,
+      "totalAi": 12,
+      "topLinks": [
+        "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2142726/na-granitce-belorussii-i-latvii-vyrosli-ocheredi-iz-avtomobilei-izi",
+        "https://iz.ru/2142737/spartak-obygral-akhmat-blagodaria-shtrafnomu-barko-izi",
+        "https://iz.ru/2142742/eksperty-nazvali-regiony-s-samymi-kachestvennymi-dorogami-izi",
+        "https://iz.ru/2142752/mvd-prizvalo-rossiian-ne-ukazyvat-adresa-prozhivaniia-i-raboty-v-sotcsetiakh-izi",
+        "https://iz.ru/2142754/der-spiegel-uznal-ob-obsuzdeniyax-v-rukovodstve-xds-otstavki-merca-izi",
+        "https://iz.ru/2132568/2026-08-03/akter-nikolai-burliaev-biografiia-izi",
+        "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2142726/na-granitce-belorussii-i-latvii-vyrosli-ocheredi-iz-avtomobilei-izi",
+        "https://iz.ru/2142737/spartak-obygral-akhmat-blagodaria-shtrafnomu-barko-izi",
+        "https://iz.ru/2142742/eksperty-nazvali-regiony-s-samymi-kachestvennymi-dorogami-izi",
+        "https://iz.ru/2142752/mvd-prizvalo-rossiian-ne-ukazyvat-adresa-prozhivaniia-i-raboty-v-sotcsetiakh-izi"
+      ]
     }
   }
 }
