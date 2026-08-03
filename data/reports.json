@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:09:19.424Z",
+  "generatedAt": "2026-08-03T07:58:01.679Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,35 +123,35 @@
       ]
     },
     "2026-07-25": {
-      "totalChecked": 343,
-      "totalIzi": 74,
+      "totalChecked": 292,
+      "totalIzi": 55,
       "totalIiz": 2,
-      "totalAi": 76,
+      "totalAi": 57,
       "topLinks": [
-        "https://iz.ru/2138523/v-avstrii-nazvali-nerealistichnym-biudzhet-es-pochti-v-eu2-trln-izi",
-        "https://iz.ru/2138525/pozhar-na-tiumenskom-npz-posle-ataki-bespilotnika-likvidirovali-izi",
-        "https://iz.ru/2138529/v-rossii-zapret-na-eksport-benzina-prodliat-do-kontca-goda-izi",
-        "https://iz.ru/2138532/v-sheremetevo-vstretili-iunykh-shakhmatistov-posle-pobedy-na-pervenstve-azii-izi",
-        "https://iz.ru/2138533/putin-i-tokaev-obsudili-situatciiu-na-ukraine-i-sotrudnichestvo-moskvy-i-astany-izi",
-        "https://iz.ru/2138534/v-zaporozhskoi-oblasti-26-iiulia-obiavili-dnem-traura-po-pogibshim-v-kirillovke-izi",
-        "https://iz.ru/2138541/v-gruzii-vozbudili-delo-o-sabotazhe-posle-massovogo-otkliucheniia-sveta-izi",
-        "https://iz.ru/2138542/sily-pvo-sbili-146-ukrainskikh-bespilotnikov-za-12-chasov-izi",
-        "https://iz.ru/2138544/peskov-otmetil-nevozmozhnost-zamorozki-konflikta-na-ukraine-iz-za-pozitcii-kieva-izi",
-        "https://iz.ru/2138546/2026-07-25/kventina-tarantino-priglasili-na-gonku-geroev-v-mendeleevske-izi",
-        "https://iz.ru/2138549/uchastniki-gonki-geroev-podelilis-vpechatleniiami-ot-trassy-v-mendeleevske-izi",
-        "https://iz.ru/2138551/zhurova-otmetila-degradatciiu-mirovogo-figurnogo-kataniia-izi",
-        "https://iz.ru/2138554/khusity-atakovali-neftianye-obekty-saudi-aramco-v-dzhizane-i-ianbu-izi",
-        "https://iz.ru/2138555/v-mid-rossii-prizvali-mezhdunarodnye-struktury-ne-zamalchivat-prestupleniia-kieva-izi",
-        "https://iz.ru/2138557/peskov-zaiavil-o-neobkhodimosti-donesti-do-partnerov-pozitciiu-rf-po-ukraine-izi",
-        "https://iz.ru/2138561/putin-podrobno-rasskazal-tokaevu-o-khode-svo-izi",
-        "https://iz.ru/2138569/bokser-usik-ne-budet-ballotirovatsia-v-prezidenty-ukrainy-izi",
-        "https://iz.ru/2138571/wsj-uznala-o-perekhode-kompanii-ssha-na-bolee-deshevye-ii-modeli-izi",
-        "https://iz.ru/2138580/v-ulianovskoi-oblasti-polnostiu-likvidirovali-otkrytoe-gorenie-na-obekte-tek-izi",
-        "https://iz.ru/2129065/zvezdopad-perseidy-kogda-rossiiane-smogut-uvidet-odno-iz-samykh-krasivykh-iavlenii-avgusta-iiz"
+        "https://iz.ru/2129065/zvezdopad-perseidy-kogda-rossiiane-smogut-uvidet-odno-iz-samykh-krasivykh-iavlenii-avgusta-iiz",
+        "https://iz.ru/2137183/ot-dvortcovykh-intrig-do-semeinykh-dram-turetckie-serialy-griadushchei-oseni-izi",
+        "https://iz.ru/2137742/vrachi-predlozhili-reformirovat-sistemu-lecheniia-khronicheskikh-zabolevanii-izi",
+        "https://iz.ru/2137751/2026-07-25/eksperty-rasskazali-o-pitanii-dlia-sokhraneniia-rabotosposobnosti-izi",
+        "https://iz.ru/2137831/narodnye-primety-na-25-iiulia-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2138239/rossiiskie-universitety-pereidut-na-novuiu-sistemu-vysshego-obrazovaniia-izi",
+        "https://iz.ru/2138275/komandir-vzvoda-litvintcev-evakuiroval-dvukh-shturmovikov-v-zone-svo-izi",
+        "https://iz.ru/2138291/pianye-britanskie-soldaty-ugnali-bronetransporter-i-protaranili-avtomobili-izi",
+        "https://iz.ru/2138296/tramp-pripomnil-kennedi-mladshemu-neobychnuiu-istoriiu-s-enotom-izi",
+        "https://iz.ru/2138299/eksporter-ukazal-na-rost-sprosa-na-kachestvennyi-kofe-v-rossii-izi",
+        "https://iz.ru/2138313/vs-rf-geraniu-unichtozhili-sklad-bpla-v-sumskoi-oblasti-izi",
+        "https://iz.ru/2138343/v-bundestage-zaiavili-ob-interese-tretikh-stran-v-podryve-severnykh-potokov-izi",
+        "https://iz.ru/2138347/wsj-soobshchila-o-predosterezhenii-ssha-kievskogo-rezhima-ot-atak-v-chernom-more-izi",
+        "https://iz.ru/2138348/vyplaty-nerabotaiushchim-pensioneram-za-god-vyrosli-na-18-tysiachi-rublei-izi",
+        "https://iz.ru/2138354/chislivshiisia-propavshim-rabotnik-posle-ataki-predpriiatiia-v-kirove-naiden-zhivym-izi",
+        "https://iz.ru/2138371/armiia-rossii-porazila-balker-vsu-v-chernom-more-izi",
+        "https://iz.ru/2138375/mid-rf-obvinil-frantciiu-v-podderzhke-ukrainskikh-boevikov-v-afrike-izi",
+        "https://iz.ru/2138376/v-krasnodare-likvidirovan-pozhar-posle-ataki-drona-vsu-izi",
+        "https://iz.ru/2138377/zakharova-nazvala-terroristicheskim-metodom-udary-po-turbaze-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2138379/deputat-novichkov-napomnil-o-prave-selskikh-rabotnikov-na-nadbavku-v-25-k-pensii-izi"
       ]
     },
     "2026-07-26": {
-      "totalChecked": 551,
+      "totalChecked": 550,
       "totalIzi": 142,
       "totalIiz": 2,
       "totalAi": 144,
@@ -179,7 +179,7 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 828,
+      "totalChecked": 827,
       "totalIzi": 221,
       "totalIiz": 1,
       "totalAi": 222,
@@ -375,23 +375,31 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 137,
-      "totalIzi": 10,
+      "totalChecked": 247,
+      "totalIzi": 39,
       "totalIiz": 2,
-      "totalAi": 12,
+      "totalAi": 41,
       "topLinks": [
         "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2141679/karera-na-vyrost-kogda-soglashatsia-na-menshuiu-zarplatu-radi-novoi-professii-izi",
         "https://iz.ru/2142726/na-granitce-belorussii-i-latvii-vyrosli-ocheredi-iz-avtomobilei-izi",
         "https://iz.ru/2142737/spartak-obygral-akhmat-blagodaria-shtrafnomu-barko-izi",
         "https://iz.ru/2142742/eksperty-nazvali-regiony-s-samymi-kachestvennymi-dorogami-izi",
+        "https://iz.ru/2142750/raschet-nabliudeniia-unichtozhil-desiatki-dronov-vsu-na-dnepropetrovskom-napravlenii-izi",
         "https://iz.ru/2142752/mvd-prizvalo-rossiian-ne-ukazyvat-adresa-prozhivaniia-i-raboty-v-sotcsetiakh-izi",
         "https://iz.ru/2142754/der-spiegel-uznal-ob-obsuzdeniyax-v-rukovodstve-xds-otstavki-merca-izi",
-        "https://iz.ru/2132568/2026-08-03/akter-nikolai-burliaev-biografiia-izi",
-        "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2142726/na-granitce-belorussii-i-latvii-vyrosli-ocheredi-iz-avtomobilei-izi",
-        "https://iz.ru/2142737/spartak-obygral-akhmat-blagodaria-shtrafnomu-barko-izi",
-        "https://iz.ru/2142742/eksperty-nazvali-regiony-s-samymi-kachestvennymi-dorogami-izi",
-        "https://iz.ru/2142752/mvd-prizvalo-rossiian-ne-ukazyvat-adresa-prozhivaniia-i-raboty-v-sotcsetiakh-izi"
+        "https://iz.ru/2142759/v-gosdume-predlozhili-vvesti-pervosentiabrskii-kapital-dlia-shkolnikov-izi",
+        "https://iz.ru/2142765/chto-proizoshlo-za-noch-3-avgusta-glavnoe-izi",
+        "https://iz.ru/2142771/kitaiskie-uchenye-predlozhili-unichtozhat-opasnye-asteroidy-iadernym-vzryvom-izi",
+        "https://iz.ru/2142773/v-britanii-mozhet-proizoiti-retcessiia-na-fone-zakrytiia-ormuzskogo-proliva-izi",
+        "https://iz.ru/2142775/moskvichi-mogut-pomoch-shkolnikam-iz-novykh-regionov-podgotovitsia-k-1-sentiabria-izi",
+        "https://iz.ru/2142778/armiia-rossii-porazila-tri-sudna-s-voennymi-gruzami-dlia-vsu-v-chernom-more-izi",
+        "https://iz.ru/2142780/sem-chelovek-postradali-kri-obrushenii-zdaniia-v-sidnee-izi",
+        "https://iz.ru/2142782/voennye-italii-vysadilis-na-tanker-pod-flagom-kameruna-dlia-proverki-izi",
+        "https://iz.ru/2142784/2026-08-03/odin-iz-postradavshikh-pri-vzryve-gaza-v-karachaevo-cherkesii-umer-v-bolnitce-izi",
+        "https://iz.ru/2142787/mintrans-sozdal-shtab-iz-za-atak-bpla-na-suda-v-azovskom-more-izi",
+        "https://iz.ru/2142789/sud-v-moskve-vernul-rabotu-uvolennomu-za-plokhuiu-igru-pianistu-izi",
+        "https://iz.ru/2142791/chislo-postradavshikh-pri-atake-bpla-na-sklad-pod-vladimirom-vyroslo-do-trekh-izi"
       ]
     }
   }
