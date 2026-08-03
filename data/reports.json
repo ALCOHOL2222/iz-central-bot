@@ -1,22 +1,15 @@
 {
-  "generatedAt": "2026-08-03T20:06:40.683Z",
+  "generatedAt": "2026-08-03T21:39:15.472Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 47,
-    "failedFetches": 18,
+    "fetchedUrlSets": 57,
+    "failedFetches": 8,
     "childLocs": 65,
     "visitedCount": 66
   },
   "days": {
-    "2026-07-21": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
-    },
     "2026-07-22": {
       "totalChecked": 0,
       "totalIzi": 0,
@@ -53,21 +46,11 @@
       "topLinks": []
     },
     "2026-07-27": {
-      "totalChecked": 351,
-      "totalIzi": 108,
+      "totalChecked": 309,
+      "totalIzi": 98,
       "totalIiz": 0,
-      "totalAi": 108,
+      "totalAi": 98,
       "topLinks": [
-        "https://iz.ru/2139042/2026-07-27/sily-pvo-otrazili-ataku-letevshikh-na-moskvu-trekh-bespilotnikov-izi",
-        "https://iz.ru/2139043/bolee-15-tonn-gumpomoshchi-otpravili-boitcam-svo-volontery-iz-raiona-strogino-izi",
-        "https://iz.ru/2139046/nyt-nazvala-kolichestvo-postradavshikh-voennykh-ssha-za-vremia-operatcii-protiv-irana-izi",
-        "https://iz.ru/2139049/kievskoe-dinamo-pozhalovalos-uefa-na-flag-rossii-na-tribunakh-matcha-ligi-evropy-izi",
-        "https://iz.ru/2139050/mvd-raskrylo-novyi-sposob-khishcheniia-uchetnykh-zapisei-telegram-bez-parolia-izi",
-        "https://iz.ru/2139051/le-parisien-soobshchila-ob-ugroze-voennym-zavodam-v-bordo-iz-za-prirodnykh-pozharov-izi",
-        "https://iz.ru/2139054/v-khabarovske-zaderzhali-rabotavshego-na-razvedku-novoi-zelandii-rossiianina-izi",
-        "https://iz.ru/2139063/moshchnyi-fontan-vody-zalil-ulitcu-v-novosibirske-iz-za-proryva-teploseti-izi",
-        "https://iz.ru/2139066/sotrudnitcu-moskovskoi-kompanii-uvolili-za-razglashenie-tainy-cherez-deepseek-izi",
-        "https://iz.ru/2139067/v-sarapule-evakuirovali-sortirovochnyi-tcentr-i-logisticheskii-kompleks-izi",
         "https://iz.ru/2139075/zhiteli-dnepropetrovska-soobshchili-o-silnom-zapakhe-ammiaka-v-gorode-izi",
         "https://iz.ru/2139076/ft-zaiavila-o-dalneishem-otkaze-es-ot-krupnykh-paketov-sanktcii-protiv-rf-izi",
         "https://iz.ru/2139077/zelenskii-prizval-ukraintcev-gotovitsia-k-tiazheloi-zime-izi",
@@ -77,7 +60,17 @@
         "https://iz.ru/2139093/sily-pvo-sbili-eshche-shest-letevshikh-na-moskvu-bespilotnikov-izi",
         "https://iz.ru/2139106/uchenye-otkryli-mekhanizm-zashchity-mozga-ot-bolezni-altcgeimera-izi",
         "https://iz.ru/2139109/zvezda-shou-natalnaia-karta-olesia-ivanchenko-vyshla-zamuzh-za-komika-izi",
-        "https://iz.ru/2139110/turisty-iz-bosnii-i-gertcegoviny-pogibli-pri-voskhozhdenii-na-elbrus-chto-izvestno-izi"
+        "https://iz.ru/2139110/turisty-iz-bosnii-i-gertcegoviny-pogibli-pri-voskhozhdenii-na-elbrus-chto-izvestno-izi",
+        "https://iz.ru/2139113/netaniakhu-zaiavil-ob-otkaze-izrailia-vyvodit-voiska-s-territorii-gazy-i-livana-izi",
+        "https://iz.ru/2139119/chlen-op-masharov-anonsiroval-indeksatciiu-voennykh-pensii-na-4-s-1-oktiabria-izi",
+        "https://iz.ru/2139126/uchenyi-obiasnil-sverkhsvetovoe-rasshirenie-vselennoi-izi",
+        "https://iz.ru/2139130/sily-pvo-za-sutki-sbili-498-ukrainskikh-bespilotnikov-izi",
+        "https://iz.ru/2139133/v-kremle-prokommentirovali-soobshcheniia-o-podgotovke-vozdushnogo-peremiriia-s-ukrainoi-izi",
+        "https://iz.ru/2139140/v-tiumeni-uroven-vody-v-ture-prevysil-opasnuiu-otmetku-izi",
+        "https://iz.ru/2139144/iaponskii-pisatel-keigo-khigasino-biografiia-izi",
+        "https://iz.ru/2139149/v-kremle-rasskazali-o-merakh-zashchity-rossiiskikh-torgovykh-sudov-izi",
+        "https://iz.ru/2139154/immunnye-kletki-mozga-sviazali-s-ustoichivostiu-k-dementcii-izi",
+        "https://iz.ru/2139163/chislo-pogibshikh-pri-atake-bespilotnikov-na-rostov-vyroslo-do-piati-chelovek-izi"
       ]
     },
     "2026-07-28": {
@@ -249,10 +242,10 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 440,
-      "totalIzi": 137,
+      "totalChecked": 460,
+      "totalIzi": 144,
       "totalIiz": 1,
-      "totalAi": 138,
+      "totalAi": 145,
       "topLinks": [
         "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141679/karera-na-vyrost-kogda-soglashatsia-na-menshuiu-zarplatu-radi-novoi-professii-izi",
@@ -275,6 +268,13 @@
         "https://iz.ru/2142789/sud-v-moskve-vernul-rabotu-uvolennomu-za-plokhuiu-igru-pianistu-izi",
         "https://iz.ru/2142791/chislo-postradavshikh-pri-atake-bpla-na-sklad-pod-vladimirom-vyroslo-do-trekh-izi"
       ]
+    },
+    "2026-08-04": {
+      "totalChecked": 22,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
