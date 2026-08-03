@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:27:07.781Z",
+  "generatedAt": "2026-08-03T18:17:21.348Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-07-26": {
-      "totalChecked": 296,
+      "totalChecked": 290,
       "totalIzi": 72,
       "totalIiz": 2,
       "totalAi": 74,
@@ -179,12 +179,11 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 820,
-      "totalIzi": 221,
+      "totalChecked": 796,
+      "totalIzi": 220,
       "totalIiz": 1,
-      "totalAi": 222,
+      "totalAi": 221,
       "topLinks": [
-        "https://iz.ru/2138997/v-donetcke-proveli-aktciiu-v-pamiat-o-pogibshikh-detiakh-donbassa-izi",
         "https://iz.ru/2139020/2026-07-27/putin-podpisal-zakon-ob-osvobozhdenii-ot-shtrafov-pri-soglashenii-ob-ispravlenii-izi",
         "https://iz.ru/2139042/2026-07-27/sily-pvo-otrazili-ataku-letevshikh-na-moskvu-trekh-bespilotnikov-izi",
         "https://iz.ru/2139043/bolee-15-tonn-gumpomoshchi-otpravili-boitcam-svo-volontery-iz-raiona-strogino-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2139087/odin-chelovek-postradal-pri-massovoi-atake-bpla-na-iaroslavskuiu-oblast-izi",
         "https://iz.ru/2139089/kompaniia-marvel-naznachila-datu-premery-chernoi-pantery-3-na-2028-god-izi",
         "https://iz.ru/2139093/sily-pvo-sbili-eshche-shest-letevshikh-na-moskvu-bespilotnikov-izi",
-        "https://iz.ru/2139106/uchenye-otkryli-mekhanizm-zashchity-mozga-ot-bolezni-altcgeimera-izi"
+        "https://iz.ru/2139106/uchenye-otkryli-mekhanizm-zashchity-mozga-ot-bolezni-altcgeimera-izi",
+        "https://iz.ru/2139109/zvezda-shou-natalnaia-karta-olesia-ivanchenko-vyshla-zamuzh-za-komika-izi"
       ]
     },
     "2026-07-28": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 780,
-      "totalIzi": 231,
+      "totalChecked": 810,
+      "totalIzi": 240,
       "totalIiz": 2,
-      "totalAi": 233,
+      "totalAi": 242,
       "topLinks": [
         "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141679/karera-na-vyrost-kogda-soglashatsia-na-menshuiu-zarplatu-radi-novoi-professii-izi",
