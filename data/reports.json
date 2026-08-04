@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T10:07:40.759Z",
+  "generatedAt": "2026-08-04T12:28:48.869Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,23 +151,11 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 586,
-      "totalIzi": 162,
+      "totalChecked": 535,
+      "totalIzi": 150,
       "totalIiz": 1,
-      "totalAi": 163,
+      "totalAi": 151,
       "topLinks": [
-        "https://iz.ru/2139288/eks-deputat-parlamenta-finliandii-zaiavil-o-planakh-poluchit-grazhdanstvo-rossii-izi",
-        "https://iz.ru/2139289/putin-otmetil-osobuiu-otvetstvennost-edinoi-rossii-kak-partii-bolshinstva-izi",
-        "https://iz.ru/2139294/armando-mema-nazval-bespretcedentnoi-rusofobiei-situatciiu-s-kritikoi-pirlo-izi",
-        "https://iz.ru/2139313/mid-rumynii-zaiavil-o-vysylke-rossiiskogo-diplomata-posle-intcidenta-s-dronom-izi",
-        "https://iz.ru/2139323/netaniakhu-zaiavil-o-namerenii-obsudit-s-trampom-prezhde-vsego-iran-izi",
-        "https://iz.ru/2139327/pri-atake-vsu-na-lnr-pogibli-dva-cheloveka-i-sem-raneny-izi",
-        "https://iz.ru/2139328/zakharova-obvinila-kiev-v-satanizme-iz-za-natcistov-v-kievo-pecherskoi-lavre-izi",
-        "https://iz.ru/2139331/v-polshe-soobshchili-o-blokirovanii-rossiei-vykhod-k-moriu-ukraine-izi",
-        "https://iz.ru/2139342/zakharova-dala-diplomaticheskii-sovet-uchiteliam-na-ukraine-pri-shtrafakh-za-russkii-izi",
-        "https://iz.ru/2139349/world-gymnastics-prizvala-ne-ogranichivat-prava-rossiian-na-sorevnovaniiakh-izi",
-        "https://iz.ru/2139361/telo-rossiiskogo-alpinista-obnaruzhili-na-elbruse-spasateli-izi",
-        "https://iz.ru/2139387/putin-zapad-s-2022-goda-zapustil-rusofobskuiu-mashinu-na-polnyi-khod-izi",
         "https://iz.ru/2139404/zakharova-nazvala-podlymi-i-truslivymi-restriktcii-es-v-otnoshenii-medinskogo-izi",
         "https://iz.ru/2139405/aktrisa-nastasia-samburskaia-priostanovila-kontcert-iz-za-nedovolnogo-zritelia-izi",
         "https://iz.ru/2139408/norvezhskaia-naezdnitca-pogibla-na-trenirovochnykh-sborakh-natcionalnoi-sbornoi-izi",
@@ -175,16 +163,27 @@
         "https://iz.ru/2139413/mertc-prizval-ogranichit-svobodu-peredvizheniia-potentcialnykh-prestupnikov-izi",
         "https://iz.ru/2139415/putin-uvelichil-shtatnuiu-chislennost-vs-rf-do-24-mln-chelovek-izi",
         "https://iz.ru/2139426/v-rossii-utverdili-gost-dlia-igrushechnogo-oruzhiia-izi",
-        "https://iz.ru/2139428/raian-gosling-sygraet-prizrachnogo-gonshchika-v-novom-filme-marvel-izi"
+        "https://iz.ru/2139428/raian-gosling-sygraet-prizrachnogo-gonshchika-v-novom-filme-marvel-izi",
+        "https://iz.ru/2139429/mnogodetnaia-zhitelnitca-podmoskovia-stala-missis-zemlia-2026-izi",
+        "https://iz.ru/2139465/zakharova-ukazala-na-vred-evrosoiuzu-ot-antirossiiskikh-sanktcii-izi",
+        "https://iz.ru/2139468/chernogoriia-s-1-noiabria-otmenit-bezvizovyi-rezhim-dlia-rossiian-i-belorusov-izi",
+        "https://iz.ru/2139470/v-tegerane-nazvali-oshibkoi-ukrainy-udar-po-iranskomu-sudnu-v-kaspiiskom-more-izi",
+        "https://iz.ru/2139472/chto-proizoshlo-za-den-27-iiulia-glavnoe-izi",
+        "https://iz.ru/2139477/moshenniki-opublikovali-v-sotcsetiakh-dipfeik-s-uchastiem-glavy-udmurtii-izi",
+        "https://iz.ru/2139485/peskov-ukazal-na-zhelanie-zapada-razdrobit-rossiiu-posle-raspada-sssr-izi",
+        "https://iz.ru/2139487/v-mid-rf-poobeshchali-otvet-na-vysylku-sotrudnika-posolstva-iz-rumynii-izi",
+        "https://iz.ru/2139492/peskov-vysoko-otcenil-kompetentcii-putina-vo-vsekh-sferakh-izi",
+        "https://iz.ru/2139501/v-polshe-vyskazalis-protiv-vstupleniia-ukrainy-v-es-iz-za-natcizma-izi",
+        "https://iz.ru/2139503/s-nachala-goda-na-dalnem-vostoke-vylovili-bolee-44-tys-t-lososia-izi",
+        "https://iz.ru/2139514/zakharova-rossiia-gotova-obsuzhdat-idei-po-uregulirovaniiu-na-ukraine-izi"
       ]
     },
     "2026-07-28": {
-      "totalChecked": 829,
+      "totalChecked": 822,
       "totalIzi": 237,
-      "totalIiz": 2,
-      "totalAi": 239,
+      "totalIiz": 1,
+      "totalAi": 238,
       "topLinks": [
-        "https://iz.ru/2139320/narodnye-primety-na-28-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2139640/vyplaty-nerabotaiushchim-pensioneram-vyshe-40-tys-rublei-otmecheny-v-dvukh-regionakh-izi",
         "https://iz.ru/2139644/v-gosdume-predupredili-o-novoi-skheme-moshennikov-cherez-domovye-chaty-izi",
         "https://iz.ru/2139649/shnaider-i-uiliams-vyshli-vo-vtoroi-krug-parnogo-turnira-wta-v-vashingtone-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2139724/fas-vozbudila-dela-iz-za-povysheniia-tcen-na-toplivo-v-neskolkikh-regionakh-rossii-izi",
         "https://iz.ru/2139725/zelenskii-pribyl-v-ssha-dlia-proshchaniia-s-senatorom-gremom-i-vstrechi-s-trampom-izi",
         "https://iz.ru/2139728/pri-atake-drona-na-reisovyi-avtobus-v-shebekino-postradali-19-chelovek-izi",
-        "https://iz.ru/2139729/v-belgorode-zaderzhan-agent-sbu-za-podgotovku-pokusheniia-na-chinovnika-izi"
+        "https://iz.ru/2139729/v-belgorode-zaderzhan-agent-sbu-za-podgotovku-pokusheniia-na-chinovnika-izi",
+        "https://iz.ru/2139730/sk-nachal-proverku-posle-gibeli-trenera-vladivostokskogo-dinamo-eduarda-sandlera-izi"
       ]
     },
     "2026-07-29": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 532,
+      "totalChecked": 531,
       "totalIzi": 180,
       "totalIiz": 3,
       "totalAi": 183,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 472,
+      "totalChecked": 471,
       "totalIzi": 140,
       "totalIiz": 4,
       "totalAi": 144,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 921,
+      "totalChecked": 923,
       "totalIzi": 289,
       "totalIiz": 2,
       "totalAi": 291,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 319,
-      "totalIzi": 57,
+      "totalChecked": 499,
+      "totalIzi": 115,
       "totalIiz": 1,
-      "totalAi": 58,
+      "totalAi": 116,
       "topLinks": [
         "https://iz.ru/2142899/uchenye-nashli-sposob-predotvratit-zameshchenie-myshtc-zhirovoi-tkaniu-izi",
         "https://iz.ru/2143158/uchenye-dokazali-polzu-odnoi-intensivnoi-trenirovki-v-nedeliu-dlia-pokhudeniia-izi",
