@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:49:37.712Z",
+  "generatedAt": "2026-08-04T06:51:00.435Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-27": {
-      "totalChecked": 682,
-      "totalIzi": 194,
+      "totalChecked": 666,
+      "totalIzi": 189,
       "totalIiz": 1,
-      "totalAi": 195,
+      "totalAi": 190,
       "topLinks": [
-        "https://iz.ru/2139140/v-tiumeni-uroven-vody-v-ture-prevysil-opasnuiu-otmetku-izi",
-        "https://iz.ru/2139144/iaponskii-pisatel-keigo-khigasino-biografiia-izi",
-        "https://iz.ru/2139149/v-kremle-rasskazali-o-merakh-zashchity-rossiiskikh-torgovykh-sudov-izi",
-        "https://iz.ru/2139154/immunnye-kletki-mozga-sviazali-s-ustoichivostiu-k-dementcii-izi",
-        "https://iz.ru/2139163/chislo-pogibshikh-pri-atake-bespilotnikov-na-rostov-vyroslo-do-piati-chelovek-izi",
         "https://iz.ru/2139178/uchenye-soobshchili-o-vliianii-rezhima-pitaniia-na-kognitivnye-funktcii-izi",
         "https://iz.ru/2139193/nyt-nazval-vozmozhnuiu-naslednitcu-sostoianiia-dzheffri-epshteina-izi",
         "https://iz.ru/2139206/uchenye-predlozhili-novuiu-model-evoliutcii-chelovecheskogo-glaza-izi",
@@ -175,16 +170,20 @@
         "https://iz.ru/2139243/dvoe-vzroslykh-i-troe-detei-pogibli-v-dtp-v-sochi-chto-izvestno-izi",
         "https://iz.ru/2139248/syn-solista-diuny-rybina-i-pevitcy-senchukovoi-zhenilsia-vo-vtoroi-raz-izi",
         "https://iz.ru/2139250/ekonomika-rossii-stala-liderom-evropy-po-paritetu-pokupatelnoi-sposobnosti-izi",
-        "https://iz.ru/2139252/evrosoiuz-iskliuchil-rossiiskii-sobolinyi-mekh-iz-sanktcii-izi"
+        "https://iz.ru/2139252/evrosoiuz-iskliuchil-rossiiskii-sobolinyi-mekh-iz-sanktcii-izi",
+        "https://iz.ru/2139254/na-gosuslugakh-zapustiat-servis-polucheniia-lgot-po-karte-mir-izi",
+        "https://iz.ru/2139256/vsu-atakovali-avtomobil-skoroi-pomoshchi-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2139258/logisticheskii-kompleks-wildberries-v-sarapule-vernulsia-k-shtatnoi-rabote-izi",
+        "https://iz.ru/2139261/peskov-nazval-predstoiashchii-telefonnyi-razgovor-putina-ochen-vazhnym-izi",
+        "https://iz.ru/2139266/pamiat-pogibshikh-detei-donbassa-pochtili-v-russkikh-domakh-po-vsemu-miru-izi"
       ]
     },
     "2026-07-28": {
-      "totalChecked": 835,
-      "totalIzi": 239,
+      "totalChecked": 833,
+      "totalIzi": 238,
       "totalIiz": 2,
-      "totalAi": 241,
+      "totalAi": 240,
       "topLinks": [
-        "https://iz.ru/2139150/uchenye-sviazali-anomalnuiu-poteriu-zhira-s-razvitiem-diabeta-izi",
         "https://iz.ru/2139169/biologi-smogli-izuchit-gibkost-chelovecheskoi-pamiati-s-pomoshchiu-igry-v-zmeiku-izi",
         "https://iz.ru/2139320/narodnye-primety-na-28-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2139640/vyplaty-nerabotaiushchim-pensioneram-vyshe-40-tys-rublei-otmecheny-v-dvukh-regionakh-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2139716/makron-nazval-pozhary-vo-frantcii-samoi-tiazheloi-situatciei-so-vtoroi-mirovoi-voiny-izi",
         "https://iz.ru/2139717/nmitc-radiologii-opredeli-pokazaniia-dlia-pervoi-otechestvennoi-vaktciny-ot-melanomy-izi",
         "https://iz.ru/2139724/fas-vozbudila-dela-iz-za-povysheniia-tcen-na-toplivo-v-neskolkikh-regionakh-rossii-izi",
-        "https://iz.ru/2139725/zelenskii-pribyl-v-ssha-dlia-proshchaniia-s-senatorom-gremom-i-vstrechi-s-trampom-izi"
+        "https://iz.ru/2139725/zelenskii-pribyl-v-ssha-dlia-proshchaniia-s-senatorom-gremom-i-vstrechi-s-trampom-izi",
+        "https://iz.ru/2139728/pri-atake-drona-na-reisovyi-avtobus-v-shebekino-postradali-19-chelovek-izi"
       ]
     },
     "2026-07-29": {
-      "totalChecked": 898,
+      "totalChecked": 896,
       "totalIzi": 198,
       "totalIiz": 2,
       "totalAi": 200,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 164,
-      "totalIzi": 20,
+      "totalChecked": 184,
+      "totalIzi": 24,
       "totalIiz": 1,
-      "totalAi": 21,
+      "totalAi": 25,
       "topLinks": [
         "https://iz.ru/2142899/uchenye-nashli-sposob-predotvratit-zameshchenie-myshtc-zhirovoi-tkaniu-izi",
         "https://iz.ru/2143158/uchenye-dokazali-polzu-odnoi-intensivnoi-trenirovki-v-nedeliu-dlia-pokhudeniia-izi",
@@ -389,17 +389,17 @@
         "https://iz.ru/2143389/mendel-proinformirovala-o-tiazheloi-zime-iz-za-nekhvatki-sredstv-na-otoplenie-izi",
         "https://iz.ru/2143392/tramp-oproverg-vozmozhnost-sborov-iranom-platy-za-prokhod-cherez-ormuzskii-proliv-izi",
         "https://iz.ru/2143402/2026-08-04/finansist-predupredila-o-blokirovke-bankami-schetov-posle-smerti-vladeltca-izi",
+        "https://iz.ru/2143410/uchastnik-svo-iz-iakutii-viktor-sofronov-stal-geroem-rossii-izi",
+        "https://iz.ru/2143413/2026-08-04/telegram-obiavil-o-vosstanovlenii-raboty-prilozheniia-v-app-store-izi",
+        "https://iz.ru/2143432/odin-chelovek-postradal-pri-atake-bpla-v-lenoblasti-izi",
+        "https://iz.ru/2143437/na-sklade-wildberries-v-lenoblasti-proizoshel-pozhar-posle-ataki-vsu-izi",
         "https://iz.ru/2134008/narodnye-primety-na-4-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2142899/uchenye-nashli-sposob-predotvratit-zameshchenie-myshtc-zhirovoi-tkaniu-izi",
         "https://iz.ru/2143158/uchenye-dokazali-polzu-odnoi-intensivnoi-trenirovki-v-nedeliu-dlia-pokhudeniia-izi",
         "https://iz.ru/2143182/uchenye-dokazali-effektivnost-kinoa-dlia-lecheniia-pecheni-izi",
         "https://iz.ru/2143359/apple-podala-v-sud-na-britanskie-vlasti-iz-za-dostupa-k-zashifrovannym-dannym-izi",
         "https://iz.ru/2143366/knigi-o-tcoe-i-gruppe-agata-kristi-popadut-v-perechen-markiruemoi-literatury-izi",
-        "https://iz.ru/2143367/politik-iz-finliandii-osudil-udary-vsu-po-mirnym-zhiteliam-izi",
-        "https://iz.ru/2143389/mendel-proinformirovala-o-tiazheloi-zime-iz-za-nekhvatki-sredstv-na-otoplenie-izi",
-        "https://iz.ru/2143392/tramp-oproverg-vozmozhnost-sborov-iranom-platy-za-prokhod-cherez-ormuzskii-proliv-izi",
-        "https://iz.ru/2143402/2026-08-04/finansist-predupredila-o-blokirovke-bankami-schetov-posle-smerti-vladeltca-izi",
-        "https://iz.ru/2143410/uchastnik-svo-iz-iakutii-viktor-sofronov-stal-geroem-rossii-izi"
+        "https://iz.ru/2143367/politik-iz-finliandii-osudil-udary-vsu-po-mirnym-zhiteliam-izi"
       ]
     }
   }
