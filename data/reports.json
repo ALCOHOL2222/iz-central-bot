@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T10:06:48.637Z",
+  "generatedAt": "2026-08-05T12:27:02.564Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,42 +151,39 @@
       ]
     },
     "2026-07-28": {
-      "totalChecked": 556,
-      "totalIzi": 173,
+      "totalChecked": 490,
+      "totalIzi": 156,
       "totalIiz": 1,
-      "totalAi": 174,
+      "totalAi": 157,
       "topLinks": [
-        "https://iz.ru/2139937/novyi-glavnyi-trener-frantcuzskoi-sbornoi-po-futbolu-zinedin-zidan-biografiia-izi",
-        "https://iz.ru/2139940/putin-nazval-podderzhku-boitcov-svo-i-ikh-semei-vazhneishei-zadachei-dlia-vlastei-izi",
-        "https://iz.ru/2139941/dipsluzhba-es-vyzvala-vremennogo-poverennogo-v-delakh-postpredstva-rossii-izi",
-        "https://iz.ru/2139943/putin-soobshchil-o-gotovnosti-rossii-k-sotrudnichestvu-v-mezhdunarodnykh-delakh-izi",
-        "https://iz.ru/2139954/kosmonavt-kud-sverchkov-rasskazal-ob-opyte-ispolzovaniia-ii-na-bortu-mks-izi",
-        "https://iz.ru/2139970/v-tatarstane-uzhestochat-pravila-soderzhaniia-potentcialno-opasnykh-sobak-izi",
-        "https://iz.ru/2139973/v-mid-vystupili-s-preduprezhdeniem-iz-za-morskikh-perevozok-dlia-vsu-izi",
-        "https://iz.ru/2139977/kadry-s-mesta-gibeli-prezidenta-i-trenera-vladivostokskogo-dinamo-sandlera-izi",
-        "https://iz.ru/2139980/times-zaiavila-o-popytkakh-razvedki-ssha-i-izrailia-naiti-modzhtabu-khamenei-izi",
-        "https://iz.ru/2139984/finansovyi-universitet-reshil-predostavit-grant-abiturientu-s-310-ballami-ege-izi",
-        "https://iz.ru/2139988/putin-otmetil-vazhnost-protcessa-obnovleniia-sostava-soveta-federatcii-izi",
-        "https://iz.ru/2139997/eks-trener-zenita-roberto-manchini-vozglavit-sbornuiu-italii-izi",
-        "https://iz.ru/2139999/tramp-prigrozil-udarom-iadernogo-obekta-irana-vnutri-gory-pikaks-izi",
-        "https://iz.ru/2140000/smi-rasskazali-ob-ispytanii-indiei-zrk-kusha-izi",
-        "https://iz.ru/2140026/shkolnogo-uchitelia-obvinili-v-razvratnykh-deistviiakh-v-otnoshenii-podrostkov-izi",
-        "https://iz.ru/2140032/v-gosdume-predlozhili-standartizirovat-zakon-o-rezhime-tishiny-izi",
-        "https://iz.ru/2140045/senat-ssha-dostig-soglasheniia-po-proektu-grema-s-sanktciiami-protiv-rossii-izi",
         "https://iz.ru/2140064/ne-tolko-klon-shest-brazilskikh-serialov-dlia-prosmotra-izi",
         "https://iz.ru/2140068/rossiia-predlozhit-kazakhstanu-i-uzbekistanu-obnovit-dogovory-o-vts-izi",
-        "https://iz.ru/2140070/v-belgorodskoi-oblasti-pri-atake-bpla-na-kommercheskii-obekt-pogib-odin-chelovek-izi"
+        "https://iz.ru/2140070/v-belgorodskoi-oblasti-pri-atake-bpla-na-kommercheskii-obekt-pogib-odin-chelovek-izi",
+        "https://iz.ru/2140074/chto-proizoshlo-za-den-28-iiulia-glavnoe-izi",
+        "https://iz.ru/2140077/tramp-soobshchil-o-pristrastii-senatora-lindsi-grema-k-voinam-izi",
+        "https://iz.ru/2140084/matvienko-soobshchila-o-sokrashchenii-v-rossii-abortov-pochti-na-12-za-dva-goda-izi",
+        "https://iz.ru/2140088/v-mid-nazvali-ataku-vsu-na-sudno-irana-rasshireniem-geografii-terrora-kieva-izi",
+        "https://iz.ru/2140091/zelenskii-nazval-khoroshei-vstrechu-s-trampom-v-belom-dome-izi",
+        "https://iz.ru/2140098/atomnuiu-podlodku-ulianovsk-proekta-iasen-m-vyveli-iz-ellinga-sevmasha-izi",
+        "https://iz.ru/2140102/reuters-soobshchilo-o-trebovanii-navki-otmenit-sanktcii-es-i-vyplatit-kompensatciiu-izi",
+        "https://iz.ru/2140105/konstantinov-predlozhil-sozdat-dosku-pozora-dlia-uekhavshikh-artistov-izi",
+        "https://iz.ru/2140106/iurist-bagian-predupredil-o-vozmozhnom-zaprete-vyezda-dlia-dolinoi-iz-za-shtrafov-izi",
+        "https://iz.ru/2140111/reuters-uznalo-o-priostanovke-raboty-npz-saudi-aramco-posle-ataki-khusitov-izi",
+        "https://iz.ru/2140112/v-ssha-nazvali-realnym-perekhod-donbassa-pod-kontrol-rossii-izi",
+        "https://iz.ru/2140114/voennyi-korabl-frantcii-obstrelial-sudno-s-tenevym-glavoi-mvd-britanii-na-bortu-izi",
+        "https://iz.ru/2140118/european-gymnastics-vernula-rossiiskii-flag-i-gimn-na-sorevnovaniia-po-gimnastike-izi",
+        "https://iz.ru/2140121/varshava-otkazalas-kommentirovat-zaiavlenie-minska-o-gotoviashchemsia-terakte-izi",
+        "https://iz.ru/2140124/raneri-stanet-tekhnicheskim-direktorom-italianskoi-federatcii-futbola-izi",
+        "https://iz.ru/2140129/opublikovany-kadry-napadeniia-na-uchenogo-nikity-zezina-na-urale-izi",
+        "https://iz.ru/2140134/vs-udarami-bpla-porazili-sukhogruz-s-voennymi-gruzami-vsu-v-chernom-more-izi"
       ]
     },
     "2026-07-29": {
-      "totalChecked": 884,
-      "totalIzi": 195,
+      "totalChecked": 864,
+      "totalIzi": 192,
       "totalIiz": 1,
-      "totalAi": 196,
+      "totalAi": 193,
       "topLinks": [
-        "https://iz.ru/2139957/osnovateliu-telegram-durovu-prediavleno-obvinenie-v-sodeistvii-terrorizmu-izi",
-        "https://iz.ru/2139992/opublikovany-kadry-doprosa-obmanutykh-kievom-cherez-daivinchik-podrostkov-izi",
-        "https://iz.ru/2140027/podrazdelenie-gorynych-likvidirovalo-deviat-boevikov-vsu-v-konstantinovke-izi",
         "https://iz.ru/2140237/v-gosdume-oprovergli-izmenenie-srokov-peredachi-pokazanii-schetchikov-vody-izi",
         "https://iz.ru/2140239/v-italii-soobshchili-o-popytkakh-mafii-priobresti-ispolzuemye-na-ukraine-drony-izi",
         "https://iz.ru/2140247/v-sb-rf-rasskazali-o-peregovorakh-s-knr-i-indiei-po-proektam-v-klastere-redkozemov-izi",
@@ -203,16 +200,18 @@
         "https://iz.ru/2140338/vsu-perebrosili-rezervy-iz-zaporozhskoi-oblasti-v-kharkovskuiu-iz-za-poter-izi",
         "https://iz.ru/2140344/fsb-prediavila-obvineniia-durovu-v-sodeistvii-terrorizmu-chto-izvestno-izi",
         "https://iz.ru/2140347/v-gosdume-poka-ne-obsuzhdalos-vvedenie-vyplat-za-dolgii-brak-izi",
-        "https://iz.ru/2140348/zakharova-nazvala-ataku-ukrainy-po-sudnu-irana-v-kaspiiskom-more-teraktom-izi"
+        "https://iz.ru/2140348/zakharova-nazvala-ataku-ukrainy-po-sudnu-irana-v-kaspiiskom-more-teraktom-izi",
+        "https://iz.ru/2140349/chislo-postradavshikh-pri-atake-vsu-na-avtobus-v-shebekine-vyroslo-do-21-izi",
+        "https://iz.ru/2140350/dva-cheloveka-pogibli-i-piat-postradali-posle-ataki-vsu-na-krym-izi",
+        "https://iz.ru/2140361/v-taganroge-obiavili-chastichnuiu-evakuatciiu-posle-ataki-vsu-izi"
       ]
     },
     "2026-07-30": {
-      "totalChecked": 800,
-      "totalIzi": 153,
+      "totalChecked": 799,
+      "totalIzi": 152,
       "totalIiz": 3,
-      "totalAi": 156,
+      "totalAi": 155,
       "topLinks": [
-        "https://iz.ru/2140035/uchenye-nazvali-prostoi-sposob-snizit-risk-depressii-izi",
         "https://iz.ru/2140384/narodnye-primety-na-30-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2140394/issledovateli-raskryli-osobennosti-energeticheskogo-obmena-vo-sne-izi",
         "https://iz.ru/2140617/uchenye-raskryli-rol-kishechnika-v-formirovanii-dolgovremennoi-pamiati-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2140891/ukrainskie-boeviki-sozhgli-tela-sosluzhivtcev-i-brosili-pozitcii-v-sumskoi-oblasti-izi",
         "https://iz.ru/2140896/muo-posovetovalo-otkliuchit-funktciiu-ram-plus-dlia-osvobozhdeniia-pamiati-na-telefone-izi",
         "https://iz.ru/2140898/v-rostovskoi-oblasti-za-noch-unichtozhili-bolee-40-bespilotnikov-izi",
-        "https://iz.ru/2140908/nazvany-samye-podeshevevshie-s-nachala-goda-produkty-izi"
+        "https://iz.ru/2140908/nazvany-samye-podeshevevshie-s-nachala-goda-produkty-izi",
+        "https://iz.ru/2140918/na-kubani-posle-padeniia-oblomkov-bpla-zagorelos-predpriiatie-izi"
       ]
     },
     "2026-07-31": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 529,
+      "totalChecked": 528,
       "totalIzi": 180,
       "totalIiz": 3,
       "totalAi": 183,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 470,
+      "totalChecked": 469,
       "totalIzi": 140,
       "totalIiz": 4,
       "totalAi": 144,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 321,
-      "totalIzi": 53,
+      "totalChecked": 583,
+      "totalIzi": 126,
       "totalIiz": 2,
-      "totalAi": 55,
+      "totalAi": 128,
       "topLinks": [
         "https://iz.ru/2143102/narodnye-primety-na-5-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2143683/uchenye-sviazali-nizkuiu-uspevaemost-shkolnikov-s-rannim-dostupom-k-sotcsetiam-izi",
