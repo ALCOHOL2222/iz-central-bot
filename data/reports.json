@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-05T18:03:29.706Z",
+  "generatedAt": "2026-08-05T20:02:53.171Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 65,
-    "failedFetches": 0,
+    "fetchedUrlSets": 42,
+    "failedFetches": 23,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -179,16 +179,11 @@
       ]
     },
     "2026-07-29": {
-      "totalChecked": 749,
-      "totalIzi": 175,
+      "totalChecked": 730,
+      "totalIzi": 170,
       "totalIiz": 1,
-      "totalAi": 176,
+      "totalAi": 171,
       "topLinks": [
-        "https://iz.ru/2140349/chislo-postradavshikh-pri-atake-vsu-na-avtobus-v-shebekine-vyroslo-do-21-izi",
-        "https://iz.ru/2140350/dva-cheloveka-pogibli-i-piat-postradali-posle-ataki-vsu-na-krym-izi",
-        "https://iz.ru/2140361/v-taganroge-obiavili-chastichnuiu-evakuatciiu-posle-ataki-vsu-izi",
-        "https://iz.ru/2140365/v-rossii-proizoshlo-349-dtp-za-minuvshie-sutki-izi",
-        "https://iz.ru/2140369/murashko-nazval-bessmyslennym-normativ-bolnichnogo-priema-v-15-minut-izi",
         "https://iz.ru/2140372/lavrov-prokommentiroval-situatciiu-v-mire-tcitatoi-danily-bagrova-izi",
         "https://iz.ru/2140376/arkheologi-nashli-v-kenii-drevnie-otpechatki-nog-udivitelno-krupnykh-razmerov-izi",
         "https://iz.ru/2140385/obviniaemomu-v-ubiistve-9-letnego-malchika-v-peterburge-grozit-pozhiznennyi-srok-izi",
@@ -203,7 +198,12 @@
         "https://iz.ru/2140423/chislo-zhertv-posle-udara-vsu-po-kirovu-vyroslo-do-shesti-izi",
         "https://iz.ru/2140424/spetcialist-rasskazala-o-vliianii-peniia-na-stress-i-nastroenie-izi",
         "https://iz.ru/2140430/belousov-otmetil-prodvizhenie-vs-rf-i-priblizhenie-pobedy-nad-neonatcizmom-izi",
-        "https://iz.ru/2140440/supervulkan-kikai-v-iaponii-nachal-zapolniatsia-svezhei-magmoi-izi"
+        "https://iz.ru/2140440/supervulkan-kikai-v-iaponii-nachal-zapolniatsia-svezhei-magmoi-izi",
+        "https://iz.ru/2140450/vo-frantcuzskoi-peshchere-fon-de-gom-datirovali-drevnie-risunki-izi",
+        "https://iz.ru/2140459/vozrast-imeet-znachenie-v-chem-obviniaiut-aktera-dzhareda-leto-izi",
+        "https://iz.ru/2140463/v-tule-killer-strelial-v-biznesmena-proizvoditelia-dronov-izi",
+        "https://iz.ru/2140464/vsu-potratili-batalon-na-aktciiu-s-flagami-i-foto-zelenskogo-v-konstantinovke-izi",
+        "https://iz.ru/2140468/v-gosdume-zaiavili-ob-otsutstvii-ogranichenii-na-ispolzovanie-telegram-izi"
       ]
     },
     "2026-07-30": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 906,
+      "totalChecked": 904,
       "totalIzi": 205,
       "totalIiz": 3,
       "totalAi": 208,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 909,
-      "totalIzi": 271,
+      "totalChecked": 980,
+      "totalIzi": 315,
       "totalIiz": 2,
-      "totalAi": 273,
+      "totalAi": 317,
       "topLinks": [
         "https://iz.ru/2143102/narodnye-primety-na-5-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2143683/uchenye-sviazali-nizkuiu-uspevaemost-shkolnikov-s-rannim-dostupom-k-sotcsetiam-izi",
