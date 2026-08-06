@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:56:30.037Z",
+  "generatedAt": "2026-08-06T10:08:40.342Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,35 +151,35 @@
       ]
     },
     "2026-07-29": {
-      "totalChecked": 613,
-      "totalIzi": 144,
+      "totalChecked": 550,
+      "totalIzi": 128,
       "totalIiz": 1,
-      "totalAi": 145,
+      "totalAi": 129,
       "topLinks": [
-        "https://iz.ru/2140519/issledovateli-rasskazali-o-ratcione-dlia-sokhraneniia-zdorovia-kostei-izi",
-        "https://iz.ru/2140524/rosoboroneksport-predstavil-eksportnyi-komplekt-vooruzheniia-dlia-su-57e-izi",
-        "https://iz.ru/2140528/amerikanskii-akter-i-muzykant-dzhared-leto-biografiia-izi",
-        "https://iz.ru/2140534/rossiiane-pozhalovalis-na-sboi-v-rabote-messendzherov-kakaotalk-i-bip-izi",
-        "https://iz.ru/2140544/mchs-predupredilo-o-groze-i-livne-v-moskve-do-utra-30-iiulia-izi",
-        "https://iz.ru/2140549/monakh-pogib-pri-atake-ukrainskogo-drona-v-lnr-izi",
-        "https://iz.ru/2140555/tramp-zaiavil-o-namerenii-nanesti-moshchnyi-udar-po-iranu-izi",
-        "https://iz.ru/2140556/rabotnik-prokuratury-nasiloval-devushek-pod-ugrozoi-ubiistva-v-volgogradskoi-oblasti-izi",
-        "https://iz.ru/2140564/v-norvegii-dopustili-trebovanie-nato-k-rossii-o-prekrashchenii-ognia-v-chernom-more-izi",
-        "https://iz.ru/2140572/pashinian-posle-razgovora-s-putinym-predupredil-o-nachale-kontca-eaes-izi",
-        "https://iz.ru/2140581/dvukh-zhitelei-kryma-prigovorili-k-21-i-22-godam-kolonii-po-delu-o-gosizmene-izi",
-        "https://iz.ru/2140591/u-beregov-iaponskogo-ostrova-kiusiu-proizoshlo-zemletriasenie-magnitudoi-58-izi",
-        "https://iz.ru/2140592/edinaia-rossiia-vnedrit-zolotoi-standart-podderzhki-studencheskikh-semei-s-sentiabria-izi",
-        "https://iz.ru/2140603/iran-otklonil-predlozhenie-o-razminirovanii-iuzhnoi-chasti-ormuzskogo-proliva-izi",
-        "https://iz.ru/2140604/v-irane-soobshchili-o-raketnom-udare-po-provintcii-zapadnyi-azerbaidzhan-izi",
-        "https://iz.ru/2140606/pravitelstvo-rossii-izmenilo-blanki-zagranpasportov-izi",
         "https://iz.ru/2140608/akter-danila-kozlovskii-opublikoval-fotografii-s-mamoi-v-chest-ee-dnia-rozhdeniia-izi",
         "https://iz.ru/2140613/vratar-evgenii-latyshonok-pokinul-zenit-izi",
         "https://iz.ru/2140615/stali-izvestny-podrobnosti-nasiliia-nad-devushkami-sotrudnikom-prokuratury-izi",
-        "https://iz.ru/2140624/umer-postradavshii-pri-atake-vsu-na-kerch-deviatiletnii-malchik-izi"
+        "https://iz.ru/2140624/umer-postradavshii-pri-atake-vsu-na-kerch-deviatiletnii-malchik-izi",
+        "https://iz.ru/2140625/liviia-predlozhila-rossii-postroit-npz-i-prodavat-nefteprodukty-izi",
+        "https://iz.ru/2140632/minoborony-pokazalo-prodvizhenie-shturmovykh-grupp-k-druzhkovke-izi",
+        "https://iz.ru/2140635/na-kubani-sozdadut-mobilnye-gruppy-dlia-zashchity-predpriiatii-ot-atak-vsu-izi",
+        "https://iz.ru/2140647/spetcialisty-rasskazali-o-roli-fitoplanktona-v-proizvodstve-kisloroda-izi",
+        "https://iz.ru/2140658/ssha-vveli-sanktcii-protiv-10-organizatcii-i-vosmi-tankerov-irana-izi",
+        "https://iz.ru/2140661/propavshii-s-semei-sergei-usoltcev-neskolko-raz-menial-pasport-izi",
+        "https://iz.ru/2140669/iurist-khaminskii-nazval-usloviia-bezopasnogo-ispolzovaniia-telegram-v-rossii-izi",
+        "https://iz.ru/2140673/poiavilis-pervye-kadry-vtorogo-sezona-dekstera-voskreshenie-izi",
+        "https://iz.ru/2140681/ator-rasskazala-ob-ukhudshenii-situatcii-s-oformleniem-shengena-v-gretciiu-izi",
+        "https://iz.ru/2140690/zhurnalist-otcenil-plany-infantino-privlech-chastnykh-investorov-v-fifa-izi",
+        "https://iz.ru/2140714/dva-samoleta-razvedchika-nato-v-techenie-dnia-kruzhili-nad-chernym-morem-izi",
+        "https://iz.ru/2140721/v-rossii-sredniaia-zarplata-v-mae-prevysila-110-tys-rublei-izi",
+        "https://iz.ru/2140722/v-ekaterinburge-zaderzhali-vtorogo-podozrevaemogo-v-izbienii-uchenogo-zezina-izi",
+        "https://iz.ru/2140724/amerikanskii-pevetc-dzhared-leto-otverg-obvineniia-v-seksualnom-nasilii-izi",
+        "https://iz.ru/2140728/medvedev-sokhranit-rossiiu-mozhno-tolko-pobediv-v-svo-izi",
+        "https://iz.ru/2140734/armiia-rossii-porazila-punkty-upravleniia-vsu-v-khersonskoi-i-kharkovskoi-oblastiakh-izi"
       ]
     },
     "2026-07-30": {
-      "totalChecked": 794,
+      "totalChecked": 783,
       "totalIzi": 151,
       "totalIiz": 2,
       "totalAi": 153,
@@ -207,12 +207,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 901,
-      "totalIzi": 203,
+      "totalChecked": 899,
+      "totalIzi": 202,
       "totalIiz": 3,
-      "totalAi": 206,
+      "totalAi": 205,
       "topLinks": [
-        "https://iz.ru/2140526/uchenye-nashli-skrytuiu-prichinu-razvitiia-diabeta-v-kletkakh-podzheludochnoi-zhelezy-izi",
         "https://iz.ru/2140621/narodnye-primety-na-31-iiulia-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2140972/uchenye-nazvali-rak-serdtca-samym-redkim-onkozabolevaniem-izi",
         "https://iz.ru/2141353/pravookhranitelnymi-organami-zaderzhan-251-i-uchastnik-dvizheniia-artpodgotovka-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2141492/smi-soobshchili-o-sbore-trampom-bolee-800-mln-pozhertvovanii-izi",
         "https://iz.ru/2141500/v-gd-predlozhili-zameniat-bytovuiu-tekhniku-odinokim-pensioneram-kazhdye-piat-let-izi",
         "https://iz.ru/2141501/wsj-uznala-o-planakh-maska-prodat-kitaiskii-biznes-tesla-radi-sliianiia-so-spacex-izi",
-        "https://iz.ru/2141515/v-rossii-mogut-ogranichit-srok-otkliucheniia-goriachei-vody-14-dniami-izi"
+        "https://iz.ru/2141515/v-rossii-mogut-ogranichit-srok-otkliucheniia-goriachei-vody-14-dniami-izi",
+        "https://iz.ru/2141518/v-gosdume-predlozhili-predostavliat-besplatnoe-pitanie-vsem-shkolnikam-izi"
       ]
     },
     "2026-08-01": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 468,
+      "totalChecked": 467,
       "totalIzi": 140,
       "totalIiz": 3,
       "totalAi": 143,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 195,
-      "totalIzi": 13,
+      "totalChecked": 339,
+      "totalIzi": 42,
       "totalIiz": 2,
-      "totalAi": 15,
+      "totalAi": 44,
       "topLinks": [
         "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
@@ -387,14 +387,19 @@
         "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
         "https://iz.ru/2144688/v-op-predlozhili-vvesti-federalnuiu-vyplatu-k-1-sentiabria-na-kazhdogo-shkolnika-izi",
         "https://iz.ru/2144690/v-mid-rf-poobeshchali-otvetit-avstrii-na-obiavlenie-diplomatov-personami-non-grata-izi",
+        "https://iz.ru/2144697/kosmetolog-nazvala-razrushaiushchie-vneshnost-produkty-izi",
         "https://iz.ru/2144701/v-polshe-soobshchili-o-skandale-iz-za-nonoi-initciativy-deputatov-verkhovnoi-rady-izi",
         "https://iz.ru/2144707/bolee-200-volonterov-moskovskoi-shkoly-no-2010-reguliarno-pomogaiut-uchastnikam-svo-izi",
-        "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
-        "https://iz.ru/2144228/uchenye-otkryli-mekhanizm-usileniia-signalov-serdtca-v-mozge-vo-vremia-sna-izi",
-        "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
-        "https://iz.ru/2144688/v-op-predlozhili-vvesti-federalnuiu-vyplatu-k-1-sentiabria-na-kazhdogo-shkolnika-izi",
-        "https://iz.ru/2144690/v-mid-rf-poobeshchali-otvetit-avstrii-na-obiavlenie-diplomatov-personami-non-grata-izi"
+        "https://iz.ru/2144719/v-tailande-nachalas-tceremoniia-proshchaniia-s-ubitymi-rossiianami-nazimovymi-izi",
+        "https://iz.ru/2144724/pri-atake-dronov-vsu-na-engels-podrostok-poluchil-cherepno-mozgovuiu-travmu-izi",
+        "https://iz.ru/2144726/oxxxymiron-sokhranil-ip-v-rossii-kto-iz-inoagentov-chislitsia-predprinimatelem-izi",
+        "https://iz.ru/2144729/v-primore-zaderzhali-podrostkov-za-podgotovku-terakta-na-obekte-rosgvardii-izi",
+        "https://iz.ru/2144735/mer-khirosimy-v-godovshchinu-bombardirovki-ni-razu-ne-upomianul-ssha-v-rechi-izi",
+        "https://iz.ru/2144737/pri-atake-drona-vsu-v-brianskoi-oblasti-postradali-chetyre-devushki-izi",
+        "https://iz.ru/2144741/tovarooborot-rossii-i-armenii-v-etom-godu-sokratilsia-na-dve-treti-izi",
+        "https://iz.ru/2144758/v-ssha-soobshchili-o-vosstanovlenii-tempom-obmena-razveddannymi-s-kievom-izi",
+        "https://iz.ru/2144766/glava-natcbanka-ukrainy-otcenil-pomoshch-zapada-s-2022-goda-pochti-v-200-mlrd-izi",
+        "https://iz.ru/2144772/v-ssha-nazvali-borbu-za-vozdushnoe-prostranstvo-novoi-fazoi-ukrainskogo-konflikta-izi"
       ]
     }
   }
