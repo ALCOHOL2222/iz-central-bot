@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T03:50:42.008Z",
+  "generatedAt": "2026-08-06T06:56:30.037Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-07-29": {
-      "totalChecked": 637,
-      "totalIzi": 148,
+      "totalChecked": 613,
+      "totalIzi": 144,
       "totalIiz": 1,
-      "totalAi": 149,
+      "totalAi": 145,
       "topLinks": [
-        "https://iz.ru/2140493/lavrov-posovetoval-mertcu-prigotovitsia-otvechat-za-liderstvo-v-evrope-izi",
-        "https://iz.ru/2140500/lavrov-obiasnil-otsutstvie-patenta-na-ego-izvestnoe-vyrazhenie-izi",
-        "https://iz.ru/2140501/super-el-nino-v-2026-godu-klimatologi-zhdut-samuiu-moshchnuiu-anomaliiu-za-150-let-izi",
-        "https://iz.ru/2140506/fas-ukazala-na-dinamiku-k-snizheniiu-tcen-na-nezavisimykh-azs-izi",
         "https://iz.ru/2140519/issledovateli-rasskazali-o-ratcione-dlia-sokhraneniia-zdorovia-kostei-izi",
         "https://iz.ru/2140524/rosoboroneksport-predstavil-eksportnyi-komplekt-vooruzheniia-dlia-su-57e-izi",
         "https://iz.ru/2140528/amerikanskii-akter-i-muzykant-dzhared-leto-biografiia-izi",
@@ -175,7 +171,11 @@
         "https://iz.ru/2140592/edinaia-rossiia-vnedrit-zolotoi-standart-podderzhki-studencheskikh-semei-s-sentiabria-izi",
         "https://iz.ru/2140603/iran-otklonil-predlozhenie-o-razminirovanii-iuzhnoi-chasti-ormuzskogo-proliva-izi",
         "https://iz.ru/2140604/v-irane-soobshchili-o-raketnom-udare-po-provintcii-zapadnyi-azerbaidzhan-izi",
-        "https://iz.ru/2140606/pravitelstvo-rossii-izmenilo-blanki-zagranpasportov-izi"
+        "https://iz.ru/2140606/pravitelstvo-rossii-izmenilo-blanki-zagranpasportov-izi",
+        "https://iz.ru/2140608/akter-danila-kozlovskii-opublikoval-fotografii-s-mamoi-v-chest-ee-dnia-rozhdeniia-izi",
+        "https://iz.ru/2140613/vratar-evgenii-latyshonok-pokinul-zenit-izi",
+        "https://iz.ru/2140615/stali-izvestny-podrobnosti-nasiliia-nad-devushkami-sotrudnikom-prokuratury-izi",
+        "https://iz.ru/2140624/umer-postradavshii-pri-atake-vsu-na-kerch-deviatiletnii-malchik-izi"
       ]
     },
     "2026-07-30": {
@@ -375,19 +375,26 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 140,
-      "totalIzi": 6,
+      "totalChecked": 195,
+      "totalIzi": 13,
       "totalIiz": 2,
-      "totalAi": 8,
+      "totalAi": 15,
       "topLinks": [
         "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
         "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
         "https://iz.ru/2144228/uchenye-otkryli-mekhanizm-usileniia-signalov-serdtca-v-mozge-vo-vremia-sna-izi",
         "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
         "https://iz.ru/2144688/v-op-predlozhili-vvesti-federalnuiu-vyplatu-k-1-sentiabria-na-kazhdogo-shkolnika-izi",
         "https://iz.ru/2144690/v-mid-rf-poobeshchali-otvetit-avstrii-na-obiavlenie-diplomatov-personami-non-grata-izi",
+        "https://iz.ru/2144701/v-polshe-soobshchili-o-skandale-iz-za-nonoi-initciativy-deputatov-verkhovnoi-rady-izi",
+        "https://iz.ru/2144707/bolee-200-volonterov-moskovskoi-shkoly-no-2010-reguliarno-pomogaiut-uchastnikam-svo-izi",
         "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi"
+        "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
+        "https://iz.ru/2144228/uchenye-otkryli-mekhanizm-usileniia-signalov-serdtca-v-mozge-vo-vremia-sna-izi",
+        "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
+        "https://iz.ru/2144688/v-op-predlozhili-vvesti-federalnuiu-vyplatu-k-1-sentiabria-na-kazhdogo-shkolnika-izi",
+        "https://iz.ru/2144690/v-mid-rf-poobeshchali-otvetit-avstrii-na-obiavlenie-diplomatov-personami-non-grata-izi"
       ]
     }
   }
