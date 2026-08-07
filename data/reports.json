@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T00:25:27.444Z",
+  "generatedAt": "2026-08-07T03:29:12.213Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,14 +151,11 @@
       ]
     },
     "2026-07-30": {
-      "totalChecked": 578,
-      "totalIzi": 107,
+      "totalChecked": 565,
+      "totalIzi": 104,
       "totalIiz": 2,
-      "totalAi": 109,
+      "totalAi": 106,
       "topLinks": [
-        "https://iz.ru/2141073/v-moskve-zaderzhali-zamglavy-upravleniia-minpromtorga-po-bespilotnikam-polovcheniu-izi",
-        "https://iz.ru/2141080/bespilotnik-vsu-predprinial-ataku-na-kriticheski-vazhnyi-obekt-zaes-izi",
-        "https://iz.ru/2141082/prodiuseru-dzhokera-prediavili-obvineniia-v-afere-na-100-mln-izi",
         "https://iz.ru/2141091/iampolskaia-otcenila-posledstviia-vneseniia-rossiiskikh-vuzov-v-spisok-pentagona-izi",
         "https://iz.ru/2141096/detskii-sad-okazalsia-pod-udarom-vsu-v-zaporozhskoi-oblasti-izi",
         "https://iz.ru/2141111/es-poobeshchal-ukraine-eshche-eu83-mlrd-izi",
@@ -175,7 +172,10 @@
         "https://iz.ru/2141193/uchenye-otkryli-unikalnyi-splav-metallov-v-zone-atomnogo-vzryva-v-khirosime-izi",
         "https://iz.ru/2141202/sud-po-delu-lerchek-ob-uzhestochenii-mery-presecheniia-proidet-v-zakrytom-rezhime-izi",
         "https://iz.ru/2141210/ekspert-usomnilsia-v-obektivnosti-rassledovaniia-intcidenta-s-raketoi-v-polshe-izi",
-        "https://iz.ru/2141213/matchi-kubka-rossii-po-futbolu-4-avgusta-forma-komand-obzor-protivostoianii-izi"
+        "https://iz.ru/2141213/matchi-kubka-rossii-po-futbolu-4-avgusta-forma-komand-obzor-protivostoianii-izi",
+        "https://iz.ru/2141238/vs-rf-osvobodili-krasnoiarskoe-v-dnr-i-vziali-pod-kontrol-tri-naselennykh-punkta-izi",
+        "https://iz.ru/2141249/uchenye-sozdali-iskusstvennyi-mozg-dlia-prognozirovaniia-boleznei-serdtca-izi",
+        "https://iz.ru/2141251/pashinian-ne-iskliuchil-arbitrazh-po-voprosu-kontcessii-armianskikh-zheleznykh-dorog-izi"
       ]
     },
     "2026-07-31": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 920,
+      "totalChecked": 919,
       "totalIzi": 289,
       "totalIiz": 1,
       "totalAi": 290,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 1014,
+      "totalChecked": 1013,
       "totalIzi": 318,
       "totalIiz": 2,
       "totalAi": 320,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 890,
-      "totalIzi": 250,
+      "totalChecked": 896,
+      "totalIzi": 252,
       "totalIiz": 2,
-      "totalAi": 252,
+      "totalAi": 254,
       "topLinks": [
         "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
@@ -375,12 +375,21 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 52,
-      "totalIzi": 0,
-      "totalIiz": 1,
-      "totalAi": 1,
+      "totalChecked": 130,
+      "totalIzi": 8,
+      "totalIiz": 2,
+      "totalAi": 10,
       "topLinks": [
-        "https://iz.ru/2144090/narodnye-primety-na-7-avgusta-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2144090/narodnye-primety-na-7-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2144240/uchenye-vyiavili-risk-retcidiva-artrita-iz-za-zagryaznennogo-vozduha-izi",
+        "https://iz.ru/2145266/nemetckaia-pressa-vysmeiala-molby-zelenskogo-o-raketakh-pvo-izi",
+        "https://iz.ru/2145268/pryguna-v-vodu-ternovogo-vyzvali-na-doping-kontrol-posle-pobedy-na-che-izi",
+        "https://iz.ru/2145271/2026-08-07/bloomberg-soobshchilo-o-volne-samoubiistv-v-kiberkomandovanii-ssha-izi",
+        "https://iz.ru/2145272/sukhoputnye-voiska-ssha-poluchat-v-dekabre-krupnuiu-partiiu-raket-prsm-izi",
+        "https://iz.ru/2145275/lider-ldpr-prizval-priznat-partiiu-iabloko-nezhelatelnoi-organizatciei-v-rf-izi",
+        "https://iz.ru/2144090/narodnye-primety-na-7-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2145266/nemetckaia-pressa-vysmeiala-molby-zelenskogo-o-raketakh-pvo-izi",
+        "https://iz.ru/2145268/pryguna-v-vodu-ternovogo-vyzvali-na-doping-kontrol-posle-pobedy-na-che-izi"
       ]
     }
   }
