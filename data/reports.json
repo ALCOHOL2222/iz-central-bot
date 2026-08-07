@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T11:19:27.239Z",
+  "generatedAt": "2026-08-07T12:07:55.005Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-07-30": {
-      "totalChecked": 456,
-      "totalIzi": 81,
+      "totalChecked": 414,
+      "totalIzi": 77,
       "totalIiz": 2,
-      "totalAi": 83,
+      "totalAi": 79,
       "topLinks": [
-        "https://iz.ru/2141306/master-sporta-sssr-i-trener-po-volnoi-borbe-pavlov-utonul-v-reke-izi",
-        "https://iz.ru/2141308/grazhdanina-strany-tcentralnoi-azii-vydvoriat-iz-rossii-za-publikatciiu-s-pvo-izi",
-        "https://iz.ru/2141324/v-mide-ukazali-na-nagnetanie-kievom-ugrozy-iadernoi-katastrofy-na-zaes-izi",
-        "https://iz.ru/2141373/v-sb-oon-proveli-predvaritelnoe-golosovanie-po-novomu-genseku-izi",
         "https://iz.ru/2129640/ilin-den-2026-kakie-zaprety-sobliudaiut-veruiushchie-i-pochemu-ikh-nelzia-narushat-iiz",
         "https://iz.ru/2139849/uchenye-izuchili-vliianie-genetiki-na-pitanie-i-metabolicheskoe-zdorove-izi",
         "https://iz.ru/2140035/uchenye-nazvali-prostoi-sposob-snizit-risk-depressii-izi",
@@ -175,16 +171,19 @@
         "https://iz.ru/2140853/markirovka-meditcinskikh-izdelii-izmenitsia-v-rossii-s-1-sentiabria-izi",
         "https://iz.ru/2140854/ekspert-nazval-razmer-posobiia-po-beremennosti-pri-srednei-zarplate-v-rf-izi",
         "https://iz.ru/2140871/summa-vzyskivaemykh-s-google-v-rossii-shtrafov-prevysila-56-mlrd-rublei-izi",
-        "https://iz.ru/2140886/turagent-predupredil-o-skheme-moshennichestva-pri-bronirovanii-otdykha-v-turtcii-izi"
+        "https://iz.ru/2140886/turagent-predupredil-o-skheme-moshennichestva-pri-bronirovanii-otdykha-v-turtcii-izi",
+        "https://iz.ru/2140888/v-sovfede-rasskazali-ob-izmeneniiakh-v-zhkkh-i-pensionnykh-vyplatakh-s-avgusta-izi",
+        "https://iz.ru/2140890/boeviki-vsu-pereputali-svoi-pozitcii-s-rossiiskimi-i-popali-v-zasadu-pod-sumami-izi",
+        "https://iz.ru/2140891/ukrainskie-boeviki-sozhgli-tela-sosluzhivtcev-i-brosili-pozitcii-v-sumskoi-oblasti-izi",
+        "https://iz.ru/2140896/muo-posovetovalo-otkliuchit-funktciiu-ram-plus-dlia-osvobozhdeniia-pamiati-na-telefone-izi"
       ]
     },
     "2026-07-31": {
-      "totalChecked": 873,
-      "totalIzi": 201,
+      "totalChecked": 861,
+      "totalIzi": 200,
       "totalIiz": 2,
-      "totalAi": 203,
+      "totalAi": 202,
       "topLinks": [
-        "https://iz.ru/2141353/pravookhranitelnymi-organami-zaderzhan-251-i-uchastnik-dvizheniia-artpodgotovka-izi",
         "https://iz.ru/2141420/vs-rf-vpervye-porazili-zavod-amerikanskogo-proizvoditelia-bpla-v-kieve-izi",
         "https://iz.ru/2141425/pravila-perevozok-v-poezdakh-izmeniatsia-v-rossii-s-sentiabria-2026-goda-izi",
         "https://iz.ru/2141432/pozhar-na-ploshchadi-1-tys-kv-m-proizoshel-na-sklade-vo-vladivostoke-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2141515/v-rossii-mogut-ogranichit-srok-otkliucheniia-goriachei-vody-14-dniami-izi",
         "https://iz.ru/2141518/v-gosdume-predlozhili-predostavliat-besplatnoe-pitanie-vsem-shkolnikam-izi",
         "https://iz.ru/2141520/glava-komissii-ssha-rasskazal-ob-uvidennykh-im-posledstviiakh-atak-vsu-na-peterburg-izi",
-        "https://iz.ru/2141521/sistemy-pvo-za-noch-sbili-371-ukrainskii-bespilotnik-izi"
+        "https://iz.ru/2141521/sistemy-pvo-za-noch-sbili-371-ukrainskii-bespilotnik-izi",
+        "https://iz.ru/2141522/v-ispanii-vlasti-zadeistvovali-voennykh-na-fone-migratcionnogo-krizisa-v-seute-izi"
       ]
     },
     "2026-08-01": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 464,
+      "totalChecked": 463,
       "totalIzi": 140,
       "totalIiz": 3,
       "totalAi": 143,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 918,
+      "totalChecked": 917,
       "totalIzi": 289,
       "totalIiz": 1,
       "totalAi": 290,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 371,
-      "totalIzi": 63,
+      "totalChecked": 427,
+      "totalIzi": 82,
       "totalIiz": 2,
-      "totalAi": 65,
+      "totalAi": 84,
       "topLinks": [
         "https://iz.ru/2144090/narodnye-primety-na-7-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2144240/uchenye-vyiavili-risk-retcidiva-artrita-iz-za-zagryaznennogo-vozduha-izi",
