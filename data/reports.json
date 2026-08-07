@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T17:19:04.951Z",
+  "generatedAt": "2026-08-07T18:13:04.553Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,21 +179,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 766,
-      "totalIzi": 179,
+      "totalChecked": 736,
+      "totalIzi": 169,
       "totalIiz": 2,
-      "totalAi": 181,
+      "totalAi": 171,
       "topLinks": [
-        "https://iz.ru/2141525/v-zelenodolske-soobshchil-ob-atake-vsu-na-logisticheskii-tcentr-v-tatarstane-izi",
-        "https://iz.ru/2141526/ksir-zaiavil-ob-udarakh-po-amerikanskoi-aviabaze-v-kuveite-izi",
-        "https://iz.ru/2141532/v-gosdume-anonsirovali-s-avgusta-vstupaiushchie-v-silu-novye-zakony-izi",
-        "https://iz.ru/2141533/meloni-prigrozila-priostanovit-deistvie-shengena-s-ispaniei-iz-za-migrantov-izi",
-        "https://iz.ru/2141534/na-kipre-ukazali-na-popytku-tuska-zashchitit-zelenskogo-obvineniiami-v-adres-rossii-izi",
-        "https://iz.ru/2141536/v-germanii-zaiavili-o-snizhenii-vozmozhnostei-ukrainy-vliiat-na-khod-konflikta-izi",
-        "https://iz.ru/2141546/v-armenii-proshli-obyski-u-deputata-partii-silnaia-armeniia-nareka-karapetiana-izi",
-        "https://iz.ru/2141547/nad-rostovskoi-oblastiu-za-sutki-neitralizovali-okolo-150-dronov-izi",
-        "https://iz.ru/2141554/belozerov-rzhd-vprave-vernut-investitcii-esli-armeniia-izmenit-usloviia-po-iukzhd-izi",
-        "https://iz.ru/2141557/v-mvd-rasskazali-o-skhemakh-kibershantazha-detei-cherez-apple-id-i-icloud-izi",
         "https://iz.ru/2141560/ekspert-otcenil-shansy-na-uspekh-novykh-rossiiskikh-avtobrendov-izi",
         "https://iz.ru/2141578/politolog-otcenil-perspektivy-razvitiia-korruptcionnogo-skandala-na-ukraine-izi",
         "https://iz.ru/2141582/olimpiiskaia-medalistka-irina-avvakumova-vozobnovila-sportivnuiu-kareru-izi",
@@ -203,7 +193,17 @@
         "https://iz.ru/2141588/v-indii-vozbudili-ugolovnoe-delo-protiv-rukovodstva-meta-iz-za-ii-video-s-modi-izi",
         "https://iz.ru/2141591/v-germanii-vyzval-spory-eksperiment-s-dobavleniem-muchnykh-chervei-v-bliuda-izi",
         "https://iz.ru/2141593/vovan-i-leksus-nazvali-samym-krupnym-prank-s-borisom-berezovskim-izi",
-        "https://iz.ru/2141599/v-rostovskoi-oblasti-v-rezultate-padeniia-oblomkov-drona-postradal-rebenok-izi"
+        "https://iz.ru/2141599/v-rostovskoi-oblasti-v-rezultate-padeniia-oblomkov-drona-postradal-rebenok-izi",
+        "https://iz.ru/2141602/armiia-rossii-za-nedeliu-nanesla-massirovannyi-i-15-gruppovykh-udarov-po-ukraine-izi",
+        "https://iz.ru/2141611/sredniaia-vyplata-po-osago-vyrosla-na-10-v-pervom-polugodii-izi",
+        "https://iz.ru/2141624/v-monastyre-vo-florentcii-nashli-pokhozhii-na-coca-cola-retcept-eliksira-izi",
+        "https://iz.ru/2141626/tceny-na-benzin-snizilis-v-23-regionakh-rossii-izi",
+        "https://iz.ru/2141629/vladeltcu-detskogo-tcentra-prediavili-obvinenie-po-delu-o-dengakh-tcziu-izi",
+        "https://iz.ru/2141633/v-sevastopole-povrezhdeny-11-domov-posle-padeniia-bespilotnika-vsu-izi",
+        "https://iz.ru/2141636/v-sovfede-zaiavili-o-zhelanii-zavershit-svo-v-etom-godu-izi",
+        "https://iz.ru/2141641/gruzovoi-dron-gorynych-s-tochnoi-dostavkoi-postupil-v-zonu-svo-izi",
+        "https://iz.ru/2141663/v-germanii-obnaruzhili-dve-figurki-ptitc-vozrastom-40-tys-let-izi",
+        "https://iz.ru/2141689/otetc-vagnera-zaiavil-o-neprichastnosti-syna-k-izbieniiu-zezina-izi"
       ]
     },
     "2026-08-01": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 901,
+      "totalChecked": 899,
       "totalIzi": 274,
       "totalIiz": 1,
       "totalAi": 275,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 738,
-      "totalIzi": 193,
+      "totalChecked": 770,
+      "totalIzi": 204,
       "totalIiz": 2,
-      "totalAi": 195,
+      "totalAi": 206,
       "topLinks": [
         "https://iz.ru/2144090/narodnye-primety-na-7-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2144240/uchenye-vyiavili-risk-retcidiva-artrita-iz-za-zagryaznennogo-vozduha-izi",
