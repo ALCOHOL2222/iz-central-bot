@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T07:26:02.402Z",
+  "generatedAt": "2026-08-08T09:11:06.651Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 646,
-      "totalIzi": 144,
+      "totalChecked": 629,
+      "totalIzi": 139,
       "totalIiz": 2,
-      "totalAi": 146,
+      "totalAi": 141,
       "topLinks": [
-        "https://iz.ru/2141724/medvedchuk-nazval-prichinu-poezdki-zelenskogo-v-ssha-izi",
-        "https://iz.ru/2141733/oranzhevyi-uroven-opasnosti-iz-za-anomalnoi-zhary-obiavlen-v-moskve-izi",
-        "https://iz.ru/2141735/v-shvetcii-sotrudnika-uvolili-cherez-47-sekund-posle-nachala-raboty-izi",
-        "https://iz.ru/2141739/murashko-nazval-osnovnye-faktory-riska-razvitiia-raka-i-boleznei-serdtca-izi",
-        "https://iz.ru/2141740/posolstvo-rf-v-tailande-nadeetsia-na-vsestoronnee-rassledovanie-ubiistva-rossiian-izi",
         "https://iz.ru/2141780/riutte-soobshchil-ob-aktivatcii-sistem-pvo-nato-iz-za-vozdushnogo-obekta-v-polshe-izi",
         "https://iz.ru/2141791/v-saratove-obrushilsia-podezd-mnogokvartirnogo-doma-izi",
         "https://iz.ru/2141795/gorenie-sklada-wildberries-posle-ataki-bpla-v-penzenskoi-oblasti-likvidirovano-izi",
@@ -175,16 +170,20 @@
         "https://iz.ru/2141873/aeroport-antali-s-avgusta-izmenit-pravila-vstrechi-organizovannykh-turistov-izi",
         "https://iz.ru/2141881/pod-belgradom-nashli-telo-predpolozhitelno-propavshei-rossiianki-v-chemodane-izi",
         "https://iz.ru/2141891/robles-zaiavila-o-vozvrashchenii-nelegalnykh-migrantov-iz-seuty-v-marokko-izi",
-        "https://iz.ru/2141914/grazhdanin-turtcii-zaderzhan-po-delu-ob-ubiistve-rossiianki-v-serbii-izi"
+        "https://iz.ru/2141914/grazhdanin-turtcii-zaderzhan-po-delu-ob-ubiistve-rossiianki-v-serbii-izi",
+        "https://iz.ru/2141925/rospotrebnadzor-prizval-ne-pit-vodu-iz-moskovskikh-rodnikov-izi",
+        "https://iz.ru/2141930/v-rostovskoi-oblasti-sektciia-podezda-chastichno-razrushilas-iz-za-nochnoi-ataki-vsu-izi",
+        "https://iz.ru/2141933/telo-molodoi-rossiianki-obnaruzhili-v-chemodane-v-serbii-chto-izvestno-izi",
+        "https://iz.ru/2141936/mirnyi-zhitel-pogib-pri-atake-bpla-na-fermerskoe-khoziaistvo-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2141938/vsu-zaiavili-o-chp-posle-moshchnykh-vzryvov-na-voennom-poligone-v-khmelnitckom-izi"
       ]
     },
     "2026-08-01": {
-      "totalChecked": 517,
-      "totalIzi": 178,
+      "totalChecked": 516,
+      "totalIzi": 177,
       "totalIiz": 2,
-      "totalAi": 180,
+      "totalAi": 179,
       "topLinks": [
-        "https://iz.ru/2141725/uchenye-sviazali-risk-razvitiia-bolezni-altcgeimera-s-ozhireniem-izi",
         "https://iz.ru/2141927/2026-08-01/knopka-dlia-neiroseti-kak-izmenitsia-markirovka-ii-kontenta-v-rossii-izi",
         "https://iz.ru/2141945/pochemu-turetckie-serialy-snova-zakhvatyvaiut-mir-sekret-populiarnosti-fenomena-izi",
         "https://iz.ru/2142076/nazvany-spetcialnosti-s-povysivsheisia-v-mae-zarplatoi-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2142134/kotiakov-nazval-prichiny-rosta-sprosa-na-rabochie-professii-izi",
         "https://iz.ru/2142180/brat-nurmagomedova-usman-zashchitil-titul-chempiona-pfl-v-legkom-vese-izi",
         "https://iz.ru/2142183/stalo-izvestno-o-perebroske-elitnoi-brigady-vsu-na-granitcu-s-brianskoi-oblastiu-izi",
-        "https://iz.ru/2142188/miroshnik-zaiavil-o-nezhelanii-ssha-sporit-s-es-iz-za-konflikta-na-ukraine-izi"
+        "https://iz.ru/2142188/miroshnik-zaiavil-o-nezhelanii-ssha-sporit-s-es-iz-za-konflikta-na-ukraine-izi",
+        "https://iz.ru/2142193/v-zaporozhskoi-oblasti-odin-chelovek-pogib-pri-udare-vsu-po-avtobusu-izi"
       ]
     },
     "2026-08-02": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 150,
-      "totalIzi": 27,
+      "totalChecked": 208,
+      "totalIzi": 66,
       "totalIiz": 2,
-      "totalAi": 29,
+      "totalAi": 68,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
@@ -394,12 +394,12 @@
         "https://iz.ru/2145866/nalogovaia-nachala-likvidatciiu-kompanii-blogera-kariny-kross-izi",
         "https://iz.ru/2145867/novaia-zelandiia-vvela-36-i-paket-sanktcii-protiv-rossii-izi",
         "https://iz.ru/2145877/dostigshim-80-let-pensioneram-udvoiat-fiksirovannuiu-vyplatu-s-sentiabria-izi",
+        "https://iz.ru/2145902/zoopsikholog-obiasnila-sposobnost-koshek-predskazyvat-vozvrashchenie-khoziaina-izi",
+        "https://iz.ru/2145905/ssha-zaplanirovali-vydelit-1-mlrd-na-podderzhku-novogo-prezidenta-kolumbii-izi",
+        "https://iz.ru/2145907/glava-minsporta-rf-pozdravil-rossiian-s-dnem-fizkulturnika-izi",
         "https://iz.ru/2145911/sily-pvo-unichtozhili-12-bpla-v-trekh-raionakh-sevastopolia-izi",
-        "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
-        "https://iz.ru/2145800/eks-prezident-findiandii-prizval-evropu-nachat-dialog-s-rossiei-izi",
-        "https://iz.ru/2145801/premer-vengrii-nazval-promezhutochnye-itogi-audita-aes-paksh-2-izi",
-        "https://iz.ru/2145805/banki-nachnut-blokirovat-perevody-pri-obnaruzhenii-virusov-na-ustroistve-klienta-izi"
+        "https://iz.ru/2145912/odin-chelovek-pogib-i-odin-propal-pri-stolknovenii-lodok-na-volge-izi",
+        "https://iz.ru/2145916/rossiiskie-pryguny-v-vodu-vernulis-v-moskvu-s-zolotom-chempionata-evropy-v-parizhe-izi"
       ]
     }
   }
