@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T23:58:14.779Z",
+  "generatedAt": "2026-08-08T02:31:21.905Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 684,
+      "totalChecked": 677,
       "totalIzi": 151,
       "totalIiz": 2,
       "totalAi": 153,
@@ -179,7 +179,7 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 520,
+      "totalChecked": 519,
       "totalIzi": 178,
       "totalIiz": 2,
       "totalAi": 180,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 459,
+      "totalChecked": 458,
       "totalIzi": 138,
       "totalIiz": 3,
       "totalAi": 141,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 913,
+      "totalChecked": 912,
       "totalIzi": 289,
       "totalIiz": 1,
       "totalAi": 290,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 844,
+      "totalChecked": 846,
       "totalIzi": 234,
       "totalIiz": 2,
       "totalAi": 236,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 35,
-      "totalIzi": 7,
-      "totalIiz": 1,
-      "totalAi": 8,
+      "totalChecked": 85,
+      "totalIzi": 18,
+      "totalIiz": 2,
+      "totalAi": 20,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
@@ -387,7 +387,19 @@
         "https://iz.ru/2145805/banki-nachnut-blokirovat-perevody-pri-obnaruzhenii-virusov-na-ustroistve-klienta-izi",
         "https://iz.ru/2145806/eks-prezident-finliandii-otverg-vozmozhnost-napadeniia-rossii-na-nato-izi",
         "https://iz.ru/2145809/v-gosdume-rasskazali-ob-oshibkakh-pri-oformlenii-ipotechnykh-kanikul-izi",
-        "https://iz.ru/2145814/vertolet-sikorsky-s-64-poterpel-krushenie-v-amerikanskom-richfilde-izi"
+        "https://iz.ru/2145814/vertolet-sikorsky-s-64-poterpel-krushenie-v-amerikanskom-richfilde-izi",
+        "https://iz.ru/2145821/komanduiushchego-5-m-korpusom-ssha-v-evrope-dosrochno-sniali-s-dolzhnosti-izi",
+        "https://iz.ru/2145833/shvydkoi-podtverdil-prodolzhenie-intervideniia-v-2026-godu-v-saudovskoi-aravii-izi",
+        "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
+        "https://iz.ru/2145800/eks-prezident-findiandii-prizval-evropu-nachat-dialog-s-rossiei-izi",
+        "https://iz.ru/2145801/premer-vengrii-nazval-promezhutochnye-itogi-audita-aes-paksh-2-izi",
+        "https://iz.ru/2145805/banki-nachnut-blokirovat-perevody-pri-obnaruzhenii-virusov-na-ustroistve-klienta-izi",
+        "https://iz.ru/2145806/eks-prezident-finliandii-otverg-vozmozhnost-napadeniia-rossii-na-nato-izi",
+        "https://iz.ru/2145809/v-gosdume-rasskazali-ob-oshibkakh-pri-oformlenii-ipotechnykh-kanikul-izi",
+        "https://iz.ru/2145814/vertolet-sikorsky-s-64-poterpel-krushenie-v-amerikanskom-richfilde-izi",
+        "https://iz.ru/2145821/komanduiushchego-5-m-korpusom-ssha-v-evrope-dosrochno-sniali-s-dolzhnosti-izi",
+        "https://iz.ru/2145833/shvydkoi-podtverdil-prodolzhenie-intervideniia-v-2026-godu-v-saudovskoi-aravii-izi"
       ]
     }
   }
