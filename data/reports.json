@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T17:03:01.341Z",
+  "generatedAt": "2026-08-08T17:56:43.362Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,14 +151,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 560,
-      "totalIzi": 125,
+      "totalChecked": 548,
+      "totalIzi": 122,
       "totalIiz": 2,
-      "totalAi": 127,
+      "totalAi": 124,
       "topLinks": [
-        "https://iz.ru/2141914/grazhdanin-turtcii-zaderzhan-po-delu-ob-ubiistve-rossiianki-v-serbii-izi",
-        "https://iz.ru/2141925/rospotrebnadzor-prizval-ne-pit-vodu-iz-moskovskikh-rodnikov-izi",
-        "https://iz.ru/2141930/v-rostovskoi-oblasti-sektciia-podezda-chastichno-razrushilas-iz-za-nochnoi-ataki-vsu-izi",
         "https://iz.ru/2141933/telo-molodoi-rossiianki-obnaruzhili-v-chemodane-v-serbii-chto-izvestno-izi",
         "https://iz.ru/2141936/mirnyi-zhitel-pogib-pri-atake-bpla-na-fermerskoe-khoziaistvo-v-zaporozhskoi-oblasti-izi",
         "https://iz.ru/2141938/vsu-zaiavili-o-chp-posle-moshchnykh-vzryvov-na-voennom-poligone-v-khmelnitckom-izi",
@@ -175,16 +172,18 @@
         "https://iz.ru/2142037/telo-propavshego-dotcenta-mgu-krzhevova-nashli-v-tverskoi-oblasti-izi",
         "https://iz.ru/2142041/v-wildberries-predupredili-o-moshennikakh-na-fone-atak-vsu-izi",
         "https://iz.ru/2142042/futbolnaia-assotciatciia-anglii-sniala-diskvalifikatciiu-s-mudrika-izi",
-        "https://iz.ru/2142045/prichinoi-smerti-aktera-iasinskogo-stali-problemy-s-serdtcem-izi"
+        "https://iz.ru/2142045/prichinoi-smerti-aktera-iasinskogo-stali-problemy-s-serdtcem-izi",
+        "https://iz.ru/2142052/na-nizhnekamskneftekhime-proizoshel-pozhar-izi",
+        "https://iz.ru/2142065/kombinat-tcarukiana-v-armenii-peredali-pod-gosudarstvennoe-upravlenie-izi",
+        "https://iz.ru/2130234/narodnye-primety-na-ilin-den-2026-chto-sulit-pogoda-i-kakie-poveria-sokhranilis-do-nashikh-dnei-iiz"
       ]
     },
     "2026-08-01": {
-      "totalChecked": 514,
-      "totalIzi": 177,
+      "totalChecked": 511,
+      "totalIzi": 176,
       "totalIiz": 2,
-      "totalAi": 179,
+      "totalAi": 178,
       "topLinks": [
-        "https://iz.ru/2141927/2026-08-01/knopka-dlia-neiroseti-kak-izmenitsia-markirovka-ii-kontenta-v-rossii-izi",
         "https://iz.ru/2141945/pochemu-turetckie-serialy-snova-zakhvatyvaiut-mir-sekret-populiarnosti-fenomena-izi",
         "https://iz.ru/2142076/nazvany-spetcialnosti-s-povysivsheisia-v-mae-zarplatoi-izi",
         "https://iz.ru/2142077/cbs-news-uznal-o-planakh-ssha-i-izrailia-nanesti-udary-po-iranskim-energoobektam-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2142180/brat-nurmagomedova-usman-zashchitil-titul-chempiona-pfl-v-legkom-vese-izi",
         "https://iz.ru/2142183/stalo-izvestno-o-perebroske-elitnoi-brigady-vsu-na-granitcu-s-brianskoi-oblastiu-izi",
         "https://iz.ru/2142188/miroshnik-zaiavil-o-nezhelanii-ssha-sporit-s-es-iz-za-konflikta-na-ukraine-izi",
-        "https://iz.ru/2142193/v-zaporozhskoi-oblasti-odin-chelovek-pogib-pri-udare-vsu-po-avtobusu-izi"
+        "https://iz.ru/2142193/v-zaporozhskoi-oblasti-odin-chelovek-pogib-pri-udare-vsu-po-avtobusu-izi",
+        "https://iz.ru/2142195/vnuk-de-gollia-perechislil-liubimykh-russkikh-pisatelei-u-frantcuzov-izi"
       ]
     },
     "2026-08-02": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 364,
-      "totalIzi": 166,
+      "totalChecked": 379,
+      "totalIzi": 173,
       "totalIiz": 2,
-      "totalAi": 168,
+      "totalAi": 175,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
