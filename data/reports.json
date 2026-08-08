@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T09:11:06.651Z",
+  "generatedAt": "2026-08-08T10:02:42.701Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,14 +151,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 629,
-      "totalIzi": 139,
+      "totalChecked": 610,
+      "totalIzi": 136,
       "totalIiz": 2,
-      "totalAi": 141,
+      "totalAi": 138,
       "topLinks": [
-        "https://iz.ru/2141780/riutte-soobshchil-ob-aktivatcii-sistem-pvo-nato-iz-za-vozdushnogo-obekta-v-polshe-izi",
-        "https://iz.ru/2141791/v-saratove-obrushilsia-podezd-mnogokvartirnogo-doma-izi",
-        "https://iz.ru/2141795/gorenie-sklada-wildberries-posle-ataki-bpla-v-penzenskoi-oblasti-likvidirovano-izi",
         "https://iz.ru/2141798/medvedev-zaiavil-o-provale-popytok-zapada-nanesti-ushcherb-rossii-izi",
         "https://iz.ru/2141837/polsha-vnov-podniala-istrebiteli-iz-za-poleta-voennykh-samoletov-rf-nad-baltikoi-izi",
         "https://iz.ru/2141840/ekspert-zaiavil-ob-ispolzovanii-vsu-starlink-dlia-udarov-po-rossii-izi",
@@ -175,11 +172,14 @@
         "https://iz.ru/2141930/v-rostovskoi-oblasti-sektciia-podezda-chastichno-razrushilas-iz-za-nochnoi-ataki-vsu-izi",
         "https://iz.ru/2141933/telo-molodoi-rossiianki-obnaruzhili-v-chemodane-v-serbii-chto-izvestno-izi",
         "https://iz.ru/2141936/mirnyi-zhitel-pogib-pri-atake-bpla-na-fermerskoe-khoziaistvo-v-zaporozhskoi-oblasti-izi",
-        "https://iz.ru/2141938/vsu-zaiavili-o-chp-posle-moshchnykh-vzryvov-na-voennom-poligone-v-khmelnitckom-izi"
+        "https://iz.ru/2141938/vsu-zaiavili-o-chp-posle-moshchnykh-vzryvov-na-voennom-poligone-v-khmelnitckom-izi",
+        "https://iz.ru/2141941/v-klinike-altravita-obiasnili-ischeznovenie-stranitcy-programmy-s-durovym-izi",
+        "https://iz.ru/2141947/na-ukraine-mobilizovali-avtora-mema-nu-nichego-strashnogo-tiau-tiau-tiau-tiau-izi",
+        "https://iz.ru/2141956/pravila-provoza-benzina-cherez-krymskii-most-izmeniatsia-s-4-avgusta-izi"
       ]
     },
     "2026-08-01": {
-      "totalChecked": 516,
+      "totalChecked": 514,
       "totalIzi": 177,
       "totalIiz": 2,
       "totalAi": 179,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 910,
+      "totalChecked": 909,
       "totalIzi": 288,
       "totalIiz": 1,
       "totalAi": 289,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 208,
-      "totalIzi": 66,
+      "totalChecked": 230,
+      "totalIzi": 84,
       "totalIiz": 2,
-      "totalAi": 68,
+      "totalAi": 86,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
@@ -399,7 +399,7 @@
         "https://iz.ru/2145907/glava-minsporta-rf-pozdravil-rossiian-s-dnem-fizkulturnika-izi",
         "https://iz.ru/2145911/sily-pvo-unichtozhili-12-bpla-v-trekh-raionakh-sevastopolia-izi",
         "https://iz.ru/2145912/odin-chelovek-pogib-i-odin-propal-pri-stolknovenii-lodok-na-volge-izi",
-        "https://iz.ru/2145916/rossiiskie-pryguny-v-vodu-vernulis-v-moskvu-s-zolotom-chempionata-evropy-v-parizhe-izi"
+        "https://iz.ru/2145913/zhurova-ukazala-na-rost-populiarnosti-liubitelskogo-sporta-sredi-rossiian-izi"
       ]
     }
   }
