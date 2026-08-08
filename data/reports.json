@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:09:26.542Z",
+  "generatedAt": "2026-08-08T19:53:53.209Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 548,
-      "totalIzi": 122,
+      "totalChecked": 532,
+      "totalIzi": 117,
       "totalIiz": 2,
-      "totalAi": 124,
+      "totalAi": 119,
       "topLinks": [
-        "https://iz.ru/2141933/telo-molodoi-rossiianki-obnaruzhili-v-chemodane-v-serbii-chto-izvestno-izi",
-        "https://iz.ru/2141936/mirnyi-zhitel-pogib-pri-atake-bpla-na-fermerskoe-khoziaistvo-v-zaporozhskoi-oblasti-izi",
-        "https://iz.ru/2141938/vsu-zaiavili-o-chp-posle-moshchnykh-vzryvov-na-voennom-poligone-v-khmelnitckom-izi",
-        "https://iz.ru/2141941/v-klinike-altravita-obiasnili-ischeznovenie-stranitcy-programmy-s-durovym-izi",
-        "https://iz.ru/2141947/na-ukraine-mobilizovali-avtora-mema-nu-nichego-strashnogo-tiau-tiau-tiau-tiau-izi",
         "https://iz.ru/2141956/pravila-provoza-benzina-cherez-krymskii-most-izmeniatsia-s-4-avgusta-izi",
         "https://iz.ru/2141957/lider-adg-prizvala-usilit-okhranu-granitc-frg-iz-za-situatcii-v-seute-izi",
         "https://iz.ru/2141966/el-pais-soobshchil-o-gibeli-57-migrantov-pri-popytke-popast-v-seutu-izi",
@@ -175,16 +170,20 @@
         "https://iz.ru/2142045/prichinoi-smerti-aktera-iasinskogo-stali-problemy-s-serdtcem-izi",
         "https://iz.ru/2142052/na-nizhnekamskneftekhime-proizoshel-pozhar-izi",
         "https://iz.ru/2142065/kombinat-tcarukiana-v-armenii-peredali-pod-gosudarstvennoe-upravlenie-izi",
-        "https://iz.ru/2130234/narodnye-primety-na-ilin-den-2026-chto-sulit-pogoda-i-kakie-poveria-sokhranilis-do-nashikh-dnei-iiz"
+        "https://iz.ru/2130234/narodnye-primety-na-ilin-den-2026-chto-sulit-pogoda-i-kakie-poveria-sokhranilis-do-nashikh-dnei-iiz",
+        "https://iz.ru/2139712/2026-07-31/rossiiskii-khokkeist-evgenii-malkin-biografiia-izi",
+        "https://iz.ru/2140397/2026-07-31/uchenye-ukazali-na-polzu-nekotorykh-obrabotannykh-produktov-izi",
+        "https://iz.ru/2140480/uchenye-ukazali-na-psikhologicheskuiu-nagruzku-u-detei-iz-za-atopicheskogo-dermatita-izi",
+        "https://iz.ru/2140526/uchenye-nashli-skrytuiu-prichinu-razvitiia-diabeta-v-kletkakh-podzheludochnoi-zhelezy-izi",
+        "https://iz.ru/2140621/narodnye-primety-na-31-iiulia-chto-mozhno-i-nelzia-delat-iiz"
       ]
     },
     "2026-08-01": {
-      "totalChecked": 511,
-      "totalIzi": 176,
+      "totalChecked": 510,
+      "totalIzi": 175,
       "totalIiz": 2,
-      "totalAi": 178,
+      "totalAi": 177,
       "topLinks": [
-        "https://iz.ru/2141945/pochemu-turetckie-serialy-snova-zakhvatyvaiut-mir-sekret-populiarnosti-fenomena-izi",
         "https://iz.ru/2142076/nazvany-spetcialnosti-s-povysivsheisia-v-mae-zarplatoi-izi",
         "https://iz.ru/2142077/cbs-news-uznal-o-planakh-ssha-i-izrailia-nanesti-udary-po-iranskim-energoobektam-izi",
         "https://iz.ru/2142090/nalogovye-uvedomleniia-na-gosuslugakh-nachnut-prikhodit-bez-zaiavleniia-s-1-avgusta-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2142183/stalo-izvestno-o-perebroske-elitnoi-brigady-vsu-na-granitcu-s-brianskoi-oblastiu-izi",
         "https://iz.ru/2142188/miroshnik-zaiavil-o-nezhelanii-ssha-sporit-s-es-iz-za-konflikta-na-ukraine-izi",
         "https://iz.ru/2142193/v-zaporozhskoi-oblasti-odin-chelovek-pogib-pri-udare-vsu-po-avtobusu-izi",
-        "https://iz.ru/2142195/vnuk-de-gollia-perechislil-liubimykh-russkikh-pisatelei-u-frantcuzov-izi"
+        "https://iz.ru/2142195/vnuk-de-gollia-perechislil-liubimykh-russkikh-pisatelei-u-frantcuzov-izi",
+        "https://iz.ru/2142200/latviia-prekratila-rabotu-edinstvennogo-otkrytogo-kpp-s-belorussiei-izi"
       ]
     },
     "2026-08-02": {
-      "totalChecked": 454,
+      "totalChecked": 453,
       "totalIzi": 138,
       "totalIiz": 3,
       "totalAi": 141,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 905,
+      "totalChecked": 903,
       "totalIzi": 288,
       "totalIiz": 1,
       "totalAi": 289,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 379,
-      "totalIzi": 173,
+      "totalChecked": 399,
+      "totalIzi": 178,
       "totalIiz": 2,
-      "totalAi": 175,
+      "totalAi": 180,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
