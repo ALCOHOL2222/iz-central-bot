@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:22:04.284Z",
+  "generatedAt": "2026-08-08T14:08:21.847Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 593,
-      "totalIzi": 132,
+      "totalChecked": 573,
+      "totalIzi": 127,
       "totalIiz": 2,
-      "totalAi": 134,
+      "totalAi": 129,
       "topLinks": [
-        "https://iz.ru/2141846/lukashenko-prizval-dostoino-oplachivat-trud-rabotnikov-izi",
-        "https://iz.ru/2141850/v-ssha-podrostok-poluchil-100-let-tiurmy-za-neudachnoe-pokushenie-izi",
-        "https://iz.ru/2141858/posla-rossii-vyzvali-v-mid-polshi-iz-za-intcidenta-s-upavshim-obektom-izi",
-        "https://iz.ru/2141867/v-anape-100-pliazhei-poluchili-razreshenie-na-otkrytie-sezona-izi",
-        "https://iz.ru/2141873/aeroport-antali-s-avgusta-izmenit-pravila-vstrechi-organizovannykh-turistov-izi",
         "https://iz.ru/2141881/pod-belgradom-nashli-telo-predpolozhitelno-propavshei-rossiianki-v-chemodane-izi",
         "https://iz.ru/2141891/robles-zaiavila-o-vozvrashchenii-nelegalnykh-migrantov-iz-seuty-v-marokko-izi",
         "https://iz.ru/2141914/grazhdanin-turtcii-zaderzhan-po-delu-ob-ubiistve-rossiianki-v-serbii-izi",
@@ -175,7 +170,12 @@
         "https://iz.ru/2141957/lider-adg-prizvala-usilit-okhranu-granitc-frg-iz-za-situatcii-v-seute-izi",
         "https://iz.ru/2141966/el-pais-soobshchil-o-gibeli-57-migrantov-pri-popytke-popast-v-seutu-izi",
         "https://iz.ru/2141984/vsu-za-vse-vremia-mogli-poteriat-do-3-mln-voennykh-chto-izvestno-izi",
-        "https://iz.ru/2142014/blogera-lerchek-prigovorili-k-piati-godam-uslovno-glavnoe-izi"
+        "https://iz.ru/2142014/blogera-lerchek-prigovorili-k-piati-godam-uslovno-glavnoe-izi",
+        "https://iz.ru/2142023/tatiana-kim-rasskazala-o-merakh-podderzhki-dlia-sellerov-wildberries-posle-atak-vsu-izi",
+        "https://iz.ru/2142033/tcb-soobshchil-o-roste-maksimalnoi-stavki-po-vkladam-v-top-10-bankov-izi",
+        "https://iz.ru/2142034/v-orlovskoi-oblasti-skonchalsia-ranennyi-pri-atake-bpla-zhitel-izi",
+        "https://iz.ru/2142037/telo-propavshego-dotcenta-mgu-krzhevova-nashli-v-tverskoi-oblasti-izi",
+        "https://iz.ru/2142041/v-wildberries-predupredili-o-moshennikakh-na-fone-atak-vsu-izi"
       ]
     },
     "2026-08-01": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 909,
+      "totalChecked": 906,
       "totalIzi": 288,
       "totalIiz": 1,
       "totalAi": 289,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 288,
-      "totalIzi": 122,
+      "totalChecked": 311,
+      "totalIzi": 138,
       "totalIiz": 2,
-      "totalAi": 124,
+      "totalAi": 140,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
