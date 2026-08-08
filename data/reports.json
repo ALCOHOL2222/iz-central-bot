@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:59:39.606Z",
+  "generatedAt": "2026-08-08T15:56:47.093Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 573,
-      "totalIzi": 127,
+      "totalChecked": 560,
+      "totalIzi": 125,
       "totalIiz": 2,
-      "totalAi": 129,
+      "totalAi": 127,
       "topLinks": [
-        "https://iz.ru/2141881/pod-belgradom-nashli-telo-predpolozhitelno-propavshei-rossiianki-v-chemodane-izi",
-        "https://iz.ru/2141891/robles-zaiavila-o-vozvrashchenii-nelegalnykh-migrantov-iz-seuty-v-marokko-izi",
         "https://iz.ru/2141914/grazhdanin-turtcii-zaderzhan-po-delu-ob-ubiistve-rossiianki-v-serbii-izi",
         "https://iz.ru/2141925/rospotrebnadzor-prizval-ne-pit-vodu-iz-moskovskikh-rodnikov-izi",
         "https://iz.ru/2141930/v-rostovskoi-oblasti-sektciia-podezda-chastichno-razrushilas-iz-za-nochnoi-ataki-vsu-izi",
@@ -175,7 +173,9 @@
         "https://iz.ru/2142033/tcb-soobshchil-o-roste-maksimalnoi-stavki-po-vkladam-v-top-10-bankov-izi",
         "https://iz.ru/2142034/v-orlovskoi-oblasti-skonchalsia-ranennyi-pri-atake-bpla-zhitel-izi",
         "https://iz.ru/2142037/telo-propavshego-dotcenta-mgu-krzhevova-nashli-v-tverskoi-oblasti-izi",
-        "https://iz.ru/2142041/v-wildberries-predupredili-o-moshennikakh-na-fone-atak-vsu-izi"
+        "https://iz.ru/2142041/v-wildberries-predupredili-o-moshennikakh-na-fone-atak-vsu-izi",
+        "https://iz.ru/2142042/futbolnaia-assotciatciia-anglii-sniala-diskvalifikatciiu-s-mudrika-izi",
+        "https://iz.ru/2142045/prichinoi-smerti-aktera-iasinskogo-stali-problemy-s-serdtcem-izi"
       ]
     },
     "2026-08-01": {
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 456,
+      "totalChecked": 454,
       "totalIzi": 138,
       "totalIiz": 3,
       "totalAi": 141,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 906,
+      "totalChecked": 905,
       "totalIzi": 288,
       "totalIiz": 1,
       "totalAi": 289,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 311,
-      "totalIzi": 138,
+      "totalChecked": 327,
+      "totalIzi": 147,
       "totalIiz": 2,
-      "totalAi": 140,
+      "totalAi": 149,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
