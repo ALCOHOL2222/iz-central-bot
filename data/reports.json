@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:31:21.905Z",
+  "generatedAt": "2026-08-08T04:38:41.245Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 677,
-      "totalIzi": 151,
+      "totalChecked": 666,
+      "totalIzi": 149,
       "totalIiz": 2,
-      "totalAi": 153,
+      "totalAi": 151,
       "topLinks": [
-        "https://iz.ru/2141663/v-germanii-obnaruzhili-dve-figurki-ptitc-vozrastom-40-tys-let-izi",
-        "https://iz.ru/2141689/otetc-vagnera-zaiavil-o-neprichastnosti-syna-k-izbieniiu-zezina-izi",
         "https://iz.ru/2141701/uchenye-sviazali-sostav-mikrobioma-s-tiazhestiu-pishchevoi-allergii-izi",
         "https://iz.ru/2141702/tomchik-soobshchil-o-padenii-rossiiskoi-rakety-kh-101-v-polshe-izi",
         "https://iz.ru/2141708/samolet-eurowings-byl-vynuzhden-vernutsia-v-aeroport-shtutgarta-iz-za-udara-molnii-izi",
@@ -175,11 +173,13 @@
         "https://iz.ru/2141837/polsha-vnov-podniala-istrebiteli-iz-za-poleta-voennykh-samoletov-rf-nad-baltikoi-izi",
         "https://iz.ru/2141840/ekspert-zaiavil-ob-ispolzovanii-vsu-starlink-dlia-udarov-po-rossii-izi",
         "https://iz.ru/2141845/tom-kholland-i-zendeia-oslushalis-soveta-prodiusera-cheloveka-pauka-ob-otnosheniiakh-izi",
-        "https://iz.ru/2141846/lukashenko-prizval-dostoino-oplachivat-trud-rabotnikov-izi"
+        "https://iz.ru/2141846/lukashenko-prizval-dostoino-oplachivat-trud-rabotnikov-izi",
+        "https://iz.ru/2141850/v-ssha-podrostok-poluchil-100-let-tiurmy-za-neudachnoe-pokushenie-izi",
+        "https://iz.ru/2141858/posla-rossii-vyzvali-v-mid-polshi-iz-za-intcidenta-s-upavshim-obektom-izi"
       ]
     },
     "2026-08-01": {
-      "totalChecked": 519,
+      "totalChecked": 517,
       "totalIzi": 178,
       "totalIiz": 2,
       "totalAi": 180,
@@ -235,12 +235,11 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 912,
-      "totalIzi": 289,
+      "totalChecked": 911,
+      "totalIzi": 288,
       "totalIiz": 1,
-      "totalAi": 290,
+      "totalAi": 289,
       "topLinks": [
-        "https://iz.ru/2141679/karera-na-vyrost-kogda-soglashatsia-na-menshuiu-zarplatu-radi-novoi-professii-izi",
         "https://iz.ru/2142726/na-granitce-belorussii-i-latvii-vyrosli-ocheredi-iz-avtomobilei-izi",
         "https://iz.ru/2142737/spartak-obygral-akhmat-blagodaria-shtrafnomu-barko-izi",
         "https://iz.ru/2142742/eksperty-nazvali-regiony-s-samymi-kachestvennymi-dorogami-izi",
@@ -259,11 +258,12 @@
         "https://iz.ru/2142787/mintrans-sozdal-shtab-iz-za-atak-bpla-na-suda-v-azovskom-more-izi",
         "https://iz.ru/2142789/sud-v-moskve-vernul-rabotu-uvolennomu-za-plokhuiu-igru-pianistu-izi",
         "https://iz.ru/2142791/chislo-postradavshikh-pri-atake-bpla-na-sklad-pod-vladimirom-vyroslo-do-trekh-izi",
-        "https://iz.ru/2142797/mintrud-napomnil-o-prave-na-ezhegodnuiu-semeinuiu-vyplatu-pri-smene-raboty-izi"
+        "https://iz.ru/2142797/mintrud-napomnil-o-prave-na-ezhegodnuiu-semeinuiu-vyplatu-pri-smene-raboty-izi",
+        "https://iz.ru/2142798/v-velikobritanii-nazvali-vybory-vo-frantcii-perelomnym-momentom-dlia-ukrainy-izi"
       ]
     },
     "2026-08-04": {
-      "totalChecked": 898,
+      "totalChecked": 897,
       "totalIzi": 274,
       "totalIiz": 1,
       "totalAi": 275,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 85,
-      "totalIzi": 18,
+      "totalChecked": 129,
+      "totalIzi": 25,
       "totalIiz": 2,
-      "totalAi": 20,
+      "totalAi": 27,
       "topLinks": [
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
@@ -390,16 +390,16 @@
         "https://iz.ru/2145814/vertolet-sikorsky-s-64-poterpel-krushenie-v-amerikanskom-richfilde-izi",
         "https://iz.ru/2145821/komanduiushchego-5-m-korpusom-ssha-v-evrope-dosrochno-sniali-s-dolzhnosti-izi",
         "https://iz.ru/2145833/shvydkoi-podtverdil-prodolzhenie-intervideniia-v-2026-godu-v-saudovskoi-aravii-izi",
+        "https://iz.ru/2145865/pentagon-rassekretil-dokumenty-o-nlo-s-vesma-neobychnym-soderzhimym-izi",
+        "https://iz.ru/2145866/nalogovaia-nachala-likvidatciiu-kompanii-blogera-kariny-kross-izi",
+        "https://iz.ru/2145877/dostigshim-80-let-pensioneram-udvoiat-fiksirovannuiu-vyplatu-s-sentiabria-izi",
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
         "https://iz.ru/2145800/eks-prezident-findiandii-prizval-evropu-nachat-dialog-s-rossiei-izi",
         "https://iz.ru/2145801/premer-vengrii-nazval-promezhutochnye-itogi-audita-aes-paksh-2-izi",
         "https://iz.ru/2145805/banki-nachnut-blokirovat-perevody-pri-obnaruzhenii-virusov-na-ustroistve-klienta-izi",
         "https://iz.ru/2145806/eks-prezident-finliandii-otverg-vozmozhnost-napadeniia-rossii-na-nato-izi",
-        "https://iz.ru/2145809/v-gosdume-rasskazali-ob-oshibkakh-pri-oformlenii-ipotechnykh-kanikul-izi",
-        "https://iz.ru/2145814/vertolet-sikorsky-s-64-poterpel-krushenie-v-amerikanskom-richfilde-izi",
-        "https://iz.ru/2145821/komanduiushchego-5-m-korpusom-ssha-v-evrope-dosrochno-sniali-s-dolzhnosti-izi",
-        "https://iz.ru/2145833/shvydkoi-podtverdil-prodolzhenie-intervideniia-v-2026-godu-v-saudovskoi-aravii-izi"
+        "https://iz.ru/2145809/v-gosdume-rasskazali-ob-oshibkakh-pri-oformlenii-ipotechnykh-kanikul-izi"
       ]
     }
   }
