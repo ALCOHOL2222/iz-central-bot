@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T02:39:18.676Z",
+  "generatedAt": "2026-08-09T04:46:32.665Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,15 +123,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 485,
-      "totalIzi": 108,
+      "totalChecked": 471,
+      "totalIzi": 104,
       "totalIiz": 2,
-      "totalAi": 110,
+      "totalAi": 106,
       "topLinks": [
-        "https://iz.ru/2142041/v-wildberries-predupredili-o-moshennikakh-na-fone-atak-vsu-izi",
-        "https://iz.ru/2142042/futbolnaia-assotciatciia-anglii-sniala-diskvalifikatciiu-s-mudrika-izi",
-        "https://iz.ru/2142045/prichinoi-smerti-aktera-iasinskogo-stali-problemy-s-serdtcem-izi",
-        "https://iz.ru/2142052/na-nizhnekamskneftekhime-proizoshel-pozhar-izi",
         "https://iz.ru/2142065/kombinat-tcarukiana-v-armenii-peredali-pod-gosudarstvennoe-upravlenie-izi",
         "https://iz.ru/2130234/narodnye-primety-na-ilin-den-2026-chto-sulit-pogoda-i-kakie-poveria-sokhranilis-do-nashikh-dnei-iiz",
         "https://iz.ru/2139712/2026-07-31/rossiiskii-khokkeist-evgenii-malkin-biografiia-izi",
@@ -147,11 +143,15 @@
         "https://iz.ru/2141440/olimpiiskii-chempion-po-basketbolu-1972-goda-edeshko-umer-ot-infarkta-izi",
         "https://iz.ru/2141442/v-sakhalinskoi-oblasti-na-ploshchadi-1-tys-kv-m-zagorelsia-angar-izi",
         "https://iz.ru/2141457/tramp-zaiavil-o-somneniiakh-v-voprose-vypuska-sistem-patriot-na-ukraine-izi",
-        "https://iz.ru/2141459/moshenniki-nachali-ispolzovat-skhemu-s-zabytymi-bankovskimi-kartami-izi"
+        "https://iz.ru/2141459/moshenniki-nachali-ispolzovat-skhemu-s-zabytymi-bankovskimi-kartami-izi",
+        "https://iz.ru/2141469/moshenniki-rassylaiut-vredonosnoe-po-ot-imeni-sosedei-so-srochnym-video-izi",
+        "https://iz.ru/2141471/nazvany-kategorii-grazhdan-s-pravom-na-povyshenie-pensii-s-1-avgusta-izi",
+        "https://iz.ru/2141472/miroshnik-zaiavil-o-borbe-zelenskogo-i-zapada-za-kontrol-nad-minoborony-izi",
+        "https://iz.ru/2141474/v-op-rf-predlozhili-vvesti-uchitelskii-kapital-dlia-pedagogov-so-stazhem-ot-25-let-izi"
       ]
     },
     "2026-08-01": {
-      "totalChecked": 509,
+      "totalChecked": 507,
       "totalIzi": 175,
       "totalIiz": 2,
       "totalAi": 177,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 897,
+      "totalChecked": 896,
       "totalIzi": 274,
       "totalIiz": 1,
       "totalAi": 275,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 84,
-      "totalIzi": 16,
+      "totalChecked": 101,
+      "totalIzi": 21,
       "totalIiz": 3,
-      "totalAi": 19,
+      "totalAi": 24,
       "topLinks": [
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
@@ -390,15 +390,16 @@
         "https://iz.ru/2146156/prezident-kuby-rasskazal-o-sprovotcirovannom-blokadoi-ssha-krizise-izi",
         "https://iz.ru/2146162/sredniaia-pensiia-gossluzhashchikh-v-rossii-prevysila-395-tys-rublei-izi",
         "https://iz.ru/2146164/2026-08-09/v-2027-godu-rossiian-ozhidaiut-sem-korotkikh-rabochikh-nedel-izi",
+        "https://iz.ru/2146165/2026-08-09/aeroport-sheremetevo-pereshel-na-ogranichennyi-rezhim-raboty-iz-za-ogranichenii-izi",
+        "https://iz.ru/2146176/ministr-oborony-finliandii-khiakkianen-otkazal-ukraine-v-peredache-raket-pvo-izi",
+        "https://iz.ru/2146177/v-germanii-otcenili-posledstviia-osvobozhdeniia-slavianska-i-kramatorska-dlia-ukrainy-izi",
+        "https://iz.ru/2146179/printc-endriu-ostalsia-v-spiske-dlia-pokhoron-s-korolevskimi-pochestiami-izi",
+        "https://iz.ru/2146180/mer-nagasaki-v-deklaratcii-mira-nazval-ssha-vinovnikom-atomnoi-bombardirovki-izi",
         "https://iz.ru/2132157/den-nikolaia-chudotvortca-11-avgusta-kakie-zaprety-vazhno-sobliudat-veruiushchim-iiz",
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
         "https://iz.ru/2146138/otdykhaiushchie-v-turtcii-obnaruzhili-nerazorvavshiisia-artilleriiskii-snariad-izi",
-        "https://iz.ru/2146141/2026-08-09/okolo-99-tys-abonentov-v-chernigovskoi-oblasti-ukrainy-ostalis-bez-sveta-izi",
-        "https://iz.ru/2146142/2026-08-09/chetvero-muzhchin-gospitalizirovany-posle-padeniia-lifta-v-zhilom-dome-v-makhachkale-izi",
-        "https://iz.ru/2146153/2026-08-09/minprosveshcheniia-utverdilo-novyi-perechen-shkolnykh-uchebnikov-izi",
-        "https://iz.ru/2146154/miroshnik-zaiavil-o-nezhelanii-nato-nakazyvat-ukrainu-za-drony-izi",
-        "https://iz.ru/2146156/prezident-kuby-rasskazal-o-sprovotcirovannom-blokadoi-ssha-krizise-izi"
+        "https://iz.ru/2146141/2026-08-09/okolo-99-tys-abonentov-v-chernigovskoi-oblasti-ukrainy-ostalis-bez-sveta-izi"
       ]
     }
   }
