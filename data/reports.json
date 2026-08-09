@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:02:15.750Z",
+  "generatedAt": "2026-08-09T21:58:03.926Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 66
   },
   "days": {
-    "2026-07-27": {
-      "totalChecked": 425,
-      "totalIzi": 111,
-      "totalIiz": 1,
-      "totalAi": 112,
-      "topLinks": [
-        "https://iz.ru/2137946/narodnye-primety-na-27-iiulia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2137969/bukhgalter-rasskazala-o-vygodakh-otpuska-za-svoi-schet-izi",
-        "https://iz.ru/2138997/v-donetcke-proveli-aktciiu-v-pamiat-o-pogibshikh-detiakh-donbassa-izi",
-        "https://iz.ru/2139020/2026-07-27/putin-podpisal-zakon-ob-osvobozhdenii-ot-shtrafov-pri-soglashenii-ob-ispravlenii-izi",
-        "https://iz.ru/2139042/2026-07-27/sily-pvo-otrazili-ataku-letevshikh-na-moskvu-trekh-bespilotnikov-izi",
-        "https://iz.ru/2139043/bolee-15-tonn-gumpomoshchi-otpravili-boitcam-svo-volontery-iz-raiona-strogino-izi",
-        "https://iz.ru/2139046/nyt-nazvala-kolichestvo-postradavshikh-voennykh-ssha-za-vremia-operatcii-protiv-irana-izi",
-        "https://iz.ru/2139049/kievskoe-dinamo-pozhalovalos-uefa-na-flag-rossii-na-tribunakh-matcha-ligi-evropy-izi",
-        "https://iz.ru/2139050/mvd-raskrylo-novyi-sposob-khishcheniia-uchetnykh-zapisei-telegram-bez-parolia-izi",
-        "https://iz.ru/2139051/le-parisien-soobshchila-ob-ugroze-voennym-zavodam-v-bordo-iz-za-prirodnykh-pozharov-izi",
-        "https://iz.ru/2139054/v-khabarovske-zaderzhali-rabotavshego-na-razvedku-novoi-zelandii-rossiianina-izi",
-        "https://iz.ru/2139063/moshchnyi-fontan-vody-zalil-ulitcu-v-novosibirske-iz-za-proryva-teploseti-izi",
-        "https://iz.ru/2139066/sotrudnitcu-moskovskoi-kompanii-uvolili-za-razglashenie-tainy-cherez-deepseek-izi",
-        "https://iz.ru/2139067/v-sarapule-evakuirovali-sortirovochnyi-tcentr-i-logisticheskii-kompleks-izi",
-        "https://iz.ru/2139075/zhiteli-dnepropetrovska-soobshchili-o-silnom-zapakhe-ammiaka-v-gorode-izi",
-        "https://iz.ru/2139076/ft-zaiavila-o-dalneishem-otkaze-es-ot-krupnykh-paketov-sanktcii-protiv-rf-izi",
-        "https://iz.ru/2139077/zelenskii-prizval-ukraintcev-gotovitsia-k-tiazheloi-zime-izi",
-        "https://iz.ru/2139081/v-portu-nikolaeva-porazheny-dva-sudna-s-voennymi-gruzami-izi",
-        "https://iz.ru/2139087/odin-chelovek-postradal-pri-massovoi-atake-bpla-na-iaroslavskuiu-oblast-izi",
-        "https://iz.ru/2139089/kompaniia-marvel-naznachila-datu-premery-chernoi-pantery-3-na-2028-god-izi"
-      ]
-    },
     "2026-07-28": {
       "totalChecked": 425,
       "totalIzi": 120,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 404,
-      "totalIzi": 216,
+      "totalChecked": 437,
+      "totalIzi": 225,
       "totalIiz": 3,
-      "totalAi": 219,
+      "totalAi": 228,
       "topLinks": [
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
@@ -400,6 +372,15 @@
         "https://iz.ru/2146185/sotrudniki-ttck-ne-tronuli-vygulivavshego-leoparda-ukraintca-izi",
         "https://iz.ru/2146186/geolog-razveiala-mif-o-sviazi-proiskhozhdeniia-nefti-s-gibeliu-dinozavrov-izi",
         "https://iz.ru/2146187/rossiiane-vpervye-stali-potrebliat-bolee-100-kg-miasa-v-god-izi"
+      ]
+    },
+    "2026-08-10": {
+      "totalChecked": 22,
+      "totalIzi": 0,
+      "totalIiz": 1,
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
   }
