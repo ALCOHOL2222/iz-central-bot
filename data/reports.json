@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T23:55:18.130Z",
+  "generatedAt": "2026-08-09T02:39:18.676Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,14 +123,11 @@
       ]
     },
     "2026-07-31": {
-      "totalChecked": 499,
-      "totalIzi": 111,
+      "totalChecked": 485,
+      "totalIzi": 108,
       "totalIiz": 2,
-      "totalAi": 113,
+      "totalAi": 110,
       "topLinks": [
-        "https://iz.ru/2142033/tcb-soobshchil-o-roste-maksimalnoi-stavki-po-vkladam-v-top-10-bankov-izi",
-        "https://iz.ru/2142034/v-orlovskoi-oblasti-skonchalsia-ranennyi-pri-atake-bpla-zhitel-izi",
-        "https://iz.ru/2142037/telo-propavshego-dotcenta-mgu-krzhevova-nashli-v-tverskoi-oblasti-izi",
         "https://iz.ru/2142041/v-wildberries-predupredili-o-moshennikakh-na-fone-atak-vsu-izi",
         "https://iz.ru/2142042/futbolnaia-assotciatciia-anglii-sniala-diskvalifikatciiu-s-mudrika-izi",
         "https://iz.ru/2142045/prichinoi-smerti-aktera-iasinskogo-stali-problemy-s-serdtcem-izi",
@@ -147,7 +144,10 @@
         "https://iz.ru/2141420/vs-rf-vpervye-porazili-zavod-amerikanskogo-proizvoditelia-bpla-v-kieve-izi",
         "https://iz.ru/2141425/pravila-perevozok-v-poezdakh-izmeniatsia-v-rossii-s-sentiabria-2026-goda-izi",
         "https://iz.ru/2141432/pozhar-na-ploshchadi-1-tys-kv-m-proizoshel-na-sklade-vo-vladivostoke-izi",
-        "https://iz.ru/2141440/olimpiiskii-chempion-po-basketbolu-1972-goda-edeshko-umer-ot-infarkta-izi"
+        "https://iz.ru/2141440/olimpiiskii-chempion-po-basketbolu-1972-goda-edeshko-umer-ot-infarkta-izi",
+        "https://iz.ru/2141442/v-sakhalinskoi-oblasti-na-ploshchadi-1-tys-kv-m-zagorelsia-angar-izi",
+        "https://iz.ru/2141457/tramp-zaiavil-o-somneniiakh-v-voprose-vypuska-sistem-patriot-na-ukraine-izi",
+        "https://iz.ru/2141459/moshenniki-nachali-ispolzovat-skhemu-s-zabytymi-bankovskimi-kartami-izi"
       ]
     },
     "2026-08-01": {
@@ -179,7 +179,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 452,
+      "totalChecked": 451,
       "totalIzi": 138,
       "totalIiz": 3,
       "totalAi": 141,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 901,
+      "totalChecked": 900,
       "totalIzi": 288,
       "totalIiz": 1,
       "totalAi": 289,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 896,
+      "totalChecked": 898,
       "totalIzi": 252,
       "totalIiz": 2,
       "totalAi": 254,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 443,
+      "totalChecked": 444,
       "totalIzi": 192,
       "totalIiz": 2,
       "totalAi": 194,
@@ -375,16 +375,30 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 29,
-      "totalIzi": 4,
-      "totalIiz": 1,
-      "totalAi": 5,
+      "totalChecked": 84,
+      "totalIzi": 16,
+      "totalIiz": 3,
+      "totalAi": 19,
       "topLinks": [
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
         "https://iz.ru/2146138/otdykhaiushchie-v-turtcii-obnaruzhili-nerazorvavshiisia-artilleriiskii-snariad-izi",
         "https://iz.ru/2146141/2026-08-09/okolo-99-tys-abonentov-v-chernigovskoi-oblasti-ukrainy-ostalis-bez-sveta-izi",
-        "https://iz.ru/2146142/2026-08-09/chetvero-muzhchin-gospitalizirovany-posle-padeniia-lifta-v-zhilom-dome-v-makhachkale-izi"
+        "https://iz.ru/2146142/2026-08-09/chetvero-muzhchin-gospitalizirovany-posle-padeniia-lifta-v-zhilom-dome-v-makhachkale-izi",
+        "https://iz.ru/2146153/2026-08-09/minprosveshcheniia-utverdilo-novyi-perechen-shkolnykh-uchebnikov-izi",
+        "https://iz.ru/2146154/miroshnik-zaiavil-o-nezhelanii-nato-nakazyvat-ukrainu-za-drony-izi",
+        "https://iz.ru/2146156/prezident-kuby-rasskazal-o-sprovotcirovannom-blokadoi-ssha-krizise-izi",
+        "https://iz.ru/2146162/sredniaia-pensiia-gossluzhashchikh-v-rossii-prevysila-395-tys-rublei-izi",
+        "https://iz.ru/2146164/2026-08-09/v-2027-godu-rossiian-ozhidaiut-sem-korotkikh-rabochikh-nedel-izi",
+        "https://iz.ru/2132157/den-nikolaia-chudotvortca-11-avgusta-kakie-zaprety-vazhno-sobliudat-veruiushchim-iiz",
+        "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
+        "https://iz.ru/2146138/otdykhaiushchie-v-turtcii-obnaruzhili-nerazorvavshiisia-artilleriiskii-snariad-izi",
+        "https://iz.ru/2146141/2026-08-09/okolo-99-tys-abonentov-v-chernigovskoi-oblasti-ukrainy-ostalis-bez-sveta-izi",
+        "https://iz.ru/2146142/2026-08-09/chetvero-muzhchin-gospitalizirovany-posle-padeniia-lifta-v-zhilom-dome-v-makhachkale-izi",
+        "https://iz.ru/2146153/2026-08-09/minprosveshcheniia-utverdilo-novyi-perechen-shkolnykh-uchebnikov-izi",
+        "https://iz.ru/2146154/miroshnik-zaiavil-o-nezhelanii-nato-nakazyvat-ukrainu-za-drony-izi",
+        "https://iz.ru/2146156/prezident-kuby-rasskazal-o-sprovotcirovannom-blokadoi-ssha-krizise-izi"
       ]
     }
   }
