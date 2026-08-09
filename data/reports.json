@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:13:13.844Z",
+  "generatedAt": "2026-08-09T10:06:56.536Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 487,
-      "totalIzi": 170,
+      "totalChecked": 461,
+      "totalIzi": 163,
       "totalIiz": 2,
-      "totalAi": 172,
+      "totalAi": 165,
       "topLinks": [
-        "https://iz.ru/2142099/fifa-otkazalas-ot-prodazhi-doli-prav-na-chm-chastnym-investoram-izi",
-        "https://iz.ru/2142100/rabotaiushchim-pensioneram-pereschitaiut-pensii-s-1-avgusta-izi",
-        "https://iz.ru/2142103/pravila-passazhirskikh-perevozok-izmeniatsia-v-rossii-s-1-sentiabria-izi",
-        "https://iz.ru/2142108/v-rossii-uprostiat-oformlenie-ipotechnykh-kanikul-dlia-semei-s-detmi-s-1-sentiabria-izi",
-        "https://iz.ru/2142110/minzdrav-planiruet-vvesti-elektronnuiu-spravku-dlia-oformleniia-opeki-nad-detmi-izi",
-        "https://iz.ru/2142115/v-op-predlozhili-vkliuchit-shkolnye-tovary-v-perechen-sotcialno-znachimykh-izi",
-        "https://iz.ru/2142124/v-gosdume-predlozhili-sdelat-gosuslugi-besplatnymi-dlia-mnogodetnykh-semei-izi",
         "https://iz.ru/2142126/srednie-tceny-na-gaz-v-evrope-vyrosli-na-19-v-iiule-izi",
         "https://iz.ru/2142134/kotiakov-nazval-prichiny-rosta-sprosa-na-rabochie-professii-izi",
         "https://iz.ru/2142180/brat-nurmagomedova-usman-zashchitil-titul-chempiona-pfl-v-legkom-vese-izi",
@@ -175,7 +168,14 @@
         "https://iz.ru/2142208/armiia-rossii-porazila-dva-sukhogruza-na-perekhode-morem-iuzhnee-odessy-izi",
         "https://iz.ru/2142213/kolichestvo-pogibshikh-v-rezultate-zemletriaseniia-v-iaponii-vozroslo-do-36-izi",
         "https://iz.ru/2142219/kandinskii-vozglavil-reiting-khudozhnikov-iz-rf-po-tcene-rabot-na-auktcionakh-mira-izi",
-        "https://iz.ru/2142221/opublikovany-kadry-masshtabnogo-pavodka-v-tiumenskoi-oblasti-izi"
+        "https://iz.ru/2142221/opublikovany-kadry-masshtabnogo-pavodka-v-tiumenskoi-oblasti-izi",
+        "https://iz.ru/2142228/mvd-predupredilo-ob-opasnosti-besplatnykh-setei-wi-fi-izi",
+        "https://iz.ru/2142235/postavki-vooruzhenii-v-rossiiskie-voiska-vyrosli-v-piat-raz-s-nachala-svo-izi",
+        "https://iz.ru/2142240/minenergo-kazakhstana-oproverglo-soobshcheniia-o-polnoi-ostanovke-raboty-ktk-izi",
+        "https://iz.ru/2142241/interery-khrama-vasiliia-blazhennogo-ne-postradali-pri-pozhare-izi",
+        "https://iz.ru/2142242/v-turtcii-zafiksirovali-otkaz-turistov-ot-otelei-iz-za-rosta-tcen-na-otdykh-izi",
+        "https://iz.ru/2142244/sily-pvo-za-iiul-sbili-780-bespilotnikov-na-podlete-k-moskve-izi",
+        "https://iz.ru/2142252/zelenskii-snova-pozhalovalsia-na-nekhvatku-pvo-patriot-posle-nochnogo-udara-vs-rf-izi"
       ]
     },
     "2026-08-02": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 205,
-      "totalIzi": 85,
+      "totalChecked": 231,
+      "totalIzi": 106,
       "totalIiz": 3,
-      "totalAi": 88,
+      "totalAi": 109,
       "topLinks": [
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
