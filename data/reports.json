@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T15:56:59.190Z",
+  "generatedAt": "2026-08-09T17:04:55.206Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,19 +151,11 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 423,
-      "totalIzi": 161,
+      "totalChecked": 406,
+      "totalIzi": 153,
       "totalIiz": 2,
-      "totalAi": 163,
+      "totalAi": 155,
       "topLinks": [
-        "https://iz.ru/2142180/brat-nurmagomedova-usman-zashchitil-titul-chempiona-pfl-v-legkom-vese-izi",
-        "https://iz.ru/2142183/stalo-izvestno-o-perebroske-elitnoi-brigady-vsu-na-granitcu-s-brianskoi-oblastiu-izi",
-        "https://iz.ru/2142188/miroshnik-zaiavil-o-nezhelanii-ssha-sporit-s-es-iz-za-konflikta-na-ukraine-izi",
-        "https://iz.ru/2142193/v-zaporozhskoi-oblasti-odin-chelovek-pogib-pri-udare-vsu-po-avtobusu-izi",
-        "https://iz.ru/2142195/vnuk-de-gollia-perechislil-liubimykh-russkikh-pisatelei-u-frantcuzov-izi",
-        "https://iz.ru/2142200/latviia-prekratila-rabotu-edinstvennogo-otkrytogo-kpp-s-belorussiei-izi",
-        "https://iz.ru/2142201/chislo-pogibshikh-pri-popytke-dobratsia-do-seuty-bezhentcev-vozroslo-do-61-izi",
-        "https://iz.ru/2142208/armiia-rossii-porazila-dva-sukhogruza-na-perekhode-morem-iuzhnee-odessy-izi",
         "https://iz.ru/2142213/kolichestvo-pogibshikh-v-rezultate-zemletriaseniia-v-iaponii-vozroslo-do-36-izi",
         "https://iz.ru/2142219/kandinskii-vozglavil-reiting-khudozhnikov-iz-rf-po-tcene-rabot-na-auktcionakh-mira-izi",
         "https://iz.ru/2142221/opublikovany-kadry-masshtabnogo-pavodka-v-tiumenskoi-oblasti-izi",
@@ -175,7 +167,15 @@
         "https://iz.ru/2142244/sily-pvo-za-iiul-sbili-780-bespilotnikov-na-podlete-k-moskve-izi",
         "https://iz.ru/2142252/zelenskii-snova-pozhalovalsia-na-nekhvatku-pvo-patriot-posle-nochnogo-udara-vs-rf-izi",
         "https://iz.ru/2142255/boevika-krakena-zaderzhali-v-kieve-po-podozreniiu-v-ubiistve-ukraintca-na-bali-izi",
-        "https://iz.ru/2142256/v-pakistane-nashli-tela-vosmi-alpinistov-posle-skhoda-laviny-na-broud-pik-izi"
+        "https://iz.ru/2142256/v-pakistane-nashli-tela-vosmi-alpinistov-posle-skhoda-laviny-na-broud-pik-izi",
+        "https://iz.ru/2142264/v-ispanii-soobshchili-ob-ustanovke-morskikh-zagrazhdenii-iz-za-naplyva-migrantov-izi",
+        "https://iz.ru/2142266/v-tailande-prediavili-obvineniia-chetyrem-figurantam-dela-ob-ubiistve-rossiian-izi",
+        "https://iz.ru/2142268/v-britanii-obvinili-marokko-v-sodeistvii-migratcionnomu-krizisu-v-seute-izi",
+        "https://iz.ru/2142275/sily-pvo-za-sutki-sbili-743-bespilotnika-vsu-i-15-aviabomb-v-zone-svo-izi",
+        "https://iz.ru/2142282/mishustin-dal-obeshchanie-ustranit-prepiatstviia-pri-sozdanii-koridora-urumchi-kyzyl-izi",
+        "https://iz.ru/2142283/sostoianie-bogateishikh-rossiian-s-nachala-goda-sokratilos-na-5-mlrd-izi",
+        "https://iz.ru/2142285/finskii-politik-mema-zaiavil-o-raskole-es-na-fone-migratcionnogo-krizisa-v-ispanii-izi",
+        "https://iz.ru/2142288/mishustin-poruchil-zavershit-sozdanie-rossiiskogo-apparata-mrt-v-2027-godu-izi"
       ]
     },
     "2026-08-02": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 314,
-      "totalIzi": 164,
+      "totalChecked": 331,
+      "totalIzi": 175,
       "totalIiz": 3,
-      "totalAi": 167,
+      "totalAi": 178,
       "topLinks": [
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
