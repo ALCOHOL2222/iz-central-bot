@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T13:25:20.761Z",
+  "generatedAt": "2026-08-09T14:10:28.828Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 442,
+      "totalChecked": 423,
       "totalIzi": 161,
       "totalIiz": 2,
       "totalAi": 163,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 295,
-      "totalIzi": 150,
+      "totalChecked": 314,
+      "totalIzi": 164,
       "totalIiz": 3,
-      "totalAi": 153,
+      "totalAi": 167,
       "topLinks": [
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
