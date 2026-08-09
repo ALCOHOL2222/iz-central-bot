@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T17:57:19.841Z",
+  "generatedAt": "2026-08-09T19:11:28.498Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 406,
-      "totalIzi": 153,
+      "totalChecked": 386,
+      "totalIzi": 146,
       "totalIiz": 2,
-      "totalAi": 155,
+      "totalAi": 148,
       "topLinks": [
-        "https://iz.ru/2142213/kolichestvo-pogibshikh-v-rezultate-zemletriaseniia-v-iaponii-vozroslo-do-36-izi",
-        "https://iz.ru/2142219/kandinskii-vozglavil-reiting-khudozhnikov-iz-rf-po-tcene-rabot-na-auktcionakh-mira-izi",
-        "https://iz.ru/2142221/opublikovany-kadry-masshtabnogo-pavodka-v-tiumenskoi-oblasti-izi",
-        "https://iz.ru/2142228/mvd-predupredilo-ob-opasnosti-besplatnykh-setei-wi-fi-izi",
-        "https://iz.ru/2142235/postavki-vooruzhenii-v-rossiiskie-voiska-vyrosli-v-piat-raz-s-nachala-svo-izi",
-        "https://iz.ru/2142240/minenergo-kazakhstana-oproverglo-soobshcheniia-o-polnoi-ostanovke-raboty-ktk-izi",
-        "https://iz.ru/2142241/interery-khrama-vasiliia-blazhennogo-ne-postradali-pri-pozhare-izi",
         "https://iz.ru/2142242/v-turtcii-zafiksirovali-otkaz-turistov-ot-otelei-iz-za-rosta-tcen-na-otdykh-izi",
         "https://iz.ru/2142244/sily-pvo-za-iiul-sbili-780-bespilotnikov-na-podlete-k-moskve-izi",
         "https://iz.ru/2142252/zelenskii-snova-pozhalovalsia-na-nekhvatku-pvo-patriot-posle-nochnogo-udara-vs-rf-izi",
@@ -175,7 +168,14 @@
         "https://iz.ru/2142282/mishustin-dal-obeshchanie-ustranit-prepiatstviia-pri-sozdanii-koridora-urumchi-kyzyl-izi",
         "https://iz.ru/2142283/sostoianie-bogateishikh-rossiian-s-nachala-goda-sokratilos-na-5-mlrd-izi",
         "https://iz.ru/2142285/finskii-politik-mema-zaiavil-o-raskole-es-na-fone-migratcionnogo-krizisa-v-ispanii-izi",
-        "https://iz.ru/2142288/mishustin-poruchil-zavershit-sozdanie-rossiiskogo-apparata-mrt-v-2027-godu-izi"
+        "https://iz.ru/2142288/mishustin-poruchil-zavershit-sozdanie-rossiiskogo-apparata-mrt-v-2027-godu-izi",
+        "https://iz.ru/2142289/zhitelia-peterburga-privlekli-k-otvetstvennosti-za-semku-ataki-bpla-na-sklad-izi",
+        "https://iz.ru/2142294/premer-ispanii-napravil-pismo-v-es-posle-reaktcii-riada-stran-na-krizis-v-seute-izi",
+        "https://iz.ru/2142298/ilon-mask-zaiavil-ob-ugroze-vymiraniia-krupneishikh-ekonomik-izi",
+        "https://iz.ru/2142302/alpinist-rekordsmen-nirmal-purdzha-pogib-pri-skhode-laviny-na-broud-pik-izi",
+        "https://iz.ru/2142304/andreia-mironova-naznachili-glavnym-trenerom-kluba-kkhl-sochi-izi",
+        "https://iz.ru/2142305/uefa-zaiavil-ob-utrate-doveriia-k-prezidentu-fifa-iz-za-idei-prodat-prava-na-chm-izi",
+        "https://iz.ru/2142306/umer-byvshii-generalnyi-sekretar-opek-rene-ortisa-izi"
       ]
     },
     "2026-08-02": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 365,
-      "totalIzi": 199,
+      "totalChecked": 385,
+      "totalIzi": 210,
       "totalIiz": 3,
-      "totalAi": 202,
+      "totalAi": 213,
       "topLinks": [
         "https://iz.ru/2144746/narodnye-primety-na-9-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
