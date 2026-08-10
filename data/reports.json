@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:08:33.139Z",
+  "generatedAt": "2026-08-10T23:05:29.650Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,35 +151,35 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 779,
-      "totalIzi": 264,
+      "totalChecked": 734,
+      "totalIzi": 248,
       "totalIiz": 1,
-      "totalAi": 265,
+      "totalAi": 249,
       "topLinks": [
-        "https://iz.ru/2142811/v-rossii-predlozhili-peresmotret-pravila-blokirovok-bankovskikh-schetov-izi",
-        "https://iz.ru/2142816/opublikovany-kadry-zaderzhaniia-gotovivshego-terakt-v-piatigorske-inostrantca-izi",
-        "https://iz.ru/2142825/degtiarev-predlozhil-vozmeshchat-zatraty-na-podgotovku-sportsmenov-pri-smene-flaga-izi",
-        "https://iz.ru/2142827/pervyi-polnostiu-importozameshchennyi-samolet-ms-21-sovershil-debiutnyi-polet-izi",
-        "https://iz.ru/2142828/ekspert-rasskazala-o-trende-na-prokhladnyi-otpusk-v-2026-godu-izi",
-        "https://iz.ru/2142831/pekin-otvetil-zapadu-naschet-kitaiskogo-shoka-20-izi",
-        "https://iz.ru/2142833/bespilotniki-predlozhili-ispolzovat-dlia-avtomaticheskoi-fiksatcii-narushenii-pdd-izi",
-        "https://iz.ru/2142836/krishtianu-ronaldu-i-dzhordzhina-rodriges-sygraiut-svadbu-chto-izvestno-o-tceremonii-izi",
-        "https://iz.ru/2142839/v-gelendzhike-tri-cheloveka-pogibli-i-13-postradali-pri-padenii-oblomkov-bpla-izi",
-        "https://iz.ru/2142842/kucherov-vozglavil-reiting-luchshikh-krainikh-napadaiushchikh-po-versii-nkhl-izi",
-        "https://iz.ru/2142854/v-svr-ukazali-na-ispolzovanie-es-ukrainy-v-kachestve-pushechnogo-miasa-izi",
-        "https://iz.ru/2142858/v-nitcem-im-gamalei-soobshchili-o-planakh-razrabotat-tri-novye-vaktciny-ot-raka-izi",
-        "https://iz.ru/2142859/ariana-grande-vozmet-pereryv-v-karere-izi",
-        "https://iz.ru/2142861/v-brazilii-pri-strelbe-pogib-15-letnii-futbolist-sentro-sportivo-alagoano-izi",
-        "https://iz.ru/2142863/chuchelo-siamskogo-krokodila-obnaruzhili-tamozhenniki-u-passazhira-iz-vetnama-izi",
-        "https://iz.ru/2142867/ekspert-sprognoziroval-tceny-na-neft-na-etoi-nedele-izi",
         "https://iz.ru/2142869/aktery-fedor-fedotov-i-tina-stoiilkovich-sygrali-svadbu-v-serbii-izi",
         "https://iz.ru/2142870/v-britanii-dopustili-raspad-koalitcii-zhelaiushchikh-izi",
         "https://iz.ru/2142881/rossiiskie-sredstva-pvo-za-sutki-sbili-651-ukrainskii-bespilotnik-izi",
-        "https://iz.ru/2142882/vs-rossii-nanesli-udary-po-ispolzuemym-vsu-obektam-logistiki-i-energetiki-izi"
+        "https://iz.ru/2142882/vs-rossii-nanesli-udary-po-ispolzuemym-vsu-obektam-logistiki-i-energetiki-izi",
+        "https://iz.ru/2142888/angliia-i-uels-otozvali-podderzhku-pereizbraniia-infantino-glavoi-fifa-izi",
+        "https://iz.ru/2142898/v-krasnoiarskom-krae-propali-dvoe-patcientov-psikhonevrologicheskogo-internata-izi",
+        "https://iz.ru/2142905/v-energodare-shest-chelovek-postradali-za-sutki-ot-min-vsu-izi",
+        "https://iz.ru/2142911/minoborony-rf-soobshchilo-o-strategicheskom-znachenii-belogo-kolodezia-i-ustinovki-izi",
+        "https://iz.ru/2142914/v-mvd-nazvali-sposob-zashchitit-akkaunty-v-sotcsetiakh-i-messendzherakh-izi",
+        "https://iz.ru/2142923/khabirov-potreboval-peredat-na-svo-vozivshie-sudei-avtomobili-merii-ufy-izi",
+        "https://iz.ru/2142932/zvezda-seriala-sekretnye-materialy-skott-khailends-skonchalsia-na-84-m-godu-zhizni-izi",
+        "https://iz.ru/2142934/byvshaia-voleibolistka-tcska-i-veteran-liudmila-smirnova-umerla-na-103-m-godu-zhizni-izi",
+        "https://iz.ru/2142940/iaponskii-akter-retaro-simidzu-naiden-mertvym-v-tokio-izi",
+        "https://iz.ru/2142943/boris-nadezhdin-soobshchil-ob-otezde-vo-frantciiu-izi",
+        "https://iz.ru/2142944/v-gosdume-predlozhili-vosstanovit-institut-lesnikov-izi",
+        "https://iz.ru/2142945/ot-merilin-monro-do-korolevskoi-semi-s-kem-okazalis-rodstvennikami-znamenitosti-izi",
+        "https://iz.ru/2142948/pod-gelendzhikom-razvernuli-opershtab-dlia-likvidatcii-posledstvii-udarov-dronov-vsu-izi",
+        "https://iz.ru/2142949/chislo-pogibshikh-pri-atake-vsu-na-krym-vyroslo-do-chetyrekh-izi",
+        "https://iz.ru/2142952/2026-08-03/tcb-rossii-zaplaniroval-vypustit-tri-novye-serebrianye-monety-serii-krasnaia-kniga-izi",
+        "https://iz.ru/2142953/v-tiumeni-zafiksirovali-snizhenie-urovnia-vody-v-reke-tura-posle-letnego-pavodka-izi"
       ]
     },
     "2026-08-04": {
-      "totalChecked": 896,
+      "totalChecked": 895,
       "totalIzi": 274,
       "totalIiz": 1,
       "totalAi": 275,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 1013,
+      "totalChecked": 1011,
       "totalIzi": 318,
       "totalIiz": 2,
       "totalAi": 320,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 898,
+      "totalChecked": 897,
       "totalIzi": 252,
       "totalIiz": 2,
       "totalAi": 254,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 859,
+      "totalChecked": 867,
       "totalIzi": 220,
       "totalIiz": 4,
       "totalAi": 224,
@@ -375,7 +375,7 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 34,
+      "totalChecked": 75,
       "totalIzi": 0,
       "totalIiz": 0,
       "totalAi": 0,
