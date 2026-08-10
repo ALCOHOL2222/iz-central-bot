@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T02:45:11.241Z",
+  "generatedAt": "2026-08-10T05:04:49.837Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,16 +123,11 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 305,
-      "totalIzi": 104,
+      "totalChecked": 290,
+      "totalIzi": 99,
       "totalIiz": 2,
-      "totalAi": 106,
+      "totalAi": 101,
       "topLinks": [
-        "https://iz.ru/2142369/v-minske-nazvali-mery-latvii-na-granitce-s-belorussiei-izdevatelstvom-nad-liudmi-izi",
-        "https://iz.ru/2142374/nyt-soobshchila-ob-ispolzovanii-ssha-aviabomby-vesom-pochti-v-tonnu-izi",
-        "https://iz.ru/2142375/glava-mvd-ispanii-obvinil-nekotorye-strany-es-v-egoizme-na-fone-sobytii-v-seute-izi",
-        "https://iz.ru/2142384/novye-pravila-osago-vstupili-v-silu-s-1-avgusta-izi",
-        "https://iz.ru/2142388/smi-otcenili-riski-razvala-ukrainy-posle-zaversheniia-konflikta-izi",
         "https://iz.ru/2142389/guardian-soobshchila-o-nachale-defitcita-svezhikh-ovoshchei-v-britanii-iz-za-zhary-izi",
         "https://iz.ru/2142391/v-finliandii-ukazali-na-neobkhodimost-ukrainy-vernutsia-k-dialogu-izi",
         "https://iz.ru/2142392/professor-malinen-nazval-oshibkoi-reshenie-finliandii-proizvodit-bpla-dlia-ukrainy-izi",
@@ -147,16 +142,20 @@
         "https://iz.ru/2141105/uchenye-usomnilis-v-polze-vladeniia-domashnimi-zhivotnymi-dlia-zdorovia-izi",
         "https://iz.ru/2141283/narodnye-primety-na-1-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2141725/uchenye-sviazali-risk-razvitiia-bolezni-altcgeimera-s-ozhireniem-izi",
-        "https://iz.ru/2141927/2026-08-01/knopka-dlia-neiroseti-kak-izmenitsia-markirovka-ii-kontenta-v-rossii-izi"
+        "https://iz.ru/2141927/2026-08-01/knopka-dlia-neiroseti-kak-izmenitsia-markirovka-ii-kontenta-v-rossii-izi",
+        "https://iz.ru/2141945/pochemu-turetckie-serialy-snova-zakhvatyvaiut-mir-sekret-populiarnosti-fenomena-izi",
+        "https://iz.ru/2142076/nazvany-spetcialnosti-s-povysivsheisia-v-mae-zarplatoi-izi",
+        "https://iz.ru/2142077/cbs-news-uznal-o-planakh-ssha-i-izrailia-nanesti-udary-po-iranskim-energoobektam-izi",
+        "https://iz.ru/2142090/nalogovye-uvedomleniia-na-gosuslugakh-nachnut-prikhodit-bez-zaiavleniia-s-1-avgusta-izi",
+        "https://iz.ru/2142093/samozaniatye-poluchat-pervye-vyplaty-po-bolnichnym-s-1-avgusta-izi"
       ]
     },
     "2026-08-02": {
-      "totalChecked": 447,
-      "totalIzi": 138,
+      "totalChecked": 445,
+      "totalIzi": 137,
       "totalIiz": 3,
-      "totalAi": 141,
+      "totalAi": 140,
       "topLinks": [
-        "https://iz.ru/2142368/sistema-kupol-donbassa-za-nedeliu-predotvratila-138-atak-bespilotnikov-izi",
         "https://iz.ru/2142457/minprosveshcheniia-predstavilo-perechen-vneurochnykh-kursov-dlia-shkolnikov-izi",
         "https://iz.ru/2142460/boeviki-vsu-pri-otstuplenii-iz-konstantinovki-vzorvali-podval-s-mirnymi-zhiteliami-izi",
         "https://iz.ru/2142461/chto-proizoshlo-za-noch-2-avgusta-glavnoe-izi",
@@ -175,7 +174,8 @@
         "https://iz.ru/2142518/eshche-dvoikh-menedzherov-dochki-gazproma-arestovali-po-delu-o-krupnoi-vziatke-izi",
         "https://iz.ru/2142520/onishchenko-nazval-perechislil-glavnye-ugrozy-pri-kupanii-v-fontanakh-izi",
         "https://iz.ru/2142521/otkaz-priglasit-katolikosa-sprovotciroval-skandal-v-parlamente-armenii-izi",
-        "https://iz.ru/2142522/v-tiumeni-uroven-vody-v-reke-ture-vyros-na-4-sm-za-sutki-izi"
+        "https://iz.ru/2142522/v-tiumeni-uroven-vody-v-reke-ture-vyros-na-4-sm-za-sutki-izi",
+        "https://iz.ru/2142526/zhenshchin-zastavili-publichno-izvinitsia-na-ukraine-za-proslushivanie-russkoi-muzyki-izi"
       ]
     },
     "2026-08-03": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 126,
-      "totalIzi": 10,
+      "totalChecked": 143,
+      "totalIzi": 17,
       "totalIiz": 4,
-      "totalAi": 14,
+      "totalAi": 21,
       "topLinks": [
         "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2146426/glava-mid-belorussii-nazval-prichinu-zakrytiia-latviei-granitcy-izi",
@@ -386,14 +386,20 @@
         "https://iz.ru/2146429/2026-08-10/economist-soobshchil-o-stremitelnom-roste-zppp-v-evrope-posle-2021-goda-izi",
         "https://iz.ru/2146432/s-1-sentiabria-ispytatelnyi-srok-otmeniat-dlia-materei-detei-do-trekh-let-izi",
         "https://iz.ru/2146443/ssha-zakupiat-menshe-raket-patriot-v-2027-godu-iz-za-ikh-podorozhaniia-izi",
+        "https://iz.ru/2146453/2026-08-10/ekspert-obiasnil-niuansy-pererascheta-pri-dosrochnom-pogashenii-kredita-izi",
+        "https://iz.ru/2146455/superiakhta-tcukerberga-proignorirovala-prosbu-o-pomoshchi-ot-lodki-u-aliaski-izi",
+        "https://iz.ru/2146457/posol-rf-zaiavil-o-rasshirenii-podderzhki-kieva-so-storony-iaponii-izi",
+        "https://iz.ru/2146458/v-mid-rf-zaiavili-o-priverzhennosti-rossii-dogovorennostiam-v-ankoridzhe-izi",
+        "https://iz.ru/2146459/v-mid-rf-nazvali-deistviia-germanii-po-severnym-potokam-poiskom-kozla-otpushcheniia-izi",
+        "https://iz.ru/2146463/okolo-500-chelovek-proekhali-30-km-bez-odezhdy-po-berlinu-izi",
+        "https://iz.ru/2146465/u-poberezhia-omana-poterpel-krushenie-tanker-s-pochti-1-mln-barrelei-nefti-izi",
         "https://iz.ru/2132769/bez-uborki-i-raboty-v-ogorode-kakie-zaprety-vazhno-sobliudat-v-pervyi-spas-avgusta-iiz",
         "https://iz.ru/2133409/margarita-rebrova/bolshoi-parad-planet-pochemu-milliony-liudei-budut-sledit-za-nebom-v-avguste-iiz",
         "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2146426/glava-mid-belorussii-nazval-prichinu-zakrytiia-latviei-granitcy-izi",
         "https://iz.ru/2146427/iurist-napomnil-ob-obiazannosti-naslednika-vyplatit-dolg-po-alimentam-za-umershego-izi",
         "https://iz.ru/2146429/2026-08-10/economist-soobshchil-o-stremitelnom-roste-zppp-v-evrope-posle-2021-goda-izi",
-        "https://iz.ru/2146432/s-1-sentiabria-ispytatelnyi-srok-otmeniat-dlia-materei-detei-do-trekh-let-izi",
-        "https://iz.ru/2146443/ssha-zakupiat-menshe-raket-patriot-v-2027-godu-iz-za-ikh-podorozhaniia-izi"
+        "https://iz.ru/2146432/s-1-sentiabria-ispytatelnyi-srok-otmeniat-dlia-materei-detei-do-trekh-let-izi"
       ]
     }
   }
