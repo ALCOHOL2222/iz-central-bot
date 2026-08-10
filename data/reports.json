@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:00:32.892Z",
+  "generatedAt": "2026-08-10T10:45:26.373Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,31 +151,31 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 405,
-      "totalIzi": 137,
+      "totalChecked": 353,
+      "totalIzi": 118,
       "totalIiz": 3,
-      "totalAi": 140,
+      "totalAi": 121,
       "topLinks": [
-        "https://iz.ru/2142457/minprosveshcheniia-predstavilo-perechen-vneurochnykh-kursov-dlia-shkolnikov-izi",
-        "https://iz.ru/2142460/boeviki-vsu-pri-otstuplenii-iz-konstantinovki-vzorvali-podval-s-mirnymi-zhiteliami-izi",
-        "https://iz.ru/2142461/chto-proizoshlo-za-noch-2-avgusta-glavnoe-izi",
-        "https://iz.ru/2142469/pochti-50-pokupatelei-pozhalovalis-na-neprozrachnost-uslovii-skidok-i-bonusov-izi",
-        "https://iz.ru/2142471/v-mvd-soobshchili-o-sozdanii-moshennikami-tcifrovykh-dose-po-dannym-iz-sotcsetei-izi",
-        "https://iz.ru/2142474/politolog-ukazal-na-nezhelanie-kreditorov-ukrainy-zavershat-konflikt-izi",
-        "https://iz.ru/2142476/vsu-atakovali-logisticheskii-tcentr-wildberries-v-samarskoi-oblasti-izi",
-        "https://iz.ru/2142482/v-velikobritanii-sviazali-udar-vsu-po-korabliu-irana-s-trampom-izi",
-        "https://iz.ru/2142488/putina-otmetil-umelye-i-reshitelnye-deistviia-desantnikov-v-khode-svo-izi",
-        "https://iz.ru/2142498/v-odkb-zaiavili-o-zhelanii-rossii-sokhranit-druzhestvennye-otnosheniia-s-armeniei-izi",
-        "https://iz.ru/2142501/glavu-wildberries-tatianu-kim-vnesli-v-bazu-saita-mirotvoretc-izi",
-        "https://iz.ru/2142503/axios-uznal-o-prosbe-saudovskogo-printca-k-trampu-o-voine-v-irane-izi",
-        "https://iz.ru/2142512/eks-deputat-turtiainen-nazval-finliandiiu-ugrozoi-dlia-bezopasnosti-rossii-izi",
-        "https://iz.ru/2142513/chislo-pogibshikh-pri-vzryve-v-moskovskom-restorane-vozroslo-do-piati-chelovek-izi",
-        "https://iz.ru/2142516/boetc-soobshchil-ob-obnaruzhenii-na-pozitciiakh-vsu-pod-krasnym-kutom-preparatov-ot-vich-izi",
-        "https://iz.ru/2142518/eshche-dvoikh-menedzherov-dochki-gazproma-arestovali-po-delu-o-krupnoi-vziatke-izi",
-        "https://iz.ru/2142520/onishchenko-nazval-perechislil-glavnye-ugrozy-pri-kupanii-v-fontanakh-izi",
-        "https://iz.ru/2142521/otkaz-priglasit-katolikosa-sprovotciroval-skandal-v-parlamente-armenii-izi",
-        "https://iz.ru/2142522/v-tiumeni-uroven-vody-v-reke-ture-vyros-na-4-sm-za-sutki-izi",
-        "https://iz.ru/2142526/zhenshchin-zastavili-publichno-izvinitsia-na-ukraine-za-proslushivanie-russkoi-muzyki-izi"
+        "https://iz.ru/2142526/zhenshchin-zastavili-publichno-izvinitsia-na-ukraine-za-proslushivanie-russkoi-muzyki-izi",
+        "https://iz.ru/2142528/kater-vrezalsia-v-lodku-s-piatiu-otdykhaiushchimi-na-reke-amur-v-khabarovskom-krae-izi",
+        "https://iz.ru/2142529/reuters-uznalo-o-provedenii-iaponiei-i-ssha-pervoi-za-15-let-valiutnoi-interventcii-izi",
+        "https://iz.ru/2142530/ft-uznala-o-problemakh-dobychi-volframa-v-ssha-iz-za-pozitcii-nasa-izi",
+        "https://iz.ru/2142532/armiia-rossii-porazila-ispolzuemye-vsu-logisticheskie-tcentry-i-obekty-transporta-izi",
+        "https://iz.ru/2142534/mid-irana-nazval-vopros-ormuzskogo-proliva-predlogom-dlia-agressii-ssha-izi",
+        "https://iz.ru/2142539/zapasy-gaza-v-evropeiskikh-khranilishchakh-blizki-k-istoricheskomu-antirekordu-izi",
+        "https://iz.ru/2142541/khabirov-v-bashkirii-otrazili-ataku-bpla-vsu-na-predpriiatiia-sbito-25-dronov-izi",
+        "https://iz.ru/2142548/prezident-armenii-perenaznachil-pashiniana-na-post-premer-ministra-izi",
+        "https://iz.ru/2142556/v-udmurtii-tri-cheloveka-pogibli-i-dvoe-postradali-pri-atake-bpla-izi",
+        "https://iz.ru/2142561/v-rumynii-soobshchili-o-vozdushnoi-tceli-u-granitcy-s-ukrainoi-izi",
+        "https://iz.ru/2142563/v-astrakhanskoi-oblasti-dva-cheloveka-pogibli-pri-dtp-s-mikroavtobusom-izi",
+        "https://iz.ru/2142566/komedianty-katia-vialikova-i-aleksei-shalnov-sygrali-svadbu-izi",
+        "https://iz.ru/2142568/izvestnyi-tadzhikskii-futbolist-valerii-tursunov-umer-v-moskve-izi",
+        "https://iz.ru/2142571/tri-cheloveka-pogibli-i-troe-raneny-posle-atake-dronov-vsu-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2142575/terakt-u-restorana-balzi-rossi-v-tcentre-moskvy-chto-izvestno-izi",
+        "https://iz.ru/2142576/wsj-ukazala-na-risk-obvala-mirovogo-rynka-iz-za-ii-puzyria-izi",
+        "https://iz.ru/2142578/tramp-opublikoval-svoiu-fotografiiu-s-inoplanetianinom-izi",
+        "https://iz.ru/2142581/mendel-ukazala-na-nesposobnost-makrona-priznat-proval-finansirovaniia-kieva-izi",
+        "https://iz.ru/2142582/likhachev-soobshchil-o-15-pogibshikh-pri-atakakh-vsu-na-energodar-s-27-aprelia-izi"
       ]
     },
     "2026-08-03": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 242,
-      "totalIzi": 49,
+      "totalChecked": 375,
+      "totalIzi": 90,
       "totalIiz": 4,
-      "totalAi": 53,
+      "totalAi": 94,
       "topLinks": [
         "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2146426/glava-mid-belorussii-nazval-prichinu-zakrytiia-latviei-granitcy-izi",
