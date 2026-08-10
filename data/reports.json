@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T21:11:45.913Z",
+  "generatedAt": "2026-08-10T22:08:33.139Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 817,
-      "totalIzi": 212,
+      "totalChecked": 859,
+      "totalIzi": 220,
       "totalIiz": 4,
-      "totalAi": 216,
+      "totalAi": 224,
       "topLinks": [
         "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2146426/glava-mid-belorussii-nazval-prichinu-zakrytiia-latviei-granitcy-izi",
@@ -375,7 +375,7 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 0,
+      "totalChecked": 34,
       "totalIzi": 0,
       "totalIiz": 0,
       "totalAi": 0,
