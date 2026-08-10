@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T17:19:48.599Z",
+  "generatedAt": "2026-08-10T18:14:01.330Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,18 +179,11 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 831,
-      "totalIzi": 282,
+      "totalChecked": 807,
+      "totalIzi": 275,
       "totalIiz": 1,
-      "totalAi": 283,
+      "totalAi": 276,
       "topLinks": [
-        "https://iz.ru/2142759/v-gosdume-predlozhili-vvesti-pervosentiabrskii-kapital-dlia-shkolnikov-izi",
-        "https://iz.ru/2142765/chto-proizoshlo-za-noch-3-avgusta-glavnoe-izi",
-        "https://iz.ru/2142771/kitaiskie-uchenye-predlozhili-unichtozhat-opasnye-asteroidy-iadernym-vzryvom-izi",
-        "https://iz.ru/2142773/v-britanii-mozhet-proizoiti-retcessiia-na-fone-zakrytiia-ormuzskogo-proliva-izi",
-        "https://iz.ru/2142775/moskvichi-mogut-pomoch-shkolnikam-iz-novykh-regionov-podgotovitsia-k-1-sentiabria-izi",
-        "https://iz.ru/2142778/armiia-rossii-porazila-tri-sudna-s-voennymi-gruzami-dlia-vsu-v-chernom-more-izi",
-        "https://iz.ru/2142780/sem-chelovek-postradali-kri-obrushenii-zdaniia-v-sidnee-izi",
         "https://iz.ru/2142782/voennye-italii-vysadilis-na-tanker-pod-flagom-kameruna-dlia-proverki-izi",
         "https://iz.ru/2142784/2026-08-03/odin-iz-postradavshikh-pri-vzryve-gaza-v-karachaevo-cherkesii-umer-v-bolnitce-izi",
         "https://iz.ru/2142787/mintrans-sozdal-shtab-iz-za-atak-bpla-na-suda-v-azovskom-more-izi",
@@ -203,7 +196,14 @@
         "https://iz.ru/2142805/v-brianskoi-oblasti-vosem-chelovek-postradali-pri-udarakh-ukrainskikh-bpla-izi",
         "https://iz.ru/2142810/v-rossii-bolee-11-tys-chelovek-stali-zhertvami-afery-na-1-mlrd-rublei-izi",
         "https://iz.ru/2142811/v-rossii-predlozhili-peresmotret-pravila-blokirovok-bankovskikh-schetov-izi",
-        "https://iz.ru/2142816/opublikovany-kadry-zaderzhaniia-gotovivshego-terakt-v-piatigorske-inostrantca-izi"
+        "https://iz.ru/2142816/opublikovany-kadry-zaderzhaniia-gotovivshego-terakt-v-piatigorske-inostrantca-izi",
+        "https://iz.ru/2142825/degtiarev-predlozhil-vozmeshchat-zatraty-na-podgotovku-sportsmenov-pri-smene-flaga-izi",
+        "https://iz.ru/2142827/pervyi-polnostiu-importozameshchennyi-samolet-ms-21-sovershil-debiutnyi-polet-izi",
+        "https://iz.ru/2142828/ekspert-rasskazala-o-trende-na-prokhladnyi-otpusk-v-2026-godu-izi",
+        "https://iz.ru/2142831/pekin-otvetil-zapadu-naschet-kitaiskogo-shoka-20-izi",
+        "https://iz.ru/2142833/bespilotniki-predlozhili-ispolzovat-dlia-avtomaticheskoi-fiksatcii-narushenii-pdd-izi",
+        "https://iz.ru/2142836/krishtianu-ronaldu-i-dzhordzhina-rodriges-sygraiut-svadbu-chto-izvestno-o-tceremonii-izi",
+        "https://iz.ru/2142839/v-gelendzhike-tri-cheloveka-pogibli-i-13-postradali-pri-padenii-oblomkov-bpla-izi"
       ]
     },
     "2026-08-04": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 680,
-      "totalIzi": 181,
+      "totalChecked": 789,
+      "totalIzi": 205,
       "totalIiz": 4,
-      "totalAi": 185,
+      "totalAi": 209,
       "topLinks": [
         "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2146426/glava-mid-belorussii-nazval-prichinu-zakrytiia-latviei-granitcy-izi",
