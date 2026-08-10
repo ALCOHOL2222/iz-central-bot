@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T15:25:14.503Z",
+  "generatedAt": "2026-08-10T17:19:48.599Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 243,
+      "totalChecked": 240,
       "totalIzi": 70,
       "totalIiz": 3,
       "totalAi": 73,
@@ -179,17 +179,11 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 880,
-      "totalIzi": 288,
+      "totalChecked": 831,
+      "totalIzi": 282,
       "totalIiz": 1,
-      "totalAi": 289,
+      "totalAi": 283,
       "topLinks": [
-        "https://iz.ru/2142726/na-granitce-belorussii-i-latvii-vyrosli-ocheredi-iz-avtomobilei-izi",
-        "https://iz.ru/2142737/spartak-obygral-akhmat-blagodaria-shtrafnomu-barko-izi",
-        "https://iz.ru/2142742/eksperty-nazvali-regiony-s-samymi-kachestvennymi-dorogami-izi",
-        "https://iz.ru/2142750/raschet-nabliudeniia-unichtozhil-desiatki-dronov-vsu-na-dnepropetrovskom-napravlenii-izi",
-        "https://iz.ru/2142752/mvd-prizvalo-rossiian-ne-ukazyvat-adresa-prozhivaniia-i-raboty-v-sotcsetiakh-izi",
-        "https://iz.ru/2142754/der-spiegel-uznal-ob-obsuzdeniyax-v-rukovodstve-xds-otstavki-merca-izi",
         "https://iz.ru/2142759/v-gosdume-predlozhili-vvesti-pervosentiabrskii-kapital-dlia-shkolnikov-izi",
         "https://iz.ru/2142765/chto-proizoshlo-za-noch-3-avgusta-glavnoe-izi",
         "https://iz.ru/2142771/kitaiskie-uchenye-predlozhili-unichtozhat-opasnye-asteroidy-iadernym-vzryvom-izi",
@@ -203,7 +197,13 @@
         "https://iz.ru/2142789/sud-v-moskve-vernul-rabotu-uvolennomu-za-plokhuiu-igru-pianistu-izi",
         "https://iz.ru/2142791/chislo-postradavshikh-pri-atake-bpla-na-sklad-pod-vladimirom-vyroslo-do-trekh-izi",
         "https://iz.ru/2142797/mintrud-napomnil-o-prave-na-ezhegodnuiu-semeinuiu-vyplatu-pri-smene-raboty-izi",
-        "https://iz.ru/2142798/v-velikobritanii-nazvali-vybory-vo-frantcii-perelomnym-momentom-dlia-ukrainy-izi"
+        "https://iz.ru/2142798/v-velikobritanii-nazvali-vybory-vo-frantcii-perelomnym-momentom-dlia-ukrainy-izi",
+        "https://iz.ru/2142800/postavki-oruzhiia-ssha-na-ukrainu-sokratilis-pochti-v-piat-raz-izi",
+        "https://iz.ru/2142802/v-latvii-zhitelei-prizvali-bolshe-pit-dlia-peredachi-konfiskovannykh-avto-vsu-izi",
+        "https://iz.ru/2142805/v-brianskoi-oblasti-vosem-chelovek-postradali-pri-udarakh-ukrainskikh-bpla-izi",
+        "https://iz.ru/2142810/v-rossii-bolee-11-tys-chelovek-stali-zhertvami-afery-na-1-mlrd-rublei-izi",
+        "https://iz.ru/2142811/v-rossii-predlozhili-peresmotret-pravila-blokirovok-bankovskikh-schetov-izi",
+        "https://iz.ru/2142816/opublikovany-kadry-zaderzhaniia-gotovivshego-terakt-v-piatigorske-inostrantca-izi"
       ]
     },
     "2026-08-04": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 628,
-      "totalIzi": 174,
+      "totalChecked": 680,
+      "totalIzi": 181,
       "totalIiz": 4,
-      "totalAi": 178,
+      "totalAi": 185,
       "topLinks": [
         "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2146426/glava-mid-belorussii-nazval-prichinu-zakrytiia-latviei-granitcy-izi",
