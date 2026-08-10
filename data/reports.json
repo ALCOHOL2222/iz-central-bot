@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T06:51:24.657Z",
+  "generatedAt": "2026-08-10T09:00:32.892Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,7 +123,7 @@
       ]
     },
     "2026-08-01": {
-      "totalChecked": 272,
+      "totalChecked": 271,
       "totalIzi": 90,
       "totalIiz": 2,
       "totalAi": 92,
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-02": {
-      "totalChecked": 440,
+      "totalChecked": 405,
       "totalIzi": 137,
       "totalIiz": 3,
       "totalAi": 140,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 206,
-      "totalIzi": 34,
+      "totalChecked": 242,
+      "totalIzi": 49,
       "totalIiz": 4,
-      "totalAi": 38,
+      "totalAi": 53,
       "topLinks": [
         "https://iz.ru/2144745/narodnye-primety-na-10-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2146426/glava-mid-belorussii-nazval-prichinu-zakrytiia-latviei-granitcy-izi",
@@ -399,7 +399,7 @@
         "https://iz.ru/2146477/park-zariade-posetili-voennosluzhashchie-i-zhiteli-prigranichnykh-regionov-rossii-izi",
         "https://iz.ru/2146479/v-mvd-nazvali-obiazatelnye-otmetki-v-pasporte-grazhdanina-rossii-izi",
         "https://iz.ru/2146483/amerikanskii-akter-seriala-diuki-iz-khazzard-ben-dzhons-umer-v-vozraste-84-let-izi",
-        "https://iz.ru/2132769/bez-uborki-i-raboty-v-ogorode-kakie-zaprety-vazhno-sobliudat-v-pervyi-spas-avgusta-iiz"
+        "https://iz.ru/2146484/zhitelnitcu-khabarovskogo-kraia-prigovorili-k-10-godam-za-pokushenie-na-zhizn-vnuka-izi"
       ]
     }
   }
