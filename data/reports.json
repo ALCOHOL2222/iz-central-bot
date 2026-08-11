@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T12:08:04.307Z",
+  "generatedAt": "2026-08-11T13:54:05.633Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,41 +151,39 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 557,
-      "totalIzi": 186,
+      "totalChecked": 499,
+      "totalIzi": 162,
       "totalIiz": 1,
-      "totalAi": 187,
+      "totalAi": 163,
       "topLinks": [
-        "https://iz.ru/2143126/putin-otdal-dva-pasa-na-tceremonii-zakrytiia-bolshaia-peremena-v-krasnoiarske-izi",
-        "https://iz.ru/2143132/spros-na-nalichnye-v-rossii-dostig-maksimuma-s-nachala-goda-izi",
-        "https://iz.ru/2143138/v-gelendzhike-gospitalizirovan-21-chelovek-posle-ataki-bespilotnikov-izi",
-        "https://iz.ru/2143141/fas-vozbudila-delo-v-otnoshenii-apple-iz-za-nesobliudeniia-trebovanii-po-poiskoviku-izi",
-        "https://iz.ru/2143148/chislo-pogibshikh-pri-atake-vsu-na-gelendzhik-vozroslo-do-semi-izi",
-        "https://iz.ru/2143149/ushedshii-v-otstavku-premer-ministr-udmurtii-vozglavit-aviapredpriiatie-izhavia-izi",
-        "https://iz.ru/2143152/mendel-zaiavila-o-fragmentatcii-energosistemy-ukrainy-izi",
-        "https://iz.ru/2143156/zhiteliu-solnechnogorskaia-prediavili-obvineniia-posle-napadeniia-s-nozhom-izi",
-        "https://iz.ru/2143161/putin-naznachil-dmitriia-dogadkina-chrezvychainym-poslom-rossii-v-sirii-izi",
-        "https://iz.ru/2143164/sohu-zaiavilo-o-somneniiakh-zelenskogo-v-budushchem-ukrainy-posle-konflikta-izi",
-        "https://iz.ru/2143166/glavgosekspertiza-odobrila-proekt-neboskreba-lakhta-tcentr-2-izi",
-        "https://iz.ru/2143168/iuzhnokoreiskii-gorod-iansan-pobil-vekovoi-rekord-zhary-izi",
-        "https://iz.ru/2143172/v-ssha-rasskazali-o-srokakh-po-sdelke-s-kievom-po-litcenziiam-na-patriot-izi",
-        "https://iz.ru/2143178/poddubnyi-nazval-resursy-edinoi-rossii-kliuchevymi-dlia-ukrepleniia-strany-izi",
-        "https://iz.ru/2143187/deputat-seima-polshi-prizval-ukraintcev-nemedlenno-vernutsia-domoi-izi",
-        "https://iz.ru/2143198/putin-vyskazalsia-o-srokakh-zaversheniia-stroitelstva-metro-v-krasnoiarske-izi",
-        "https://iz.ru/2143201/povar-dzheimi-oliver-predlozhil-zapretit-zhevatelnuiu-rezinku-v-velikobritanii-izi",
-        "https://iz.ru/2143211/eks-senatora-sabadasha-prigovorili-k-12-godam-kolonii-po-delu-o-rastrate-izi",
-        "https://iz.ru/2143214/zapasy-gaza-v-khranilishchakh-evropy-opustilis-do-istoricheskogo-minimuma-izi",
-        "https://iz.ru/2143218/tramp-dopustil-tolko-sdelku-ili-kapituliatciiu-irana-izi"
+        "https://iz.ru/2143272/sud-prigovoril-zhitelia-kurska-k-16-godam-kolonii-po-delu-o-gosizmene-izi",
+        "https://iz.ru/2143273/pravitelstvo-moldavii-vvelo-rezhim-strogoi-ekonomii-vody-i-energii-iz-za-zasukhi-izi",
+        "https://iz.ru/2143275/lantratova-nazvala-ataku-vsu-na-gelendzhik-beschelovechnym-prestupleniem-kieva-izi",
+        "https://iz.ru/2143284/ochevidetc-soobshchil-detali-ataki-ukrainskogo-bpla-na-arkhipo-osipovku-v-gelendzhike-izi",
+        "https://iz.ru/2143291/chastichnoe-zatmenie-solntca-budet-vidno-nad-moskvoi-12-avgusta-deviat-minut-izi",
+        "https://iz.ru/2143297/sredstva-pvo-unichtozhili-58-ukrainskikh-bespilotnikov-nad-regionami-rossii-izi",
+        "https://iz.ru/2143303/sudno-pod-flagom-kameruna-podverglos-atake-ukrainskikh-dronov-v-chernom-more-izi",
+        "https://iz.ru/2143304/v-belorussii-sokratili-spisok-naselennykh-punktov-v-zonakh-radioaktivnogo-zagriazneniia-izi",
+        "https://iz.ru/2143305/riad-rossiiskikh-figuristov-poluchili-neitralnyi-status-izi",
+        "https://iz.ru/2143309/vo-vladimirskoi-oblasti-sokratili-ploshchad-pozhara-na-skladskom-komplekse-izi",
+        "https://iz.ru/2143316/ekspert-nazval-veroiatnoe-mesto-zapuska-dronov-po-arkhipo-osipovke-izi",
+        "https://iz.ru/2143318/vagenknekht-obvinila-posla-ukrainy-vo-vmeshatelstve-v-vybory-v-frg-izi",
+        "https://iz.ru/2143320/v-odesskoi-oblasti-soldat-vsu-v-sostoianii-opianeniia-brosil-grantu-v-podrostkov-izi",
+        "https://iz.ru/2143324/daniia-prizvala-okolo-16-tys-novobrantcev-v-armiiu-izi",
+        "https://iz.ru/2143335/v-khersonskoi-oblasti-chastichno-narusheno-elektrosnabzhenie-iz-za-ataki-bpla-izi",
+        "https://iz.ru/2143336/2026-08-03/pri-pozhare-na-sklade-bumagi-v-lenoblasti-postradali-dva-cheloveka-izi",
+        "https://iz.ru/2143344/zelenskii-podpisal-ukaz-o-vvedenii-sanktcii-protiv-20-rossiian-i-23-kompanii-izi",
+        "https://iz.ru/2132568/2026-08-03/akter-nikolai-burliaev-biografiia-izi",
+        "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2141679/karera-na-vyrost-kogda-soglashatsia-na-menshuiu-zarplatu-radi-novoi-professii-izi"
       ]
     },
     "2026-08-04": {
-      "totalChecked": 884,
-      "totalIzi": 273,
+      "totalChecked": 865,
+      "totalIzi": 271,
       "totalIiz": 1,
-      "totalAi": 274,
+      "totalAi": 272,
       "topLinks": [
-        "https://iz.ru/2143158/uchenye-dokazali-polzu-odnoi-intensivnoi-trenirovki-v-nedeliu-dlia-pokhudeniia-izi",
-        "https://iz.ru/2143182/uchenye-dokazali-effektivnost-kinoa-dlia-lecheniia-pecheni-izi",
         "https://iz.ru/2143299/gp-rossii-priznala-riad-ukrainskikh-natcionalistov-posobnikami-natcistskoi-germanii-izi",
         "https://iz.ru/2143359/apple-podala-v-sud-na-britanskie-vlasti-iz-za-dostupa-k-zashifrovannym-dannym-izi",
         "https://iz.ru/2143366/knigi-o-tcoe-i-gruppe-agata-kristi-popadut-v-perechen-markiruemoi-literatury-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2143451/poiavilis-kadry-posledstvii-ataki-bespilotnikov-vsu-na-chekhov-izi",
         "https://iz.ru/2143462/vs-rf-porazili-zavod-avtoagregatov-i-terminal-v-chernomorske-izi",
         "https://iz.ru/2143463/s-sentiabria-lgoty-na-proezd-mozhno-budet-podtverzhdat-cherez-messendzher-maks-izi",
-        "https://iz.ru/2143466/v-odkb-rasskazali-ob-usloviiakh-lisheniia-armenii-prava-golosa-izi"
+        "https://iz.ru/2143466/v-odkb-rasskazali-ob-usloviiakh-lisheniia-armenii-prava-golosa-izi",
+        "https://iz.ru/2143470/politico-uznala-ob-otkaze-chetyrekh-stran-es-podpisyvat-pismo-protiv-ispanii-izi",
+        "https://iz.ru/2143472/finliandiia-vvodila-ogranicheniia-v-finskom-zalive-iz-za-ugrozy-bespilotnikov-izi"
       ]
     },
     "2026-08-05": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 443,
+      "totalChecked": 442,
       "totalIzi": 192,
       "totalIiz": 2,
       "totalAi": 194,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 455,
-      "totalIzi": 97,
+      "totalChecked": 533,
+      "totalIzi": 123,
       "totalIiz": 2,
-      "totalAi": 99,
+      "totalAi": 125,
       "topLinks": [
         "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
         "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
