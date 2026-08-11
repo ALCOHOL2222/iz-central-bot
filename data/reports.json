@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:25:02.197Z",
+  "generatedAt": "2026-08-11T16:22:51.401Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,17 +179,11 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 831,
-      "totalIzi": 267,
+      "totalChecked": 795,
+      "totalIzi": 261,
       "totalIiz": 1,
-      "totalAi": 268,
+      "totalAi": 262,
       "topLinks": [
-        "https://iz.ru/2143389/mendel-proinformirovala-o-tiazheloi-zime-iz-za-nekhvatki-sredstv-na-otoplenie-izi",
-        "https://iz.ru/2143392/tramp-oproverg-vozmozhnost-sborov-iranom-platy-za-prokhod-cherez-ormuzskii-proliv-izi",
-        "https://iz.ru/2143402/2026-08-04/finansist-predupredila-o-blokirovke-bankami-schetov-posle-smerti-vladeltca-izi",
-        "https://iz.ru/2143410/uchastnik-svo-iz-iakutii-viktor-sofronov-stal-geroem-rossii-izi",
-        "https://iz.ru/2143413/2026-08-04/telegram-obiavil-o-vosstanovlenii-raboty-prilozheniia-v-app-store-izi",
-        "https://iz.ru/2143432/odin-chelovek-postradal-pri-atake-bpla-v-lenoblasti-izi",
         "https://iz.ru/2143437/na-sklade-wildberries-v-lenoblasti-proizoshel-pozhar-posle-ataki-vsu-izi",
         "https://iz.ru/2143439/ssha-mogut-zakryt-piat-diplomaticheskikh-predstavitelstv-za-rubezhom-izi",
         "https://iz.ru/2143444/boeviki-vsu-podorvalis-na-svoikh-minakh-pri-popytke-pokinut-pozitcii-izi",
@@ -203,7 +197,13 @@
         "https://iz.ru/2143477/klimatolog-deniels-soobshchila-ob-uskorennom-poteplenii-v-rossii-i-kanade-izi",
         "https://iz.ru/2143479/bolee-6-tys-grazhdan-ukrainy-vekhali-v-belorussiiu-za-iiul-izi",
         "https://iz.ru/2143482/roskomnadzor-za-mesiatc-zablokiroval-pochti-26-tys-fishingovykh-saitov-izi",
-        "https://iz.ru/2143492/opublikovany-kadry-zaderzhaniia-gotovivshikh-pokushenie-na-glavu-novogo-regiona-rf-izi"
+        "https://iz.ru/2143492/opublikovany-kadry-zaderzhaniia-gotovivshikh-pokushenie-na-glavu-novogo-regiona-rf-izi",
+        "https://iz.ru/2143495/v-gornom-altae-chastichno-obrushilsia-most-mezhdu-dvumia-selami-izi",
+        "https://iz.ru/2143501/bolshaia-chast-zaporozhskoi-oblasti-ostalas-bez-sveta-iz-za-ataki-vsu-izi",
+        "https://iz.ru/2143506/uchenye-otcenili-obemy-ugleroda-v-donnykh-osadkakh-arktiki-izi",
+        "https://iz.ru/2143507/wsj-soobshchila-o-tainoi-pomoshchi-ssha-taivaniu-v-podgotovke-k-voine-s-kitaem-izi",
+        "https://iz.ru/2143510/posolstvo-prizvalo-poseshchaiushchikh-kubu-rossiian-zariadit-telefony-i-zapastis-vodoi-izi",
+        "https://iz.ru/2143511/v-gosdume-predupredili-o-novykh-skhemakh-moshennichestva-izi"
       ]
     },
     "2026-08-05": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 761,
-      "totalIzi": 194,
+      "totalChecked": 797,
+      "totalIzi": 203,
       "totalIiz": 2,
-      "totalAi": 196,
+      "totalAi": 205,
       "topLinks": [
         "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
         "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
