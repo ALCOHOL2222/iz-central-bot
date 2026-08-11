@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T04:49:08.003Z",
+  "generatedAt": "2026-08-11T06:14:07.369Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 869,
+      "totalChecked": 870,
       "totalIzi": 220,
       "totalIiz": 4,
       "totalAi": 224,
@@ -375,15 +375,20 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 191,
-      "totalIzi": 2,
+      "totalChecked": 242,
+      "totalIzi": 7,
       "totalIiz": 2,
-      "totalAi": 4,
+      "totalAi": 9,
       "topLinks": [
         "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
         "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
         "https://iz.ru/2135884/ukus-pchely-kak-znak-liubvi-i-dostatka-samye-tochnye-primety-na-medovyi-spas-iiz",
-        "https://iz.ru/2135888/do-sotni-meteorov-v-chas-kak-ne-propustit-glavnyi-zvezdopad-goda-i-chto-nuzhno-znat-pered-iiz"
+        "https://iz.ru/2135888/do-sotni-meteorov-v-chas-kak-ne-propustit-glavnyi-zvezdopad-goda-i-chto-nuzhno-znat-pered-iiz",
+        "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
+        "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
+        "https://iz.ru/2147069/minprosveshchenie-ustanovilo-prodolzhitelnost-urokov-u-uchashchikhsia-pervogo-klassa-izi",
+        "https://iz.ru/2147072/rf-v-i-polugodii-2026-goda-oboshla-oae-i-voshla-v-top-3-turisticheskikh-napravlenii-izi",
+        "https://iz.ru/2147077/aktcii-firm-khimproizvodstva-stali-samym-dokhodnym-instrumentom-v-iiule-2026-goda-izi"
       ]
     }
   }
