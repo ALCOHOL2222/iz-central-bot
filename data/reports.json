@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T06:14:07.369Z",
+  "generatedAt": "2026-08-11T07:48:02.038Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,21 +151,11 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 674,
-      "totalIzi": 232,
+      "totalChecked": 652,
+      "totalIzi": 222,
       "totalIiz": 1,
-      "totalAi": 233,
+      "totalAi": 223,
       "topLinks": [
-        "https://iz.ru/2142948/pod-gelendzhikom-razvernuli-opershtab-dlia-likvidatcii-posledstvii-udarov-dronov-vsu-izi",
-        "https://iz.ru/2142949/chislo-pogibshikh-pri-atake-vsu-na-krym-vyroslo-do-chetyrekh-izi",
-        "https://iz.ru/2142952/2026-08-03/tcb-rossii-zaplaniroval-vypustit-tri-novye-serebrianye-monety-serii-krasnaia-kniga-izi",
-        "https://iz.ru/2142953/v-tiumeni-zafiksirovali-snizhenie-urovnia-vody-v-reke-tura-posle-letnego-pavodka-izi",
-        "https://iz.ru/2142955/vs-rossii-vyveli-iz-stroia-most-na-puti-iz-slavianska-v-kramatorsk-izi",
-        "https://iz.ru/2142967/semia-kungurova-zapodozrila-instcenirovku-samoubiistva-artista-izi",
-        "https://iz.ru/2142969/zelenskii-naznachit-umerova-glavoi-svr-ukrainy-izi",
-        "https://iz.ru/2142971/byvshego-senatora-arashukova-otpravili-v-shizo-izi",
-        "https://iz.ru/2142973/v-rossii-poiavilas-pervaia-aviakompaniia-dlia-kommercheskikh-poletov-na-aerostatakh-izi",
-        "https://iz.ru/2142977/v-turtcii-arestovali-mera-raiona-etimesgut-erdala-beshikchioglu-po-delu-o-korruptcii-izi",
         "https://iz.ru/2142997/sud-arestoval-na-dva-mesiatca-obviniaemogo-v-podgotovke-terakta-v-piatigorske-izi",
         "https://iz.ru/2143003/v-gelendzhike-gospitalizirovali-17-postradavshikh-posle-padeniia-oblomkov-bpla-izi",
         "https://iz.ru/2143004/propavshego-brazilskogo-marafontca-nashli-zhivym-spustia-44-dnia-izi",
@@ -175,11 +165,21 @@
         "https://iz.ru/2143015/v-moskve-obiavili-ekstrennoe-preduprezhdenie-iz-za-zhary-do-32-gradusov-izi",
         "https://iz.ru/2143016/mvd-polshi-sozdalo-gruppu-dlia-resheniia-problemy-s-izbieniiami-ukraintcev-izi",
         "https://iz.ru/2143017/madiar-prizval-sokratit-potreblenie-elektroenergii-iz-za-urovnia-vody-na-pakshe-izi",
-        "https://iz.ru/2143020/iaitca-stali-samym-podorozhavshim-tovarom-v-mire-v-iiule-izi"
+        "https://iz.ru/2143020/iaitca-stali-samym-podorozhavshim-tovarom-v-mire-v-iiule-izi",
+        "https://iz.ru/2143021/sbornoi-rossii-po-futzalu-prisudili-tekhnicheskuiu-pobedu-nad-novoi-zelandiei-izi",
+        "https://iz.ru/2143022/chislo-pogibshikh-pri-padenii-oblomkov-bpla-v-gelendzhike-vozroslo-do-shesti-izi",
+        "https://iz.ru/2143023/vozliublennyi-lerchek-vpervye-pokazal-ee-s-detmi-posle-oglasheniia-prigovora-izi",
+        "https://iz.ru/2143025/na-baikale-perevernulsia-chastnyi-kater-s-turistami-izi",
+        "https://iz.ru/2143027/iaponiia-uvelichila-zakupki-rossiiskogo-mintaia-i-moreproduktov-izi",
+        "https://iz.ru/2143029/film-chelovek-pauk-novyi-den-sobral-927-mln-za-pervye-vykhodnye-posle-premery-izi",
+        "https://iz.ru/2143033/v-rossii-razrabotali-bolee-energoeffektivnyi-sposob-pererabotki-uglia-izi",
+        "https://iz.ru/2143035/chislo-postradavshikh-pri-atake-na-arkhipo-osipovku-vyroslo-do-47-izi",
+        "https://iz.ru/2143036/smi-soobshchili-ob-uklonenii-zelenskogo-ot-provedenii-reform-dlia-vstupleniia-v-es-izi",
+        "https://iz.ru/2143037/ono-dobro-pozhalovat-v-derri-stanet-eshche-mrachnee-chto-izvestno-o-vtorom-sezone-izi"
       ]
     },
     "2026-08-04": {
-      "totalChecked": 890,
+      "totalChecked": 889,
       "totalIzi": 273,
       "totalIiz": 1,
       "totalAi": 274,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 444,
+      "totalChecked": 443,
       "totalIzi": 192,
       "totalIiz": 2,
       "totalAi": 194,
@@ -375,13 +375,18 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 242,
-      "totalIzi": 7,
+      "totalChecked": 266,
+      "totalIzi": 12,
       "totalIiz": 2,
-      "totalAi": 9,
+      "totalAi": 14,
       "topLinks": [
         "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
         "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
+        "https://iz.ru/2147069/minprosveshchenie-ustanovilo-prodolzhitelnost-urokov-u-uchashchikhsia-pervogo-klassa-izi",
+        "https://iz.ru/2147072/rf-v-i-polugodii-2026-goda-oboshla-oae-i-voshla-v-top-3-turisticheskikh-napravlenii-izi",
+        "https://iz.ru/2147077/aktcii-firm-khimproizvodstva-stali-samym-dokhodnym-instrumentom-v-iiule-2026-goda-izi",
+        "https://iz.ru/2147080/peterburgskaia-birzha-smozhet-prodavat-benzin-klassa-evro-3-s-13-avgusta-izi",
+        "https://iz.ru/2147083/v-podmoskove-podrostok-podzheg-azs-po-ukazaniiu-neizvestnykh-izi",
         "https://iz.ru/2135884/ukus-pchely-kak-znak-liubvi-i-dostatka-samye-tochnye-primety-na-medovyi-spas-iiz",
         "https://iz.ru/2135888/do-sotni-meteorov-v-chas-kak-ne-propustit-glavnyi-zvezdopad-goda-i-chto-nuzhno-znat-pered-iiz",
         "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
