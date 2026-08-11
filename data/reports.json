@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:37:41.342Z",
+  "generatedAt": "2026-08-11T04:49:08.003Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-08-03": {
-      "totalChecked": 695,
-      "totalIzi": 239,
+      "totalChecked": 674,
+      "totalIzi": 232,
       "totalIiz": 1,
-      "totalAi": 240,
+      "totalAi": 233,
       "topLinks": [
-        "https://iz.ru/2142923/khabirov-potreboval-peredat-na-svo-vozivshie-sudei-avtomobili-merii-ufy-izi",
-        "https://iz.ru/2142932/zvezda-seriala-sekretnye-materialy-skott-khailends-skonchalsia-na-84-m-godu-zhizni-izi",
-        "https://iz.ru/2142934/byvshaia-voleibolistka-tcska-i-veteran-liudmila-smirnova-umerla-na-103-m-godu-zhizni-izi",
-        "https://iz.ru/2142940/iaponskii-akter-retaro-simidzu-naiden-mertvym-v-tokio-izi",
-        "https://iz.ru/2142943/boris-nadezhdin-soobshchil-ob-otezde-vo-frantciiu-izi",
-        "https://iz.ru/2142944/v-gosdume-predlozhili-vosstanovit-institut-lesnikov-izi",
-        "https://iz.ru/2142945/ot-merilin-monro-do-korolevskoi-semi-s-kem-okazalis-rodstvennikami-znamenitosti-izi",
         "https://iz.ru/2142948/pod-gelendzhikom-razvernuli-opershtab-dlia-likvidatcii-posledstvii-udarov-dronov-vsu-izi",
         "https://iz.ru/2142949/chislo-pogibshikh-pri-atake-vsu-na-krym-vyroslo-do-chetyrekh-izi",
         "https://iz.ru/2142952/2026-08-03/tcb-rossii-zaplaniroval-vypustit-tri-novye-serebrianye-monety-serii-krasnaia-kniga-izi",
@@ -175,11 +168,18 @@
         "https://iz.ru/2142977/v-turtcii-arestovali-mera-raiona-etimesgut-erdala-beshikchioglu-po-delu-o-korruptcii-izi",
         "https://iz.ru/2142997/sud-arestoval-na-dva-mesiatca-obviniaemogo-v-podgotovke-terakta-v-piatigorske-izi",
         "https://iz.ru/2143003/v-gelendzhike-gospitalizirovali-17-postradavshikh-posle-padeniia-oblomkov-bpla-izi",
-        "https://iz.ru/2143004/propavshego-brazilskogo-marafontca-nashli-zhivym-spustia-44-dnia-izi"
+        "https://iz.ru/2143004/propavshego-brazilskogo-marafontca-nashli-zhivym-spustia-44-dnia-izi",
+        "https://iz.ru/2143005/rubena-rubiniana-izbrali-spikerom-parlamenta-armenii-novogo-sozyva-izi",
+        "https://iz.ru/2143006/2026-08-03/ispytaniia-novogo-samoleta-sj-100-proidut-v-blizhaishee-vremia-v-khabarovskom-krae-izi",
+        "https://iz.ru/2143013/pozhar-na-sklade-vo-vladimirskoi-oblasti-lokalizovan-na-100-tys-kv-m-izi",
+        "https://iz.ru/2143015/v-moskve-obiavili-ekstrennoe-preduprezhdenie-iz-za-zhary-do-32-gradusov-izi",
+        "https://iz.ru/2143016/mvd-polshi-sozdalo-gruppu-dlia-resheniia-problemy-s-izbieniiami-ukraintcev-izi",
+        "https://iz.ru/2143017/madiar-prizval-sokratit-potreblenie-elektroenergii-iz-za-urovnia-vody-na-pakshe-izi",
+        "https://iz.ru/2143020/iaitca-stali-samym-podorozhavshim-tovarom-v-mire-v-iiule-izi"
       ]
     },
     "2026-08-04": {
-      "totalChecked": 891,
+      "totalChecked": 890,
       "totalIzi": 273,
       "totalIiz": 1,
       "totalAi": 274,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 868,
+      "totalChecked": 869,
       "totalIzi": 220,
       "totalIiz": 4,
       "totalAi": 224,
@@ -375,11 +375,13 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 170,
-      "totalIzi": 0,
+      "totalChecked": 191,
+      "totalIzi": 2,
       "totalIiz": 2,
-      "totalAi": 2,
+      "totalAi": 4,
       "topLinks": [
+        "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
+        "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
         "https://iz.ru/2135884/ukus-pchely-kak-znak-liubvi-i-dostatka-samye-tochnye-primety-na-medovyi-spas-iiz",
         "https://iz.ru/2135888/do-sotni-meteorov-v-chas-kak-ne-propustit-glavnyi-zvezdopad-goda-i-chto-nuzhno-znat-pered-iiz"
       ]
