@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T19:36:01.960Z",
+  "generatedAt": "2026-08-11T21:14:05.237Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 66
   },
   "days": {
-    "2026-07-29": {
-      "totalChecked": 453,
-      "totalIzi": 99,
-      "totalIiz": 1,
-      "totalAi": 100,
-      "topLinks": [
-        "https://iz.ru/2139210/uchenye-proverili-vliianie-gazirovannoi-vody-na-zuby-izi",
-        "https://iz.ru/2139775/uchenye-ukazali-na-aktivizatciiu-immunnykh-kletok-posle-poseshcheniia-sauny-izi",
-        "https://iz.ru/2139791/sny-okazalis-rezultatom-pererabotki-realnosti-mozgom-izi",
-        "https://iz.ru/2139850/narodnye-primety-na-29-iiulia-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2139957/osnovateliu-telegram-durovu-prediavleno-obvinenie-v-sodeistvii-terrorizmu-izi",
-        "https://iz.ru/2139992/opublikovany-kadry-doprosa-obmanutykh-kievom-cherez-daivinchik-podrostkov-izi",
-        "https://iz.ru/2140027/podrazdelenie-gorynych-likvidirovalo-deviat-boevikov-vsu-v-konstantinovke-izi",
-        "https://iz.ru/2140237/v-gosdume-oprovergli-izmenenie-srokov-peredachi-pokazanii-schetchikov-vody-izi",
-        "https://iz.ru/2140239/v-italii-soobshchili-o-popytkakh-mafii-priobresti-ispolzuemye-na-ukraine-drony-izi",
-        "https://iz.ru/2140247/v-sb-rf-rasskazali-o-peregovorakh-s-knr-i-indiei-po-proektam-v-klastere-redkozemov-izi",
-        "https://iz.ru/2140254/minzdrav-rasshiril-standart-meditcinskoi-pomoshchi-detiam-pri-tuberkuleze-izi",
-        "https://iz.ru/2140269/v-gosdume-napomnili-o-roste-razmera-vyplat-beremennym-i-molodym-mamam-v-2026-godu-izi",
-        "https://iz.ru/2140272/v-op-rf-vystupili-za-sokrashchenie-domashnikh-zadanii-dlia-shkolnikov-izi",
-        "https://iz.ru/2140276/ekipazhi-t-80bv-nanesli-udary-po-pozitciiam-vsu-v-zaporozhe-izi",
-        "https://iz.ru/2140295/iurist-obiasnil-o-pravilakh-obmena-povrezhdennykh-kupiur-v-magazinakh-izi",
-        "https://iz.ru/2140305/european-gymnastics-ratifitcirovala-vystuplenie-rossiian-s-flagom-i-gimnom-izi",
-        "https://iz.ru/2140306/v-gd-predlozhili-predostavit-mnogodetnym-vybor-mezhdu-zemlei-i-1-mln-rublei-izi",
-        "https://iz.ru/2140309/minprosveshcheniia-obnovit-uchebnye-programmy-po-piati-predmetam-v-10-11-klassakh-izi",
-        "https://iz.ru/2140328/miroshnik-ukazal-na-ispolzovanie-es-infopovodov-dlia-podderzhki-ukrainy-izi",
-        "https://iz.ru/2140333/zelenskii-nazval-neponiatnym-otsutstvie-priglasheniia-ukrainy-v-nato-izi"
-      ]
-    },
     "2026-07-30": {
       "totalChecked": 404,
       "totalIzi": 77,
@@ -179,17 +151,11 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 765,
-      "totalIzi": 254,
+      "totalChecked": 749,
+      "totalIzi": 248,
       "totalIiz": 1,
-      "totalAi": 255,
+      "totalAi": 249,
       "topLinks": [
-        "https://iz.ru/2143466/v-odkb-rasskazali-ob-usloviiakh-lisheniia-armenii-prava-golosa-izi",
-        "https://iz.ru/2143470/politico-uznala-ob-otkaze-chetyrekh-stran-es-podpisyvat-pismo-protiv-ispanii-izi",
-        "https://iz.ru/2143472/finliandiia-vvodila-ogranicheniia-v-finskom-zalive-iz-za-ugrozy-bespilotnikov-izi",
-        "https://iz.ru/2143477/klimatolog-deniels-soobshchila-ob-uskorennom-poteplenii-v-rossii-i-kanade-izi",
-        "https://iz.ru/2143479/bolee-6-tys-grazhdan-ukrainy-vekhali-v-belorussiiu-za-iiul-izi",
-        "https://iz.ru/2143482/roskomnadzor-za-mesiatc-zablokiroval-pochti-26-tys-fishingovykh-saitov-izi",
         "https://iz.ru/2143492/opublikovany-kadry-zaderzhaniia-gotovivshikh-pokushenie-na-glavu-novogo-regiona-rf-izi",
         "https://iz.ru/2143495/v-gornom-altae-chastichno-obrushilsia-most-mezhdu-dvumia-selami-izi",
         "https://iz.ru/2143501/bolshaia-chast-zaporozhskoi-oblasti-ostalas-bez-sveta-iz-za-ataki-vsu-izi",
@@ -203,7 +169,13 @@
         "https://iz.ru/2143523/v-rossii-zavershili-ispytaniia-detektora-dronov-s-dalnostiu-do-2-km-izi",
         "https://iz.ru/2143525/v-sk-nazvali-dve-osnovnye-versii-ischeznoveniia-semi-usoltcevykh-izi",
         "https://iz.ru/2143526/fsb-zaderzhala-v-krymu-podozrevaemogo-v-sborke-dronov-dlia-sbu-izi",
-        "https://iz.ru/2143531/eksperty-obiasnili-rost-sprosa-na-polnoprivodnye-avto-v-rossii-izi"
+        "https://iz.ru/2143531/eksperty-obiasnili-rost-sprosa-na-polnoprivodnye-avto-v-rossii-izi",
+        "https://iz.ru/2143538/v-otnoshenii-borisa-nadezhdina-zaregistrirovali-novoe-administrativnoe-delo-izi",
+        "https://iz.ru/2143543/temu-met-gala-2027-posviatiat-tvorchestvu-britanskogo-dizainera-dzhona-galiano-izi",
+        "https://iz.ru/2143557/khakery-opublikovali-dannye-bolee-100-tys-silovikov-velikobritanii-izi",
+        "https://iz.ru/2143562/chestnyi-znak-zablokiroval-bolee-70-tys-butylok-napitkov-iz-armenii-izi",
+        "https://iz.ru/2143566/zhurnal-economist-soobshchil-o-neglasnom-davlenii-es-na-ukrainu-izi",
+        "https://iz.ru/2143567/deputat-bundestaga-prizvala-vyslat-posla-ukrainy-makeeva-iz-germanii-izi"
       ]
     },
     "2026-08-05": {
@@ -235,12 +207,11 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 897,
+      "totalChecked": 895,
       "totalIzi": 252,
-      "totalIiz": 2,
-      "totalAi": 254,
+      "totalIiz": 1,
+      "totalAi": 253,
       "topLinks": [
-        "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
         "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
         "https://iz.ru/2144228/uchenye-otkryli-mekhanizm-usileniia-signalov-serdtca-v-mozge-vo-vremia-sna-izi",
@@ -259,7 +230,8 @@
         "https://iz.ru/2144741/tovarooborot-rossii-i-armenii-v-etom-godu-sokratilsia-na-dve-treti-izi",
         "https://iz.ru/2144758/v-ssha-soobshchili-o-vosstanovlenii-tempom-obmena-razveddannymi-s-kievom-izi",
         "https://iz.ru/2144766/glava-natcbanka-ukrainy-otcenil-pomoshch-zapada-s-2022-goda-pochti-v-200-mlrd-izi",
-        "https://iz.ru/2144772/v-ssha-nazvali-borbu-za-vozdushnoe-prostranstvo-novoi-fazoi-ukrainskogo-konflikta-izi"
+        "https://iz.ru/2144772/v-ssha-nazvali-borbu-za-vozdushnoe-prostranstvo-novoi-fazoi-ukrainskogo-konflikta-izi",
+        "https://iz.ru/2144775/bolee-41-tys-uchastnikov-svo-i-ikh-detei-zachisleny-v-vuzy-po-kvote-izi"
       ]
     },
     "2026-08-07": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 898,
-      "totalIzi": 235,
+      "totalChecked": 916,
+      "totalIzi": 241,
       "totalIiz": 2,
-      "totalAi": 237,
+      "totalAi": 243,
       "topLinks": [
         "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
         "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
@@ -401,6 +373,13 @@
         "https://iz.ru/2147114/vs-rossii-porazili-sklad-dlia-khraneniia-bpla-i-terminal-novaia-pochta-v-kieve-izi",
         "https://iz.ru/2147123/sotcfond-sokratil-srok-rassmotreniia-zaiavok-na-ispolzovanie-matkapitala-izi"
       ]
+    },
+    "2026-08-12": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
