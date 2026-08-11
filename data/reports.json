@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T21:14:05.237Z",
+  "generatedAt": "2026-08-11T22:16:07.426Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 916,
-      "totalIzi": 241,
+      "totalChecked": 950,
+      "totalIzi": 251,
       "totalIiz": 2,
-      "totalAi": 243,
+      "totalAi": 253,
       "topLinks": [
         "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
         "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
@@ -375,11 +375,13 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 0,
-      "totalIzi": 0,
+      "totalChecked": 45,
+      "totalIzi": 1,
       "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2147626/mvd-predupredilo-rossiian-o-riske-pri-poluchenii-deneg-ot-neznakomtcev-na-kartu-izi"
+      ]
     }
   }
 }
