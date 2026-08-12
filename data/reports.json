@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-12T12:09:32.304Z",
+  "generatedAt": "2026-08-12T13:58:38.705Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 65,
-    "failedFetches": 0,
+    "fetchedUrlSets": 64,
+    "failedFetches": 1,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -151,35 +151,35 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 531,
-      "totalIzi": 167,
+      "totalChecked": 475,
+      "totalIzi": 142,
       "totalIiz": 1,
-      "totalAi": 168,
+      "totalAi": 143,
       "topLinks": [
-        "https://iz.ru/2143828/sily-pvo-presekli-ataku-trekh-bpla-na-moskvu-izi",
-        "https://iz.ru/2143829/putin-nagradil-glavnogo-inzhenera-zaes-iakovleva-ordenom-muzhestva-posmertno-izi",
-        "https://iz.ru/2143830/v-ssha-zafiksirovali-dve-pervye-smerti-ot-vzryvnoi-diarei-izi",
-        "https://iz.ru/2143835/v-oon-posle-ataki-vsu-na-gelendzhik-prizvali-zashchitit-mirnykh-zhitelei-izi",
-        "https://iz.ru/2143853/grigorii-zaslavskii-pokinul-post-rektora-gitisa-izi",
-        "https://iz.ru/2143861/pavel-shevtcov-osvobozhden-ot-dolzhnosti-zamglavy-rossotrudnichestva-izi",
-        "https://iz.ru/2143864/putin-podpisal-zakon-o-rasshirenii-perechnia-statei-koap-s-vydvoreniem-migrantov-izi",
-        "https://iz.ru/2143868/na-podlete-k-moskve-sbit-eshche-odin-dron-izi",
-        "https://iz.ru/2143873/v-ssha-vysoko-otcenili-potentcial-moshchi-rossiiskoi-armii-izi",
-        "https://iz.ru/2143886/v-belgorodskoi-oblasti-piat-sotrudnikov-mchs-postradali-pri-atake-drona-vsu-izi",
-        "https://iz.ru/2143888/v-kaluge-v-rezultate-ataki-bpla-povrezhdeno-osteklenie-zhilogo-doma-izi",
-        "https://iz.ru/2143912/prakticheski-vsekh-prorvavshikhsia-v-seutu-migrantov-vernuli-obratno-izi",
-        "https://iz.ru/2143913/posol-mid-rf-miroshnik-zaiavil-ob-otverzhenii-kievom-mirnogo-puti-izi",
-        "https://iz.ru/2143916/putin-prodlil-garazhnuiu-amnistiiu-v-rossii-do-1-sentiabria-2031-goda-izi",
-        "https://iz.ru/2143919/putin-posmertno-nagradil-medaliu-za-otvagu-chinovnika-iz-dagestana-gadzhieva-izi",
-        "https://iz.ru/2143920/sily-pvo-za-den-sbili-304-bespilotnika-vsu-nad-regionami-rossii-izi",
-        "https://iz.ru/2143921/zakharova-nazvala-geroizatciiu-legionerov-ss-priznakom-neonatcizma-v-es-izi",
-        "https://iz.ru/2143925/chetvero-postradavshikh-pri-atake-bpla-pod-gelendzhikom-nakhodiatsia-v-tiazhelom-sostoianii-izi",
-        "https://iz.ru/2143929/na-ukraine-razreshili-byvshim-zakliuchennym-rabotat-v-ttck-izi",
-        "https://iz.ru/2143930/sotrudniki-ttck-v-odesse-pokhitili-rabotnikov-stroibrigady-s-territorii-zhk-izi"
+        "https://iz.ru/2143945/kuznetcov-i-shleikher-zavoevali-serebro-chempionata-evropy-po-pryzhkam-v-vodu-izi",
+        "https://iz.ru/2143946/evrokomissiia-poobeshchala-dobitsia-polnogo-zapreta-rossiiskoi-energii-v-es-izi",
+        "https://iz.ru/2143949/avtor-pesni-le-coup-de-soleil-zhan-pol-dreo-ushel-iz-zhizni-v-vozraste-73-let-izi",
+        "https://iz.ru/2143950/indiiskoe-sudno-zatonulo-vblizi-vod-jemena-izi",
+        "https://iz.ru/2143972/2026-08-04/glava-jfa-al-khusein-zaiavil-o-shantazhe-so-storony-fifa-radi-podderzhki-infantino-izi",
+        "https://iz.ru/2134008/narodnye-primety-na-4-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2142899/uchenye-nashli-sposob-predotvratit-zameshchenie-myshtc-zhirovoi-tkaniu-izi",
+        "https://iz.ru/2143158/uchenye-dokazali-polzu-odnoi-intensivnoi-trenirovki-v-nedeliu-dlia-pokhudeniia-izi",
+        "https://iz.ru/2143182/uchenye-dokazali-effektivnost-kinoa-dlia-lecheniia-pecheni-izi",
+        "https://iz.ru/2143299/gp-rossii-priznala-riad-ukrainskikh-natcionalistov-posobnikami-natcistskoi-germanii-izi",
+        "https://iz.ru/2143359/apple-podala-v-sud-na-britanskie-vlasti-iz-za-dostupa-k-zashifrovannym-dannym-izi",
+        "https://iz.ru/2143366/knigi-o-tcoe-i-gruppe-agata-kristi-popadut-v-perechen-markiruemoi-literatury-izi",
+        "https://iz.ru/2143367/politik-iz-finliandii-osudil-udary-vsu-po-mirnym-zhiteliam-izi",
+        "https://iz.ru/2143389/mendel-proinformirovala-o-tiazheloi-zime-iz-za-nekhvatki-sredstv-na-otoplenie-izi",
+        "https://iz.ru/2143392/tramp-oproverg-vozmozhnost-sborov-iranom-platy-za-prokhod-cherez-ormuzskii-proliv-izi",
+        "https://iz.ru/2143402/2026-08-04/finansist-predupredila-o-blokirovke-bankami-schetov-posle-smerti-vladeltca-izi",
+        "https://iz.ru/2143410/uchastnik-svo-iz-iakutii-viktor-sofronov-stal-geroem-rossii-izi",
+        "https://iz.ru/2143413/2026-08-04/telegram-obiavil-o-vosstanovlenii-raboty-prilozheniia-v-app-store-izi",
+        "https://iz.ru/2143432/odin-chelovek-postradal-pri-atake-bpla-v-lenoblasti-izi",
+        "https://iz.ru/2143437/na-sklade-wildberries-v-lenoblasti-proizoshel-pozhar-posle-ataki-vsu-izi"
       ]
     },
     "2026-08-05": {
-      "totalChecked": 988,
+      "totalChecked": 981,
       "totalIzi": 317,
       "totalIiz": 1,
       "totalAi": 318,
@@ -207,12 +207,11 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 888,
-      "totalIzi": 252,
+      "totalChecked": 887,
+      "totalIzi": 251,
       "totalIiz": 1,
-      "totalAi": 253,
+      "totalAi": 252,
       "topLinks": [
-        "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
         "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
         "https://iz.ru/2144228/uchenye-otkryli-mekhanizm-usileniia-signalov-serdtca-v-mozge-vo-vremia-sna-izi",
         "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2144758/v-ssha-soobshchili-o-vosstanovlenii-tempom-obmena-razveddannymi-s-kievom-izi",
         "https://iz.ru/2144766/glava-natcbanka-ukrainy-otcenil-pomoshch-zapada-s-2022-goda-pochti-v-200-mlrd-izi",
         "https://iz.ru/2144772/v-ssha-nazvali-borbu-za-vozdushnoe-prostranstvo-novoi-fazoi-ukrainskogo-konflikta-izi",
-        "https://iz.ru/2144775/bolee-41-tys-uchastnikov-svo-i-ikh-detei-zachisleny-v-vuzy-po-kvote-izi"
+        "https://iz.ru/2144775/bolee-41-tys-uchastnikov-svo-i-ikh-detei-zachisleny-v-vuzy-po-kvote-izi",
+        "https://iz.ru/2144781/deputat-rady-soobshchil-ob-otkaze-ssha-v-naznachenii-umerova-poslom-ukrainy-izi"
       ]
     },
     "2026-08-07": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 475,
-      "totalIzi": 89,
+      "totalChecked": 539,
+      "totalIzi": 118,
       "totalIiz": 0,
-      "totalAi": 89,
+      "totalAi": 118,
       "topLinks": [
         "https://iz.ru/2147313/glavnye-boi-turnira-ufc-330-obzor-karda-i-forma-boitcov-izi",
         "https://iz.ru/2147626/mvd-predupredilo-rossiian-o-riske-pri-poluchenii-deneg-ot-neznakomtcev-na-kartu-izi",
