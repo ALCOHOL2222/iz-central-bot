@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-12T13:58:38.705Z",
+  "generatedAt": "2026-08-12T15:24:44.670Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 64,
-    "failedFetches": 1,
+    "fetchedUrlSets": 65,
+    "failedFetches": 0,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -151,16 +151,11 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 475,
-      "totalIzi": 142,
+      "totalChecked": 452,
+      "totalIzi": 137,
       "totalIiz": 1,
-      "totalAi": 143,
+      "totalAi": 138,
       "topLinks": [
-        "https://iz.ru/2143945/kuznetcov-i-shleikher-zavoevali-serebro-chempionata-evropy-po-pryzhkam-v-vodu-izi",
-        "https://iz.ru/2143946/evrokomissiia-poobeshchala-dobitsia-polnogo-zapreta-rossiiskoi-energii-v-es-izi",
-        "https://iz.ru/2143949/avtor-pesni-le-coup-de-soleil-zhan-pol-dreo-ushel-iz-zhizni-v-vozraste-73-let-izi",
-        "https://iz.ru/2143950/indiiskoe-sudno-zatonulo-vblizi-vod-jemena-izi",
-        "https://iz.ru/2143972/2026-08-04/glava-jfa-al-khusein-zaiavil-o-shantazhe-so-storony-fifa-radi-podderzhki-infantino-izi",
         "https://iz.ru/2134008/narodnye-primety-na-4-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2142899/uchenye-nashli-sposob-predotvratit-zameshchenie-myshtc-zhirovoi-tkaniu-izi",
         "https://iz.ru/2143158/uchenye-dokazali-polzu-odnoi-intensivnoi-trenirovki-v-nedeliu-dlia-pokhudeniia-izi",
@@ -175,17 +170,20 @@
         "https://iz.ru/2143410/uchastnik-svo-iz-iakutii-viktor-sofronov-stal-geroem-rossii-izi",
         "https://iz.ru/2143413/2026-08-04/telegram-obiavil-o-vosstanovlenii-raboty-prilozheniia-v-app-store-izi",
         "https://iz.ru/2143432/odin-chelovek-postradal-pri-atake-bpla-v-lenoblasti-izi",
-        "https://iz.ru/2143437/na-sklade-wildberries-v-lenoblasti-proizoshel-pozhar-posle-ataki-vsu-izi"
+        "https://iz.ru/2143437/na-sklade-wildberries-v-lenoblasti-proizoshel-pozhar-posle-ataki-vsu-izi",
+        "https://iz.ru/2143439/ssha-mogut-zakryt-piat-diplomaticheskikh-predstavitelstv-za-rubezhom-izi",
+        "https://iz.ru/2143444/boeviki-vsu-podorvalis-na-svoikh-minakh-pri-popytke-pokinut-pozitcii-izi",
+        "https://iz.ru/2143450/chislo-postradavshikh-pri-atake-bespilotnikov-pod-gelendzhikom-vyroslo-do-58-izi",
+        "https://iz.ru/2143451/poiavilis-kadry-posledstvii-ataki-bespilotnikov-vsu-na-chekhov-izi",
+        "https://iz.ru/2143462/vs-rf-porazili-zavod-avtoagregatov-i-terminal-v-chernomorske-izi"
       ]
     },
     "2026-08-05": {
-      "totalChecked": 981,
-      "totalIzi": 317,
+      "totalChecked": 949,
+      "totalIzi": 315,
       "totalIiz": 1,
-      "totalAi": 318,
+      "totalAi": 316,
       "topLinks": [
-        "https://iz.ru/2143991/rossiia-uvelichila-eksport-sukharei-i-grenok-na-9-po-itogam-i-polugodiia-2026-goda-izi",
-        "https://iz.ru/2144011/sbornaia-rossii-vyigrala-chetyre-zolota-iz-chetyrekh-na-starte-kubka-mira-izi",
         "https://iz.ru/2144039/2026-08-05/tramp-prigrozil-iranu-udarom-v-sluchae-blokirovki-ormuzskogo-proliva-izi",
         "https://iz.ru/2144040/2026-08-05/zhurnalist-khristoforu-nazval-blokirovku-portov-v-odesse-katastrofoi-dlia-ukrainy-izi",
         "https://iz.ru/2144041/vertolet-trampa-vyletel-iz-belogo-doma-bez-ostanovki-kommercheskikh-reisov-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2144078/v-tulskoi-oblasti-vozbudili-ugolovnoe-delo-o-terakte-posle-ataki-vsu-na-obekt-izi",
         "https://iz.ru/2144082/zakharova-vysmeiala-ideiu-podsvetit-eifelevu-bashniu-v-tcveta-moldavii-izi",
         "https://iz.ru/2144084/maksimalnyi-bolnichnogo-v-rossii-priblizilsia-k-7-tys-rublei-v-den-izi",
-        "https://iz.ru/2144087/zhitelia-berdianska-osudili-na-25-let-za-podgotovku-teraktov-izi"
+        "https://iz.ru/2144087/zhitelia-berdianska-osudili-na-25-let-za-podgotovku-teraktov-izi",
+        "https://iz.ru/2144098/postpred-rossii-pri-odkb-ukazal-na-otsutstvie-u-nato-interesa-k-dialogu-izi",
+        "https://iz.ru/2144099/zakharova-prizvala-es-smenit-iadernye-fantazii-na-reshenie-svoikh-problem-izi"
       ]
     },
     "2026-08-06": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 539,
-      "totalIzi": 118,
+      "totalChecked": 712,
+      "totalIzi": 197,
       "totalIiz": 0,
-      "totalAi": 118,
+      "totalAi": 197,
       "topLinks": [
         "https://iz.ru/2147313/glavnye-boi-turnira-ufc-330-obzor-karda-i-forma-boitcov-izi",
         "https://iz.ru/2147626/mvd-predupredilo-rossiian-o-riske-pri-poluchenii-deneg-ot-neznakomtcev-na-kartu-izi",
