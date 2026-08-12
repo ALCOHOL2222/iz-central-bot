@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T05:14:25.399Z",
+  "generatedAt": "2026-08-12T06:52:28.984Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,22 +151,11 @@
       ]
     },
     "2026-08-04": {
-      "totalChecked": 630,
-      "totalIzi": 210,
+      "totalChecked": 603,
+      "totalIzi": 199,
       "totalIiz": 1,
-      "totalAi": 211,
+      "totalAi": 200,
       "topLinks": [
-        "https://iz.ru/2143642/vlasti-gruzii-obiasnili-rusofobiiu-mestnoi-oppozitcii-ukazkoi-izvne-izi",
-        "https://iz.ru/2143648/v-ssha-muzhchina-pokhitil-15-letniuiu-shkolnitcu-i-nasiloval-ee-chetyre-goda-izi",
-        "https://iz.ru/2143649/glavkom-vsu-drapatyi-poruchil-proverit-dannye-o-pytkakh-v-225-m-shturmovom-polku-izi",
-        "https://iz.ru/2143652/pravitelstvo-rf-vydelilo-3-mlrd-rublei-na-letnii-otdykh-detei-uchastnikov-svo-izi",
-        "https://iz.ru/2143655/v-minoborony-rf-ukazali-na-uluchshenie-pozitcii-posle-vziatiia-baksheevki-izi",
-        "https://iz.ru/2143657/v-mintranse-soobshchili-o-rabote-nad-nachalom-poletov-taiskikh-aviakompanii-v-rossiiu-izi",
-        "https://iz.ru/2143659/bredli-kupera-i-dzhidzhi-khadid-zapodozrili-v-provedenii-tainoi-svadbi-izi",
-        "https://iz.ru/2143661/v-rossii-vakhtoviki-motoristy-stali-samymi-vostrebovannymi-spetcialistami-izi",
-        "https://iz.ru/2143664/putin-podpisal-zakon-o-monitoringe-tcen-na-produkty-po-vsei-tcepochke-izi",
-        "https://iz.ru/2143675/vlasti-turtcii-obsuzhdaiut-predostavlenie-skidok-turistam-iz-rossii-izi",
-        "https://iz.ru/2143676/v-podmoskove-roditelei-proinformirovali-o-pravilakh-bezopasnosti-pri-atake-bpla-izi",
         "https://iz.ru/2143684/fas-vydala-preduprezhdeniia-trem-nizhegorodskim-kompaniiam-iz-za-tcen-na-benzin-izi",
         "https://iz.ru/2143687/armiia-rossii-obestochila-promyshlennye-obekty-vsu-v-sumskoi-oblasti-izi",
         "https://iz.ru/2143690/polzovateli-ot-14-let-poluchili-vozmozhnost-oformit-tcifrovoi-id-v-makse-izi",
@@ -175,11 +164,22 @@
         "https://iz.ru/2143697/figuristka-trusova-podala-zaiavku-na-turnir-serii-chellendzher-v-tokio-izi",
         "https://iz.ru/2143704/valieva-ne-budet-uchastvovat-na-turnire-v-iaponii-izi",
         "https://iz.ru/2143709/v-edinoi-rossii-rasskazali-o-podgotovke-pochti-200-tys-nabliudatelei-na-vybory-izi",
-        "https://iz.ru/2143710/nato-priznal-ispolzovanie-palantir-pri-planirovanii-boevykh-operatcii-izi"
+        "https://iz.ru/2143710/nato-priznal-ispolzovanie-palantir-pri-planirovanii-boevykh-operatcii-izi",
+        "https://iz.ru/2143714/v-italii-umer-nakhodivshiisia-deviat-let-v-kome-iz-za-syrogo-moloka-malchik-izi",
+        "https://iz.ru/2143718/v-latvii-potrebovali-otstavki-glavy-mvd-iz-za-zakrytiia-granitcy-s-belorussiei-izi",
+        "https://iz.ru/2143721/v-izraile-vozmutilis-torzhestvennymi-pokhoronami-posobnika-natcistov-v-latvii-izi",
+        "https://iz.ru/2143723/eks-solist-gruppy-liapis-trubetckoi-sergei-mikhalok-zaochno-osuzhden-v-belorussii-izi",
+        "https://iz.ru/2143725/mema-ukazal-na-vozmozhnoe-razmeshchenie-iadernogo-oruzhiia-nato-v-finliandii-izi",
+        "https://iz.ru/2143729/pri-pozhare-v-metro-niu-jorka-postradali-14-chelovek-izi",
+        "https://iz.ru/2143731/khk-chelny-snialsia-s-sezona-202627-vkhl-izi",
+        "https://iz.ru/2143732/putin-podpisal-zakon-o-legalizatcii-obrashcheniia-kriptovaliut-v-rossii-izi",
+        "https://iz.ru/2143735/finliandiia-sozdast-pervoe-v-mire-khranilishche-iadernykh-otkhodov-izi",
+        "https://iz.ru/2143742/iurist-obiasnil-poriadok-vskrytiia-bankovskikh-iacheek-dlia-polucheniia-nasledstva-izi",
+        "https://iz.ru/2143753/vlasti-vilniusa-otkazalis-prinimat-pismennye-obrashcheniia-na-russkom-iazyke-izi"
       ]
     },
     "2026-08-05": {
-      "totalChecked": 1005,
+      "totalChecked": 1002,
       "totalIzi": 318,
       "totalIiz": 1,
       "totalAi": 319,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 211,
-      "totalIzi": 23,
+      "totalChecked": 290,
+      "totalIzi": 32,
       "totalIiz": 0,
-      "totalAi": 23,
+      "totalAi": 32,
       "topLinks": [
         "https://iz.ru/2147626/mvd-predupredilo-rossiian-o-riske-pri-poluchenii-deneg-ot-neznakomtcev-na-kartu-izi",
         "https://iz.ru/2147644/rosobrnadzor-oproverg-plany-po-uslozhneniiu-zadanii-ege-izi",
@@ -393,13 +393,13 @@
         "https://iz.ru/2147680/eksport-kolumbiiskogo-kofe-pochti-ostanovilsia-posle-zemletriaseniia-izi",
         "https://iz.ru/2147681/v-krasnoiarskom-krae-proizoshlo-krupnoe-vozgoranie-angara-s-pilomaterialami-izi",
         "https://iz.ru/2147698/ekspert-predupredil-o-blokirovkakh-perevodov-so-starykh-ustroistv-s-2027-goda-izi",
+        "https://iz.ru/2147709/ekspert-rasskazal-o-sposobakh-zashchitit-detei-ot-skhem-moshennikov-izi",
+        "https://iz.ru/2147715/v-frg-zaiavili-o-bezzashchitnosti-ukraini-izi",
+        "https://iz.ru/2147718/tramp-podtverdil-peresadku-na-drugoi-samolet-posle-sammita-v-ankare-izi",
+        "https://iz.ru/2147726/odin-chelovek-pogib-pri-atake-ukrainskikh-bpla-na-krym-izi",
         "https://iz.ru/2147626/mvd-predupredilo-rossiian-o-riske-pri-poluchenii-deneg-ot-neznakomtcev-na-kartu-izi",
         "https://iz.ru/2147644/rosobrnadzor-oproverg-plany-po-uslozhneniiu-zadanii-ege-izi",
-        "https://iz.ru/2147647/minprosveshcheniia-dalo-rekomendatcii-po-vremeni-provedeniia-kontrolnykh-rabot-izi",
-        "https://iz.ru/2147648/chislo-rabotaiushchikh-udalenno-rossiian-v-2025-godu-snizilos-do-968-tys-izi",
-        "https://iz.ru/2147656/bloomberg-ukazalo-na-sokrytie-ukrainoi-dannykh-po-chislu-sbitykh-raket-vs-rf-izi",
-        "https://iz.ru/2147658/v-op-predlozhili-predostavliat-pedagogam-ezhegodnyi-paket-seansov-psikhoterapii-izi",
-        "https://iz.ru/2147659/v-sotcfonde-rasskazali-o-pokupke-pensionnykh-ballov-dlia-uvelicheniia-pensii-izi"
+        "https://iz.ru/2147647/minprosveshcheniia-dalo-rekomendatcii-po-vremeni-provedeniia-kontrolnykh-rabot-izi"
       ]
     }
   }
