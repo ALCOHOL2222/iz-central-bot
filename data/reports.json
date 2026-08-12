@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:23:37.352Z",
+  "generatedAt": "2026-08-12T18:18:23.986Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 747,
-      "totalIzi": 212,
+      "totalChecked": 821,
+      "totalIzi": 243,
       "totalIiz": 0,
-      "totalAi": 212,
+      "totalAi": 243,
       "topLinks": [
         "https://iz.ru/2147313/glavnye-boi-turnira-ufc-330-obzor-karda-i-forma-boitcov-izi",
         "https://iz.ru/2147340/pervyi-dvoinoi-chempion-ufc-iz-rossii-islam-makhachev-biografiia-izi",
