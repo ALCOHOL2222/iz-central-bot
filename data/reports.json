@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:22:01.575Z",
+  "generatedAt": "2026-08-12T17:23:37.352Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,16 +179,11 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 949,
-      "totalIzi": 315,
+      "totalChecked": 914,
+      "totalIzi": 310,
       "totalIiz": 1,
-      "totalAi": 316,
+      "totalAi": 311,
       "topLinks": [
-        "https://iz.ru/2144039/2026-08-05/tramp-prigrozil-iranu-udarom-v-sluchae-blokirovki-ormuzskogo-proliva-izi",
-        "https://iz.ru/2144040/2026-08-05/zhurnalist-khristoforu-nazval-blokirovku-portov-v-odesse-katastrofoi-dlia-ukrainy-izi",
-        "https://iz.ru/2144041/vertolet-trampa-vyletel-iz-belogo-doma-bez-ostanovki-kommercheskikh-reisov-izi",
-        "https://iz.ru/2144046/bolee-420-tys-rossiian-postradali-ot-ukusov-kleshchei-s-nachala-sezona-izi",
-        "https://iz.ru/2144049/dietolog-posovetovala-ogurtcy-i-kefir-dlia-okhlazhdeniia-v-znoi-izi",
         "https://iz.ru/2144051/ssha-mogut-obiavit-o-sdelke-s-iranom-i-omanom-po-ormuzskomu-prolivu-izi",
         "https://iz.ru/2144054/gosti-vystavki-russkii-mir-vozvrashchenie-uznaiut-o-sudbakh-zashchitnikov-donbass-izi",
         "https://iz.ru/2144055/sily-pvo-za-noch-sbili-475-ukrainskikh-bespilotnikov-izi",
@@ -203,7 +198,12 @@
         "https://iz.ru/2144084/maksimalnyi-bolnichnogo-v-rossii-priblizilsia-k-7-tys-rublei-v-den-izi",
         "https://iz.ru/2144087/zhitelia-berdianska-osudili-na-25-let-za-podgotovku-teraktov-izi",
         "https://iz.ru/2144098/postpred-rossii-pri-odkb-ukazal-na-otsutstvie-u-nato-interesa-k-dialogu-izi",
-        "https://iz.ru/2144099/zakharova-prizvala-es-smenit-iadernye-fantazii-na-reshenie-svoikh-problem-izi"
+        "https://iz.ru/2144099/zakharova-prizvala-es-smenit-iadernye-fantazii-na-reshenie-svoikh-problem-izi",
+        "https://iz.ru/2144105/shtatnuiu-chislennost-armii-rossii-uvelichili-na-27-tys-chelovek-izi",
+        "https://iz.ru/2144108/tennisist-alkaras-snialsia-s-mastersa-v-tcintcinnati-izi",
+        "https://iz.ru/2144111/v-mvd-rf-posovetovali-ispolzovat-virtualnuiu-kartu-pri-onlain-pokupkakh-izi",
+        "https://iz.ru/2144117/reuters-uznalo-o-prodolzhenii-peregovorov-po-litcenzii-patriot-dlia-ukrainy-izi",
+        "https://iz.ru/2144125/v-kieve-posle-serii-vzryvov-nachalis-pozhary-izi"
       ]
     },
     "2026-08-06": {
@@ -375,12 +375,13 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 712,
-      "totalIzi": 197,
+      "totalChecked": 747,
+      "totalIzi": 212,
       "totalIiz": 0,
-      "totalAi": 197,
+      "totalAi": 212,
       "topLinks": [
         "https://iz.ru/2147313/glavnye-boi-turnira-ufc-330-obzor-karda-i-forma-boitcov-izi",
+        "https://iz.ru/2147340/pervyi-dvoinoi-chempion-ufc-iz-rossii-islam-makhachev-biografiia-izi",
         "https://iz.ru/2147626/mvd-predupredilo-rossiian-o-riske-pri-poluchenii-deneg-ot-neznakomtcev-na-kartu-izi",
         "https://iz.ru/2147644/rosobrnadzor-oproverg-plany-po-uslozhneniiu-zadanii-ege-izi",
         "https://iz.ru/2147647/minprosveshcheniia-dalo-rekomendatcii-po-vremeni-provedeniia-kontrolnykh-rabot-izi",
@@ -398,8 +399,7 @@
         "https://iz.ru/2147715/v-frg-zaiavili-o-bezzashchitnosti-ukraini-izi",
         "https://iz.ru/2147718/tramp-podtverdil-peresadku-na-drugoi-samolet-posle-sammita-v-ankare-izi",
         "https://iz.ru/2147724/v-tiumeni-vyiavili-snizhenie-urovnia-vody-v-reke-tura-i-tavda-izi",
-        "https://iz.ru/2147726/odin-chelovek-pogib-pri-atake-ukrainskikh-bpla-na-krym-izi",
-        "https://iz.ru/2147727/v-bundesvere-soobshchili-o-iakoby-godami-fiksiruemykh-dronakh-nad-svoimi-bazami-izi"
+        "https://iz.ru/2147726/odin-chelovek-pogib-pri-atake-ukrainskikh-bpla-na-krym-izi"
       ]
     }
   }
