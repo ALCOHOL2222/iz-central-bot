@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T06:56:34.444Z",
+  "generatedAt": "2026-08-13T08:53:13.284Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,22 +151,11 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 700,
-      "totalIzi": 244,
+      "totalChecked": 665,
+      "totalIzi": 233,
       "totalIiz": 1,
-      "totalAi": 245,
+      "totalAi": 234,
       "topLinks": [
-        "https://iz.ru/2144302/arkheologi-izuchili-grobnitcu-pravivshego-27-dnei-kitaiskogo-imperatora-liu-khe-izi",
-        "https://iz.ru/2144306/professor-malinen-zaiavil-o-vozmozhnoi-kapituliatcii-kieva-posle-udarov-po-ukraine-izi",
-        "https://iz.ru/2144308/sem-chelovek-raneny-pri-atakakh-bespilotnikov-vsu-v-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2144314/v-kirgizii-na-pike-pobedy-vvedut-razresheniia-iz-za-tragedii-s-nagovitcynoi-izi",
-        "https://iz.ru/2144317/smi-soobshchili-o-padenii-razgonnogo-bloka-rakety-spacex-na-lune-izi",
-        "https://iz.ru/2144319/zhitelia-prikamia-zaderzhali-za-peredachu-snimkov-npz-inostrannym-spetcsluzhbam-izi",
-        "https://iz.ru/2144329/posle-raketnogo-udara-vs-rossii-v-kieve-vspykhnuli-silnye-pozhary-izi",
-        "https://iz.ru/2144330/gorlovka-podverglas-atakam-vsu-23-tys-raz-s-2022-goda-izi",
-        "https://iz.ru/2144331/glava-fbr-zaiavil-ob-ukreplenii-partnerstva-ssha-i-rf-v-borbe-s-prestupnostiu-izi",
-        "https://iz.ru/2144334/ukrainskie-smi-soobshchili-ob-unichtozhenii-krupneishego-sklada-rozetka-pod-kievom-izi",
-        "https://iz.ru/2144338/vo-lvovskoi-oblasti-proizoshel-ocherednoi-skandal-iz-za-pesen-na-russkom-iazyke-izi",
         "https://iz.ru/2144339/v-germanii-ukazali-na-krizis-v-pravitelstve-zelenskogo-izi",
         "https://iz.ru/2144340/v-moskve-muzhchina-ubil-svoiu-zhenu-iz-za-revnosti-izi",
         "https://iz.ru/2144341/v-donetcke-pozhilaia-zhenshchina-pogibla-pri-atake-vsu-na-meduchrezhdenie-izi",
@@ -175,11 +164,22 @@
         "https://iz.ru/2144344/nikkei-asia-uznala-o-planakh-iaponii-vnedrit-amerikanskie-voennye-modeli-ii-izi",
         "https://iz.ru/2144345/rossiiskie-figuristy-i-trenery-poluchat-ekipirovku-biriuzovogo-tcveta-izi",
         "https://iz.ru/2144346/dzhared-leto-lishilsia-roli-v-filme-na-fone-obvinenii-v-domogatelstvakh-izi",
-        "https://iz.ru/2144348/tri-letevshikh-v-storonu-moskvy-bpla-sbity-silami-pvo-izi"
+        "https://iz.ru/2144348/tri-letevshikh-v-storonu-moskvy-bpla-sbity-silami-pvo-izi",
+        "https://iz.ru/2144349/spisok-zhertv-amerikanskoi-atomnoi-bombardirovki-khirosimy-vyros-do-353-639-izi",
+        "https://iz.ru/2144355/boetc-iz-iakutii-na-mashine-prorvalsia-cherez-goriashchee-pole-i-spas-sosluzhivtcev-izi",
+        "https://iz.ru/2144356/bank-rossii-uvidel-priznaki-stabilizatcii-rynka-topliva-v-rossii-izi",
+        "https://iz.ru/2144357/rossiiskii-boetc-v-odinochku-piat-mesiatcev-uderzhival-pozitciiu-i-otrazhal-ataki-vsu-izi",
+        "https://iz.ru/2144360/makron-poobeshchal-usilit-davlenie-na-rossiiu-izi",
+        "https://iz.ru/2144362/tobolskii-sud-otkazal-muzhchine-v-smene-pola-posle-operatcii-v-armenii-izi",
+        "https://iz.ru/2144367/tcb-soobshchil-ob-izmenenii-struktury-sberezhenii-rossiian-v-2026-godu-izi",
+        "https://iz.ru/2144377/blatter-posovetoval-izbrat-novym-prezidentom-fifa-zhenshchinu-izi",
+        "https://iz.ru/2144385/laima-vaikule-zaiavila-o-gotovnosti-streliat-v-rossiian-izi",
+        "https://iz.ru/2144390/v-ator-predrekli-snizhenie-turizma-iz-rossii-v-kazakhstan-iz-za-platnogo-vezda-izi",
+        "https://iz.ru/2144391/vzryv-avtomobilia-gendirektora-uraldronzavoda-tkachuka-chto-izvestno-izi"
       ]
     },
     "2026-08-06": {
-      "totalChecked": 882,
+      "totalChecked": 881,
       "totalIzi": 249,
       "totalIiz": 1,
       "totalAi": 250,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 328,
-      "totalIzi": 32,
+      "totalChecked": 364,
+      "totalIzi": 49,
       "totalIiz": 2,
-      "totalAi": 34,
+      "totalAi": 51,
       "topLinks": [
         "https://iz.ru/2147419/opasnyi-prokol-kakie-rany-mogut-privesti-k-gazovoi-gangrene-izi",
         "https://iz.ru/2148093/narodnye-primety-na-13-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -392,14 +392,14 @@
         "https://iz.ru/2148284/v-2027-godu-strakhovuiu-pensiiu-po-starosti-ne-budut-naznachat-na-obshchikh-osnovaniiakh-izi",
         "https://iz.ru/2148285/rodnym-pogibshikh-v-belgorodskoi-oblasti-vyplatili-bolee-11-mlrd-rublei-s-2022-goda-izi",
         "https://iz.ru/2148303/v-mifi-sozdali-robota-dlia-poiska-sledov-vzryvchatykh-veshchestv-izi",
+        "https://iz.ru/2148315/guardian-soobshchila-o-teriaiushchikh-soznanie-ot-zhary-medrabotnikakh-v-britanii-izi",
         "https://iz.ru/2148334/rosstat-otcenil-rost-vvp-rf-v-ii-kvartale-na-urovne-13-izi",
         "https://iz.ru/2148335/komandir-tek-soobshchil-ob-unichtozhenii-fury-vsu-dlia-zapuska-bespilotnikov-po-rossii-izi",
         "https://iz.ru/2148338/vsu-predpriniali-popytku-povtornoi-ataki-na-orsk-izi",
         "https://iz.ru/2148340/poseshchenie-putinym-kuril-stalo-samoi-obsuzhdaemoi-temoi-v-iaponskom-segmente-kh-izi",
         "https://iz.ru/2148342/senat-ssha-prizval-belyi-dom-obiasnit-otsutstvie-novykh-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2147419/opasnyi-prokol-kakie-rany-mogut-privesti-k-gazovoi-gangrene-izi",
-        "https://iz.ru/2148093/narodnye-primety-na-13-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2148230/minekonomrazvitiia-soobshchilo-o-vosstanovlenii-tempov-rosta-ekonomiki-izi"
+        "https://iz.ru/2148343/v-dele-o-nekachestvennykh-konservakh-dlia-minoborony-rf-nikto-ne-priznal-vinu-izi",
+        "https://iz.ru/2148344/predpriiatiia-nizhnekamska-vyplatiat-po-2-mln-rublei-semiam-pogibshikh-pri-atake-vsu-izi"
       ]
     }
   }
