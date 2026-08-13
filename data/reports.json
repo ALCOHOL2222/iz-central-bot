@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:09:47.508Z",
+  "generatedAt": "2026-08-13T13:58:47.483Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,40 +151,39 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 620,
-      "totalIzi": 211,
+      "totalChecked": 566,
+      "totalIzi": 188,
       "totalIiz": 1,
-      "totalAi": 212,
+      "totalAi": 189,
       "topLinks": [
-        "https://iz.ru/2144401/tainik-vremen-sssr-s-olimpiiskim-mishkoi-nashli-na-zavode-v-brianske-izi",
-        "https://iz.ru/2144403/rossiiskie-sinkhronistki-vyigrali-chempionat-evropy-v-akrobatike-izi",
-        "https://iz.ru/2144408/oon-vystupila-protiv-atak-s-gibeliu-mirnykh-zhitelei-i-detei-izi",
-        "https://iz.ru/2144409/roskosmos-soobshchil-o-lokalizatcii-pozhara-v-tcniimash-v-koroleve-izi",
-        "https://iz.ru/2144414/rosfinmonitoring-vnes-obshchestvennoe-dvizhenie-gruppa-24-v-perechen-terroristov-izi",
-        "https://iz.ru/2144417/tcukerberg-izvinilsia-pered-vlastiami-indii-za-dipfeiki-v-servisakh-meta-izi",
-        "https://iz.ru/2144427/dzhordzhina-rodriges-otvetila-na-kritiku-vneshnosti-pered-svadboi-s-ronaldu-izi",
-        "https://iz.ru/2144428/uchenye-nashli-priznaki-sushchestvovaniia-drevnikh-okeanov-na-venere-izi",
-        "https://iz.ru/2144431/kirgizskii-perevozchik-skyfru-vypolnil-pervyi-reis-iz-bishkeka-v-aeroport-domodedovo-izi",
-        "https://iz.ru/2144437/v-podkontrolnykh-vsu-raionakh-kramatorska-obiavili-prinuditelnuiu-evakuatciiu-detei-izi",
-        "https://iz.ru/2144438/roskosmos-soobshchil-o-sokhranenii-kontrolia-nad-mks-posle-zadymleniia-v-tcniimash-izi",
-        "https://iz.ru/2144439/portlend-v-ssha-vozglavil-mirovoi-reiting-gorodov-s-samym-zagriaznennym-vozdukhom-izi",
-        "https://iz.ru/2144441/rossiiskim-pensioneram-napomnili-o-lgotakh-po-nalogam-na-imushchestvo-i-zemliu-izi",
-        "https://iz.ru/2144444/ukrainskii-bespilotnik-atakoval-bolnitcu-v-tcentre-donetcka-izi",
-        "https://iz.ru/2144445/rossiiskogo-istorika-i-pisatelia-kirpichenka-arestovali-v-izraile-izi",
-        "https://iz.ru/2144449/spasshii-rebtnka-v-kaspiiske-podrostok-poluchit-22-iu-premiiu-imeni-tigrana-keosaiana-izi",
-        "https://iz.ru/2144451/polzovateli-sotcsetei-vydvinuli-svoi-varianty-kandidatov-na-post-prezidenta-vengrii-izi",
-        "https://iz.ru/2144453/uchenye-v-ssha-sozdali-gipoallergennykh-biglei-izi",
-        "https://iz.ru/2144454/apparat-bion-m-no-3-budet-izuchat-kosmicheskuiu-radiatciiu-izi",
-        "https://iz.ru/2144458/pamfilova-ukazala-na-prozrachnost-zherebevki-partii-v-biulletene-na-vyborakh-v-gd-izi"
+        "https://iz.ru/2144490/v-klinike-khaidarova-magi-lechili-patcientov-i-delali-privoroty-na-deputatov-izi",
+        "https://iz.ru/2144497/uchenye-otcenili-vklad-dikikh-olenei-v-globalnye-vybrosy-metana-izi",
+        "https://iz.ru/2144503/na-ukraine-predlozhili-shtrafovat-kafe-na-38-tys-za-muzyku-na-russkom-iazyke-izi",
+        "https://iz.ru/2144505/p-diddy-otsrochili-datu-vykhoda-iz-tiurmy-na-mesiatc-iz-za-draki-izi",
+        "https://iz.ru/2144506/degtiarev-pozdravil-rossiiskikh-sinkhronistov-s-uspeshnym-vystupleniem-na-che-izi",
+        "https://iz.ru/2144509/v-kaliningrade-grazhdanina-litvy-prigovorili-k-135-goda-kolonii-za-shpionazh-izi",
+        "https://iz.ru/2144510/v-operativnoi-sluzhbe-rasskazali-o-sostoianii-gendirektora-uraldronzavoda-izi",
+        "https://iz.ru/2144511/putin-provel-vstrechu-s-glavoi-tcik-pamfilovoi-chto-izvestno-izi",
+        "https://iz.ru/2144513/senator-pushkov-prokommentiroval-slova-vaikule-o-zashchite-latvii-ot-rossii-izi",
+        "https://iz.ru/2144516/tri-mirnykh-zhitelia-postradali-pri-atakakh-vsu-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2144517/sem-vagonov-s-zheleznoi-rudoi-soshli-s-relsov-v-cheliabinskoi-oblasti-izi",
+        "https://iz.ru/2144521/putin-prokommentiroval-pervoe-mesto-edinoi-rossii-v-biulletene-na-vyborakh-izi",
+        "https://iz.ru/2144524/rosstat-zafiksiroval-nedelnoe-snizhenie-potrebitelskikh-tcen-izi",
+        "https://iz.ru/2144527/indeks-mosbirzhi-vpervye-so-2-iiulia-prevysil-23-tys-punktov-na-vechernei-sessii-izi",
+        "https://iz.ru/2144528/abkhaziia-ostalas-bez-elektrosnabzheniia-iz-za-avarii-na-ingurges-izi",
+        "https://iz.ru/2144534/posolstvo-rf-v-izraile-zaprosilo-dannye-o-zaderzhanii-vostokoveda-kirpichenka-izi",
+        "https://iz.ru/2144535/zelenskii-nazval-vozmozhnuiu-prichinu-sokrashcheniia-postavok-raket-pvo-kievu-izi",
+        "https://iz.ru/2144539/tcb-rf-peresmotreli-prognozy-uskoreniia-godovoi-infliatcii-po-itogam-sentiabria-do-63-izi",
+        "https://iz.ru/2144540/na-ukraine-zaiavili-o-massovykh-ugrozakh-v-adres-sotrudnikov-ttck-izi",
+        "https://iz.ru/2144546/mironov-prizval-miniust-i-genprokuraturu-prismotretsia-k-partii-iabloko-izi"
       ]
     },
     "2026-08-06": {
-      "totalChecked": 877,
-      "totalIzi": 249,
+      "totalChecked": 864,
+      "totalIzi": 248,
       "totalIiz": 1,
-      "totalAi": 250,
+      "totalAi": 249,
       "topLinks": [
-        "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
         "https://iz.ru/2144688/v-op-predlozhili-vvesti-federalnuiu-vyplatu-k-1-sentiabria-na-kazhdogo-shkolnika-izi",
         "https://iz.ru/2144690/v-mid-rf-poobeshchali-otvetit-avstrii-na-obiavlenie-diplomatov-personami-non-grata-izi",
         "https://iz.ru/2144697/kosmetolog-nazvala-razrushaiushchie-vneshnost-produkty-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2144775/bolee-41-tys-uchastnikov-svo-i-ikh-detei-zachisleny-v-vuzy-po-kvote-izi",
         "https://iz.ru/2144781/deputat-rady-soobshchil-ob-otkaze-ssha-v-naznachenii-umerova-poslom-ukrainy-izi",
         "https://iz.ru/2144784/velikobritaniia-rasshirila-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2144796/kndr-zapustila-neizvestnyi-snariad-v-storonu-iaponskogo-moria-izi"
+        "https://iz.ru/2144796/kndr-zapustila-neizvestnyi-snariad-v-storonu-iaponskogo-moria-izi",
+        "https://iz.ru/2144809/minpromtorg-predlozhil-zakryt-lazeiki-dlia-zakupok-inostrannoi-elektroniki-izi"
       ]
     },
     "2026-08-07": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 502,
-      "totalIzi": 98,
+      "totalChecked": 569,
+      "totalIzi": 123,
       "totalIiz": 2,
-      "totalAi": 100,
+      "totalAi": 125,
       "topLinks": [
         "https://iz.ru/2147419/opasnyi-prokol-kakie-rany-mogut-privesti-k-gazovoi-gangrene-izi",
         "https://iz.ru/2148093/narodnye-primety-na-13-avgusta-chto-mozhno-i-nelzia-delat-iiz",
