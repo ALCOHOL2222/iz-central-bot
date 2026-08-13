@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:21:43.779Z",
+  "generatedAt": "2026-08-13T17:22:31.270Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-05": {
-      "totalChecked": 521,
+      "totalChecked": 507,
       "totalIzi": 159,
       "totalIiz": 1,
       "totalAi": 160,
@@ -179,7 +179,7 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 853,
+      "totalChecked": 835,
       "totalIzi": 248,
       "totalIiz": 1,
       "totalAi": 249,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 751,
-      "totalIzi": 194,
+      "totalChecked": 783,
+      "totalIzi": 207,
       "totalIiz": 2,
-      "totalAi": 196,
+      "totalAi": 209,
       "topLinks": [
         "https://iz.ru/2147419/opasnyi-prokol-kakie-rany-mogut-privesti-k-gazovoi-gangrene-izi",
         "https://iz.ru/2148093/narodnye-primety-na-13-avgusta-chto-mozhno-i-nelzia-delat-iiz",
