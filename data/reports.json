@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:55:41.559Z",
+  "generatedAt": "2026-08-14T21:51:49.803Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 66
   },
   "days": {
-    "2026-08-01": {
-      "totalChecked": 271,
-      "totalIzi": 90,
-      "totalIiz": 2,
-      "totalAi": 92,
-      "topLinks": [
-        "https://iz.ru/2130476/iuliia-fokina/avgust-podarit-shest-nebesnykh-shou-kakie-astronomicheskie-sobytiia-tochno-nelzia-propustit-iiz",
-        "https://iz.ru/2141061/uchenye-sviazali-potreblenie-sakhara-v-mladenchestve-s-riskom-dementcii-izi",
-        "https://iz.ru/2141105/uchenye-usomnilis-v-polze-vladeniia-domashnimi-zhivotnymi-dlia-zdorovia-izi",
-        "https://iz.ru/2141283/narodnye-primety-na-1-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2141725/uchenye-sviazali-risk-razvitiia-bolezni-altcgeimera-s-ozhireniem-izi",
-        "https://iz.ru/2141927/2026-08-01/knopka-dlia-neiroseti-kak-izmenitsia-markirovka-ii-kontenta-v-rossii-izi",
-        "https://iz.ru/2141945/pochemu-turetckie-serialy-snova-zakhvatyvaiut-mir-sekret-populiarnosti-fenomena-izi",
-        "https://iz.ru/2142076/nazvany-spetcialnosti-s-povysivsheisia-v-mae-zarplatoi-izi",
-        "https://iz.ru/2142077/cbs-news-uznal-o-planakh-ssha-i-izrailia-nanesti-udary-po-iranskim-energoobektam-izi",
-        "https://iz.ru/2142090/nalogovye-uvedomleniia-na-gosuslugakh-nachnut-prikhodit-bez-zaiavleniia-s-1-avgusta-izi",
-        "https://iz.ru/2142093/samozaniatye-poluchat-pervye-vyplaty-po-bolnichnym-s-1-avgusta-izi",
-        "https://iz.ru/2142095/v-gosdume-predlozhili-markirovat-gazirovku-i-chipsy-preduprezhdeniiami-o-vrede-izi",
-        "https://iz.ru/2142099/fifa-otkazalas-ot-prodazhi-doli-prav-na-chm-chastnym-investoram-izi",
-        "https://iz.ru/2142100/rabotaiushchim-pensioneram-pereschitaiut-pensii-s-1-avgusta-izi",
-        "https://iz.ru/2142103/pravila-passazhirskikh-perevozok-izmeniatsia-v-rossii-s-1-sentiabria-izi",
-        "https://iz.ru/2142108/v-rossii-uprostiat-oformlenie-ipotechnykh-kanikul-dlia-semei-s-detmi-s-1-sentiabria-izi",
-        "https://iz.ru/2142110/minzdrav-planiruet-vvesti-elektronnuiu-spravku-dlia-oformleniia-opeki-nad-detmi-izi",
-        "https://iz.ru/2142115/v-op-predlozhili-vkliuchit-shkolnye-tovary-v-perechen-sotcialno-znachimykh-izi",
-        "https://iz.ru/2142124/v-gosdume-predlozhili-sdelat-gosuslugi-besplatnymi-dlia-mnogodetnykh-semei-izi",
-        "https://iz.ru/2142126/srednie-tceny-na-gaz-v-evrope-vyrosli-na-19-v-iiule-izi"
-      ]
-    },
     "2026-08-02": {
       "totalChecked": 240,
       "totalIzi": 70,
@@ -401,6 +373,13 @@
         "https://iz.ru/2148904/moshenniki-nachali-ispolzovat-realnye-dannye-kompanii-pri-prodazhe-avto-izi",
         "https://iz.ru/2148905/puertorikanskii-bokser-prichard-kolon-melendes-biografiia-izi"
       ]
+    },
+    "2026-08-15": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
