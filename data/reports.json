@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T00:09:36.847Z",
+  "generatedAt": "2026-08-14T02:56:27.188Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,22 +151,11 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 743,
-      "totalIzi": 235,
+      "totalChecked": 707,
+      "totalIzi": 224,
       "totalIiz": 1,
-      "totalAi": 236,
+      "totalAi": 225,
       "topLinks": [
-        "https://iz.ru/2144766/glava-natcbanka-ukrainy-otcenil-pomoshch-zapada-s-2022-goda-pochti-v-200-mlrd-izi",
-        "https://iz.ru/2144772/v-ssha-nazvali-borbu-za-vozdushnoe-prostranstvo-novoi-fazoi-ukrainskogo-konflikta-izi",
-        "https://iz.ru/2144775/bolee-41-tys-uchastnikov-svo-i-ikh-detei-zachisleny-v-vuzy-po-kvote-izi",
-        "https://iz.ru/2144781/deputat-rady-soobshchil-ob-otkaze-ssha-v-naznachenii-umerova-poslom-ukrainy-izi",
-        "https://iz.ru/2144784/velikobritaniia-rasshirila-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2144796/kndr-zapustila-neizvestnyi-snariad-v-storonu-iaponskogo-moria-izi",
-        "https://iz.ru/2144809/minpromtorg-predlozhil-zakryt-lazeiki-dlia-zakupok-inostrannoi-elektroniki-izi",
-        "https://iz.ru/2144814/v-ramenskom-mat-i-trekhletnii-rebenok-vypali-iz-okna-izi",
-        "https://iz.ru/2144815/messi-oformil-dubl-i-prines-interu-maiami-pobedu-v-kubke-lig-izi",
-        "https://iz.ru/2144816/glava-uraldronzavoda-tkachuk-ne-uspel-sest-v-podorvannuiu-mashinu-izi",
-        "https://iz.ru/2144818/nabu-obvinilo-stefanishinu-v-nezakonnom-obogashchenii-na-14-mln-griven-izi",
         "https://iz.ru/2144822/armiia-rossii-porazila-ispolzuemye-vsu-obekty-logistiki-i-tek-izi",
         "https://iz.ru/2144824/glava-mid-azerbaidzhana-bairamov-pribyl-v-kiev-izi",
         "https://iz.ru/2144827/smi-uznali-ob-ekonomicheskikh-problemakh-finliandii-iz-za-zakrytiia-granitc-s-rf-izi",
@@ -175,11 +164,22 @@
         "https://iz.ru/2144835/glava-mid-azerbaidzhana-vozlozhil-tcvety-k-pamiatniku-vsu-v-kieve-izi",
         "https://iz.ru/2144838/v-omske-avtomobil-vekhal-v-peshekhodov-na-ostrovke-bezopasnosti-chto-izvestno-izi",
         "https://iz.ru/2144841/vitce-premer-kirgizii-soobshchil-primernuiu-datu-nachala-postavok-gsm-iz-rossii-izi",
-        "https://iz.ru/2144847/infantino-prines-izvineniia-za-oshibki-i-poobeshchal-presekat-napadki-na-fifa-izi"
+        "https://iz.ru/2144847/infantino-prines-izvineniia-za-oshibki-i-poobeshchal-presekat-napadki-na-fifa-izi",
+        "https://iz.ru/2144849/tramp-nazval-venesuelskuiu-neft-voennym-trofeem-ssha-izi",
+        "https://iz.ru/2144850/postradavshuiu-pri-atake-bpla-v-gelendzhike-11-letniuiu-devochku-vveli-v-komu-izi",
+        "https://iz.ru/2144851/eks-posla-ukrainy-v-ssha-stefanishinu-vnesli-v-bazu-mirotvortca-izi",
+        "https://iz.ru/2144854/polzovateli-pozhalovalis-na-masshtabnyi-sboi-v-runete-izi",
+        "https://iz.ru/2144856/pri-udare-vsu-po-lugansku-postradali-vosem-chelovek-izi",
+        "https://iz.ru/2144857/tramp-nazval-svoego-vozmozhnogo-preemnika-izi",
+        "https://iz.ru/2144859/obem-privlechennykh-investitcii-na-dalnem-vostoke-dostig-65-trln-rublei-izi",
+        "https://iz.ru/2144863/v-es-gotoviatsia-k-sereznym-posledstviiam-solnechnogo-zatmeniia-na-elektrogeneratciiu-izi",
+        "https://iz.ru/2144869/iampolskaia-predlozhila-optimizirovat-perechen-olimpiad-dlia-postupleniia-v-vuz-izi",
+        "https://iz.ru/2144872/sky-news-soobshchil-o-sekretnom-podzemnom-zavode-dronov-dlia-vsu-izi",
+        "https://iz.ru/2144873/miroshnik-prizval-gotovitsia-k-zatiazhnym-boevym-deistviiam-na-ukraine-iz-za-es-izi"
       ]
     },
     "2026-08-07": {
-      "totalChecked": 838,
+      "totalChecked": 835,
       "totalIzi": 232,
       "totalIiz": 1,
       "totalAi": 233,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 439,
+      "totalChecked": 438,
       "totalIzi": 192,
       "totalIiz": 1,
       "totalAi": 193,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 953,
+      "totalChecked": 952,
       "totalIzi": 250,
       "totalIiz": 4,
       "totalAi": 254,
@@ -375,19 +375,29 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 109,
-      "totalIzi": 5,
+      "totalChecked": 195,
+      "totalIzi": 20,
       "totalIiz": 5,
-      "totalAi": 10,
+      "totalAi": 25,
       "topLinks": [
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2148667/2026-08-14/nevrolog-predupredila-o-golovnoi-boli-iz-za-zapakhov-rastenii-izi",
         "https://iz.ru/2148819/ssha-obvinili-bolee-40-stran-v-masshtabnykh-makhinatciiakh-s-gruzami-iz-kitaia-izi",
+        "https://iz.ru/2148821/wp-sviazala-tcru-s-seriei-atak-na-ekvadorskie-suda-u-galapagosskikh-ostrovov-izi",
         "https://iz.ru/2148826/puertorikanskii-bokser-kolon-umer-v-vozraste-33-let-izi",
+        "https://iz.ru/2148837/kndr-zaiavila-o-gotovnosti-otvetit-na-provokatcionnye-ucheniia-ssha-i-iuzhnoi-korei-izi",
+        "https://iz.ru/2148840/v-gd-predlozhili-ogranichit-poluchenie-matkapitala-dlia-inostrantcev-izi",
+        "https://iz.ru/2148847/bloomberg-uznalo-ob-ugroze-tiuremnogo-sroka-docheri-billa-geitsa-izi",
+        "https://iz.ru/2148848/rossiianam-nazvali-regiony-so-srednei-pensiei-gossluzhashchikh-svyshe-60-tys-rublei-izi",
+        "https://iz.ru/2148850/v-gd-predlozhili-uvelichit-zarplaty-vrachei-do-200-ot-srednei-po-regionu-izi",
+        "https://iz.ru/2148859/miroshnik-obiasnil-otsutstvie-vsu-na-parade-v-varshave-predstoiashchimi-vyborami-v-polshe-izi",
         "https://iz.ru/2136463/ne-rukodelnichat-i-ne-ubiratsia-kakie-zaprety-vazhno-sobliudat-na-iablochnyi-spas-iiz",
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2148667/2026-08-14/nevrolog-predupredila-o-golovnoi-boli-iz-za-zapakhov-rastenii-izi",
         "https://iz.ru/2148819/ssha-obvinili-bolee-40-stran-v-masshtabnykh-makhinatciiakh-s-gruzami-iz-kitaia-izi",
+        "https://iz.ru/2148821/wp-sviazala-tcru-s-seriei-atak-na-ekvadorskie-suda-u-galapagosskikh-ostrovov-izi",
         "https://iz.ru/2148826/puertorikanskii-bokser-kolon-umer-v-vozraste-33-let-izi",
         "https://iz.ru/2148837/kndr-zaiavila-o-gotovnosti-otvetit-na-provokatcionnye-ucheniia-ssha-i-iuzhnoi-korei-izi"
       ]
