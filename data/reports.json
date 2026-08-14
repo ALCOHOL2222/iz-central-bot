@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:51:09.250Z",
+  "generatedAt": "2026-08-14T23:48:08.200Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 906,
-      "totalIzi": 230,
+      "totalChecked": 929,
+      "totalIzi": 234,
       "totalIiz": 5,
-      "totalAi": 235,
+      "totalAi": 239,
       "topLinks": [
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -375,11 +375,16 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 46,
-      "totalIzi": 5,
+      "totalChecked": 95,
+      "totalIzi": 10,
       "totalIiz": 0,
-      "totalAi": 5,
+      "totalAi": 10,
       "topLinks": [
+        "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
+        "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
+        "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
+        "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi",
+        "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi",
         "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
         "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
         "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
