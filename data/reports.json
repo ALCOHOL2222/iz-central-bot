@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T13:53:11.446Z",
+  "generatedAt": "2026-08-14T15:17:22.013Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,40 +151,39 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 521,
-      "totalIzi": 157,
+      "totalChecked": 473,
+      "totalIzi": 134,
       "totalIiz": 1,
-      "totalAi": 158,
+      "totalAi": 135,
       "topLinks": [
-        "https://iz.ru/2145095/chetyre-cheloveka-postradali-pri-atake-dronov-vsu-v-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2145103/rossiia-uvelichila-vvoz-ezheviki-iz-turtcii-do-istoricheskogo-maksimuma-izi",
-        "https://iz.ru/2145106/matvienko-dopustila-predosterezhenie-rossiianam-o-poezdkakh-v-armeniiu-izi",
-        "https://iz.ru/2145110/inostrannym-naemnikam-prediavili-obvineniia-za-uchastie-v-boiakh-pod-kurskom-izi",
-        "https://iz.ru/2145114/glavnyi-trener-sbornoi-rossii-po-futbolu-valerii-karpin-v-shestoi-raz-stal-ottcom-izi",
-        "https://iz.ru/2145115/rossiiskii-akter-i-rezhisser-danila-kozlovskii-biografiia-izi",
-        "https://iz.ru/2145117/mera-frantcuzskoi-kommuny-verken-izbili-vo-vremia-sluzhebnogo-vyezda-izi",
-        "https://iz.ru/2145121/rossiiskaia-aktrisa-oksana-akinshina-biografiia-izi",
-        "https://iz.ru/2145122/matvienko-nazvala-vstuplenie-armenii-v-es-narusheniem-printcipov-eaes-izi",
-        "https://iz.ru/2145131/overchuk-soobshchil-ob-urovne-samoobespecheniia-prodbezopasnosti-eaes-vyshe-93-izi",
-        "https://iz.ru/2145133/v-brovarakh-porazhen-logisticheskii-tcentr-s-punktom-dislokatcii-vsu-izi",
-        "https://iz.ru/2145134/smi-soobshchili-o-sokrashchenii-sudokhodstva-v-ormuzskom-i-bab-el-mandebskom-prolivakh-izi",
-        "https://iz.ru/2145135/v-iaponii-vrachi-pri-moshchnom-zemletriasenii-zakryli-soboi-patcienta-vo-vremia-operatcii-izi",
-        "https://iz.ru/2145143/nachalniki-trekh-ttck-na-zapade-ukrainy-fiktivno-povyshali-pokazateli-mobilizatcii-izi",
-        "https://iz.ru/2145155/overchuk-ukazal-na-gotovnost-rf-prodolzhat-kontcessiiu-na-upravlenie-zhd-armenii-izi",
-        "https://iz.ru/2145159/v-polshe-obnaruzhili-ostanki-bolee-50-zhertv-volynskoi-rezni-izi",
-        "https://iz.ru/2145162/v-tailande-ishchut-tela-eshche-trekh-vozmozhnykh-zhertv-bandy-posle-ubiistva-rossiian-izi",
-        "https://iz.ru/2145166/v-britanii-zhenshchinu-politceiskogo-pokusali-pri-podavlenii-antimigrantskikh-volnenii-izi",
-        "https://iz.ru/2145171/putin-vruchil-blagodarnost-rossiiskomu-reperu-st-za-vklad-v-kulturu-i-iskusstvo-izi",
-        "https://iz.ru/2145172/zhitel-floridy-poimal-96-pitonov-i-vyigral-konkurs-na-10-tys-izi"
+        "https://iz.ru/2145183/uefa-sokhranila-boikot-turnirov-fifa-posle-izvinenii-infantino-izi",
+        "https://iz.ru/2145184/rossiianin-ternovoi-stal-chempionom-evropy-v-pryzhkakh-s-vyshki-izi",
+        "https://iz.ru/2145190/dmitriev-ironichno-pointeresovalsia-ob-istinnoi-roli-evropy-u-migrantov-izi",
+        "https://iz.ru/2145191/magate-vyrazilo-obespokoennost-situatciei-s-energosnabzheniem-zaes-izi",
+        "https://iz.ru/2145192/ukrainskogo-pevtca-i-kompozitora-mrezhuka-vnesli-v-bazu-saita-mirotvoretc-izi",
+        "https://iz.ru/2145194/smi-soobshchili-o-zaderzhkakh-poezdov-v-britanii-iz-za-sboia-s-elektrichestvom-izi",
+        "https://iz.ru/2145196/ft-uznala-ob-obuchenii-kartelei-kolumbii-primeneniiu-dronov-v-vsu-izi",
+        "https://iz.ru/2145200/2026-08-06/pravitelstvo-obsuzhdaet-nalogovye-lgoty-dlia-postradavshikh-prodavtcov-wildberries-izi",
+        "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
+        "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
+        "https://iz.ru/2144228/uchenye-otkryli-mekhanizm-usileniia-signalov-serdtca-v-mozge-vo-vremia-sna-izi",
+        "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
+        "https://iz.ru/2144688/v-op-predlozhili-vvesti-federalnuiu-vyplatu-k-1-sentiabria-na-kazhdogo-shkolnika-izi",
+        "https://iz.ru/2144690/v-mid-rf-poobeshchali-otvetit-avstrii-na-obiavlenie-diplomatov-personami-non-grata-izi",
+        "https://iz.ru/2144697/kosmetolog-nazvala-razrushaiushchie-vneshnost-produkty-izi",
+        "https://iz.ru/2144701/v-polshe-soobshchili-o-skandale-iz-za-nonoi-initciativy-deputatov-verkhovnoi-rady-izi",
+        "https://iz.ru/2144707/bolee-200-volonterov-moskovskoi-shkoly-no-2010-reguliarno-pomogaiut-uchastnikam-svo-izi",
+        "https://iz.ru/2144719/v-tailande-nachalas-tceremoniia-proshchaniia-s-ubitymi-rossiianami-nazimovymi-izi",
+        "https://iz.ru/2144724/pri-atake-dronov-vsu-na-engels-podrostok-poluchil-cherepno-mozgovuiu-travmu-izi"
       ]
     },
     "2026-08-07": {
-      "totalChecked": 817,
-      "totalIzi": 232,
+      "totalChecked": 809,
+      "totalIzi": 231,
       "totalIiz": 1,
-      "totalAi": 233,
+      "totalAi": 232,
       "topLinks": [
-        "https://iz.ru/2145173/v-stroitelnoi-i-smezhnykh-otrasliakh-zadeistvovano-poriadka-13-mln-chelovek-izi",
         "https://iz.ru/2145266/nemetckaia-pressa-vysmeiala-molby-zelenskogo-o-raketakh-pvo-izi",
         "https://iz.ru/2145268/pryguna-v-vodu-ternovogo-vyzvali-na-doping-kontrol-posle-pobedy-na-che-izi",
         "https://iz.ru/2145271/2026-08-07/bloomberg-soobshchilo-o-volne-samoubiistv-v-kiberkomandovanii-ssha-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2145319/mintrans-predlozhil-razreshit-zashchitu-dorog-ot-bespilotnikov-izi",
         "https://iz.ru/2145322/tri-bespilotnika-upali-na-kryshu-logisticheskogo-tcentra-na-urale-izi",
         "https://iz.ru/2145337/fsb-zaderzhala-bolee-20-sotrudnikov-kriptoobmennikov-v-moskva-siti-izi",
-        "https://iz.ru/2145338/wp-uznala-ob-otkaze-stran-es-peredavat-ukraine-rakety-dlia-patriot-izi"
+        "https://iz.ru/2145338/wp-uznala-ob-otkaze-stran-es-peredavat-ukraine-rakety-dlia-patriot-izi",
+        "https://iz.ru/2145342/khimik-poluchil-15-let-kolonii-za-narkolaboratoriiu-v-garazhe-izi"
       ]
     },
     "2026-08-08": {
-      "totalChecked": 437,
+      "totalChecked": 436,
       "totalIzi": 192,
       "totalIiz": 1,
       "totalAi": 193,
@@ -235,12 +235,11 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 440,
-      "totalIzi": 226,
+      "totalChecked": 439,
+      "totalIzi": 225,
       "totalIiz": 2,
-      "totalAi": 228,
+      "totalAi": 227,
       "topLinks": [
-        "https://iz.ru/2145129/v-rf-sobrali-tysiachi-dokumentov-o-blokade-leningrada-dlia-priznaniia-ee-genotcidom-izi",
         "https://iz.ru/2146138/otdykhaiushchie-v-turtcii-obnaruzhili-nerazorvavshiisia-artilleriiskii-snariad-izi",
         "https://iz.ru/2146141/2026-08-09/okolo-99-tys-abonentov-v-chernigovskoi-oblasti-ukrainy-ostalis-bez-sveta-izi",
         "https://iz.ru/2146142/2026-08-09/chetvero-muzhchin-gospitalizirovany-posle-padeniia-lifta-v-zhilom-dome-v-makhachkale-izi",
@@ -259,7 +258,8 @@
         "https://iz.ru/2146185/sotrudniki-ttck-ne-tronuli-vygulivavshego-leoparda-ukraintca-izi",
         "https://iz.ru/2146186/geolog-razveiala-mif-o-sviazi-proiskhozhdeniia-nefti-s-gibeliu-dinozavrov-izi",
         "https://iz.ru/2146187/rossiiane-vpervye-stali-potrebliat-bolee-100-kg-miasa-v-god-izi",
-        "https://iz.ru/2146188/kalashnikov-napravit-v-zonu-svo-novyi-dron-kub-10me-izi"
+        "https://iz.ru/2146188/kalashnikov-napravit-v-zonu-svo-novyi-dron-kub-10me-izi",
+        "https://iz.ru/2146189/rossiianam-rasskazali-ob-opasnosti-redkoi-smeny-postelnogo-belia-izi"
       ]
     },
     "2026-08-10": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 904,
+      "totalChecked": 903,
       "totalIzi": 238,
       "totalIiz": 2,
       "totalAi": 240,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 564,
-      "totalIzi": 115,
+      "totalChecked": 742,
+      "totalIzi": 182,
       "totalIiz": 5,
-      "totalAi": 120,
+      "totalAi": 187,
       "topLinks": [
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
