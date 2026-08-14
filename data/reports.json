@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T06:52:48.491Z",
+  "generatedAt": "2026-08-14T08:47:14.732Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,35 +151,35 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 649,
-      "totalIzi": 199,
+      "totalChecked": 606,
+      "totalIzi": 180,
       "totalIiz": 1,
-      "totalAi": 200,
+      "totalAi": 181,
       "topLinks": [
-        "https://iz.ru/2144894/es-vkliuchil-uraldronzavod-v-spisok-antirossiiskikh-sanktcii-izi",
-        "https://iz.ru/2144897/glava-minoborony-litvy-predupredil-o-vozmozhnoi-atake-dronov-vsu-na-pribaltiku-izi",
-        "https://iz.ru/2144899/ukrainskii-samolet-v-frg-s-obnaruzhennoi-riadom-vzryvchatkoi-perevozil-boepripasy-izi",
-        "https://iz.ru/2144901/umer-frantcuzskii-pisatel-i-laureat-gonkurovskoi-premii-dide-dekuen-izi",
-        "https://iz.ru/2144902/devushka-postradala-pri-padenii-s-attraktciona-v-tiumeni-izi",
-        "https://iz.ru/2144910/rossiian-ne-budut-nakazyvat-za-otkaz-ot-uchastiia-v-chm-po-voleibolu-v-polshe-izi",
-        "https://iz.ru/2144919/azerbaidzhan-zaiavil-o-gotovnosti-postavliat-gaz-ukraine-izi",
-        "https://iz.ru/2144925/nabravshaia-500-ballov-na-ege-moskovskaia-shkolnitca-postupila-v-mfti-izi",
-        "https://iz.ru/2144926/mid-rf-nazval-udar-ukrainy-po-zaes-ugrozoi-bezopasnosti-stantcii-izi",
-        "https://iz.ru/2144932/na-ukraine-pozhalovalis-na-slozhnye-peregovory-po-postavkam-raket-dlia-patriot-izi",
-        "https://iz.ru/2144933/silnyi-veter-stal-prichinoi-vynuzhdennoi-posadki-cessna-182-v-priangare-izi",
-        "https://iz.ru/2144936/nasa-i-eso-podtverdili-fakt-padeniia-verkhnei-stupeni-falcon-9-na-lunu-izi",
-        "https://iz.ru/2144943/v-mid-rf-prizvali-iaponiiu-vspomnit-o-roli-ssha-v-atomnykh-bombardirovkakh-izi",
-        "https://iz.ru/2144944/danila-kozlovskii-vpervye-pokazal-foto-novorozhdennogo-syna-ot-oksany-akinshinoi-izi",
-        "https://iz.ru/2144946/v-mid-rf-ukazali-na-otsutstvie-predlozhenii-kieva-po-vozobnovleniiu-dipotnoshenii-izi",
-        "https://iz.ru/2144947/bild-soobshchila-ob-atake-drona-po-nemetckomu-gruzovomu-sudnu-v-chernom-more-izi",
-        "https://iz.ru/2144948/reshetnikov-ukazal-na-interes-rossiiskoi-ekonomiki-k-tcivilizovannoi-migratcii-izi",
-        "https://iz.ru/2144949/lider-kprf-obvinil-partiiu-iabloko-v-otsutstvii-podderzhki-gosudarstvennosti-izi",
-        "https://iz.ru/2144950/krupneishii-v-mire-neftepererabotchik-narastil-zakupki-iz-rossii-izi",
-        "https://iz.ru/2144955/ice-arestovala-223-ukraintca-so-statusom-vremennoi-zashchity-v-ssha-za-polgoda-izi"
+        "https://iz.ru/2144955/ice-arestovala-223-ukraintca-so-statusom-vremennoi-zashchity-v-ssha-za-polgoda-izi",
+        "https://iz.ru/2144960/v-mid-rf-nazvali-ushcherbnoi-eskalatciiu-konflikta-na-ukraine-za-schet-usileniia-vsu-izi",
+        "https://iz.ru/2144978/moshenniki-nachali-krast-dengi-rossiian-pod-predlogom-perenosa-domovogo-chata-izi",
+        "https://iz.ru/2144981/chislo-pogibshikh-pri-obostrenii-migratcionnogo-krizisa-v-seute-vyroslo-do-100-izi",
+        "https://iz.ru/2144989/mezhdunarodnye-rezervy-rossii-sokratilis-do-7203-mlrd-izi",
+        "https://iz.ru/2144991/v-novoi-zelandii-vpervye-za-15-let-vypal-sneg-izi",
+        "https://iz.ru/2144997/mezhdunarodnye-rezervy-rossii-s-24-po-31-iiulia-sokratilis-na-16-do-7203-mlrd-izi",
+        "https://iz.ru/2145005/mironov-nazval-iabloko-partiei-predatelei-i-prizval-sniat-ee-s-vyborov-izi",
+        "https://iz.ru/2145006/reper-aap-rocky-soobshchil-o-tainoi-rabote-rianny-nad-novym-albomom-izi",
+        "https://iz.ru/2145018/euractiv-soobshchil-o-privlechenii-fermerov-v-finliandii-k-patruliu-granitcy-izi",
+        "https://iz.ru/2145020/roskosmos-zaiavil-ob-uspeshnom-priniatii-elektro-l-no5-v-odnoimennuiu-sistemu-izi",
+        "https://iz.ru/2145024/nyt-uznala-o-vse-menshem-zhelanii-zapada-peredavat-kievu-rakety-dlia-pvo-izi",
+        "https://iz.ru/2145029/putin-postanovil-sozdat-v-iakutii-i-pod-smolenskom-klaster-po-ogranke-almazov-izi",
+        "https://iz.ru/2145031/shest-chelovek-postradali-pri-udare-drona-vsu-po-marshrutke-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2145036/velikobritaniia-odobrila-sliianie-paramount-i-warner-bros-na-summu-110-mlrd-izi",
+        "https://iz.ru/2145059/boitcy-gruppirovki-voisk-tcentr-rasskazali-o-rabote-v-zone-spetcoperatcii-izi",
+        "https://iz.ru/2145070/genprokuratura-rf-priznala-nezhelatelnoi-deiatelnost-fonda-human-rights-foundation-izi",
+        "https://iz.ru/2145076/putin-prisvoil-zvanie-gvardeiskaia-76-i-divizii-pvo-izi",
+        "https://iz.ru/2145080/rossiiskii-plovetc-zharkov-ustanovil-mirovoi-rekord-na-distantcii-25-m-brassom-izi",
+        "https://iz.ru/2145082/voennosluzhashchie-prezidentskogo-polka-priniali-prisiagu-v-kremle-izi"
       ]
     },
     "2026-08-07": {
-      "totalChecked": 835,
+      "totalChecked": 830,
       "totalIzi": 232,
       "totalIiz": 1,
       "totalAi": 233,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 442,
+      "totalChecked": 441,
       "totalIzi": 226,
       "totalIiz": 2,
       "totalAi": 228,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 952,
+      "totalChecked": 951,
       "totalIzi": 250,
       "totalIiz": 4,
       "totalAi": 254,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 314,
-      "totalIzi": 48,
+      "totalChecked": 364,
+      "totalIzi": 61,
       "totalIiz": 5,
-      "totalAi": 53,
+      "totalAi": 66,
       "topLinks": [
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
