@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:07:33.323Z",
+  "generatedAt": "2026-08-14T20:55:41.559Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,19 +179,11 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 760,
-      "totalIzi": 225,
+      "totalChecked": 737,
+      "totalIzi": 217,
       "totalIiz": 1,
-      "totalAi": 226,
+      "totalAi": 218,
       "topLinks": [
-        "https://iz.ru/2145294/dva-cheloveka-zaderzhany-i-12-postradali-v-khode-protestov-u-parlamenta-argentiny-izi",
-        "https://iz.ru/2145297/shest-mirnykh-zhitelei-dnr-postradali-ot-atak-dronov-vsu-za-sutki-izi",
-        "https://iz.ru/2145300/ekspert-rasskazal-o-privlekatelnosti-neirosetei-dlia-podrostkov-izi",
-        "https://iz.ru/2145301/2026-08-07/kolichestvo-pensionerov-v-rossii-dostiglo-pochti-405-mln-izi",
-        "https://iz.ru/2145302/2026-08-07/zapasy-gaza-v-evropeiskikh-khranilishchakh-obnovili-minimum-za-15-let-izi",
-        "https://iz.ru/2145304/premer-ministr-litvy-sinkiavichius-oproverg-slova-glavy-minoborony-o-rossii-izi",
-        "https://iz.ru/2145310/2026-08-07/rossiiskii-voennosluzhashchii-chetyre-mesiatca-vel-razvedku-v-tylu-vsu-izi",
-        "https://iz.ru/2145312/2026-08-07/tri-cheloveka-pogibli-v-rezultate-strelby-v-shkole-tailanda-izi",
         "https://iz.ru/2145316/nevrolog-predupredila-ob-opasnosti-sna-bez-podushki-izi",
         "https://iz.ru/2145319/mintrans-predlozhil-razreshit-zashchitu-dorog-ot-bespilotnikov-izi",
         "https://iz.ru/2145322/tri-bespilotnika-upali-na-kryshu-logisticheskogo-tcentra-na-urale-izi",
@@ -203,7 +195,15 @@
         "https://iz.ru/2145347/piat-zhitelei-belgorodskoi-oblasti-raneny-v-rezultate-atak-vsu-izi",
         "https://iz.ru/2145353/khovalyg-vkliuchil-senatora-narusovu-v-spisok-kandidatov-v-sf-ot-tyvy-izi",
         "https://iz.ru/2145368/v-es-dopustili-prisoedinenie-islandii-i-chernogorii-k-2028-godu-izi",
-        "https://iz.ru/2145370/faa-soobshchilo-o-proverke-samoletov-boeing-737-max-na-nalichie-treshchin-v-konstruktcii-izi"
+        "https://iz.ru/2145370/faa-soobshchilo-o-proverke-samoletov-boeing-737-max-na-nalichie-treshchin-v-konstruktcii-izi",
+        "https://iz.ru/2145373/rossiiskaia-marka-umo-raskryla-tceny-i-komplektatcii-bolshogo-krossovera-8-izi",
+        "https://iz.ru/2145380/rabotu-putina-polozhitelno-otcenili-70-rossiian-izi",
+        "https://iz.ru/2145387/alpinistam-ne-udalos-dobratsia-do-tela-nagovitcinoi-na-pike-pobedy-izi",
+        "https://iz.ru/2145391/v-kaluzhskoi-oblasti-presekli-nezakonnuiu-registratciiu-sim-kart-na-uchastnikov-svo-izi",
+        "https://iz.ru/2145413/obnaruzhennyi-v-aeroportu-frg-dron-ostavalsia-nazamechennym-bolee-chetyrekh-chasov-izi",
+        "https://iz.ru/2145414/armiia-rossii-za-nedeliu-nanesla-12-gruppovykh-udarov-po-voennym-tceliam-na-ukraine-izi",
+        "https://iz.ru/2145417/lantratova-predlozhila-otmenit-gosposhliny-pri-obrashchenii-v-sud-dlia-ispravleniia-opechatok-izi",
+        "https://iz.ru/2145432/na-ukraine-khotiat-priznat-lidera-hatters-muzychenko-ugrozoi-natcbezopasnosti-izi"
       ]
     },
     "2026-08-08": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 880,
-      "totalIzi": 223,
+      "totalChecked": 903,
+      "totalIzi": 230,
       "totalIiz": 5,
-      "totalAi": 228,
+      "totalAi": 235,
       "topLinks": [
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
