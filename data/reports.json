@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:51:49.803Z",
+  "generatedAt": "2026-08-14T22:51:09.250Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,21 +151,11 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 737,
-      "totalIzi": 217,
+      "totalChecked": 690,
+      "totalIzi": 207,
       "totalIiz": 1,
-      "totalAi": 218,
+      "totalAi": 208,
       "topLinks": [
-        "https://iz.ru/2145316/nevrolog-predupredila-ob-opasnosti-sna-bez-podushki-izi",
-        "https://iz.ru/2145319/mintrans-predlozhil-razreshit-zashchitu-dorog-ot-bespilotnikov-izi",
-        "https://iz.ru/2145322/tri-bespilotnika-upali-na-kryshu-logisticheskogo-tcentra-na-urale-izi",
-        "https://iz.ru/2145337/fsb-zaderzhala-bolee-20-sotrudnikov-kriptoobmennikov-v-moskva-siti-izi",
-        "https://iz.ru/2145338/wp-uznala-ob-otkaze-stran-es-peredavat-ukraine-rakety-dlia-patriot-izi",
-        "https://iz.ru/2145342/khimik-poluchil-15-let-kolonii-za-narkolaboratoriiu-v-garazhe-izi",
-        "https://iz.ru/2145343/muzhchina-udaril-11-letnego-malchika-na-sportivnoi-ploshchadke-izi",
-        "https://iz.ru/2145344/razvedka-ssha-zaiavila-o-iakoby-vozmozhnom-napadenii-rossii-na-stranu-nato-izi",
-        "https://iz.ru/2145347/piat-zhitelei-belgorodskoi-oblasti-raneny-v-rezultate-atak-vsu-izi",
-        "https://iz.ru/2145353/khovalyg-vkliuchil-senatora-narusovu-v-spisok-kandidatov-v-sf-ot-tyvy-izi",
         "https://iz.ru/2145368/v-es-dopustili-prisoedinenie-islandii-i-chernogorii-k-2028-godu-izi",
         "https://iz.ru/2145370/faa-soobshchilo-o-proverke-samoletov-boeing-737-max-na-nalichie-treshchin-v-konstruktcii-izi",
         "https://iz.ru/2145373/rossiiskaia-marka-umo-raskryla-tceny-i-komplektatcii-bolshogo-krossovera-8-izi",
@@ -175,11 +165,21 @@
         "https://iz.ru/2145413/obnaruzhennyi-v-aeroportu-frg-dron-ostavalsia-nazamechennym-bolee-chetyrekh-chasov-izi",
         "https://iz.ru/2145414/armiia-rossii-za-nedeliu-nanesla-12-gruppovykh-udarov-po-voennym-tceliam-na-ukraine-izi",
         "https://iz.ru/2145417/lantratova-predlozhila-otmenit-gosposhliny-pri-obrashchenii-v-sud-dlia-ispravleniia-opechatok-izi",
-        "https://iz.ru/2145432/na-ukraine-khotiat-priznat-lidera-hatters-muzychenko-ugrozoi-natcbezopasnosti-izi"
+        "https://iz.ru/2145432/na-ukraine-khotiat-priznat-lidera-hatters-muzychenko-ugrozoi-natcbezopasnosti-izi",
+        "https://iz.ru/2145438/analitik-otcenil-perspektivy-dvizheniia-bitkoina-k-72-tys-izi",
+        "https://iz.ru/2145440/diskvalifitcirovannyi-za-doping-zabolotnyi-podpisal-kontrakt-s-klubom-basty-izi",
+        "https://iz.ru/2145443/putin-obsudil-s-prezidentom-oae-situatciiu-v-persidskom-zalive-i-na-ukraine-izi",
+        "https://iz.ru/2145447/iran-podgotovil-zakonoproekt-o-zaprete-prokhoda-sudov-ssha-i-izrailia-cherez-ormuz-izi",
+        "https://iz.ru/2145450/v-ttck-zhitomirskoi-oblasti-umer-priznannyi-godnym-k-sluzhbe-muzhchina-izi",
+        "https://iz.ru/2145451/fetisov-obiasnil-prichiny-nedopuska-sbornoi-rossii-po-khokkeiu-do-chm-2027-izi",
+        "https://iz.ru/2145452/rodina-podala-isk-v-verkhovnyi-sud-o-sniatii-iabloka-s-vyborov-v-gosdumu-izi",
+        "https://iz.ru/2145453/v-meksike-i-argentine-podderzhali-infantino-posle-idei-o-prodazhe-doli-chm-izi",
+        "https://iz.ru/2145455/v-podmoskove-vpervye-oshtrafovali-vladeltca-chastnogo-uchastka-za-borshchevik-izi",
+        "https://iz.ru/2145462/ukraina-poteriala-400-tys-kv-m-skladskikh-ploshchadei-za-iiul-izi"
       ]
     },
     "2026-08-08": {
-      "totalChecked": 436,
+      "totalChecked": 435,
       "totalIzi": 192,
       "totalIiz": 1,
       "totalAi": 193,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 439,
+      "totalChecked": 438,
       "totalIzi": 225,
       "totalIiz": 2,
       "totalAi": 227,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 903,
+      "totalChecked": 906,
       "totalIzi": 230,
       "totalIiz": 5,
       "totalAi": 235,
@@ -375,11 +375,17 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 0,
-      "totalIzi": 0,
+      "totalChecked": 46,
+      "totalIzi": 5,
       "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalAi": 5,
+      "topLinks": [
+        "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
+        "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
+        "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
+        "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi",
+        "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi"
+      ]
     }
   }
 }
