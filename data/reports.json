@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:15:20.013Z",
+  "generatedAt": "2026-08-14T17:21:55.050Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,19 +151,11 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 473,
-      "totalIzi": 134,
+      "totalChecked": 449,
+      "totalIzi": 126,
       "totalIiz": 1,
-      "totalAi": 135,
+      "totalAi": 127,
       "topLinks": [
-        "https://iz.ru/2145183/uefa-sokhranila-boikot-turnirov-fifa-posle-izvinenii-infantino-izi",
-        "https://iz.ru/2145184/rossiianin-ternovoi-stal-chempionom-evropy-v-pryzhkakh-s-vyshki-izi",
-        "https://iz.ru/2145190/dmitriev-ironichno-pointeresovalsia-ob-istinnoi-roli-evropy-u-migrantov-izi",
-        "https://iz.ru/2145191/magate-vyrazilo-obespokoennost-situatciei-s-energosnabzheniem-zaes-izi",
-        "https://iz.ru/2145192/ukrainskogo-pevtca-i-kompozitora-mrezhuka-vnesli-v-bazu-saita-mirotvoretc-izi",
-        "https://iz.ru/2145194/smi-soobshchili-o-zaderzhkakh-poezdov-v-britanii-iz-za-sboia-s-elektrichestvom-izi",
-        "https://iz.ru/2145196/ft-uznala-ob-obuchenii-kartelei-kolumbii-primeneniiu-dronov-v-vsu-izi",
-        "https://iz.ru/2145200/2026-08-06/pravitelstvo-obsuzhdaet-nalogovye-lgoty-dlia-postradavshikh-prodavtcov-wildberries-izi",
         "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
         "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
@@ -175,11 +167,19 @@
         "https://iz.ru/2144701/v-polshe-soobshchili-o-skandale-iz-za-nonoi-initciativy-deputatov-verkhovnoi-rady-izi",
         "https://iz.ru/2144707/bolee-200-volonterov-moskovskoi-shkoly-no-2010-reguliarno-pomogaiut-uchastnikam-svo-izi",
         "https://iz.ru/2144719/v-tailande-nachalas-tceremoniia-proshchaniia-s-ubitymi-rossiianami-nazimovymi-izi",
-        "https://iz.ru/2144724/pri-atake-dronov-vsu-na-engels-podrostok-poluchil-cherepno-mozgovuiu-travmu-izi"
+        "https://iz.ru/2144724/pri-atake-dronov-vsu-na-engels-podrostok-poluchil-cherepno-mozgovuiu-travmu-izi",
+        "https://iz.ru/2144726/oxxxymiron-sokhranil-ip-v-rossii-kto-iz-inoagentov-chislitsia-predprinimatelem-izi",
+        "https://iz.ru/2144729/v-primore-zaderzhali-podrostkov-za-podgotovku-terakta-na-obekte-rosgvardii-izi",
+        "https://iz.ru/2144735/mer-khirosimy-v-godovshchinu-bombardirovki-ni-razu-ne-upomianul-ssha-v-rechi-izi",
+        "https://iz.ru/2144737/pri-atake-drona-vsu-v-brianskoi-oblasti-postradali-chetyre-devushki-izi",
+        "https://iz.ru/2144741/tovarooborot-rossii-i-armenii-v-etom-godu-sokratilsia-na-dve-treti-izi",
+        "https://iz.ru/2144758/v-ssha-soobshchili-o-vosstanovlenii-tempom-obmena-razveddannymi-s-kievom-izi",
+        "https://iz.ru/2144766/glava-natcbanka-ukrainy-otcenil-pomoshch-zapada-s-2022-goda-pochti-v-200-mlrd-izi",
+        "https://iz.ru/2144772/v-ssha-nazvali-borbu-za-vozdushnoe-prostranstvo-novoi-fazoi-ukrainskogo-konflikta-izi"
       ]
     },
     "2026-08-07": {
-      "totalChecked": 809,
+      "totalChecked": 794,
       "totalIzi": 231,
       "totalIiz": 1,
       "totalAi": 232,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 742,
-      "totalIzi": 182,
+      "totalChecked": 781,
+      "totalIzi": 190,
       "totalIiz": 5,
-      "totalAi": 187,
+      "totalAi": 195,
       "topLinks": [
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
