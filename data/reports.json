@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:26:41.037Z",
+  "generatedAt": "2026-08-14T12:07:13.756Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,20 +151,11 @@
       ]
     },
     "2026-08-06": {
-      "totalChecked": 606,
-      "totalIzi": 180,
+      "totalChecked": 568,
+      "totalIzi": 171,
       "totalIiz": 1,
-      "totalAi": 181,
+      "totalAi": 172,
       "topLinks": [
-        "https://iz.ru/2144955/ice-arestovala-223-ukraintca-so-statusom-vremennoi-zashchity-v-ssha-za-polgoda-izi",
-        "https://iz.ru/2144960/v-mid-rf-nazvali-ushcherbnoi-eskalatciiu-konflikta-na-ukraine-za-schet-usileniia-vsu-izi",
-        "https://iz.ru/2144978/moshenniki-nachali-krast-dengi-rossiian-pod-predlogom-perenosa-domovogo-chata-izi",
-        "https://iz.ru/2144981/chislo-pogibshikh-pri-obostrenii-migratcionnogo-krizisa-v-seute-vyroslo-do-100-izi",
-        "https://iz.ru/2144989/mezhdunarodnye-rezervy-rossii-sokratilis-do-7203-mlrd-izi",
-        "https://iz.ru/2144991/v-novoi-zelandii-vpervye-za-15-let-vypal-sneg-izi",
-        "https://iz.ru/2144997/mezhdunarodnye-rezervy-rossii-s-24-po-31-iiulia-sokratilis-na-16-do-7203-mlrd-izi",
-        "https://iz.ru/2145005/mironov-nazval-iabloko-partiei-predatelei-i-prizval-sniat-ee-s-vyborov-izi",
-        "https://iz.ru/2145006/reper-aap-rocky-soobshchil-o-tainoi-rabote-rianny-nad-novym-albomom-izi",
         "https://iz.ru/2145018/euractiv-soobshchil-o-privlechenii-fermerov-v-finliandii-k-patruliu-granitcy-izi",
         "https://iz.ru/2145020/roskosmos-zaiavil-ob-uspeshnom-priniatii-elektro-l-no5-v-odnoimennuiu-sistemu-izi",
         "https://iz.ru/2145024/nyt-uznala-o-vse-menshem-zhelanii-zapada-peredavat-kievu-rakety-dlia-pvo-izi",
@@ -175,11 +166,20 @@
         "https://iz.ru/2145070/genprokuratura-rf-priznala-nezhelatelnoi-deiatelnost-fonda-human-rights-foundation-izi",
         "https://iz.ru/2145076/putin-prisvoil-zvanie-gvardeiskaia-76-i-divizii-pvo-izi",
         "https://iz.ru/2145080/rossiiskii-plovetc-zharkov-ustanovil-mirovoi-rekord-na-distantcii-25-m-brassom-izi",
-        "https://iz.ru/2145082/voennosluzhashchie-prezidentskogo-polka-priniali-prisiagu-v-kremle-izi"
+        "https://iz.ru/2145082/voennosluzhashchie-prezidentskogo-polka-priniali-prisiagu-v-kremle-izi",
+        "https://iz.ru/2145084/saldo-soobshchil-o-provalnykh-popytkakh-vsu-vysaditsia-na-kinburnskoi-kose-izi",
+        "https://iz.ru/2145086/uchastnik-svo-rasskazal-o-perezhitom-udare-molnii-izi",
+        "https://iz.ru/2145093/evrope-predrekli-ushcherb-v-razmere-eu800-mlrd-iz-za-anomalnoi-zhary-izi",
+        "https://iz.ru/2145095/chetyre-cheloveka-postradali-pri-atake-dronov-vsu-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2145103/rossiia-uvelichila-vvoz-ezheviki-iz-turtcii-do-istoricheskogo-maksimuma-izi",
+        "https://iz.ru/2145106/matvienko-dopustila-predosterezhenie-rossiianam-o-poezdkakh-v-armeniiu-izi",
+        "https://iz.ru/2145110/inostrannym-naemnikam-prediavili-obvineniia-za-uchastie-v-boiakh-pod-kurskom-izi",
+        "https://iz.ru/2145114/glavnyi-trener-sbornoi-rossii-po-futbolu-valerii-karpin-v-shestoi-raz-stal-ottcom-izi",
+        "https://iz.ru/2145115/rossiiskii-akter-i-rezhisser-danila-kozlovskii-biografiia-izi"
       ]
     },
     "2026-08-07": {
-      "totalChecked": 830,
+      "totalChecked": 826,
       "totalIzi": 232,
       "totalIiz": 1,
       "totalAi": 233,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 866,
+      "totalChecked": 865,
       "totalIzi": 220,
       "totalIiz": 3,
       "totalAi": 223,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 364,
-      "totalIzi": 61,
+      "totalChecked": 506,
+      "totalIzi": 97,
       "totalIiz": 5,
-      "totalAi": 66,
+      "totalAi": 102,
       "topLinks": [
         "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
