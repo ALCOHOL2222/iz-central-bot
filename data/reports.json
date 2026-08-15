@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T04:04:35.678Z",
+  "generatedAt": "2026-08-15T04:57:29.208Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,21 +151,11 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 650,
-      "totalIzi": 198,
+      "totalChecked": 628,
+      "totalIzi": 188,
       "totalIiz": 1,
-      "totalAi": 199,
+      "totalAi": 189,
       "topLinks": [
-        "https://iz.ru/2145432/na-ukraine-khotiat-priznat-lidera-hatters-muzychenko-ugrozoi-natcbezopasnosti-izi",
-        "https://iz.ru/2145438/analitik-otcenil-perspektivy-dvizheniia-bitkoina-k-72-tys-izi",
-        "https://iz.ru/2145440/diskvalifitcirovannyi-za-doping-zabolotnyi-podpisal-kontrakt-s-klubom-basty-izi",
-        "https://iz.ru/2145443/putin-obsudil-s-prezidentom-oae-situatciiu-v-persidskom-zalive-i-na-ukraine-izi",
-        "https://iz.ru/2145447/iran-podgotovil-zakonoproekt-o-zaprete-prokhoda-sudov-ssha-i-izrailia-cherez-ormuz-izi",
-        "https://iz.ru/2145450/v-ttck-zhitomirskoi-oblasti-umer-priznannyi-godnym-k-sluzhbe-muzhchina-izi",
-        "https://iz.ru/2145451/fetisov-obiasnil-prichiny-nedopuska-sbornoi-rossii-po-khokkeiu-do-chm-2027-izi",
-        "https://iz.ru/2145452/rodina-podala-isk-v-verkhovnyi-sud-o-sniatii-iabloka-s-vyborov-v-gosdumu-izi",
-        "https://iz.ru/2145453/v-meksike-i-argentine-podderzhali-infantino-posle-idei-o-prodazhe-doli-chm-izi",
-        "https://iz.ru/2145455/v-podmoskove-vpervye-oshtrafovali-vladeltca-chastnogo-uchastka-za-borshchevik-izi",
         "https://iz.ru/2145462/ukraina-poteriala-400-tys-kv-m-skladskikh-ploshchadei-za-iiul-izi",
         "https://iz.ru/2145463/guliavshei-po-moskve-goloi-eks-uchastnitce-dom-2-grozit-shest-let-izi",
         "https://iz.ru/2145464/summarnyi-obem-parallelnogo-importa-v-rf-sostavil-106-mlrd-za-polgoda-izi",
@@ -175,11 +165,21 @@
         "https://iz.ru/2145490/sergei-semak-zaiavil-o-neponimanii-prichin-vvedeniia-fan-id-izi",
         "https://iz.ru/2145497/gosobvinenie-zaprosilo-deviat-let-lisheniia-svobody-dlia-eks-direktora-gazmanova-izi",
         "https://iz.ru/2145506/zhenshchina-popala-v-tiurmu-v-norvegii-iz-za-evreiskogo-imeni-syna-izi",
-        "https://iz.ru/2145507/iurist-ingram-predupredil-o-vozmozhnoi-deportatcii-iz-ssha-beremennykh-inostranok-izi"
+        "https://iz.ru/2145507/iurist-ingram-predupredil-o-vozmozhnoi-deportatcii-iz-ssha-beremennykh-inostranok-izi",
+        "https://iz.ru/2145511/tramp-dopustil-neobkhodimost-popolneniia-boezapasov-armii-ssha-izi",
+        "https://iz.ru/2145513/premer-moldavii-rasskazal-o-rabote-v-kitaiskom-restorane-i-gruzchikom-na-sklade-izi",
+        "https://iz.ru/2145515/krupneishaia-neftianaia-kompaniia-oae-priobrela-tankery-na-13-mlrd-izi",
+        "https://iz.ru/2145517/vs-rf-porazili-tri-perevozivshikh-gruzy-dlia-vsu-sukhogruza-v-chernom-more-izi",
+        "https://iz.ru/2145518/v-moskve-proshla-tceremoniia-proshchaniia-s-olimpiiskim-chempionom-ivanom-edeshko-izi",
+        "https://iz.ru/2145519/aeroflot-zaiavil-o-vozobnovlenii-s-1-oktiabria-reguliarnykh-reisov-moskva-abu-dabi-izi",
+        "https://iz.ru/2145520/zhuravlev-obiasnil-isk-k-partii-iabloko-dannymi-o-zapadnom-finansirovanii-izi",
+        "https://iz.ru/2145534/verkhovnyi-sud-rassmotrit-isk-o-sniatii-iabloka-s-vyborov-10-avgusta-izi",
+        "https://iz.ru/2145539/trt-haber-turtciia-saudovskaia-araviia-i-pakistan-namereny-sozdat-voennyi-soiuz-izi",
+        "https://iz.ru/2145540/v-odesse-na-iuge-ukrainy-proizoshlo-vozgoranie-na-ocherednom-sudne-izi"
       ]
     },
     "2026-08-08": {
-      "totalChecked": 435,
+      "totalChecked": 434,
       "totalIzi": 192,
       "totalIiz": 1,
       "totalAi": 193,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 865,
+      "totalChecked": 864,
       "totalIzi": 220,
       "totalIiz": 3,
       "totalAi": 223,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 184,
-      "totalIzi": 25,
+      "totalChecked": 208,
+      "totalIzi": 27,
       "totalIiz": 0,
-      "totalAi": 25,
+      "totalAi": 27,
       "topLinks": [
         "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
         "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
@@ -391,15 +391,15 @@
         "https://iz.ru/2149456/rossiian-predupredili-o-skheme-moshennikov-s-rozygryshem-shkolnykh-naborov-izi",
         "https://iz.ru/2149468/roskachestvo-predupredilo-ob-opasnosti-iarkikh-kantctovarov-bez-markirovki-izi",
         "https://iz.ru/2149477/v-op-predlozhili-vvesti-federalnye-vyplaty-za-dolgii-brak-izi",
+        "https://iz.ru/2149481/wsj-uznala-o-prizyve-vlastei-ssha-k-apple-otkazatsia-ot-kitaiskikh-chipov-pamiati-izi",
         "https://iz.ru/2149482/trutnev-zaiavil-o-primenenii-opyta-kryma-dlia-zashchity-obektov-na-dalnem-vostoke-izi",
+        "https://iz.ru/2149495/rossiyane-stali-cashhe-menyat-paroli-iz-za-novyx-mosenniceskix-sxem-izi",
         "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
         "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
         "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
         "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
         "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
-        "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi",
-        "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi",
-        "https://iz.ru/2149439/v-op-predlozhili-vyplachivat-roditeliam-shkolnikov-po-10-tys-rublei-k-1-sentiabria-izi"
+        "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi"
       ]
     }
   }
