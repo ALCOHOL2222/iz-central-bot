@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:49:39.450Z",
+  "generatedAt": "2026-08-15T11:45:25.586Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,20 +151,11 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 583,
-      "totalIzi": 177,
+      "totalChecked": 561,
+      "totalIzi": 168,
       "totalIiz": 1,
-      "totalAi": 178,
+      "totalAi": 169,
       "topLinks": [
-        "https://iz.ru/2145513/premer-moldavii-rasskazal-o-rabote-v-kitaiskom-restorane-i-gruzchikom-na-sklade-izi",
-        "https://iz.ru/2145515/krupneishaia-neftianaia-kompaniia-oae-priobrela-tankery-na-13-mlrd-izi",
-        "https://iz.ru/2145517/vs-rf-porazili-tri-perevozivshikh-gruzy-dlia-vsu-sukhogruza-v-chernom-more-izi",
-        "https://iz.ru/2145518/v-moskve-proshla-tceremoniia-proshchaniia-s-olimpiiskim-chempionom-ivanom-edeshko-izi",
-        "https://iz.ru/2145519/aeroflot-zaiavil-o-vozobnovlenii-s-1-oktiabria-reguliarnykh-reisov-moskva-abu-dabi-izi",
-        "https://iz.ru/2145520/zhuravlev-obiasnil-isk-k-partii-iabloko-dannymi-o-zapadnom-finansirovanii-izi",
-        "https://iz.ru/2145534/verkhovnyi-sud-rassmotrit-isk-o-sniatii-iabloka-s-vyborov-10-avgusta-izi",
-        "https://iz.ru/2145539/trt-haber-turtciia-saudovskaia-araviia-i-pakistan-namereny-sozdat-voennyi-soiuz-izi",
-        "https://iz.ru/2145540/v-odesse-na-iuge-ukrainy-proizoshlo-vozgoranie-na-ocherednom-sudne-izi",
         "https://iz.ru/2145550/sozdateli-filma-o-maikle-dzheksone-nachali-rabotu-nad-vtoroi-chastiu-baiopika-izi",
         "https://iz.ru/2145551/v-belgorodskoi-oblasti-pri-atakakh-vsu-postradali-eshche-chetyre-cheloveka-izi",
         "https://iz.ru/2145558/chislo-ograblenii-vo-frantcii-vozroslo-na-15-tys-v-iiule-izi",
@@ -175,7 +166,16 @@
         "https://iz.ru/2145576/zhaby-ostanoviat-krupnuiu-avtomagistral-germanii-na-chetyre-mesiatca-izi",
         "https://iz.ru/2145579/likhachev-soobshchil-o-planakh-dovesti-gruzopotok-po-smp-s-knr-do-20-mln-t-k-2030-godu-izi",
         "https://iz.ru/2145580/v-zaporozhskoi-oblasti-vveli-regionalnyi-rezhim-chs-tekhnogennogo-kharaktera-izi",
-        "https://iz.ru/2145587/lukashenko-prizval-belorusov-pokupat-izby-v-selakh-izi"
+        "https://iz.ru/2145587/lukashenko-prizval-belorusov-pokupat-izby-v-selakh-izi",
+        "https://iz.ru/2145589/lidery-es-zadumalis-o-nevozmozhnosti-rasshireniia-bloka-na-novye-strany-izi",
+        "https://iz.ru/2145597/v-mvd-soobshchili-ob-ugroze-zarazheniia-virusom-ustroistv-cherez-publichnyi-wi-fi-izi",
+        "https://iz.ru/2145603/rossiianka-pogibla-na-gornolyzhnom-kurorte-shamoni-vo-frantcii-izi",
+        "https://iz.ru/2145607/yle-soobshchila-o-planakh-finliandii-ispolzovat-bolota-dlia-oborony-granitc-izi",
+        "https://iz.ru/2145608/sud-v-peterburge-zaochno-arestoval-suprugu-zhurnalista-nevzorova-lidiiu-izi",
+        "https://iz.ru/2145609/prezident-navrotckii-tam-gde-biut-moskalia-tam-pomogaet-polsha-izi",
+        "https://iz.ru/2145619/v-serbii-dopustili-krakh-otnoshenii-s-rossiei-iz-za-vizita-zelenskogo-izi",
+        "https://iz.ru/2145622/v-gruzii-vozbudili-delo-o-gosizmene-protiv-byvshego-gosministra-baramidze-izi",
+        "https://iz.ru/2145625/prodiuser-odnogo-iz-samykh-populiarnykh-albomov-madonny-uiliam-orbit-umer-v-69-let-izi"
       ]
     },
     "2026-08-08": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 864,
+      "totalChecked": 862,
       "totalIzi": 220,
       "totalIiz": 3,
       "totalAi": 223,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 307,
-      "totalIzi": 57,
+      "totalChecked": 372,
+      "totalIzi": 87,
       "totalIiz": 0,
-      "totalAi": 57,
+      "totalAi": 87,
       "topLinks": [
         "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
         "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
