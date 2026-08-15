@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T07:08:25.361Z",
+  "generatedAt": "2026-08-15T08:55:28.812Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 600,
-      "totalIzi": 181,
+      "totalChecked": 583,
+      "totalIzi": 177,
       "totalIiz": 1,
-      "totalAi": 182,
+      "totalAi": 178,
       "topLinks": [
-        "https://iz.ru/2145497/gosobvinenie-zaprosilo-deviat-let-lisheniia-svobody-dlia-eks-direktora-gazmanova-izi",
-        "https://iz.ru/2145506/zhenshchina-popala-v-tiurmu-v-norvegii-iz-za-evreiskogo-imeni-syna-izi",
-        "https://iz.ru/2145507/iurist-ingram-predupredil-o-vozmozhnoi-deportatcii-iz-ssha-beremennykh-inostranok-izi",
-        "https://iz.ru/2145511/tramp-dopustil-neobkhodimost-popolneniia-boezapasov-armii-ssha-izi",
         "https://iz.ru/2145513/premer-moldavii-rasskazal-o-rabote-v-kitaiskom-restorane-i-gruzchikom-na-sklade-izi",
         "https://iz.ru/2145515/krupneishaia-neftianaia-kompaniia-oae-priobrela-tankery-na-13-mlrd-izi",
         "https://iz.ru/2145517/vs-rf-porazili-tri-perevozivshikh-gruzy-dlia-vsu-sukhogruza-v-chernom-more-izi",
@@ -175,11 +171,15 @@
         "https://iz.ru/2145564/wildberries-zapustil-testirovanie-partnerskikh-khabov-dlia-khraneniia-tovarov-izi",
         "https://iz.ru/2145566/sandu-predupredila-zhitelei-moldavii-o-riskakh-otkliucheniia-elektroenergii-izi",
         "https://iz.ru/2145571/uchenye-obiasnili-prichiny-rezkogo-cheredovaniia-zasukhi-i-navodnenii-izi",
-        "https://iz.ru/2145573/v-ialte-obiavili-ugrozu-ataki-bezekipazhnykh-katerov-izi"
+        "https://iz.ru/2145573/v-ialte-obiavili-ugrozu-ataki-bezekipazhnykh-katerov-izi",
+        "https://iz.ru/2145576/zhaby-ostanoviat-krupnuiu-avtomagistral-germanii-na-chetyre-mesiatca-izi",
+        "https://iz.ru/2145579/likhachev-soobshchil-o-planakh-dovesti-gruzopotok-po-smp-s-knr-do-20-mln-t-k-2030-godu-izi",
+        "https://iz.ru/2145580/v-zaporozhskoi-oblasti-vveli-regionalnyi-rezhim-chs-tekhnogennogo-kharaktera-izi",
+        "https://iz.ru/2145587/lukashenko-prizval-belorusov-pokupat-izby-v-selakh-izi"
       ]
     },
     "2026-08-08": {
-      "totalChecked": 434,
+      "totalChecked": 433,
       "totalIzi": 192,
       "totalIiz": 1,
       "totalAi": 193,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 237,
-      "totalIzi": 38,
+      "totalChecked": 307,
+      "totalIzi": 57,
       "totalIiz": 0,
-      "totalAi": 38,
+      "totalAi": 57,
       "topLinks": [
         "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
         "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
