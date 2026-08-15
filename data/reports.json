@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:48:08.200Z",
+  "generatedAt": "2026-08-15T02:00:03.256Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 690,
-      "totalIzi": 207,
+      "totalChecked": 672,
+      "totalIzi": 203,
       "totalIiz": 1,
-      "totalAi": 208,
+      "totalAi": 204,
       "topLinks": [
-        "https://iz.ru/2145368/v-es-dopustili-prisoedinenie-islandii-i-chernogorii-k-2028-godu-izi",
-        "https://iz.ru/2145370/faa-soobshchilo-o-proverke-samoletov-boeing-737-max-na-nalichie-treshchin-v-konstruktcii-izi",
-        "https://iz.ru/2145373/rossiiskaia-marka-umo-raskryla-tceny-i-komplektatcii-bolshogo-krossovera-8-izi",
-        "https://iz.ru/2145380/rabotu-putina-polozhitelno-otcenili-70-rossiian-izi",
         "https://iz.ru/2145387/alpinistam-ne-udalos-dobratsia-do-tela-nagovitcinoi-na-pike-pobedy-izi",
         "https://iz.ru/2145391/v-kaluzhskoi-oblasti-presekli-nezakonnuiu-registratciiu-sim-kart-na-uchastnikov-svo-izi",
         "https://iz.ru/2145413/obnaruzhennyi-v-aeroportu-frg-dron-ostavalsia-nazamechennym-bolee-chetyrekh-chasov-izi",
@@ -175,7 +171,11 @@
         "https://iz.ru/2145452/rodina-podala-isk-v-verkhovnyi-sud-o-sniatii-iabloka-s-vyborov-v-gosdumu-izi",
         "https://iz.ru/2145453/v-meksike-i-argentine-podderzhali-infantino-posle-idei-o-prodazhe-doli-chm-izi",
         "https://iz.ru/2145455/v-podmoskove-vpervye-oshtrafovali-vladeltca-chastnogo-uchastka-za-borshchevik-izi",
-        "https://iz.ru/2145462/ukraina-poteriala-400-tys-kv-m-skladskikh-ploshchadei-za-iiul-izi"
+        "https://iz.ru/2145462/ukraina-poteriala-400-tys-kv-m-skladskikh-ploshchadei-za-iiul-izi",
+        "https://iz.ru/2145463/guliavshei-po-moskve-goloi-eks-uchastnitce-dom-2-grozit-shest-let-izi",
+        "https://iz.ru/2145464/summarnyi-obem-parallelnogo-importa-v-rf-sostavil-106-mlrd-za-polgoda-izi",
+        "https://iz.ru/2145476/trampa-voskhitili-nakachennye-nogi-sportsmena-izi",
+        "https://iz.ru/2145480/islandiia-predosteregla-ek-ot-vmeshatelstva-v-referendum-o-vstuplenii-v-es-izi"
       ]
     },
     "2026-08-08": {
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 438,
+      "totalChecked": 436,
       "totalIzi": 225,
       "totalIiz": 2,
       "totalAi": 227,
@@ -375,16 +375,18 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 95,
-      "totalIzi": 10,
+      "totalChecked": 115,
+      "totalIzi": 12,
       "totalIiz": 0,
-      "totalAi": 10,
+      "totalAi": 12,
       "topLinks": [
         "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
         "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
         "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
         "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi",
         "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi",
+        "https://iz.ru/2149439/v-op-predlozhili-vyplachivat-roditeliam-shkolnikov-po-10-tys-rublei-k-1-sentiabria-izi",
+        "https://iz.ru/2149456/rossiian-predupredili-o-skheme-moshennikov-s-rozygryshem-shkolnykh-naborov-izi",
         "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
         "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
         "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
