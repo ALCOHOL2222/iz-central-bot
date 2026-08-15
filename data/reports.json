@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:00:03.256Z",
+  "generatedAt": "2026-08-15T03:14:41.352Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-08-07": {
-      "totalChecked": 672,
-      "totalIzi": 203,
+      "totalChecked": 650,
+      "totalIzi": 198,
       "totalIiz": 1,
-      "totalAi": 204,
+      "totalAi": 199,
       "topLinks": [
-        "https://iz.ru/2145387/alpinistam-ne-udalos-dobratsia-do-tela-nagovitcinoi-na-pike-pobedy-izi",
-        "https://iz.ru/2145391/v-kaluzhskoi-oblasti-presekli-nezakonnuiu-registratciiu-sim-kart-na-uchastnikov-svo-izi",
-        "https://iz.ru/2145413/obnaruzhennyi-v-aeroportu-frg-dron-ostavalsia-nazamechennym-bolee-chetyrekh-chasov-izi",
-        "https://iz.ru/2145414/armiia-rossii-za-nedeliu-nanesla-12-gruppovykh-udarov-po-voennym-tceliam-na-ukraine-izi",
-        "https://iz.ru/2145417/lantratova-predlozhila-otmenit-gosposhliny-pri-obrashchenii-v-sud-dlia-ispravleniia-opechatok-izi",
         "https://iz.ru/2145432/na-ukraine-khotiat-priznat-lidera-hatters-muzychenko-ugrozoi-natcbezopasnosti-izi",
         "https://iz.ru/2145438/analitik-otcenil-perspektivy-dvizheniia-bitkoina-k-72-tys-izi",
         "https://iz.ru/2145440/diskvalifitcirovannyi-za-doping-zabolotnyi-podpisal-kontrakt-s-klubom-basty-izi",
@@ -175,7 +170,12 @@
         "https://iz.ru/2145463/guliavshei-po-moskve-goloi-eks-uchastnitce-dom-2-grozit-shest-let-izi",
         "https://iz.ru/2145464/summarnyi-obem-parallelnogo-importa-v-rf-sostavil-106-mlrd-za-polgoda-izi",
         "https://iz.ru/2145476/trampa-voskhitili-nakachennye-nogi-sportsmena-izi",
-        "https://iz.ru/2145480/islandiia-predosteregla-ek-ot-vmeshatelstva-v-referendum-o-vstuplenii-v-es-izi"
+        "https://iz.ru/2145480/islandiia-predosteregla-ek-ot-vmeshatelstva-v-referendum-o-vstuplenii-v-es-izi",
+        "https://iz.ru/2145483/razina-rasskazala-ob-otnoshenii-amerikantcev-k-otstraneniiu-rossiian-izi",
+        "https://iz.ru/2145490/sergei-semak-zaiavil-o-neponimanii-prichin-vvedeniia-fan-id-izi",
+        "https://iz.ru/2145497/gosobvinenie-zaprosilo-deviat-let-lisheniia-svobody-dlia-eks-direktora-gazmanova-izi",
+        "https://iz.ru/2145506/zhenshchina-popala-v-tiurmu-v-norvegii-iz-za-evreiskogo-imeni-syna-izi",
+        "https://iz.ru/2145507/iurist-ingram-predupredil-o-vozmozhnoi-deportatcii-iz-ssha-beremennykh-inostranok-izi"
       ]
     },
     "2026-08-08": {
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 436,
+      "totalChecked": 435,
       "totalIzi": 225,
       "totalIiz": 2,
       "totalAi": 227,
@@ -375,11 +375,13 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 115,
-      "totalIzi": 12,
+      "totalChecked": 184,
+      "totalIzi": 25,
       "totalIiz": 0,
-      "totalAi": 12,
+      "totalAi": 25,
       "topLinks": [
+        "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
+        "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
         "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
         "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
         "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
@@ -387,11 +389,17 @@
         "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi",
         "https://iz.ru/2149439/v-op-predlozhili-vyplachivat-roditeliam-shkolnikov-po-10-tys-rublei-k-1-sentiabria-izi",
         "https://iz.ru/2149456/rossiian-predupredili-o-skheme-moshennikov-s-rozygryshem-shkolnykh-naborov-izi",
+        "https://iz.ru/2149468/roskachestvo-predupredilo-ob-opasnosti-iarkikh-kantctovarov-bez-markirovki-izi",
+        "https://iz.ru/2149477/v-op-predlozhili-vvesti-federalnye-vyplaty-za-dolgii-brak-izi",
+        "https://iz.ru/2149482/trutnev-zaiavil-o-primenenii-opyta-kryma-dlia-zashchity-obektov-na-dalnem-vostoke-izi",
+        "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
+        "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
         "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
         "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
         "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
         "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi",
-        "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi"
+        "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi",
+        "https://iz.ru/2149439/v-op-predlozhili-vyplachivat-roditeliam-shkolnikov-po-10-tys-rublei-k-1-sentiabria-izi"
       ]
     }
   }
