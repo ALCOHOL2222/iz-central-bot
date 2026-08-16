@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:49:36.110Z",
+  "generatedAt": "2026-08-16T21:44:10.935Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 66
   },
   "days": {
-    "2026-08-03": {
-      "totalChecked": 462,
-      "totalIzi": 145,
-      "totalIiz": 1,
-      "totalAi": 146,
-      "topLinks": [
-        "https://iz.ru/2132568/2026-08-03/akter-nikolai-burliaev-biografiia-izi",
-        "https://iz.ru/2140446/narodnye-primety-na-3-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2141679/karera-na-vyrost-kogda-soglashatsia-na-menshuiu-zarplatu-radi-novoi-professii-izi",
-        "https://iz.ru/2142726/na-granitce-belorussii-i-latvii-vyrosli-ocheredi-iz-avtomobilei-izi",
-        "https://iz.ru/2142737/spartak-obygral-akhmat-blagodaria-shtrafnomu-barko-izi",
-        "https://iz.ru/2142742/eksperty-nazvali-regiony-s-samymi-kachestvennymi-dorogami-izi",
-        "https://iz.ru/2142750/raschet-nabliudeniia-unichtozhil-desiatki-dronov-vsu-na-dnepropetrovskom-napravlenii-izi",
-        "https://iz.ru/2142752/mvd-prizvalo-rossiian-ne-ukazyvat-adresa-prozhivaniia-i-raboty-v-sotcsetiakh-izi",
-        "https://iz.ru/2142754/der-spiegel-uznal-ob-obsuzdeniyax-v-rukovodstve-xds-otstavki-merca-izi",
-        "https://iz.ru/2142759/v-gosdume-predlozhili-vvesti-pervosentiabrskii-kapital-dlia-shkolnikov-izi",
-        "https://iz.ru/2142765/chto-proizoshlo-za-noch-3-avgusta-glavnoe-izi",
-        "https://iz.ru/2142771/kitaiskie-uchenye-predlozhili-unichtozhat-opasnye-asteroidy-iadernym-vzryvom-izi",
-        "https://iz.ru/2142773/v-britanii-mozhet-proizoiti-retcessiia-na-fone-zakrytiia-ormuzskogo-proliva-izi",
-        "https://iz.ru/2142775/moskvichi-mogut-pomoch-shkolnikam-iz-novykh-regionov-podgotovitsia-k-1-sentiabria-izi",
-        "https://iz.ru/2142778/armiia-rossii-porazila-tri-sudna-s-voennymi-gruzami-dlia-vsu-v-chernom-more-izi",
-        "https://iz.ru/2142780/sem-chelovek-postradali-kri-obrushenii-zdaniia-v-sidnee-izi",
-        "https://iz.ru/2142782/voennye-italii-vysadilis-na-tanker-pod-flagom-kameruna-dlia-proverki-izi",
-        "https://iz.ru/2142784/2026-08-03/odin-iz-postradavshikh-pri-vzryve-gaza-v-karachaevo-cherkesii-umer-v-bolnitce-izi",
-        "https://iz.ru/2142787/mintrans-sozdal-shtab-iz-za-atak-bpla-na-suda-v-azovskom-more-izi",
-        "https://iz.ru/2142789/sud-v-moskve-vernul-rabotu-uvolennomu-za-plokhuiu-igru-pianistu-izi"
-      ]
-    },
     "2026-08-04": {
       "totalChecked": 452,
       "totalIzi": 137,
@@ -179,16 +151,11 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 416,
-      "totalIzi": 224,
+      "totalChecked": 396,
+      "totalIzi": 219,
       "totalIiz": 2,
-      "totalAi": 226,
+      "totalAi": 221,
       "topLinks": [
-        "https://iz.ru/2146141/2026-08-09/okolo-99-tys-abonentov-v-chernigovskoi-oblasti-ukrainy-ostalis-bez-sveta-izi",
-        "https://iz.ru/2146142/2026-08-09/chetvero-muzhchin-gospitalizirovany-posle-padeniia-lifta-v-zhilom-dome-v-makhachkale-izi",
-        "https://iz.ru/2146153/2026-08-09/minprosveshcheniia-utverdilo-novyi-perechen-shkolnykh-uchebnikov-izi",
-        "https://iz.ru/2146154/miroshnik-zaiavil-o-nezhelanii-nato-nakazyvat-ukrainu-za-drony-izi",
-        "https://iz.ru/2146156/prezident-kuby-rasskazal-o-sprovotcirovannom-blokadoi-ssha-krizise-izi",
         "https://iz.ru/2146162/sredniaia-pensiia-gossluzhashchikh-v-rossii-prevysila-395-tys-rublei-izi",
         "https://iz.ru/2146164/2026-08-09/v-2027-godu-rossiian-ozhidaiut-sem-korotkikh-rabochikh-nedel-izi",
         "https://iz.ru/2146165/2026-08-09/aeroport-sheremetevo-pereshel-na-ogranichennyi-rezhim-raboty-iz-za-ogranichenii-izi",
@@ -203,7 +170,12 @@
         "https://iz.ru/2146187/rossiiane-vpervye-stali-potrebliat-bolee-100-kg-miasa-v-god-izi",
         "https://iz.ru/2146188/kalashnikov-napravit-v-zonu-svo-novyi-dron-kub-10me-izi",
         "https://iz.ru/2146189/rossiianam-rasskazali-ob-opasnosti-redkoi-smeny-postelnogo-belia-izi",
-        "https://iz.ru/2146190/v-mid-rf-ukazali-na-priamuiu-voenno-logisticheskuiu-podderzhke-ukrainu-rumyniei-izi"
+        "https://iz.ru/2146190/v-mid-rf-ukazali-na-priamuiu-voenno-logisticheskuiu-podderzhke-ukrainu-rumyniei-izi",
+        "https://iz.ru/2146191/vsu-reshili-ispolzovat-doma-umershikh-zhitelei-kharkovskoi-i-sumskoi-oblastei-izi",
+        "https://iz.ru/2146192/rossiianam-nazvali-zarplatu-dlia-polucheniia-maksimuma-pensionnykh-ballov-v-2026-godu-izi",
+        "https://iz.ru/2146193/v-gosdume-prizvali-regiony-aktivnee-zapreshchat-prodazhu-veipov-izi",
+        "https://iz.ru/2146194/armiia-rossii-porazila-geraniami-sklady-dronov-vsu-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2146195/v-mid-rossii-predupredili-o-popytkakh-poseiat-smutu-v-serbii-pered-vyborami-izi"
       ]
     },
     "2026-08-10": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 514,
-      "totalIzi": 132,
+      "totalChecked": 535,
+      "totalIzi": 135,
       "totalIiz": 0,
-      "totalAi": 132,
+      "totalAi": 135,
       "topLinks": [
         "https://iz.ru/2149782/v-stambule-muzhchinam-bez-zhenshchin-zakryli-dostup-na-pliazhi-i-v-kluby-izi",
         "https://iz.ru/2149787/moshenniki-nachali-predlagat-vyplaty-za-sboi-v-rabote-bankov-i-operatorov-sviazi-izi",
@@ -401,6 +373,13 @@
         "https://iz.ru/2149891/chislo-pogibshikh-pri-atake-bpla-v-rostovskoi-oblasti-vozroslo-do-piati-izi",
         "https://iz.ru/2149895/komandir-akhmata-zaiavil-o-milliardnykh-poteriakh-ukrainy-iz-za-udarov-vs-rf-izi"
       ]
+    },
+    "2026-08-17": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
