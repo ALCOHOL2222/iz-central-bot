@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T16:52:16.376Z",
+  "generatedAt": "2026-08-16T17:44:24.662Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 246,
-      "totalIzi": 102,
+      "totalChecked": 231,
+      "totalIzi": 98,
       "totalIiz": 1,
-      "totalAi": 103,
+      "totalAi": 99,
       "topLinks": [
-        "https://iz.ru/2146077/posla-ukrainy-vyzvali-v-mid-bolgarii-posle-intcidenta-s-padeniem-bpla-izi",
-        "https://iz.ru/2146084/povrezhdennoe-pri-ataki-vsu-turetckoe-sudno-otbuksirovali-v-port-samsuna-izi",
-        "https://iz.ru/2146085/turtciia-predlozhila-rf-i-kievu-obiavit-moratorii-na-voennye-deistviia-izi",
-        "https://iz.ru/2146087/v-kieve-nachalis-pereboi-s-postavkami-produktov-v-supermarkety-izi",
         "https://iz.ru/2146115/v-podolske-pri-pozhare-v-detskoi-bolnitce-spasli-dvoikh-detei-izi",
         "https://iz.ru/2146131/2026-08-08/tanker-neftianoi-goskompanii-oae-podvergsia-raketnoi-atake-v-ormuzskom-prolive-izi",
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -175,11 +171,15 @@
         "https://iz.ru/2145865/pentagon-rassekretil-dokumenty-o-nlo-s-vesma-neobychnym-soderzhimym-izi",
         "https://iz.ru/2145866/nalogovaia-nachala-likvidatciiu-kompanii-blogera-kariny-kross-izi",
         "https://iz.ru/2145867/novaia-zelandiia-vvela-36-i-paket-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2145877/dostigshim-80-let-pensioneram-udvoiat-fiksirovannuiu-vyplatu-s-sentiabria-izi"
+        "https://iz.ru/2145877/dostigshim-80-let-pensioneram-udvoiat-fiksirovannuiu-vyplatu-s-sentiabria-izi",
+        "https://iz.ru/2145902/zoopsikholog-obiasnila-sposobnost-koshek-predskazyvat-vozvrashchenie-khoziaina-izi",
+        "https://iz.ru/2145905/ssha-zaplanirovali-vydelit-1-mlrd-na-podderzhku-novogo-prezidenta-kolumbii-izi",
+        "https://iz.ru/2145907/glava-minsporta-rf-pozdravil-rossiian-s-dnem-fizkulturnika-izi",
+        "https://iz.ru/2145911/sily-pvo-unichtozhili-12-bpla-v-trekh-raionakh-sevastopolia-izi"
       ]
     },
     "2026-08-09": {
-      "totalChecked": 425,
+      "totalChecked": 424,
       "totalIzi": 225,
       "totalIiz": 2,
       "totalAi": 227,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 446,
-      "totalIzi": 95,
+      "totalChecked": 462,
+      "totalIzi": 106,
       "totalIiz": 0,
-      "totalAi": 95,
+      "totalAi": 106,
       "topLinks": [
         "https://iz.ru/2149782/v-stambule-muzhchinam-bez-zhenshchin-zakryli-dostup-na-pliazhi-i-v-kluby-izi",
         "https://iz.ru/2149787/moshenniki-nachali-predlagat-vyplaty-za-sboi-v-rabote-bankov-i-operatorov-sviazi-izi",
