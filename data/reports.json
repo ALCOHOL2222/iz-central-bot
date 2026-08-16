@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T22:48:00.391Z",
+  "generatedAt": "2026-08-16T23:44:19.367Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,31 +151,31 @@
       ]
     },
     "2026-08-09": {
-      "totalChecked": 396,
-      "totalIzi": 219,
+      "totalChecked": 356,
+      "totalIzi": 193,
       "totalIiz": 2,
-      "totalAi": 221,
+      "totalAi": 195,
       "topLinks": [
-        "https://iz.ru/2146162/sredniaia-pensiia-gossluzhashchikh-v-rossii-prevysila-395-tys-rublei-izi",
-        "https://iz.ru/2146164/2026-08-09/v-2027-godu-rossiian-ozhidaiut-sem-korotkikh-rabochikh-nedel-izi",
-        "https://iz.ru/2146165/2026-08-09/aeroport-sheremetevo-pereshel-na-ogranichennyi-rezhim-raboty-iz-za-ogranichenii-izi",
-        "https://iz.ru/2146175/zhitel-latvii-rasskazal-o-nezhelanii-russkoiazychnykh-detei-govorit-po-latyshski-izi",
-        "https://iz.ru/2146176/ministr-oborony-finliandii-khiakkianen-otkazal-ukraine-v-peredache-raket-pvo-izi",
-        "https://iz.ru/2146177/v-germanii-otcenili-posledstviia-osvobozhdeniia-slavianska-i-kramatorska-dlia-ukrainy-izi",
-        "https://iz.ru/2146179/printc-endriu-ostalsia-v-spiske-dlia-pokhoron-s-korolevskimi-pochestiami-izi",
-        "https://iz.ru/2146180/mer-nagasaki-v-deklaratcii-mira-nazval-ssha-vinovnikom-atomnoi-bombardirovki-izi",
-        "https://iz.ru/2146181/2026-08-09/moshenniki-stali-vymanivat-u-roditelei-lichnye-dannye-pod-vidom-proverki-kart-detei-izi",
-        "https://iz.ru/2146185/sotrudniki-ttck-ne-tronuli-vygulivavshego-leoparda-ukraintca-izi",
-        "https://iz.ru/2146186/geolog-razveiala-mif-o-sviazi-proiskhozhdeniia-nefti-s-gibeliu-dinozavrov-izi",
-        "https://iz.ru/2146187/rossiiane-vpervye-stali-potrebliat-bolee-100-kg-miasa-v-god-izi",
-        "https://iz.ru/2146188/kalashnikov-napravit-v-zonu-svo-novyi-dron-kub-10me-izi",
-        "https://iz.ru/2146189/rossiianam-rasskazali-ob-opasnosti-redkoi-smeny-postelnogo-belia-izi",
-        "https://iz.ru/2146190/v-mid-rf-ukazali-na-priamuiu-voenno-logisticheskuiu-podderzhke-ukrainu-rumyniei-izi",
-        "https://iz.ru/2146191/vsu-reshili-ispolzovat-doma-umershikh-zhitelei-kharkovskoi-i-sumskoi-oblastei-izi",
-        "https://iz.ru/2146192/rossiianam-nazvali-zarplatu-dlia-polucheniia-maksimuma-pensionnykh-ballov-v-2026-godu-izi",
-        "https://iz.ru/2146193/v-gosdume-prizvali-regiony-aktivnee-zapreshchat-prodazhu-veipov-izi",
-        "https://iz.ru/2146194/armiia-rossii-porazila-geraniami-sklady-dronov-vsu-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2146195/v-mid-rossii-predupredili-o-popytkakh-poseiat-smutu-v-serbii-pered-vyborami-izi"
+        "https://iz.ru/2146203/turtciia-predlozhila-rossii-i-ukraine-sozdat-zashchitu-torgovykh-sudov-v-chernom-more-izi",
+        "https://iz.ru/2146204/v-mvd-nazvali-osnovnye-priemy-moshennikov-pri-skhemakh-s-bankomatami-izi",
+        "https://iz.ru/2146205/v-ufe-presekli-popytku-ataki-bespilotnikov-na-promyshlennye-obekty-izi",
+        "https://iz.ru/2146207/rossiiane-pozhalovalis-na-servis-v-piatizvezdochnykh-oteliakh-egipta-izi",
+        "https://iz.ru/2146209/semiu-veselogo-molochnika-uolkera-poka-ne-zakhoteli-vydvoriat-iz-rossii-izi",
+        "https://iz.ru/2146212/posol-nozdrev-nazval-ritoriku-tokio-o-neiadernykh-printcipakh-provokatcionnoi-izi",
+        "https://iz.ru/2146213/armiia-rossii-unichtozhila-punkty-upravleniia-bpla-v-dnr-i-khersonskoi-oblasti-izi",
+        "https://iz.ru/2146214/tri-mirnykh-zhitelia-pogibli-pri-nochnoi-atake-na-belgorod-izi",
+        "https://iz.ru/2146215/messi-s-semei-priletel-v-rosario-dlia-proshchaniia-s-ottcom-izi",
+        "https://iz.ru/2146217/rossiia-i-sloveniia-vpervye-za-chetyre-goda-obmenialis-poslaniiami-izi",
+        "https://iz.ru/2146219/armiia-rossii-porazila-dva-npz-v-sumskoi-oblasti-izi",
+        "https://iz.ru/2146225/bi-bi-si-nashel-byvshego-glavu-siriiskoi-razvedki-v-rossii-izi",
+        "https://iz.ru/2146227/v-barentcevom-more-nashli-zatonuvshii-v-1942-godu-nemetckii-voennyi-transport-izi",
+        "https://iz.ru/2146228/onishchenko-dopustil-uvelichenie-prodolzhitelnosti-zhizni-do-150-let-izi",
+        "https://iz.ru/2146231/v-odesskoi-oblasti-povrezhden-avtomobilnyi-most-na-trasse-odessa-reni-izi",
+        "https://iz.ru/2146233/v-odesse-neskolko-raionov-ostalis-bez-elektrichestva-posle-avarii-izi",
+        "https://iz.ru/2146234/zakharova-ukazala-na-nekhvatku-muzhestva-u-takaiti-nazvat-vinovnika-bombardirovki-izi",
+        "https://iz.ru/2146235/sk-vozbudil-ugolovnoe-delo-o-terakte-posle-ataki-na-grazhdanskie-obekty-belgoroda-izi",
+        "https://iz.ru/2146236/wp-uznala-o-trebovanii-pentagona-uskorit-vypusk-oruzhiia-izi",
+        "https://iz.ru/2146237/armiia-rossii-osvobodila-vasiutinskoe-i-toretckoe-v-dnr-izi"
       ]
     },
     "2026-08-10": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 535,
-      "totalIzi": 135,
+      "totalChecked": 551,
+      "totalIzi": 136,
       "totalIiz": 0,
-      "totalAi": 135,
+      "totalAi": 136,
       "topLinks": [
         "https://iz.ru/2149782/v-stambule-muzhchinam-bez-zhenshchin-zakryli-dostup-na-pliazhi-i-v-kluby-izi",
         "https://iz.ru/2149787/moshenniki-nachali-predlagat-vyplaty-za-sboi-v-rabote-bankov-i-operatorov-sviazi-izi",
@@ -375,11 +375,16 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 85,
+      "totalIzi": 3,
+      "totalIiz": 1,
+      "totalAi": 4,
+      "topLinks": [
+        "https://iz.ru/2150107/sily-pvo-rossii-s-nachala-goda-unichtozhila-bolee-100-tys-ukrainskikh-bpla-izi",
+        "https://iz.ru/2137052/sest-iabloko-i-zagadat-zhelanie-vazhnye-narodnye-primety-na-iablochnyi-spas-iiz",
+        "https://iz.ru/2150107/sily-pvo-rossii-s-nachala-goda-unichtozhila-bolee-100-tys-ukrainskikh-bpla-izi",
+        "https://iz.ru/2150118/v-finliandii-zaiavili-o-vliianii-ssha-na-politiku-stubba-v-otnoshenii-rossii-izi"
+      ]
     }
   }
 }
