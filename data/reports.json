@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T18:56:28.091Z",
+  "generatedAt": "2026-08-16T19:44:00.925Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-08-08": {
-      "totalChecked": 231,
-      "totalIzi": 98,
+      "totalChecked": 222,
+      "totalIzi": 96,
       "totalIiz": 1,
-      "totalAi": 99,
+      "totalAi": 97,
       "topLinks": [
-        "https://iz.ru/2146115/v-podolske-pri-pozhare-v-detskoi-bolnitce-spasli-dvoikh-detei-izi",
-        "https://iz.ru/2146131/2026-08-08/tanker-neftianoi-goskompanii-oae-podvergsia-raketnoi-atake-v-ormuzskom-prolive-izi",
         "https://iz.ru/2144747/narodnye-primety-na-8-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2145798/2026-08-08/na-ukraine-nachali-perevodit-soldat-shturmovogo-polka-skala-v-drugie-chasti-vsu-izi",
         "https://iz.ru/2145800/eks-prezident-findiandii-prizval-evropu-nachat-dialog-s-rossiei-izi",
@@ -175,16 +173,17 @@
         "https://iz.ru/2145902/zoopsikholog-obiasnila-sposobnost-koshek-predskazyvat-vozvrashchenie-khoziaina-izi",
         "https://iz.ru/2145905/ssha-zaplanirovali-vydelit-1-mlrd-na-podderzhku-novogo-prezidenta-kolumbii-izi",
         "https://iz.ru/2145907/glava-minsporta-rf-pozdravil-rossiian-s-dnem-fizkulturnika-izi",
-        "https://iz.ru/2145911/sily-pvo-unichtozhili-12-bpla-v-trekh-raionakh-sevastopolia-izi"
+        "https://iz.ru/2145911/sily-pvo-unichtozhili-12-bpla-v-trekh-raionakh-sevastopolia-izi",
+        "https://iz.ru/2145912/odin-chelovek-pogib-i-odin-propal-pri-stolknovenii-lodok-na-volge-izi",
+        "https://iz.ru/2145913/zhurova-ukazala-na-rost-populiarnosti-liubitelskogo-sporta-sredi-rossiian-izi"
       ]
     },
     "2026-08-09": {
-      "totalChecked": 424,
-      "totalIzi": 225,
+      "totalChecked": 416,
+      "totalIzi": 224,
       "totalIiz": 2,
-      "totalAi": 227,
+      "totalAi": 226,
       "topLinks": [
-        "https://iz.ru/2146138/otdykhaiushchie-v-turtcii-obnaruzhili-nerazorvavshiisia-artilleriiskii-snariad-izi",
         "https://iz.ru/2146141/2026-08-09/okolo-99-tys-abonentov-v-chernigovskoi-oblasti-ukrainy-ostalis-bez-sveta-izi",
         "https://iz.ru/2146142/2026-08-09/chetvero-muzhchin-gospitalizirovany-posle-padeniia-lifta-v-zhilom-dome-v-makhachkale-izi",
         "https://iz.ru/2146153/2026-08-09/minprosveshcheniia-utverdilo-novyi-perechen-shkolnykh-uchebnikov-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2146186/geolog-razveiala-mif-o-sviazi-proiskhozhdeniia-nefti-s-gibeliu-dinozavrov-izi",
         "https://iz.ru/2146187/rossiiane-vpervye-stali-potrebliat-bolee-100-kg-miasa-v-god-izi",
         "https://iz.ru/2146188/kalashnikov-napravit-v-zonu-svo-novyi-dron-kub-10me-izi",
-        "https://iz.ru/2146189/rossiianam-rasskazali-ob-opasnosti-redkoi-smeny-postelnogo-belia-izi"
+        "https://iz.ru/2146189/rossiianam-rasskazali-ob-opasnosti-redkoi-smeny-postelnogo-belia-izi",
+        "https://iz.ru/2146190/v-mid-rf-ukazali-na-priamuiu-voenno-logisticheskuiu-podderzhke-ukrainu-rumyniei-izi"
       ]
     },
     "2026-08-10": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 462,
-      "totalIzi": 106,
+      "totalChecked": 514,
+      "totalIzi": 132,
       "totalIiz": 0,
-      "totalAi": 106,
+      "totalAi": 132,
       "topLinks": [
         "https://iz.ru/2149782/v-stambule-muzhchinam-bez-zhenshchin-zakryli-dostup-na-pliazhi-i-v-kluby-izi",
         "https://iz.ru/2149787/moshenniki-nachali-predlagat-vyplaty-za-sboi-v-rabote-bankov-i-operatorov-sviazi-izi",
