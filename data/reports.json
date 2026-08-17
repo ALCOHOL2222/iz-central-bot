@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T03:22:27.902Z",
+  "generatedAt": "2026-08-17T04:14:18.172Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 121,
-      "totalIzi": 12,
+      "totalChecked": 158,
+      "totalIzi": 20,
       "totalIiz": 1,
-      "totalAi": 13,
+      "totalAi": 21,
       "topLinks": [
         "https://iz.ru/2150099/smi-rasskazali-o-riskakh-dlia-kitaiskikh-chinovnikov-iz-za-braka-s-inostrantcami-izi",
         "https://iz.ru/2150102/v-italii-roditeli-ekhali-100-km-riadom-s-umershim-synom-izi",
@@ -391,8 +391,15 @@
         "https://iz.ru/2150136/v-gosdume-raziasnili-poriadok-polucheniia-vyplat-na-podgotovku-detei-k-1-sentiabria-izi",
         "https://iz.ru/2150139/v-san-diego-vspykhnul-lesnoi-pozhar-ploshchadiu-53-ga-izi",
         "https://iz.ru/2137052/sest-iabloko-i-zagadat-zhelanie-vazhnye-narodnye-primety-na-iablochnyi-spas-iiz",
+        "https://iz.ru/2150099/smi-rasskazali-o-riskakh-dlia-kitaiskikh-chinovnikov-iz-za-braka-s-inostrantcami-izi",
+        "https://iz.ru/2150102/v-italii-roditeli-ekhali-100-km-riadom-s-umershim-synom-izi",
         "https://iz.ru/2150107/sily-pvo-rossii-s-nachala-goda-unichtozhila-bolee-100-tys-ukrainskikh-bpla-izi",
-        "https://iz.ru/2150118/v-finliandii-zaiavili-o-vliianii-ssha-na-politiku-stubba-v-otnoshenii-rossii-izi"
+        "https://iz.ru/2150116/rossiian-zhdet-22-rabochikh-dnia-v-sentiabre-izi",
+        "https://iz.ru/2150118/v-finliandii-zaiavili-o-vliianii-ssha-na-politiku-stubba-v-otnoshenii-rossii-izi",
+        "https://iz.ru/2150120/stala-izvestna-skhema-moshennikov-s-ispolzovaniem-feikovykh-vakansii-za-rubezhom-izi",
+        "https://iz.ru/2150126/ekspert-rasskazal-kak-podgotovitsia-k-pensii-s-pomoshchiu-nakoplenii-i-investitcii-izi",
+        "https://iz.ru/2150134/v-op-rasskazali-o-skheme-moshennikov-s-feikovoi-arendoi-zhilia-pered-1-sentiabria-izi",
+        "https://iz.ru/2150136/v-gosdume-raziasnili-poriadok-polucheniia-vyplat-na-podgotovku-detei-k-1-sentiabria-izi"
       ]
     }
   }
