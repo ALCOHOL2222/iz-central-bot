@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:51:55.750Z",
+  "generatedAt": "2026-08-17T16:55:59.726Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,35 +179,35 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 788,
-      "totalIzi": 210,
+      "totalChecked": 698,
+      "totalIzi": 177,
       "totalIiz": 3,
-      "totalAi": 213,
+      "totalAi": 180,
       "topLinks": [
-        "https://iz.ru/2146463/okolo-500-chelovek-proekhali-30-km-bez-odezhdy-po-berlinu-izi",
-        "https://iz.ru/2146465/u-poberezhia-omana-poterpel-krushenie-tanker-s-pochti-1-mln-barrelei-nefti-izi",
-        "https://iz.ru/2146471/2026-08-10/maior-vsu-prizval-prislushivatsia-k-slovam-putina-izi",
-        "https://iz.ru/2146472/rossiia-voshla-v-top-20-gosudarstv-mira-po-investitcionnomu-klimatu-izi",
-        "https://iz.ru/2146476/gruzy-vsu-perenapravili-cherez-odesskuiu-oblast-posle-blokirovki-portov-izi",
-        "https://iz.ru/2146477/park-zariade-posetili-voennosluzhashchie-i-zhiteli-prigranichnykh-regionov-rossii-izi",
-        "https://iz.ru/2146479/v-mvd-nazvali-obiazatelnye-otmetki-v-pasporte-grazhdanina-rossii-izi",
-        "https://iz.ru/2146483/amerikanskii-akter-seriala-diuki-iz-khazzard-ben-dzhons-umer-v-vozraste-84-let-izi",
-        "https://iz.ru/2146484/zhitelnitcu-khabarovskogo-kraia-prigovorili-k-10-godam-za-pokushenie-na-zhizn-vnuka-izi",
-        "https://iz.ru/2146487/rossiia-vpervye-za-27-let-zakupila-u-brazilii-25-t-kakao-bobov-na-1278-tys-izi",
-        "https://iz.ru/2146488/errol-mask-nazval-rossiiu-luchshim-mestom-dlia-zhizni-zdravomysliashchikh-liudei-izi",
-        "https://iz.ru/2146490/rossiianka-pereplyla-sai-i-sbezhala-v-tailand-iz-moshennicheskogo-tcentra-v-mianme-izi",
-        "https://iz.ru/2146491/deiatelnost-vsu-privela-k-ostanovke-sbora-urozhaia-v-chernigovskoi-oblasti-izi",
-        "https://iz.ru/2146492/v-minenergo-rf-sprognozirovali-rost-proizvodstva-aviakerosina-v-avguste-na-4-izi",
-        "https://iz.ru/2146495/na-kubani-pri-stolknovenii-dvukh-motornykh-lodok-pogib-chelovek-izi",
-        "https://iz.ru/2146496/v-kolledzhi-i-tekhnikumy-podali-bolee-32-mln-zaiavlenii-v-2026-godu-izi",
-        "https://iz.ru/2146499/soobshchili-o-rekordnoi-temperature-poverkhnosti-mirovogo-okeana-v-iiule-izi",
-        "https://iz.ru/2146508/v-belorussii-zaderzhali-uchastnika-skhemy-s-nekachestvennoi-tushenkoi-dlia-svo-izi",
-        "https://iz.ru/2146509/v-germanii-uvideli-ritoriku-ss-v-voprose-zhurnalista-martensa-ob-ubiistve-russkikh-izi",
-        "https://iz.ru/2146511/sud-britanii-obiazal-potanina-otvetit-na-voprosy-eks-suprugi-o-razdele-imushchestva-izi"
+        "https://iz.ru/2146562/kazakhstan-perenapravil-chast-eksporta-nefti-posle-atak-na-ktk-izi",
+        "https://iz.ru/2146567/veselyi-molochnik-uolker-zaiavil-ob-otsutstvii-osnovanii-dlia-vydvoreniia-iz-rf-izi",
+        "https://iz.ru/2146574/telegraph-soobshchila-ob-opasenii-ssha-krazhi-tekhnologii-patriot-pri-peredache-ukraine-izi",
+        "https://iz.ru/2146577/deputat-zaiavil-o-nalichii-na-ukraine-podkhodiashchego-dlia-peregovorov-cheloveka-izi",
+        "https://iz.ru/2146578/uchenye-rasskazali-o-gazovom-potoke-v-sisteme-trekh-zvezd-izi",
+        "https://iz.ru/2146580/alpinist-ukazal-na-nevozmozhnost-spuska-tela-nagovitcinoi-s-pika-pobedy-izi",
+        "https://iz.ru/2146588/uchenye-obnaruzhili-aminokisloty-v-upavshem-na-dom-meteorite-izi",
+        "https://iz.ru/2146589/szhr-potreboval-nakazat-zhurnalista-martensa-posle-voprosa-ob-ubiistve-russkikh-izi",
+        "https://iz.ru/2146594/sredi-pogibshikh-pri-atake-na-nizhnekamsk-est-grazhdane-uzbekistana-i-tadzhikistana-izi",
+        "https://iz.ru/2146598/v-bolgarii-vzorvalsia-zavod-s-boepripasami-izi",
+        "https://iz.ru/2146602/maior-vsu-fedorenko-prizval-grazhdan-ukrainy-gotovitsia-k-tiazheloi-zime-izi",
+        "https://iz.ru/2146604/ustanovivshii-rekord-voskhozhdeniia-na-skalolaz-uaizenant-pogib-v-30-let-izi",
+        "https://iz.ru/2146605/v-germanii-uznali-o-podgotovke-vsu-k-oborone-zony-u-chernobylskoi-aes-izi",
+        "https://iz.ru/2146606/grabitel-pronik-v-dom-k-kardashian-v-khidden-khilz-i-ugnal-ottuda-avtomobil-izi",
+        "https://iz.ru/2146608/uchenye-otcenili-vliianie-zhirnykh-molochnykh-produktov-na-ves-izi",
+        "https://iz.ru/2146610/mvd-uregulirovala-pravovoi-status-semi-veselogo-molochnika-uolkera-v-rossii-izi",
+        "https://iz.ru/2146612/uefa-konkakaf-i-afc-prizvali-provesti-proverku-iz-za-plana-infantino-po-chm-izi",
+        "https://iz.ru/2146614/rossiia-podala-isk-protiv-world-athletics-iz-za-ogranichenii-protiv-legkoatletov-izi",
+        "https://iz.ru/2146615/fradkov-nazval-sistemu-mezhdunarodnykh-raschetov-instrumentom-novoi-voiny-izi",
+        "https://iz.ru/2146619/putin-provedet-v-ulan-ude-zasedanie-prezidiuma-gossoveta-po-transportu-izi"
       ]
     },
     "2026-08-11": {
-      "totalChecked": 951,
+      "totalChecked": 950,
       "totalIzi": 250,
       "totalIiz": 4,
       "totalAi": 254,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 927,
+      "totalChecked": 926,
       "totalIzi": 266,
       "totalIiz": 2,
       "totalAi": 268,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 498,
-      "totalIzi": 140,
+      "totalChecked": 679,
+      "totalIzi": 210,
       "totalIiz": 1,
-      "totalAi": 141,
+      "totalAi": 211,
       "topLinks": [
         "https://iz.ru/2149123/2026-08-17/analitiki-rasskazali-o-samykh-vygodnykh-tcvetakh-etogo-leta-izi",
         "https://iz.ru/2150099/smi-rasskazali-o-riskakh-dlia-kitaiskikh-chinovnikov-iz-za-braka-s-inostrantcami-izi",
