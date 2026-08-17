@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:51:50.904Z",
+  "generatedAt": "2026-08-17T23:47:45.460Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 602,
-      "totalIzi": 143,
+      "totalChecked": 574,
+      "totalIzi": 136,
       "totalIiz": 3,
-      "totalAi": 146,
+      "totalAi": 139,
       "topLinks": [
-        "https://iz.ru/2146680/eksperty-podschitali-poteriu-stoimosti-avtomobilia-za-20-let-izi",
-        "https://iz.ru/2146687/samolet-razvedchik-nato-iz-polshi-zamechen-u-granitc-kaliningradskoi-oblasti-izi",
-        "https://iz.ru/2146688/rossiiskie-figuristy-vystupiat-na-turnire-isu-v-tokio-izi",
-        "https://iz.ru/2146691/putin-predupredil-o-razrushenii-dorog-bez-planirovaniia-biudzheta-izi",
-        "https://iz.ru/2146700/putin-rasskazal-o-vpechatleniiakh-ot-pervoi-poezdki-iz-leningrada-izi",
-        "https://iz.ru/2146707/ukrainetc-v-polshe-izbil-metallicheskoi-truboi-do-poteri-soznaniia-svoikh-kolleg-izi",
-        "https://iz.ru/2146708/putin-nazval-uchastnikov-svo-nastoiashchimi-geroiami-izi",
         "https://iz.ru/2146719/v-belgorodskoi-oblasti-odin-chelovek-pogib-i-dvoe-postradali-iz-za-ataki-vsu-izi",
         "https://iz.ru/2146725/ft-soobshchila-o-roste-kolichestva-perevozok-cherez-severnyi-morskoi-put-izi",
         "https://iz.ru/2146726/rossiiskaia-marka-jeland-obiavila-tcenu-krossovera-j6-s-polnym-privodom-izi",
@@ -175,11 +168,18 @@
         "https://iz.ru/2146823/v-khakasii-muzhchina-skonchalsia-ot-ukusa-osy-izi",
         "https://iz.ru/2146826/zemletriasenie-v-kolumbii-privelo-k-razrusheniiam-i-gibeli-liudei-chto-izvestno-izi",
         "https://iz.ru/2146827/genprokuratura-vystupila-za-sniatie-partii-iabloko-s-vyborov-v-gosdumu-izi",
-        "https://iz.ru/2146837/lyzhnik-bolshunov-obiasnil-nedopusk-na-sorevnovaniia-svoei-familiei-izi"
+        "https://iz.ru/2146837/lyzhnik-bolshunov-obiasnil-nedopusk-na-sorevnovaniia-svoei-familiei-izi",
+        "https://iz.ru/2146845/v-germanii-nashli-dnk-na-atakovavshem-ukrainskii-samolet-drone-izi",
+        "https://iz.ru/2146846/maior-vsu-lopachak-prizval-ukraintcev-na-zimu-uekhat-iz-krupnykh-gorodov-v-sela-izi",
+        "https://iz.ru/2146849/glava-sap-klimenko-zaiavil-o-roste-korruptcii-v-okruzhenii-zelenskogo-izi",
+        "https://iz.ru/2146853/v-sovfede-otcenili-predlozhenie-strany-sng-o-peregovorakh-s-ukrainoi-izi",
+        "https://iz.ru/2146861/v-avstralii-neiroset-vzlomala-sait-mestnogo-sportzala-izi",
+        "https://iz.ru/2146864/v-kolumbii-v-rezultate-zemletriaseniia-pogibli-55-chelovek-izi",
+        "https://iz.ru/2146871/fetisov-prizval-vernut-valievoi-zolotuiu-olimpiiskuiu-medal-IZI"
       ]
     },
     "2026-08-11": {
-      "totalChecked": 943,
+      "totalChecked": 941,
       "totalIzi": 250,
       "totalIiz": 4,
       "totalAi": 254,
@@ -375,11 +375,15 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 15,
-      "totalIzi": 0,
+      "totalChecked": 45,
+      "totalIzi": 3,
       "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalAi": 3,
+      "topLinks": [
+        "https://iz.ru/2150580/ldpr-predlozhila-razvivat-otechestvennuiu-robotizatciiu-za-schet-otchislenii-ot-migrantov-izi",
+        "https://iz.ru/2150687/peterburgskaia-birzha-zapustila-mekhanizm-obespecheniia-potrebitelei-benzinom-izi",
+        "https://iz.ru/2150703/2026-08-18/minprosveshcheniia-rf-opredelilo-maksimalnoe-chislo-urokov-dlia-shkolnikov-izi"
+      ]
     }
   }
 }
