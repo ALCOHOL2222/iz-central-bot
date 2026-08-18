@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:51:19.741Z",
+  "generatedAt": "2026-08-18T23:48:33.462Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 726,
-      "totalIzi": 198,
+      "totalChecked": 706,
+      "totalIzi": 191,
       "totalIiz": 3,
-      "totalAi": 201,
+      "totalAi": 194,
       "topLinks": [
-        "https://iz.ru/2147214/osvobozhdenie-shcherbakovki-stalo-vazhnym-etapom-v-borbe-za-kazachiu-lopan-izi",
-        "https://iz.ru/2147216/v-gosdume-soobshchili-o-lishenii-grazhdanstva-bolee-45-tys-chelovek-s-2023-goda-izi",
-        "https://iz.ru/2147217/poslannik-trampa-rasskazal-o-prosbe-putina-peredat-emu-simvolicheskuiu-shaibu-izi",
-        "https://iz.ru/2147224/tramp-vystupil-protiv-vozmozhnoi-smeny-glavy-fifa-infantino-izi",
-        "https://iz.ru/2147225/fas-oshtrafovala-resursosnabzhaiushchie-organizatcii-na-278-mln-rub-s-nachala-goda-izi",
-        "https://iz.ru/2147237/v-armenii-zaiavili-ob-otsutstvii-puti-obratno-v-odkb-izi",
-        "https://iz.ru/2147238/tramp-igral-v-golf-v-bedminstere-pod-zashchitoi-zrk-avenger-izi",
         "https://iz.ru/2147240/zaderzhannogo-v-belorussii-figuranta-dela-o-tushenke-dlia-svo-peredali-rossii-izi",
         "https://iz.ru/2147252/tri-cheloveka-postradali-v-rezultate-ataki-dronov-vsu-v-energodare-izi",
         "https://iz.ru/2147253/gubernator-filimonov-oproverg-slukhi-ob-izbienii-zheny-i-nazval-ikh-feikom-izi",
@@ -175,11 +168,18 @@
         "https://iz.ru/2147271/zakharova-shutkoi-prokommentirovala-opros-bi-bi-si-na-ulitcakh-moskvy-izi",
         "https://iz.ru/2147275/premer-shvetcii-predupredil-ob-ugroze-shengenu-iz-za-migratcionnoi-reformy-ispanii-izi",
         "https://iz.ru/2147279/figuristka-valieva-nazvala-neinteresnoi-zhizn-v-period-otstraneniia-izi",
-        "https://iz.ru/2147281/zakharova-sravnila-zelenskogo-s-glavarem-upyrei-izi"
+        "https://iz.ru/2147281/zakharova-sravnila-zelenskogo-s-glavarem-upyrei-izi",
+        "https://iz.ru/2147283/uchenye-nashli-svidetelstva-otnositelno-nedavnei-vody-na-marse-izi",
+        "https://iz.ru/2147287/gm-obiavil-o-prekrashchenii-prodazh-avtomobilei-chevrolet-v-kitae-izi",
+        "https://iz.ru/2147295/bloomberg-soobshchil-o-vozmozhnoi-ostanovke-edinstvennoi-aes-v-rumynii-iz-za-zasukhi-izi",
+        "https://iz.ru/2147297/sud-v-rostove-na-donu-priznal-vinu-natcista-oberlandera-v-genotcide-izi",
+        "https://iz.ru/2147299/zvezda-komissara-reksa-vera-borek-umerla-posle-tiazheloi-bolezni-v-85-let-izi",
+        "https://iz.ru/2147312/politciia-sietla-unichtozhila-naidennyi-drobovik-kurta-kobeina-spustia-pochti-30-let-izi",
+        "https://iz.ru/2147314/v-gosdume-napomnili-o-neskolkikh-etapakh-povysheniia-pensii-do-kontca-2026-goda-izi"
       ]
     },
     "2026-08-12": {
-      "totalChecked": 921,
+      "totalChecked": 919,
       "totalIzi": 266,
       "totalIiz": 2,
       "totalAi": 268,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 929,
+      "totalChecked": 928,
       "totalIzi": 234,
       "totalIiz": 5,
       "totalAi": 239,
@@ -375,11 +375,18 @@
       ]
     },
     "2026-08-19": {
-      "totalChecked": 20,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 43,
+      "totalIzi": 5,
+      "totalIiz": 1,
+      "totalAi": 6,
+      "topLinks": [
+        "https://iz.ru/2151059/narodnye-primety-na-19-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2151259/2026-08-19/akron-obygral-tcska-v-gruppovom-etape-kubka-rossii-izi",
+        "https://iz.ru/2151261/2026-08-19/spiker-parlamenta-irana-nazval-klounami-ministrov-iz-ssha-izi",
+        "https://iz.ru/2151263/2026-08-19/dmitriev-vyskazal-mnenie-o-prizyve-fedorova-k-vyboram-na-ukraine-izi",
+        "https://iz.ru/2151266/2026-08-19/medinskii-nazval-simvolichnym-obretenie-moshchei-dmitriia-donskogo-izi",
+        "https://iz.ru/2151272/2026-08-19/v-zone-svo-identifitcirovali-10-unichtozhennykh-inostrannykh-naemnikov-izi"
+      ]
     }
   }
 }
