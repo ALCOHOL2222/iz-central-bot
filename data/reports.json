@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T05:02:52.025Z",
+  "generatedAt": "2026-08-18T05:55:12.235Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 549,
-      "totalIzi": 131,
+      "totalChecked": 531,
+      "totalIzi": 129,
       "totalIiz": 3,
-      "totalAi": 134,
+      "totalAi": 132,
       "topLinks": [
-        "https://iz.ru/2146754/v-khorvatii-ukazali-na-nastuplenie-kriticheskoi-fazy-ukrainskogo-konflikta-izi",
-        "https://iz.ru/2146770/delo-bez-ustanovlennogo-strelka-kogo-sudiat-za-ubiistvo-tupaka-izi",
         "https://iz.ru/2146804/polzovateli-vk-poluchili-bolee-tochnye-rekomendatcii-blagodaria-novoi-modeli-ii-izi",
         "https://iz.ru/2146806/biolog-predupredil-ob-opasnosti-kontakta-s-gusenitcami-shelkopriada-izi",
         "https://iz.ru/2146823/v-khakasii-muzhchina-skonchalsia-ot-ukusa-osy-izi",
@@ -175,11 +173,13 @@
         "https://iz.ru/2146896/eks-basketbolist-iuty-vystavil-svoiu-kandidaturu-na-draft-zhenskoi-nba-izi",
         "https://iz.ru/2146912/chto-proizoshlo-za-den-10-avgusta-glavnoe-izi",
         "https://iz.ru/2146921/istrebitel-mig-29-razbilsia-v-odesskoi-oblasti-izi",
-        "https://iz.ru/2146932/voenkor-otcenil-vliianie-udarov-po-skladam-na-snabzhenie-vsu-izi"
+        "https://iz.ru/2146932/voenkor-otcenil-vliianie-udarov-po-skladam-na-snabzhenie-vsu-izi",
+        "https://iz.ru/2146936/zumeram-posovetovali-ne-naglet-pri-poiske-pervoi-raboty-izi",
+        "https://iz.ru/2132769/bez-uborki-i-raboty-v-ogorode-kakie-zaprety-vazhno-sobliudat-v-pervyi-spas-avgusta-iiz"
       ]
     },
     "2026-08-11": {
-      "totalChecked": 938,
+      "totalChecked": 934,
       "totalIzi": 250,
       "totalIiz": 4,
       "totalAi": 254,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 158,
-      "totalIzi": 22,
+      "totalChecked": 180,
+      "totalIzi": 24,
       "totalIiz": 1,
-      "totalAi": 23,
+      "totalAi": 25,
       "topLinks": [
         "https://iz.ru/2150275/uchenye-raskryli-rol-gormona-stressa-v-vosstanovlenii-kletok-mozga-izi",
         "https://iz.ru/2150288/uchenye-postavili-pod-somnenie-odnu-iz-glavnykh-teorii-pamiati-izi",
@@ -391,15 +391,15 @@
         "https://iz.ru/2150722/minprosveshcheniia-opredelilo-sroki-novogo-uchebnogo-goda-i-chislo-pervoklassnikov-izi",
         "https://iz.ru/2150723/2026-08-18/spasateli-nashli-propavshikh-na-elbruse-turistov-izi",
         "https://iz.ru/2150741/gosobvinenie-potrebovalo-uzhestochit-nakazanie-dlia-blogera-lerchek-izi",
+        "https://iz.ru/2150764/2026-08-18/dmitriev-nameknul-na-prevrashchenie-kanady-v-novyi-amerikanskii-shtat-izi",
+        "https://iz.ru/2150767/2026-08-18/rossiia-sokratila-vlozheniia-v-gosdolg-ssha-v-iiune-do-27-mln-izi",
         "https://iz.ru/2145458/narodnye-primety-na-11-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2150275/uchenye-raskryli-rol-gormona-stressa-v-vosstanovlenii-kletok-mozga-izi",
         "https://iz.ru/2150288/uchenye-postavili-pod-somnenie-odnu-iz-glavnykh-teorii-pamiati-izi",
         "https://iz.ru/2150333/uchenye-nashli-sposob-omolodit-kletki-mozga-s-pomoshchiu-belka-timp2-izi",
         "https://iz.ru/2150580/ldpr-predlozhila-razvivat-otechestvennuiu-robotizatciiu-za-schet-otchislenii-ot-migrantov-izi",
         "https://iz.ru/2150687/peterburgskaia-birzha-zapustila-mekhanizm-obespecheniia-potrebitelei-benzinom-izi",
-        "https://iz.ru/2150703/2026-08-18/minprosveshcheniia-rf-opredelilo-maksimalnoe-chislo-urokov-dlia-shkolnikov-izi",
-        "https://iz.ru/2150711/2026-08-18/rossiianam-napomnili-o-pravilakh-naznacheniia-strakhovoi-pensii-po-starosti-izi",
-        "https://iz.ru/2150715/2026-08-18/frantcuzskii-istorik-zaiavil-o-gibeli-kazhdogo-chetvertogo-naemnika-v-riadakh-vsu-izi"
+        "https://iz.ru/2150703/2026-08-18/minprosveshcheniia-rf-opredelilo-maksimalnoe-chislo-urokov-dlia-shkolnikov-izi"
       ]
     }
   }
