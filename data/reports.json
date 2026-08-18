@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:07:53.500Z",
+  "generatedAt": "2026-08-18T19:54:24.131Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,21 +179,11 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 776,
-      "totalIzi": 219,
+      "totalChecked": 756,
+      "totalIzi": 209,
       "totalIiz": 3,
-      "totalAi": 222,
+      "totalAi": 212,
       "topLinks": [
-        "https://iz.ru/2147151/pomoshchnik-prezidenta-fursenko-predlozhil-uslozhnit-ege-izi",
-        "https://iz.ru/2147153/putin-poprivetstvoval-iunykh-sportsmenov-slovami-fizkult-privet-izi",
-        "https://iz.ru/2147157/balerina-i-aktrisa-natalia-trubnikova-umerla-v-vozraste-71-goda-izi",
-        "https://iz.ru/2147159/v-germanii-uznali-o-neopredelennosti-es-po-vyplate-kreditnykh-eu90-mlrd-ukraine-izi",
-        "https://iz.ru/2147160/ssha-do-2030-goda-ne-smogut-vosstanovit-zapasy-peredannykh-kievu-raket-javelin-izi",
-        "https://iz.ru/2147164/putin-podcherknul-vliianie-vybora-professii-na-dalneishuiu-sudbu-izi",
-        "https://iz.ru/2147168/v-rossii-prodlili-do-kontca-goda-snizhennyi-normativ-prodazh-benzina-na-birzhe-izi",
-        "https://iz.ru/2147169/smi-uznali-o-prodazhe-ssha-dvukh-iakoby-sviazannykh-s-rf-sudna-na-metallolom-izi",
-        "https://iz.ru/2147175/putin-rasskazal-o-svoem-otnoshenii-k-ugrozam-v-sfere-ii-izi",
-        "https://iz.ru/2147177/na-urale-fsb-vozbudila-18-ugolovnykh-del-na-planirovavshego-otpravku-bomb-voennym-izi",
         "https://iz.ru/2147181/uchenye-rasskazali-o-sposobnosti-sobak-razlichat-emotcii-cheloveka-izi",
         "https://iz.ru/2147182/eks-glava-udmurtii-brechalov-stal-rukovoditelem-konsaltingovoi-kompanii-apeks-izi",
         "https://iz.ru/2147183/balerina-i-aktrisa-natalia-trubnikova-biografiia-izi",
@@ -203,11 +193,21 @@
         "https://iz.ru/2147196/putin-sravnil-altai-s-evropoi-izi",
         "https://iz.ru/2147201/v-ruche-kaluzhskoi-oblasti-nashli-mumifitcirovannoe-telo-izi",
         "https://iz.ru/2147202/mo-rf-nazvalo-nochnye-udary-po-predpriiatiiam-vpk-vsu-paliashchim-znoem-dlia-vraga-izi",
-        "https://iz.ru/2147205/putin-prizval-adaptirovat-shkolnuiu-programmu-k-sovremennym-realiiam-izi"
+        "https://iz.ru/2147205/putin-prizval-adaptirovat-shkolnuiu-programmu-k-sovremennym-realiiam-izi",
+        "https://iz.ru/2147211/putin-prizval-rossiiskii-biznes-vystupat-zakazchikom-proryvnykh-tekhnologii-izi",
+        "https://iz.ru/2147214/osvobozhdenie-shcherbakovki-stalo-vazhnym-etapom-v-borbe-za-kazachiu-lopan-izi",
+        "https://iz.ru/2147216/v-gosdume-soobshchili-o-lishenii-grazhdanstva-bolee-45-tys-chelovek-s-2023-goda-izi",
+        "https://iz.ru/2147217/poslannik-trampa-rasskazal-o-prosbe-putina-peredat-emu-simvolicheskuiu-shaibu-izi",
+        "https://iz.ru/2147224/tramp-vystupil-protiv-vozmozhnoi-smeny-glavy-fifa-infantino-izi",
+        "https://iz.ru/2147225/fas-oshtrafovala-resursosnabzhaiushchie-organizatcii-na-278-mln-rub-s-nachala-goda-izi",
+        "https://iz.ru/2147237/v-armenii-zaiavili-ob-otsutstvii-puti-obratno-v-odkb-izi",
+        "https://iz.ru/2147238/tramp-igral-v-golf-v-bedminstere-pod-zashchitoi-zrk-avenger-izi",
+        "https://iz.ru/2147240/zaderzhannogo-v-belorussii-figuranta-dela-o-tushenke-dlia-svo-peredali-rossii-izi",
+        "https://iz.ru/2147252/tri-cheloveka-postradali-v-rezultate-ataki-dronov-vsu-v-energodare-izi"
       ]
     },
     "2026-08-12": {
-      "totalChecked": 922,
+      "totalChecked": 921,
       "totalIzi": 266,
       "totalIiz": 2,
       "totalAi": 268,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 902,
+      "totalChecked": 901,
       "totalIzi": 238,
       "totalIiz": 2,
       "totalAi": 240,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 695,
-      "totalIzi": 222,
+      "totalChecked": 717,
+      "totalIzi": 233,
       "totalIiz": 1,
-      "totalAi": 223,
+      "totalAi": 234,
       "topLinks": [
         "https://iz.ru/2150275/uchenye-raskryli-rol-gormona-stressa-v-vosstanovlenii-kletok-mozga-izi",
         "https://iz.ru/2150288/uchenye-postavili-pod-somnenie-odnu-iz-glavnykh-teorii-pamiati-izi",
