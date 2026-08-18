@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:51:38.303Z",
+  "generatedAt": "2026-08-18T13:18:57.174Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-10": {
-      "totalChecked": 443,
+      "totalChecked": 439,
       "totalIzi": 110,
       "totalIiz": 3,
       "totalAi": 113,
@@ -179,12 +179,11 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 907,
-      "totalIzi": 250,
+      "totalChecked": 854,
+      "totalIzi": 249,
       "totalIiz": 3,
-      "totalAi": 253,
+      "totalAi": 252,
       "topLinks": [
-        "https://iz.ru/2147039/onishchenko-otcenil-vozmozhnost-evropeiskikh-ippp-postuchatsia-v-rossiiu-izi",
         "https://iz.ru/2147061/gruppa-shturmovikov-vsu-byla-likvidirovana-pri-proryve-u-kazachei-lopani-izi",
         "https://iz.ru/2147069/minprosveshchenie-ustanovilo-prodolzhitelnost-urokov-u-uchashchikhsia-pervogo-klassa-izi",
         "https://iz.ru/2147072/rf-v-i-polugodii-2026-goda-oboshla-oae-i-voshla-v-top-3-turisticheskikh-napravlenii-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2147095/ukrainskaia-pevitca-poliakova-raskritikovala-ttck-i-sravnila-stranu-s-kontclagerem-izi",
         "https://iz.ru/2147101/v-rossii-potreblenie-sladkogo-dostiglo-minimuma-s-2004-goda-izi",
         "https://iz.ru/2147114/vs-rossii-porazili-sklad-dlia-khraneniia-bpla-i-terminal-novaia-pochta-v-kieve-izi",
-        "https://iz.ru/2147123/sotcfond-sokratil-srok-rassmotreniia-zaiavok-na-ispolzovanie-matkapitala-izi"
+        "https://iz.ru/2147123/sotcfond-sokratil-srok-rassmotreniia-zaiavok-na-ispolzovanie-matkapitala-izi",
+        "https://iz.ru/2147125/miroshnik-nazval-chislo-postradavshikh-za-nedeliu-iz-za-vsu-sotrudnikov-wildberries-izi"
       ]
     },
     "2026-08-12": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 903,
+      "totalChecked": 902,
       "totalIzi": 238,
       "totalIiz": 2,
       "totalAi": 240,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 360,
-      "totalIzi": 85,
+      "totalChecked": 518,
+      "totalIzi": 148,
       "totalIiz": 1,
-      "totalAi": 86,
+      "totalAi": 149,
       "topLinks": [
         "https://iz.ru/2150275/uchenye-raskryli-rol-gormona-stressa-v-vosstanovlenii-kletok-mozga-izi",
         "https://iz.ru/2150288/uchenye-postavili-pod-somnenie-odnu-iz-glavnykh-teorii-pamiati-izi",
