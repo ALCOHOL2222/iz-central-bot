@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T19:07:06.134Z",
+  "generatedAt": "2026-08-19T21:52:12.947Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 66
   },
   "days": {
-    "2026-08-06": {
-      "totalChecked": 449,
-      "totalIzi": 126,
-      "totalIiz": 1,
-      "totalAi": 127,
-      "topLinks": [
-        "https://iz.ru/2143474/narodnye-primety-na-6-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2143839/ekspert-rasskazala-o-deistviiakh-pri-uvelichenii-zadach-bez-pribavki-k-zarplate-izi",
-        "https://iz.ru/2144131/tiazhelyi-portfel-ne-norma-kak-shkolnyi-riukzak-mozhet-navredit-rebenku-izi",
-        "https://iz.ru/2144228/uchenye-otkryli-mekhanizm-usileniia-signalov-serdtca-v-mozge-vo-vremia-sna-izi",
-        "https://iz.ru/2144452/khirosima-i-nagasaki-kak-atomnye-udary-izmenili-khod-vtoroi-mirovoi-voiny-izi",
-        "https://iz.ru/2144688/v-op-predlozhili-vvesti-federalnuiu-vyplatu-k-1-sentiabria-na-kazhdogo-shkolnika-izi",
-        "https://iz.ru/2144690/v-mid-rf-poobeshchali-otvetit-avstrii-na-obiavlenie-diplomatov-personami-non-grata-izi",
-        "https://iz.ru/2144697/kosmetolog-nazvala-razrushaiushchie-vneshnost-produkty-izi",
-        "https://iz.ru/2144701/v-polshe-soobshchili-o-skandale-iz-za-nonoi-initciativy-deputatov-verkhovnoi-rady-izi",
-        "https://iz.ru/2144707/bolee-200-volonterov-moskovskoi-shkoly-no-2010-reguliarno-pomogaiut-uchastnikam-svo-izi",
-        "https://iz.ru/2144719/v-tailande-nachalas-tceremoniia-proshchaniia-s-ubitymi-rossiianami-nazimovymi-izi",
-        "https://iz.ru/2144724/pri-atake-dronov-vsu-na-engels-podrostok-poluchil-cherepno-mozgovuiu-travmu-izi",
-        "https://iz.ru/2144726/oxxxymiron-sokhranil-ip-v-rossii-kto-iz-inoagentov-chislitsia-predprinimatelem-izi",
-        "https://iz.ru/2144729/v-primore-zaderzhali-podrostkov-za-podgotovku-terakta-na-obekte-rosgvardii-izi",
-        "https://iz.ru/2144735/mer-khirosimy-v-godovshchinu-bombardirovki-ni-razu-ne-upomianul-ssha-v-rechi-izi",
-        "https://iz.ru/2144737/pri-atake-drona-vsu-v-brianskoi-oblasti-postradali-chetyre-devushki-izi",
-        "https://iz.ru/2144741/tovarooborot-rossii-i-armenii-v-etom-godu-sokratilsia-na-dve-treti-izi",
-        "https://iz.ru/2144758/v-ssha-soobshchili-o-vosstanovlenii-tempom-obmena-razveddannymi-s-kievom-izi",
-        "https://iz.ru/2144766/glava-natcbanka-ukrainy-otcenil-pomoshch-zapada-s-2022-goda-pochti-v-200-mlrd-izi",
-        "https://iz.ru/2144772/v-ssha-nazvali-borbu-za-vozdushnoe-prostranstvo-novoi-fazoi-ukrainskogo-konflikta-izi"
-      ]
-    },
     "2026-08-07": {
       "totalChecked": 427,
       "totalIzi": 117,
@@ -179,31 +151,31 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 814,
-      "totalIzi": 252,
+      "totalChecked": 750,
+      "totalIzi": 235,
       "totalIiz": 1,
-      "totalAi": 253,
+      "totalAi": 236,
       "topLinks": [
-        "https://iz.ru/2147698/ekspert-predupredil-o-blokirovkakh-perevodov-so-starykh-ustroistv-s-2027-goda-izi",
-        "https://iz.ru/2147709/ekspert-rasskazal-o-sposobakh-zashchitit-detei-ot-skhem-moshennikov-izi",
-        "https://iz.ru/2147715/v-frg-zaiavili-o-bezzashchitnosti-ukraini-izi",
-        "https://iz.ru/2147718/tramp-podtverdil-peresadku-na-drugoi-samolet-posle-sammita-v-ankare-izi",
-        "https://iz.ru/2147724/v-tiumeni-vyiavili-snizhenie-urovnia-vody-v-reke-tura-i-tavda-izi",
-        "https://iz.ru/2147726/odin-chelovek-pogib-pri-atake-ukrainskikh-bpla-na-krym-izi",
-        "https://iz.ru/2147727/v-bundesvere-soobshchili-o-iakoby-godami-fiksiruemykh-dronakh-nad-svoimi-bazami-izi",
-        "https://iz.ru/2147730/politico-uznala-ob-opasenii-v-es-ugrozy-troianskogo-konia-pri-uskorennom-rasshirenii-izi",
-        "https://iz.ru/2147731/v-minprosveshcheniia-opredelili-prodolzhitelnost-vsekh-peremen-v-shkolakh-izi",
-        "https://iz.ru/2147735/voennyi-analitik-nazval-chislo-poter-boevikov-vsu-s-nachala-2026-goda-izi",
-        "https://iz.ru/2147739/v-kaluzhskoi-oblasti-zaderzhali-podozrevaemogo-v-nezakonnom-sbyte-oruzhiia-izi",
-        "https://iz.ru/2147744/v-mvd-napomnili-o-blokirovke-perevodov-bankami-s-1-marta-pri-vyiavlenii-virusov-izi",
-        "https://iz.ru/2147745/vozbuzhdeno-ugolovnoe-delo-v-sviazi-s-atakami-bpla-v-krasnodarskom-krae-izi",
-        "https://iz.ru/2147747/v-britanii-ukazali-na-nesposobnost-ukrainy-obespechit-rabotu-sistem-pvo-izi",
-        "https://iz.ru/2147749/podacha-vody-vremenno-prekrashchena-v-novorossiiske-iz-za-ataki-vsu-izi",
-        "https://iz.ru/2147753/odin-chelovek-pogib-pri-pozhare-na-parome-so-svyshe-170-liudmi-na-bortu-vblizi-bali-izi",
-        "https://iz.ru/2147754/khlebozavody-ukrainy-stolknulis-s-defitcitom-voditelei-iz-za-mobilizatcii-izi",
         "https://iz.ru/2147788/sotcfond-obiavil-o-roste-pensii-po-starosti-i-invalidnosti-v-riade-sluchaev-izi",
         "https://iz.ru/2147794/v-minzdrave-otcenili-sostoianie-postradavshikh-pri-atake-vsu-na-krasnodarskii-krai-izi",
-        "https://iz.ru/2147797/times-uznala-o-zhelanii-britanii-vozobnovit-voennye-kontakty-s-rossiei-izi"
+        "https://iz.ru/2147797/times-uznala-o-zhelanii-britanii-vozobnovit-voennye-kontakty-s-rossiei-izi",
+        "https://iz.ru/2147799/zakharova-rezko-osudila-prezidenta-polshi-navrotckogo-za-opravdanie-natcizma-izi",
+        "https://iz.ru/2147802/vlasti-latvii-zabyli-kupit-boepripasy-k-sistemam-protiv-dronov-izi",
+        "https://iz.ru/2147803/kalashnikov-nazval-osnovnuiu-tcel-dlia-rossiiskikh-snaiperov-v-zone-svo-izi",
+        "https://iz.ru/2147808/zernovoi-terminal-povrezhden-pri-atake-dronov-vsu-v-novorossiiske-izi",
+        "https://iz.ru/2147811/uchenye-rasskazali-ob-izmeneniiakh-krovi-iz-za-zagriazneniia-vozdukha-izi",
+        "https://iz.ru/2147812/v-2026-godu-gimn-rossii-prozvuchal-na-mezhdunarodnykh-turnirakh-svyshe-250-raz-izi",
+        "https://iz.ru/2147825/rossiiane-stali-est-menshe-khleba-izi",
+        "https://iz.ru/2147828/uchenye-raskryli-obshchii-mekhanizm-bolezni-altcgeimera-i-detskoi-dementcii-izi",
+        "https://iz.ru/2147831/khodarenok-obiasnil-ostanovku-publikatcii-otchetov-kieva-ob-udarakh-armii-rf-izi",
+        "https://iz.ru/2147833/putin-ukazal-na-neobosnovannost-pretenzii-iaponii-po-kurilam-izi",
+        "https://iz.ru/2147834/v-chite-obiavili-rezhim-chs-iz-za-podtoplenii-izi",
+        "https://iz.ru/2147839/samolet-razvedchik-ssha-stal-letat-vdol-granitcy-rf-nad-chernym-morem-izi",
+        "https://iz.ru/2147848/v-iakutske-organizovali-proverku-posle-otravleniia-liudei-v-zavedenii-obshchepita-izi",
+        "https://iz.ru/2147850/prichinoi-smerti-aktrisy-i-baleriny-natali-trubnikovoi-stala-bolezn-parkinsona-izi",
+        "https://iz.ru/2147857/uchenye-sviazali-osobennosti-sna-s-riskom-bolezni-altcgeimera-izi",
+        "https://iz.ru/2147859/temperatura-vozdukha-v-polshe-dostigla-pobila-natcionalnyi-rekord-izi",
+        "https://iz.ru/2147860/sportsmenov-sbornoi-rf-po-zimnemu-plavaniiu-vstretili-v-aeroportu-posle-kubka-mira-izi"
       ]
     },
     "2026-08-13": {
@@ -235,7 +207,7 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 928,
+      "totalChecked": 927,
       "totalIzi": 234,
       "totalIiz": 5,
       "totalAi": 239,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-19": {
-      "totalChecked": 743,
-      "totalIzi": 240,
+      "totalChecked": 826,
+      "totalIzi": 282,
       "totalIiz": 2,
-      "totalAi": 242,
+      "totalAi": 284,
       "topLinks": [
         "https://iz.ru/2150523/uchenye-dokazali-polzu-rastitelnogo-pitaniia-dlia-snizheniia-vesa-izi",
         "https://iz.ru/2150859/2026-08-19/detskie-travmy-i-mozg-uchenye-raskryli-mekhanizm-poteri-motivatcii-izi",
@@ -400,6 +372,15 @@
         "https://iz.ru/2151327/2026-08-19/v-mvd-nazvali-moshennicheskoi-frazu-o-perevode-na-bezopasnyi-schet-izi",
         "https://iz.ru/2151332/ekspert-predupredil-o-zvonkakh-moshennikov-ot-litca-uchitelei-pered-1-sentiabria-izi",
         "https://iz.ru/2151336/v-kaluzhskoi-oblasti-likvidirovali-sem-ukrainskikh-dronov-izi"
+      ]
+    },
+    "2026-08-20": {
+      "totalChecked": 28,
+      "totalIzi": 0,
+      "totalIiz": 1,
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
   }
