@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:53:23.933Z",
+  "generatedAt": "2026-08-19T23:48:54.443Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 750,
-      "totalIzi": 235,
+      "totalChecked": 721,
+      "totalIzi": 234,
       "totalIiz": 1,
-      "totalAi": 236,
+      "totalAi": 235,
       "topLinks": [
-        "https://iz.ru/2147788/sotcfond-obiavil-o-roste-pensii-po-starosti-i-invalidnosti-v-riade-sluchaev-izi",
         "https://iz.ru/2147794/v-minzdrave-otcenili-sostoianie-postradavshikh-pri-atake-vsu-na-krasnodarskii-krai-izi",
         "https://iz.ru/2147797/times-uznala-o-zhelanii-britanii-vozobnovit-voennye-kontakty-s-rossiei-izi",
         "https://iz.ru/2147799/zakharova-rezko-osudila-prezidenta-polshi-navrotckogo-za-opravdanie-natcizma-izi",
@@ -175,11 +174,12 @@
         "https://iz.ru/2147850/prichinoi-smerti-aktrisy-i-baleriny-natali-trubnikovoi-stala-bolezn-parkinsona-izi",
         "https://iz.ru/2147857/uchenye-sviazali-osobennosti-sna-s-riskom-bolezni-altcgeimera-izi",
         "https://iz.ru/2147859/temperatura-vozdukha-v-polshe-dostigla-pobila-natcionalnyi-rekord-izi",
-        "https://iz.ru/2147860/sportsmenov-sbornoi-rf-po-zimnemu-plavaniiu-vstretili-v-aeroportu-posle-kubka-mira-izi"
+        "https://iz.ru/2147860/sportsmenov-sbornoi-rf-po-zimnemu-plavaniiu-vstretili-v-aeroportu-posle-kubka-mira-izi",
+        "https://iz.ru/2147862/v-lipetcke-oblomki-bpla-upali-na-territorii-tcentra-pomoshchi-izi"
       ]
     },
     "2026-08-13": {
-      "totalChecked": 899,
+      "totalChecked": 898,
       "totalIzi": 237,
       "totalIiz": 2,
       "totalAi": 239,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 927,
+      "totalChecked": 926,
       "totalIzi": 234,
       "totalIiz": 5,
       "totalAi": 239,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 602,
+      "totalChecked": 601,
       "totalIzi": 190,
       "totalIiz": 0,
       "totalAi": 190,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 779,
+      "totalChecked": 778,
       "totalIzi": 252,
       "totalIiz": 1,
       "totalAi": 253,
@@ -375,12 +375,14 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 28,
-      "totalIzi": 0,
+      "totalChecked": 61,
+      "totalIzi": 2,
       "totalIiz": 1,
-      "totalAi": 1,
+      "totalAi": 3,
       "topLinks": [
-        "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2151863/gosdolg-ssha-prevysil-40-trln-vpervye-v-istorii-izi",
+        "https://iz.ru/2151872/sredniaia-pensiia-nerabotaiushchikh-pensionerov-prevysila-40-tys-rublei-v-shesti-regionakh-izi"
       ]
     }
   }
