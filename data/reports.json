@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T04:08:29.310Z",
+  "generatedAt": "2026-08-19T05:56:49.223Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,17 +151,11 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 676,
-      "totalIzi": 180,
+      "totalChecked": 656,
+      "totalIzi": 174,
       "totalIiz": 3,
-      "totalAi": 183,
+      "totalAi": 177,
       "topLinks": [
-        "https://iz.ru/2147279/figuristka-valieva-nazvala-neinteresnoi-zhizn-v-period-otstraneniia-izi",
-        "https://iz.ru/2147281/zakharova-sravnila-zelenskogo-s-glavarem-upyrei-izi",
-        "https://iz.ru/2147283/uchenye-nashli-svidetelstva-otnositelno-nedavnei-vody-na-marse-izi",
-        "https://iz.ru/2147287/gm-obiavil-o-prekrashchenii-prodazh-avtomobilei-chevrolet-v-kitae-izi",
-        "https://iz.ru/2147295/bloomberg-soobshchil-o-vozmozhnoi-ostanovke-edinstvennoi-aes-v-rumynii-iz-za-zasukhi-izi",
-        "https://iz.ru/2147297/sud-v-rostove-na-donu-priznal-vinu-natcista-oberlandera-v-genotcide-izi",
         "https://iz.ru/2147299/zvezda-komissara-reksa-vera-borek-umerla-posle-tiazheloi-bolezni-v-85-let-izi",
         "https://iz.ru/2147312/politciia-sietla-unichtozhila-naidennyi-drobovik-kurta-kobeina-spustia-pochti-30-let-izi",
         "https://iz.ru/2147314/v-gosdume-napomnili-o-neskolkikh-etapakh-povysheniia-pensii-do-kontca-2026-goda-izi",
@@ -175,7 +169,13 @@
         "https://iz.ru/2147359/minvostokrazvitiia-otcenilo-postavki-nefteproduktov-po-programme-severnogo-zavoza-izi",
         "https://iz.ru/2147365/analitik-otcenil-sposobnost-rossii-ustroit-blekaut-na-ukraine-izi",
         "https://iz.ru/2147367/kovalchuk-zaiavil-o-vosstanovlenii-kompetentcii-rossii-v-megasaiens-blagodaria-skif-izi",
-        "https://iz.ru/2147372/po-delu-mizgira-arestovali-imushchestvo-i-aktivy-na-sotni-millionov-rublei-izi"
+        "https://iz.ru/2147372/po-delu-mizgira-arestovali-imushchestvo-i-aktivy-na-sotni-millionov-rublei-izi",
+        "https://iz.ru/2147374/latviiskie-pogranichniki-vpervye-obnaruzhili-tunnel-nelegalov-izi",
+        "https://iz.ru/2147376/putin-poobshchalsia-s-zhiteliami-novosibirska-na-ulitcakh-goroda-izi",
+        "https://iz.ru/2147389/putin-pozdravil-nauchnoe-soobshchestvo-s-otkrytiem-ustanovki-skif-izi",
+        "https://iz.ru/2147392/parlament-vengrii-izbral-byvshego-predsedatelia-verkhovnogo-suda-prezidentom-strany-izi",
+        "https://iz.ru/2147394/posle-udara-vs-rf-zaporozhstal-polnostiu-ostanovil-rabotu-izi",
+        "https://iz.ru/2147400/verkhovnyi-sud-bashkirii-vosstanovil-mavlieva-v-dolzhnosti-mera-ufy-izi"
       ]
     },
     "2026-08-12": {
@@ -375,14 +375,15 @@
       ]
     },
     "2026-08-19": {
-      "totalChecked": 129,
-      "totalIzi": 18,
+      "totalChecked": 184,
+      "totalIzi": 36,
       "totalIiz": 2,
-      "totalAi": 20,
+      "totalAi": 38,
       "topLinks": [
         "https://iz.ru/2150523/uchenye-dokazali-polzu-rastitelnogo-pitaniia-dlia-snizheniia-vesa-izi",
         "https://iz.ru/2150859/2026-08-19/detskie-travmy-i-mozg-uchenye-raskryli-mekhanizm-poteri-motivatcii-izi",
         "https://iz.ru/2150889/uchenye-sviazali-risk-vozniknoveniia-raka-zheludka-s-upotrebleniem-gazirovki-izi",
+        "https://iz.ru/2150925/rossiiane-nazvali-zhizn-ne-po-sredstvam-svoei-glavnoi-finansovoi-oshibkoi-izi",
         "https://iz.ru/2151059/narodnye-primety-na-19-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2151154/uchenye-obnaruzhili-u-immunnykh-kletok-chuvstvo-osiazaniia-izi",
         "https://iz.ru/2151259/2026-08-19/akron-obygral-tcska-v-gruppovom-etape-kubka-rossii-izi",
@@ -394,12 +395,11 @@
         "https://iz.ru/2151308/2026-08-19/ekspert-predupredil-o-krazhe-dannykh-kart-pod-vidom-prodazhi-formy-i-gadzhetov-izi",
         "https://iz.ru/2151320/2026-08-19/tennisist-daniil-medvedev-proigral-amerikantcu-brendonu-nakashime-v-tcintcinnati-izi",
         "https://iz.ru/2151322/posol-irana-nazval-ataku-ukrainy-na-sudno-v-kaspiiskom-more-teraktom-izi",
-        "https://iz.ru/2151059/narodnye-primety-na-19-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2151259/2026-08-19/akron-obygral-tcska-v-gruppovom-etape-kubka-rossii-izi",
-        "https://iz.ru/2151261/2026-08-19/spiker-parlamenta-irana-nazval-klounami-ministrov-iz-ssha-izi",
-        "https://iz.ru/2151263/2026-08-19/dmitriev-vyskazal-mnenie-o-prizyve-fedorova-k-vyboram-na-ukraine-izi",
-        "https://iz.ru/2151266/2026-08-19/medinskii-nazval-simvolichnym-obretenie-moshchei-dmitriia-donskogo-izi",
-        "https://iz.ru/2151272/2026-08-19/v-zone-svo-identifitcirovali-10-unichtozhennykh-inostrannykh-naemnikov-izi"
+        "https://iz.ru/2151324/v-fnpr-rasskazali-o-vozmozhnosti-roditeliam-shkolnikov-vziat-vykhodnoi-1-sentiabria-izi",
+        "https://iz.ru/2151325/senator-ssha-obvinil-fbr-v-sokrytii-dannykh-o-korruptcii-semi-baidena-izi",
+        "https://iz.ru/2151327/2026-08-19/v-mvd-nazvali-moshennicheskoi-frazu-o-perevode-na-bezopasnyi-schet-izi",
+        "https://iz.ru/2151332/ekspert-predupredil-o-zvonkakh-moshennikov-ot-litca-uchitelei-pered-1-sentiabria-izi",
+        "https://iz.ru/2151336/v-kaluzhskoi-oblasti-likvidirovali-sem-ukrainskikh-dronov-izi"
       ]
     }
   }
