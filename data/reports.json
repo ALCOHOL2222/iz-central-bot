@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:03:37.825Z",
+  "generatedAt": "2026-08-19T15:57:56.248Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 488,
-      "totalIzi": 126,
+      "totalChecked": 482,
+      "totalIzi": 125,
       "totalIiz": 3,
-      "totalAi": 129,
+      "totalAi": 128,
       "topLinks": [
-        "https://iz.ru/2147620/v-germanii-prizvali-vlasti-frg-opredelit-predely-podderzhki-ukrainy-izi",
         "https://iz.ru/2135884/ukus-pchely-kak-znak-liubvi-i-dostatka-samye-tochnye-primety-na-medovyi-spas-iiz",
         "https://iz.ru/2135888/do-sotni-meteorov-v-chas-kak-ne-propustit-glavnyi-zvezdopad-goda-i-chto-nuzhno-znat-pered-iiz",
         "https://iz.ru/2146813/2026-08-11/narodnye-primety-na-11-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -175,21 +174,16 @@
         "https://iz.ru/2147088/vks-rossii-porazili-punkty-dislokatcii-i-upravleniia-dronami-vsu-v-trekh-regionakh-izi",
         "https://iz.ru/2147089/khusnullin-rasskazal-o-svoem-odnazhdy-udivivshem-putina-zhestkom-reshenii-izi",
         "https://iz.ru/2147090/pod-orenburgom-proizoshel-pozhar-na-prompredpriiatii-posle-ataki-bpla-izi",
-        "https://iz.ru/2147094/mototciklistka-pogibla-pri-stolknovenii-s-gruzovikom-v-moskve-izi"
+        "https://iz.ru/2147094/mototciklistka-pogibla-pri-stolknovenii-s-gruzovikom-v-moskve-izi",
+        "https://iz.ru/2147095/ukrainskaia-pevitca-poliakova-raskritikovala-ttck-i-sravnila-stranu-s-kontclagerem-izi"
       ]
     },
     "2026-08-12": {
-      "totalChecked": 885,
-      "totalIzi": 264,
+      "totalChecked": 844,
+      "totalIzi": 258,
       "totalIiz": 1,
-      "totalAi": 265,
+      "totalAi": 259,
       "topLinks": [
-        "https://iz.ru/2147626/mvd-predupredilo-rossiian-o-riske-pri-poluchenii-deneg-ot-neznakomtcev-na-kartu-izi",
-        "https://iz.ru/2147644/rosobrnadzor-oproverg-plany-po-uslozhneniiu-zadanii-ege-izi",
-        "https://iz.ru/2147647/minprosveshcheniia-dalo-rekomendatcii-po-vremeni-provedeniia-kontrolnykh-rabot-izi",
-        "https://iz.ru/2147648/chislo-rabotaiushchikh-udalenno-rossiian-v-2025-godu-snizilos-do-968-tys-izi",
-        "https://iz.ru/2147656/bloomberg-ukazalo-na-sokrytie-ukrainoi-dannykh-po-chislu-sbitykh-raket-vs-rf-izi",
-        "https://iz.ru/2147658/v-op-predlozhili-predostavliat-pedagogam-ezhegodnyi-paket-seansov-psikhoterapii-izi",
         "https://iz.ru/2147659/v-sotcfonde-rasskazali-o-pokupke-pensionnykh-ballov-dlia-uvelicheniia-pensii-izi",
         "https://iz.ru/2147662/voennye-5-go-komendantskogo-polka-evakuirovali-mirnykh-zhitelei-iz-krasnoarmeiska-izi",
         "https://iz.ru/2147665/iurist-rasskazala-o-sposobakh-vykupa-svoego-zaima-u-banka-izi",
@@ -203,7 +197,13 @@
         "https://iz.ru/2147724/v-tiumeni-vyiavili-snizhenie-urovnia-vody-v-reke-tura-i-tavda-izi",
         "https://iz.ru/2147726/odin-chelovek-pogib-pri-atake-ukrainskikh-bpla-na-krym-izi",
         "https://iz.ru/2147727/v-bundesvere-soobshchili-o-iakoby-godami-fiksiruemykh-dronakh-nad-svoimi-bazami-izi",
-        "https://iz.ru/2147730/politico-uznala-ob-opasenii-v-es-ugrozy-troianskogo-konia-pri-uskorennom-rasshirenii-izi"
+        "https://iz.ru/2147730/politico-uznala-ob-opasenii-v-es-ugrozy-troianskogo-konia-pri-uskorennom-rasshirenii-izi",
+        "https://iz.ru/2147731/v-minprosveshcheniia-opredelili-prodolzhitelnost-vsekh-peremen-v-shkolakh-izi",
+        "https://iz.ru/2147735/voennyi-analitik-nazval-chislo-poter-boevikov-vsu-s-nachala-2026-goda-izi",
+        "https://iz.ru/2147739/v-kaluzhskoi-oblasti-zaderzhali-podozrevaemogo-v-nezakonnom-sbyte-oruzhiia-izi",
+        "https://iz.ru/2147744/v-mvd-napomnili-o-blokirovke-perevodov-bankami-s-1-marta-pri-vyiavlenii-virusov-izi",
+        "https://iz.ru/2147745/vozbuzhdeno-ugolovnoe-delo-v-sviazi-s-atakami-bpla-v-krasnodarskom-krae-izi",
+        "https://iz.ru/2147747/v-britanii-ukazali-na-nesposobnost-ukrainy-obespechit-rabotu-sistem-pvo-izi"
       ]
     },
     "2026-08-13": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-19": {
-      "totalChecked": 562,
-      "totalIzi": 160,
+      "totalChecked": 609,
+      "totalIzi": 179,
       "totalIiz": 2,
-      "totalAi": 162,
+      "totalAi": 181,
       "topLinks": [
         "https://iz.ru/2150523/uchenye-dokazali-polzu-rastitelnogo-pitaniia-dlia-snizheniia-vesa-izi",
         "https://iz.ru/2150859/2026-08-19/detskie-travmy-i-mozg-uchenye-raskryli-mekhanizm-poteri-motivatcii-izi",
