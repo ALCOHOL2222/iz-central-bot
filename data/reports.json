@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:01:07.392Z",
+  "generatedAt": "2026-08-19T11:51:25.272Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,23 +151,11 @@
       ]
     },
     "2026-08-11": {
-      "totalChecked": 577,
-      "totalIzi": 154,
+      "totalChecked": 535,
+      "totalIzi": 142,
       "totalIiz": 3,
-      "totalAi": 157,
+      "totalAi": 145,
       "topLinks": [
-        "https://iz.ru/2147422/rzeczpospolita-soobshchila-o-reshenii-spacex-udalit-polshu-iz-seti-starlink-v-es-izi",
-        "https://iz.ru/2147424/chislo-polisov-osago-dlia-taksi-v-rf-vyroslo-v-piat-raz-izi",
-        "https://iz.ru/2147430/rossiia-nachala-podgotovku-k-uchastiiu-v-sammite-g20-v-atlante-na-vysokom-urovne-izi",
-        "https://iz.ru/2147454/glava-ator-zaiavil-o-upadke-turizma-v-serbii-v-sluchae-vvedeniia-viz-dlia-rf-izi",
-        "https://iz.ru/2147457/v-dnr-sbili-eksperimentalnyi-bespilotnik-vsu-s-oskolochno-fugasnoi-boevoi-chastiu-izi",
-        "https://iz.ru/2147463/vsemirnaia-federatciia-kerlinga-prodlila-otstranenie-rossiian-do-kontca-2026-goda-izi",
-        "https://iz.ru/2147476/poddubnyi-nazval-bessmyslennymi-udary-po-verkhovnoi-rade-ukrainy-izi",
-        "https://iz.ru/2147477/v-sankt-peterburge-krovlia-dk-vyborgskii-zagorelas-na-ploshchadi-400-kv-m-izi",
-        "https://iz.ru/2147478/v-rossii-osvobodili-byvshego-morpekha-ssha-roberta-gilmana-izi",
-        "https://iz.ru/2147481/v-serbii-zaiavili-o-plane-popast-v-shengenskuiu-zonu-k-kontcu-2027-goda-izi",
-        "https://iz.ru/2147488/plennyi-vsu-rasskazal-ob-oblivanii-tel-kolumbiiskikh-naemnikov-kislotoi-izi",
-        "https://iz.ru/2147498/zhenshchina-ubila-bitoi-sozhitelnitcu-i-raschlenila-ee-telo-v-kurgane-izi",
         "https://iz.ru/2147517/v-moskve-voditel-gruzovika-sbil-piar-direktora-zhurnala-moskvichka-i-skrylsia-izi",
         "https://iz.ru/2147518/odin-chelovek-pogib-i-dvoe-raneny-pri-atakakh-vsu-na-belgorodskuiu-oblast-izi",
         "https://iz.ru/2147524/paraplanerist-razbilsia-na-sklone-severnoi-dviny-v-arkhangelskoi-oblasti-izi",
@@ -175,11 +163,23 @@
         "https://iz.ru/2147529/intensivnost-dozhdia-v-moskve-za-tri-chasa-prevysila-normu-v-40-raz-izi",
         "https://iz.ru/2147530/v-belgorode-posle-ataki-vsu-povrezhdeny-okolo-950-kvartir-izi",
         "https://iz.ru/2147539/chto-proizoshlo-za-den-11-avgusta-glavnoe-izi",
-        "https://iz.ru/2147553/bild-soobshchila-o-poslednem-meste-mertca-v-reitinge-populiarnosti-politikov-frg-izi"
+        "https://iz.ru/2147553/bild-soobshchila-o-poslednem-meste-mertca-v-reitinge-populiarnosti-politikov-frg-izi",
+        "https://iz.ru/2147559/na-chempionate-mira-po-khudozhestvennoi-gimnastike-zapustili-golosovanie-izi",
+        "https://iz.ru/2147560/bouz-udivilsia-resheniiu-putina-poobshchatsia-s-zhiteliami-na-ulitcakh-novosibirska-izi",
+        "https://iz.ru/2147562/politciia-chernogorii-zapodozrila-gruppu-ukraintcev-v-sviaziakh-s-kriminalom-izi",
+        "https://iz.ru/2147565/ekspert-nazval-prichinu-unichtozheniia-vsu-inostrannykh-naemnikov-pod-volchanskom-izi",
+        "https://iz.ru/2147567/v-turtcii-soobshchili-o-vozmozhnom-sozdanii-koridorov-bezopasnosti-v-chernom-more-izi",
+        "https://iz.ru/2147575/v-oon-otcenili-sotrudnichestvo-ssha-i-rossii-posle-osvobozhdeniia-gilmana-izi",
+        "https://iz.ru/2147580/rossiia-i-kitai-obsudili-uproshchenie-vzaimnykh-poezdok-grazhdan-izi",
+        "https://iz.ru/2147581/v-nizhnekamsk-pribyla-rabochaia-gruppa-iz-uzbekistana-posle-ataki-bpla-izi",
+        "https://iz.ru/2147620/v-germanii-prizvali-vlasti-frg-opredelit-predely-podderzhki-ukrainy-izi",
+        "https://iz.ru/2135884/ukus-pchely-kak-znak-liubvi-i-dostatka-samye-tochnye-primety-na-medovyi-spas-iiz",
+        "https://iz.ru/2135888/do-sotni-meteorov-v-chas-kak-ne-propustit-glavnyi-zvezdopad-goda-i-chto-nuzhno-znat-pered-iiz",
+        "https://iz.ru/2146813/2026-08-11/narodnye-primety-na-11-avgusta-chto-mozhno-i-nelzia-delat-iiz"
       ]
     },
     "2026-08-12": {
-      "totalChecked": 911,
+      "totalChecked": 901,
       "totalIzi": 264,
       "totalIiz": 1,
       "totalAi": 265,
@@ -207,12 +207,11 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 900,
-      "totalIzi": 238,
+      "totalChecked": 899,
+      "totalIzi": 237,
       "totalIiz": 2,
-      "totalAi": 240,
+      "totalAi": 239,
       "topLinks": [
-        "https://iz.ru/2147419/opasnyi-prokol-kakie-rany-mogut-privesti-k-gazovoi-gangrene-izi",
         "https://iz.ru/2148093/narodnye-primety-na-13-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2148230/minekonomrazvitiia-soobshchilo-o-vosstanovlenii-tempov-rosta-ekonomiki-izi",
         "https://iz.ru/2148232/v-britanii-nachnut-vyrashchivat-mini-organy-cheloveka-dlia-testirovaniia-lekarstv-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2148340/poseshchenie-putinym-kuril-stalo-samoi-obsuzhdaemoi-temoi-v-iaponskom-segmente-kh-izi",
         "https://iz.ru/2148342/senat-ssha-prizval-belyi-dom-obiasnit-otsutstvie-novykh-sanktcii-protiv-rossii-izi",
         "https://iz.ru/2148343/v-dele-o-nekachestvennykh-konservakh-dlia-minoborony-rf-nikto-ne-priznal-vinu-izi",
-        "https://iz.ru/2148344/predpriiatiia-nizhnekamska-vyplatiat-po-2-mln-rublei-semiam-pogibshikh-pri-atake-vsu-izi"
+        "https://iz.ru/2148344/predpriiatiia-nizhnekamska-vyplatiat-po-2-mln-rublei-semiam-pogibshikh-pri-atake-vsu-izi",
+        "https://iz.ru/2148345/tenevoi-flot-zapada-stali-vyslezhivat-v-mirovom-okeane-izi"
       ]
     },
     "2026-08-14": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 603,
+      "totalChecked": 602,
       "totalIzi": 190,
       "totalIiz": 0,
       "totalAi": 190,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-19": {
-      "totalChecked": 337,
-      "totalIzi": 89,
+      "totalChecked": 391,
+      "totalIzi": 102,
       "totalIiz": 2,
-      "totalAi": 91,
+      "totalAi": 104,
       "topLinks": [
         "https://iz.ru/2150523/uchenye-dokazali-polzu-rastitelnogo-pitaniia-dlia-snizheniia-vesa-izi",
         "https://iz.ru/2150859/2026-08-19/detskie-travmy-i-mozg-uchenye-raskryli-mekhanizm-poteri-motivatcii-izi",
