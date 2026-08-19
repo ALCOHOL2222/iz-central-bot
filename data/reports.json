@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:57:56.248Z",
+  "generatedAt": "2026-08-19T17:51:30.132Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,17 +179,11 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 844,
-      "totalIzi": 258,
+      "totalChecked": 814,
+      "totalIzi": 252,
       "totalIiz": 1,
-      "totalAi": 259,
+      "totalAi": 253,
       "topLinks": [
-        "https://iz.ru/2147659/v-sotcfonde-rasskazali-o-pokupke-pensionnykh-ballov-dlia-uvelicheniia-pensii-izi",
-        "https://iz.ru/2147662/voennye-5-go-komendantskogo-polka-evakuirovali-mirnykh-zhitelei-iz-krasnoarmeiska-izi",
-        "https://iz.ru/2147665/iurist-rasskazala-o-sposobakh-vykupa-svoego-zaima-u-banka-izi",
-        "https://iz.ru/2147668/v-gosdume-rasskazali-o-novykh-pravilakh-otpuska-dlia-sotrudnikov-vrednykh-proizvodstv-izi",
-        "https://iz.ru/2147680/eksport-kolumbiiskogo-kofe-pochti-ostanovilsia-posle-zemletriaseniia-izi",
-        "https://iz.ru/2147681/v-krasnoiarskom-krae-proizoshlo-krupnoe-vozgoranie-angara-s-pilomaterialami-izi",
         "https://iz.ru/2147698/ekspert-predupredil-o-blokirovkakh-perevodov-so-starykh-ustroistv-s-2027-goda-izi",
         "https://iz.ru/2147709/ekspert-rasskazal-o-sposobakh-zashchitit-detei-ot-skhem-moshennikov-izi",
         "https://iz.ru/2147715/v-frg-zaiavili-o-bezzashchitnosti-ukraini-izi",
@@ -203,7 +197,13 @@
         "https://iz.ru/2147739/v-kaluzhskoi-oblasti-zaderzhali-podozrevaemogo-v-nezakonnom-sbyte-oruzhiia-izi",
         "https://iz.ru/2147744/v-mvd-napomnili-o-blokirovke-perevodov-bankami-s-1-marta-pri-vyiavlenii-virusov-izi",
         "https://iz.ru/2147745/vozbuzhdeno-ugolovnoe-delo-v-sviazi-s-atakami-bpla-v-krasnodarskom-krae-izi",
-        "https://iz.ru/2147747/v-britanii-ukazali-na-nesposobnost-ukrainy-obespechit-rabotu-sistem-pvo-izi"
+        "https://iz.ru/2147747/v-britanii-ukazali-na-nesposobnost-ukrainy-obespechit-rabotu-sistem-pvo-izi",
+        "https://iz.ru/2147749/podacha-vody-vremenno-prekrashchena-v-novorossiiske-iz-za-ataki-vsu-izi",
+        "https://iz.ru/2147753/odin-chelovek-pogib-pri-pozhare-na-parome-so-svyshe-170-liudmi-na-bortu-vblizi-bali-izi",
+        "https://iz.ru/2147754/khlebozavody-ukrainy-stolknulis-s-defitcitom-voditelei-iz-za-mobilizatcii-izi",
+        "https://iz.ru/2147788/sotcfond-obiavil-o-roste-pensii-po-starosti-i-invalidnosti-v-riade-sluchaev-izi",
+        "https://iz.ru/2147794/v-minzdrave-otcenili-sostoianie-postradavshikh-pri-atake-vsu-na-krasnodarskii-krai-izi",
+        "https://iz.ru/2147797/times-uznala-o-zhelanii-britanii-vozobnovit-voennye-kontakty-s-rossiei-izi"
       ]
     },
     "2026-08-13": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-19": {
-      "totalChecked": 609,
-      "totalIzi": 179,
+      "totalChecked": 743,
+      "totalIzi": 240,
       "totalIiz": 2,
-      "totalAi": 181,
+      "totalAi": 242,
       "topLinks": [
         "https://iz.ru/2150523/uchenye-dokazali-polzu-rastitelnogo-pitaniia-dlia-snizheniia-vesa-izi",
         "https://iz.ru/2150859/2026-08-19/detskie-travmy-i-mozg-uchenye-raskryli-mekhanizm-poteri-motivatcii-izi",
