@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-20T07:16:36.092Z",
+  "generatedAt": "2026-08-20T08:08:56.777Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 65,
-    "failedFetches": 0,
+    "fetchedUrlSets": 64,
+    "failedFetches": 1,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -151,19 +151,11 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 677,
-      "totalIzi": 214,
+      "totalChecked": 654,
+      "totalIzi": 206,
       "totalIiz": 1,
-      "totalAi": 215,
+      "totalAi": 207,
       "topLinks": [
-        "https://iz.ru/2147863/v-shvetcii-zaiavili-o-polnom-prevoskhodstve-vs-rossii-v-vozdukhe-na-ukraine-izi",
-        "https://iz.ru/2147864/kndr-dopustila-iskliuchaiushchii-vyzhivanie-udar-pri-vneshnei-ugroze-izi",
-        "https://iz.ru/2147867/ozon-bank-soobshchil-ob-udalenii-prilozheniia-iz-google-play-izi",
-        "https://iz.ru/2147871/rossiia-importozamestila-riad-insulina-na-100-izi",
-        "https://iz.ru/2147874/uchenye-rasskazali-o-vliianii-gena-neandertaltcev-na-myshtcy-izi",
-        "https://iz.ru/2147879/veselyi-molochnik-uolker-rasskazal-o-shtrafe-za-narushenie-migratcionnogo-zakona-izi",
-        "https://iz.ru/2147884/marochko-nazval-kontrol-nad-shcherbakovkoi-podtverzhdeniem-uspekha-rf-na-kharkovshchine-izi",
-        "https://iz.ru/2147886/v-novorossiiske-vveli-rezhim-chs-posle-ataki-bpla-izi",
         "https://iz.ru/2147892/supermodel-alessandra-ambrosio-obiavila-o-pomolvke-izi",
         "https://iz.ru/2147893/eks-premer-gossoveta-knr-chzhu-zhuntczi-skonchalsia-v-vozraste-98-let-v-pekine-izi",
         "https://iz.ru/2147894/bolshunov-zaiavil-ob-otsutstvii-planov-uchastvovat-v-olimpiade-2030-goda-izi",
@@ -175,11 +167,19 @@
         "https://iz.ru/2147911/v-mvd-predupredili-ob-ispolzovanii-moshennikami-skhemy-s-prodazhei-toplivnykh-kart-izi",
         "https://iz.ru/2147914/bespilotnik-upal-vozle-zhilogo-doma-v-nizhnem-novgorode-izi",
         "https://iz.ru/2147919/pevitca-instasamka-oprovergla-slukhi-ob-otezde-iz-rossii-izi",
-        "https://iz.ru/2147920/rvy-za-eu50-mln-vykopaiut-v-litve-u-granitcy-s-rf-i-belorussiei-izi"
+        "https://iz.ru/2147920/rvy-za-eu50-mln-vykopaiut-v-litve-u-granitcy-s-rf-i-belorussiei-izi",
+        "https://iz.ru/2147921/v-orenburgskoi-oblasti-vveli-poriadok-zapravki-avtomobilei-chet-nechet-izi",
+        "https://iz.ru/2147924/dvukh-zhitelei-iaroslavskoi-oblasti-prigovorili-k21-godu-kolonii-za-gosizmenu-izi",
+        "https://iz.ru/2147929/lantratova-zaiavila-o-reguliarnykh-sryvakh-obmenov-plennymi-po-vine-ukraine-izi",
+        "https://iz.ru/2147931/syn-propavshikh-usoltcevykh-oproverg-soobshcheniia-ob-otezde-semi-v-kaliforniiu-izi",
+        "https://iz.ru/2147933/glava-minoborony-moldavii-popalsia-na-lzhi-v-reziume-posle-otkaza-otvechat-russkom-izi",
+        "https://iz.ru/2147934/v-ogaio-16-zakliuchennykh-postradali-ot-udara-molnii-izi",
+        "https://iz.ru/2147935/dragotcennosti-i-sumki-na-eu500-tys-ukrali-u-saudovskoi-printcessy-v-kannakh-izi",
+        "https://iz.ru/2147938/vrach-terapevt-napomnil-o-polze-snizheniia-potrebleniia-khleba-dlia-zdorovia-izi"
       ]
     },
     "2026-08-13": {
-      "totalChecked": 896,
+      "totalChecked": 894,
       "totalIzi": 237,
       "totalIiz": 2,
       "totalAi": 239,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 210,
-      "totalIzi": 29,
+      "totalChecked": 235,
+      "totalIzi": 41,
       "totalIiz": 2,
-      "totalAi": 31,
+      "totalAi": 43,
       "topLinks": [
         "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
         "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
@@ -397,9 +397,9 @@
         "https://iz.ru/2151936/2026-08-20/odin-chelovek-postradal-pri-atake-bpla-na-ulianovskuiu-oblast-izi",
         "https://iz.ru/2151941/openai-podast-dokumenty-na-ipo-i-stanet-publichnoi-kompaniei-v-2027-godu-izi",
         "https://iz.ru/2151942/minprosveshcheniia-soobshchilo-o-roste-nabora-v-kolledzhi-i-tekhnikumy-izi",
-        "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
-        "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
-        "https://iz.ru/2151431/uchenye-sviazali-bolezn-krona-s-oslablennoi-immunnoi-zashchitoi-izi"
+        "https://iz.ru/2151947/rossiia-nachala-importirovat-toplivo-izi",
+        "https://iz.ru/2151950/telegraph-nazvala-uvolnenie-fedorova-vygodnym-dlia-moskvy-izi",
+        "https://iz.ru/2151951/v-chekhii-v-dva-raza-vyroslo-chislo-vydvorennykh-ukraintcev-s-nachala-2026-goda-izi"
       ]
     }
   }
