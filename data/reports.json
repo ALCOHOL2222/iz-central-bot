@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-20T08:08:56.777Z",
+  "generatedAt": "2026-08-20T09:05:13.031Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 64,
-    "failedFetches": 1,
+    "fetchedUrlSets": 65,
+    "failedFetches": 0,
     "childLocs": 65,
     "visitedCount": 66
   },
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 235,
-      "totalIzi": 41,
+      "totalChecked": 296,
+      "totalIzi": 64,
       "totalIiz": 2,
-      "totalAi": 43,
+      "totalAi": 66,
       "topLinks": [
         "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
         "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
