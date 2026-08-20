@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T22:55:36.353Z",
+  "generatedAt": "2026-08-20T23:51:17.077Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,14 +151,11 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 800,
-      "totalIzi": 230,
+      "totalChecked": 780,
+      "totalIzi": 227,
       "totalIiz": 1,
-      "totalAi": 231,
+      "totalAi": 228,
       "topLinks": [
-        "https://iz.ru/2148284/v-2027-godu-strakhovuiu-pensiiu-po-starosti-ne-budut-naznachat-na-obshchikh-osnovaniiakh-izi",
-        "https://iz.ru/2148285/rodnym-pogibshikh-v-belgorodskoi-oblasti-vyplatili-bolee-11-mlrd-rublei-s-2022-goda-izi",
-        "https://iz.ru/2148303/v-mifi-sozdali-robota-dlia-poiska-sledov-vzryvchatykh-veshchestv-izi",
         "https://iz.ru/2148315/guardian-soobshchila-o-teriaiushchikh-soznanie-ot-zhary-medrabotnikakh-v-britanii-izi",
         "https://iz.ru/2148334/rosstat-otcenil-rost-vvp-rf-v-ii-kvartale-na-urovne-13-izi",
         "https://iz.ru/2148335/komandir-tek-soobshchil-ob-unichtozhenii-fury-vsu-dlia-zapuska-bespilotnikov-po-rossii-izi",
@@ -175,7 +172,10 @@
         "https://iz.ru/2148355/rossiia-gotova-peredat-ukraine-273-voennykh-v-ramkakh-obmena-izi",
         "https://iz.ru/2148356/tresh-strimershu-kipishnuiu-zaderzhali-na-paveletckom-vokzale-v-moskve-izi",
         "https://iz.ru/2148357/veteran-vov-znamenskii-rasskazal-o-svoei-nadpisi-na-stene-v-khode-vziatiia-reikhstaga-izi",
-        "https://iz.ru/2148358/rossiiskuiu-strimershu-fasoollka-deportirovali-iz-kazakhstana-na-piat-let-izi"
+        "https://iz.ru/2148358/rossiiskuiu-strimershu-fasoollka-deportirovali-iz-kazakhstana-na-piat-let-izi",
+        "https://iz.ru/2148360/ugolovnoe-delo-vozbudili-posle-ataki-vsu-na-raspredelitelnyi-tcentr-v-bashkirii-izi",
+        "https://iz.ru/2148362/grossi-zaiavil-o-medlennoi-smerti-oon-izi",
+        "https://iz.ru/2148366/ot-idealnoi-semi-do-suda-za-vinodelniu-istoriia-andzheliny-dzholi-i-breda-pitta-izi"
       ]
     },
     "2026-08-14": {
@@ -375,7 +375,7 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 22,
+      "totalChecked": 42,
       "totalIzi": 0,
       "totalIiz": 1,
       "totalAi": 1,
