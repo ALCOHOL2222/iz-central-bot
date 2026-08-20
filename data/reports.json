@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:48:54.443Z",
+  "generatedAt": "2026-08-20T02:01:40.214Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 721,
-      "totalIzi": 234,
+      "totalChecked": 713,
+      "totalIzi": 229,
       "totalIiz": 1,
-      "totalAi": 235,
+      "totalAi": 230,
       "topLinks": [
-        "https://iz.ru/2147794/v-minzdrave-otcenili-sostoianie-postradavshikh-pri-atake-vsu-na-krasnodarskii-krai-izi",
-        "https://iz.ru/2147797/times-uznala-o-zhelanii-britanii-vozobnovit-voennye-kontakty-s-rossiei-izi",
-        "https://iz.ru/2147799/zakharova-rezko-osudila-prezidenta-polshi-navrotckogo-za-opravdanie-natcizma-izi",
-        "https://iz.ru/2147802/vlasti-latvii-zabyli-kupit-boepripasy-k-sistemam-protiv-dronov-izi",
-        "https://iz.ru/2147803/kalashnikov-nazval-osnovnuiu-tcel-dlia-rossiiskikh-snaiperov-v-zone-svo-izi",
         "https://iz.ru/2147808/zernovoi-terminal-povrezhden-pri-atake-dronov-vsu-v-novorossiiske-izi",
         "https://iz.ru/2147811/uchenye-rasskazali-ob-izmeneniiakh-krovi-iz-za-zagriazneniia-vozdukha-izi",
         "https://iz.ru/2147812/v-2026-godu-gimn-rossii-prozvuchal-na-mezhdunarodnykh-turnirakh-svyshe-250-raz-izi",
@@ -175,11 +170,16 @@
         "https://iz.ru/2147857/uchenye-sviazali-osobennosti-sna-s-riskom-bolezni-altcgeimera-izi",
         "https://iz.ru/2147859/temperatura-vozdukha-v-polshe-dostigla-pobila-natcionalnyi-rekord-izi",
         "https://iz.ru/2147860/sportsmenov-sbornoi-rf-po-zimnemu-plavaniiu-vstretili-v-aeroportu-posle-kubka-mira-izi",
-        "https://iz.ru/2147862/v-lipetcke-oblomki-bpla-upali-na-territorii-tcentra-pomoshchi-izi"
+        "https://iz.ru/2147862/v-lipetcke-oblomki-bpla-upali-na-territorii-tcentra-pomoshchi-izi",
+        "https://iz.ru/2147863/v-shvetcii-zaiavili-o-polnom-prevoskhodstve-vs-rossii-v-vozdukhe-na-ukraine-izi",
+        "https://iz.ru/2147864/kndr-dopustila-iskliuchaiushchii-vyzhivanie-udar-pri-vneshnei-ugroze-izi",
+        "https://iz.ru/2147867/ozon-bank-soobshchil-ob-udalenii-prilozheniia-iz-google-play-izi",
+        "https://iz.ru/2147871/rossiia-importozamestila-riad-insulina-na-100-izi",
+        "https://iz.ru/2147874/uchenye-rasskazali-o-vliianii-gena-neandertaltcev-na-myshtcy-izi"
       ]
     },
     "2026-08-13": {
-      "totalChecked": 898,
+      "totalChecked": 897,
       "totalIzi": 237,
       "totalIiz": 2,
       "totalAi": 239,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-19": {
-      "totalChecked": 826,
+      "totalChecked": 829,
       "totalIzi": 282,
       "totalIiz": 2,
       "totalAi": 284,
@@ -375,11 +375,16 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 61,
-      "totalIzi": 2,
-      "totalIiz": 1,
-      "totalAi": 3,
+      "totalChecked": 138,
+      "totalIzi": 6,
+      "totalIiz": 2,
+      "totalAi": 8,
       "topLinks": [
+        "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
+        "https://iz.ru/2151604/uchenye-sviazali-narusheniia-sna-posle-50-let-s-rannim-ukhodom-s-raboty-izi",
+        "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2151863/gosdolg-ssha-prevysil-40-trln-vpervye-v-istorii-izi",
+        "https://iz.ru/2151872/sredniaia-pensiia-nerabotaiushchikh-pensionerov-prevysila-40-tys-rublei-v-shesti-regionakh-izi",
         "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2151863/gosdolg-ssha-prevysil-40-trln-vpervye-v-istorii-izi",
         "https://iz.ru/2151872/sredniaia-pensiia-nerabotaiushchikh-pensionerov-prevysila-40-tys-rublei-v-shesti-regionakh-izi"
