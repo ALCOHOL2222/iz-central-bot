@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:00:16.633Z",
+  "generatedAt": "2026-08-20T17:55:16.755Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,14 +151,11 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 491,
-      "totalIzi": 136,
+      "totalChecked": 465,
+      "totalIzi": 133,
       "totalIiz": 1,
-      "totalAi": 137,
+      "totalAi": 134,
       "topLinks": [
-        "https://iz.ru/2148171/roskosmos-pokazal-kadry-solnechnogo-zatmeniia-izi",
-        "https://iz.ru/2148216/minselkhoz-podgotovit-novye-marshruty-eksporta-zerna-izi",
-        "https://iz.ru/2148218/rossiia-predupredila-morskikh-piratov-evropy-o-posledstviiakh-zakhvata-torgovykh-sudov-izi",
         "https://iz.ru/2147313/glavnye-boi-turnira-ufc-330-obzor-karda-i-forma-boitcov-izi",
         "https://iz.ru/2147340/pervyi-dvoinoi-chempion-ufc-iz-rossii-islam-makhachev-biografiia-izi",
         "https://iz.ru/2147384/2026-08-12/narodnye-primety-na-12-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -175,11 +172,14 @@
         "https://iz.ru/2147680/eksport-kolumbiiskogo-kofe-pochti-ostanovilsia-posle-zemletriaseniia-izi",
         "https://iz.ru/2147681/v-krasnoiarskom-krae-proizoshlo-krupnoe-vozgoranie-angara-s-pilomaterialami-izi",
         "https://iz.ru/2147698/ekspert-predupredil-o-blokirovkakh-perevodov-so-starykh-ustroistv-s-2027-goda-izi",
-        "https://iz.ru/2147709/ekspert-rasskazal-o-sposobakh-zashchitit-detei-ot-skhem-moshennikov-izi"
+        "https://iz.ru/2147709/ekspert-rasskazal-o-sposobakh-zashchitit-detei-ot-skhem-moshennikov-izi",
+        "https://iz.ru/2147715/v-frg-zaiavili-o-bezzashchitnosti-ukraini-izi",
+        "https://iz.ru/2147718/tramp-podtverdil-peresadku-na-drugoi-samolet-posle-sammita-v-ankare-izi",
+        "https://iz.ru/2147724/v-tiumeni-vyiavili-snizhenie-urovnia-vody-v-reke-tura-i-tavda-izi"
       ]
     },
     "2026-08-13": {
-      "totalChecked": 873,
+      "totalChecked": 856,
       "totalIzi": 237,
       "totalIiz": 1,
       "totalAi": 238,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 679,
-      "totalIzi": 174,
+      "totalChecked": 722,
+      "totalIzi": 191,
       "totalIiz": 2,
-      "totalAi": 176,
+      "totalAi": 193,
       "topLinks": [
         "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
         "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
