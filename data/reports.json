@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T03:19:54.409Z",
+  "generatedAt": "2026-08-20T04:10:12.918Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 713,
-      "totalIzi": 229,
+      "totalChecked": 700,
+      "totalIzi": 224,
       "totalIiz": 1,
-      "totalAi": 230,
+      "totalAi": 225,
       "topLinks": [
-        "https://iz.ru/2147808/zernovoi-terminal-povrezhden-pri-atake-dronov-vsu-v-novorossiiske-izi",
-        "https://iz.ru/2147811/uchenye-rasskazali-ob-izmeneniiakh-krovi-iz-za-zagriazneniia-vozdukha-izi",
-        "https://iz.ru/2147812/v-2026-godu-gimn-rossii-prozvuchal-na-mezhdunarodnykh-turnirakh-svyshe-250-raz-izi",
-        "https://iz.ru/2147825/rossiiane-stali-est-menshe-khleba-izi",
-        "https://iz.ru/2147828/uchenye-raskryli-obshchii-mekhanizm-bolezni-altcgeimera-i-detskoi-dementcii-izi",
         "https://iz.ru/2147831/khodarenok-obiasnil-ostanovku-publikatcii-otchetov-kieva-ob-udarakh-armii-rf-izi",
         "https://iz.ru/2147833/putin-ukazal-na-neobosnovannost-pretenzii-iaponii-po-kurilam-izi",
         "https://iz.ru/2147834/v-chite-obiavili-rezhim-chs-iz-za-podtoplenii-izi",
@@ -175,11 +170,16 @@
         "https://iz.ru/2147864/kndr-dopustila-iskliuchaiushchii-vyzhivanie-udar-pri-vneshnei-ugroze-izi",
         "https://iz.ru/2147867/ozon-bank-soobshchil-ob-udalenii-prilozheniia-iz-google-play-izi",
         "https://iz.ru/2147871/rossiia-importozamestila-riad-insulina-na-100-izi",
-        "https://iz.ru/2147874/uchenye-rasskazali-o-vliianii-gena-neandertaltcev-na-myshtcy-izi"
+        "https://iz.ru/2147874/uchenye-rasskazali-o-vliianii-gena-neandertaltcev-na-myshtcy-izi",
+        "https://iz.ru/2147879/veselyi-molochnik-uolker-rasskazal-o-shtrafe-za-narushenie-migratcionnogo-zakona-izi",
+        "https://iz.ru/2147884/marochko-nazval-kontrol-nad-shcherbakovkoi-podtverzhdeniem-uspekha-rf-na-kharkovshchine-izi",
+        "https://iz.ru/2147886/v-novorossiiske-vveli-rezhim-chs-posle-ataki-bpla-izi",
+        "https://iz.ru/2147892/supermodel-alessandra-ambrosio-obiavila-o-pomolvke-izi",
+        "https://iz.ru/2147893/eks-premer-gossoveta-knr-chzhu-zhuntczi-skonchalsia-v-vozraste-98-let-v-pekine-izi"
       ]
     },
     "2026-08-13": {
-      "totalChecked": 897,
+      "totalChecked": 896,
       "totalIzi": 237,
       "totalIiz": 2,
       "totalAi": 239,
@@ -375,16 +375,20 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 138,
-      "totalIzi": 6,
+      "totalChecked": 152,
+      "totalIzi": 10,
       "totalIiz": 2,
-      "totalAi": 8,
+      "totalAi": 12,
       "topLinks": [
         "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
+        "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
+        "https://iz.ru/2151431/uchenye-sviazali-bolezn-krona-s-oslablennoi-immunnoi-zashchitoi-izi",
         "https://iz.ru/2151604/uchenye-sviazali-narusheniia-sna-posle-50-let-s-rannim-ukhodom-s-raboty-izi",
         "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2151703/istoriia-bez-stereotipov-chto-dnk-rasskazala-o-zhenshchinakh-drevnosti-izi",
         "https://iz.ru/2151863/gosdolg-ssha-prevysil-40-trln-vpervye-v-istorii-izi",
         "https://iz.ru/2151872/sredniaia-pensiia-nerabotaiushchikh-pensionerov-prevysila-40-tys-rublei-v-shesti-regionakh-izi",
+        "https://iz.ru/2151896/psikholog-goldshtein-rasskazala-o-bazovoi-potrebnosti-cheloveka-v-leni-izi",
         "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2151863/gosdolg-ssha-prevysil-40-trln-vpervye-v-istorii-izi",
         "https://iz.ru/2151872/sredniaia-pensiia-nerabotaiushchikh-pensionerov-prevysila-40-tys-rublei-v-shesti-regionakh-izi"
