@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:10:30.067Z",
+  "generatedAt": "2026-08-20T19:56:15.849Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 465,
+      "totalChecked": 464,
       "totalIzi": 133,
       "totalIiz": 1,
       "totalAi": 134,
@@ -179,14 +179,11 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 856,
-      "totalIzi": 237,
+      "totalChecked": 833,
+      "totalIzi": 234,
       "totalIiz": 1,
-      "totalAi": 238,
+      "totalAi": 235,
       "topLinks": [
-        "https://iz.ru/2148230/minekonomrazvitiia-soobshchilo-o-vosstanovlenii-tempov-rosta-ekonomiki-izi",
-        "https://iz.ru/2148232/v-britanii-nachnut-vyrashchivat-mini-organy-cheloveka-dlia-testirovaniia-lekarstv-izi",
-        "https://iz.ru/2148240/zakharova-zaiavila-ob-ispolzovanii-kievom-razveddannykh-nato-dlia-atak-na-suda-izi",
         "https://iz.ru/2148252/posol-rf-nazval-intcident-s-dronami-v-rumynii-teatralnoi-postanovkoi-izi",
         "https://iz.ru/2148255/ukrainskii-ombudsmen-soobshchil-o-mobilizatcii-v-vsu-shizofrenika-izi",
         "https://iz.ru/2148257/iurist-rasskazala-o-deistviiakh-pri-moshennichestve-s-rabotoi-za-rubezhom-izi",
@@ -203,7 +200,10 @@
         "https://iz.ru/2148343/v-dele-o-nekachestvennykh-konservakh-dlia-minoborony-rf-nikto-ne-priznal-vinu-izi",
         "https://iz.ru/2148344/predpriiatiia-nizhnekamska-vyplatiat-po-2-mln-rublei-semiam-pogibshikh-pri-atake-vsu-izi",
         "https://iz.ru/2148345/tenevoi-flot-zapada-stali-vyslezhivat-v-mirovom-okeane-izi",
-        "https://iz.ru/2148346/seme-ubitykh-v-pattaie-rossiian-vyplatili-kompensatciiu-v-razmere-18-tys-izi"
+        "https://iz.ru/2148346/seme-ubitykh-v-pattaie-rossiian-vyplatili-kompensatciiu-v-razmere-18-tys-izi",
+        "https://iz.ru/2148349/promzona-s-obektom-wildberries-podverglas-vozdushnoi-atake-v-bashkirii-izi",
+        "https://iz.ru/2148350/dva-cheloveka-postradali-pri-atake-dronov-vsu-v-bashkirii-izi",
+        "https://iz.ru/2148351/khegset-dopustil-voennoe-vtorzhenie-ssha-na-kubu-izi"
       ]
     },
     "2026-08-14": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 722,
-      "totalIzi": 191,
+      "totalChecked": 746,
+      "totalIzi": 202,
       "totalIiz": 2,
-      "totalAi": 193,
+      "totalAi": 204,
       "topLinks": [
         "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
         "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
