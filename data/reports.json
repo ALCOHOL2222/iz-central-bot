@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:21:39.819Z",
+  "generatedAt": "2026-08-20T14:09:54.149Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,35 +151,35 @@
       ]
     },
     "2026-08-12": {
-      "totalChecked": 572,
-      "totalIzi": 167,
+      "totalChecked": 533,
+      "totalIzi": 151,
       "totalIiz": 1,
-      "totalAi": 168,
+      "totalAi": 152,
       "topLinks": [
-        "https://iz.ru/2147996/nazvana-data-vykhoda-remeika-oderzhimoi-s-margaret-kuelli-izi",
-        "https://iz.ru/2148000/rossiiskie-alpinisty-spasli-na-pike-lenina-grazhdanina-irana-izi",
-        "https://iz.ru/2148001/dva-medika-postradali-pri-atake-drona-vsu-na-avtomobil-skoroi-pomoshchi-v-lnr-izi",
-        "https://iz.ru/2148009/v-mid-rf-obvinili-es-v-zapugivanii-kommercheskikh-perevozchikov-missiei-irini-izi",
-        "https://iz.ru/2148013/gruziia-s-1-maia-po-10-avgusta-eksportirovala-v-rossiiu-svyshe-90-urozhaia-golubiki-izi",
-        "https://iz.ru/2148015/madiar-obiavil-o-stroitelstve-donnogo-poroga-na-dunae-dlia-aes-paksh-izi",
-        "https://iz.ru/2148018/matchi-kubka-rossii-po-futbolu-15-avgusta-forma-komand-obzor-protivostoianii-izi",
-        "https://iz.ru/2148022/prezident-polshi-ne-stal-nazyvat-baltiku-vnutrennim-morem-nato-izi",
-        "https://iz.ru/2148027/putin-zaiavil-o-konstruktivnykh-otnosheniiakh-rf-i-iaponii-pri-sindzo-abe-izi",
-        "https://iz.ru/2148037/mid-rf-armeniia-ne-osudila-ugrozy-zelenskogo-izi",
-        "https://iz.ru/2148042/chto-proizoshlo-za-den-12-avgusta-glavnoe-izi",
-        "https://iz.ru/2148048/v-lipetckoi-oblasti-vvoditsia-sistema-prodazhi-topliva-chet-nechet-izi",
-        "https://iz.ru/2148067/partiia-iabloko-poluchilo-reshenie-verkhovnogo-suda-o-sniatii-s-vyborov-v-gosdumu-izi",
-        "https://iz.ru/2148073/opublikovany-kadry-vstrechi-prizerov-mezhdunarodnogo-chempionata-po-robototekhnike-izi",
-        "https://iz.ru/2148079/hrw-prizvala-ssha-zablokirovat-postavki-kassetnykh-snariadov-iz-turtcii-ukraine-izi",
-        "https://iz.ru/2148085/v-frg-ne-iskliuchaiut-prichastnost-kieva-k-intcidentu-s-bpla-izi",
         "https://iz.ru/2148088/mcdonalds-sostavil-na-klienta-dose-iz-515-stranitc-izi",
         "https://iz.ru/2148094/rossiiskogo-fotografa-valeriia-melnikova-iskliuchili-iz-short-lista-fotopremii-loba-izi",
         "https://iz.ru/2148096/ukrainetc-s-vneshnostiu-gitlera-priekhal-v-slovakiiu-i-srazu-popal-pod-statiu-izi",
-        "https://iz.ru/2148100/medvedev-zaiavil-o-zavershenii-svo-tolko-na-usloviiakh-rossii-izi"
+        "https://iz.ru/2148100/medvedev-zaiavil-o-zavershenii-svo-tolko-na-usloviiakh-rossii-izi",
+        "https://iz.ru/2148115/vvp-rossii-v-pervom-polugodii-vyros-na-06-izi",
+        "https://iz.ru/2148116/edinaia-rossiia-usilit-podderzhku-nauchno-proizvodstvennykh-klasterov-v-regionakh-izi",
+        "https://iz.ru/2148117/na-74-m-godu-zhizni-skonchalsia-byvshii-deputat-gosdumy-aleksandr-romanovich-izi",
+        "https://iz.ru/2148135/rossiiskii-plovetc-egor-kornev-zavoeval-serebro-chempionata-evropy-izi",
+        "https://iz.ru/2148140/medvedev-raskryl-prichiny-atak-vsu-na-marketpleisy-izi",
+        "https://iz.ru/2148142/kitaiskii-avialainer-c919-vpervye-sovershil-mezhdunarodnyi-reis-izi",
+        "https://iz.ru/2148145/lionel-messi-opublikoval-trogatelnoe-poslanie-v-pamiat-ob-umershem-ottce-izi",
+        "https://iz.ru/2148147/sily-pvo-za-den-sbili-147-bespilotnikov-vsu-v-nebe-nad-regionami-rossii-izi",
+        "https://iz.ru/2148149/bpla-geran-4-porazil-ukrainskii-kater-sv-90-v-portu-ochakov-izi",
+        "https://iz.ru/2148153/deputat-iz-berlina-lindemann-nazval-konfiskatciiu-sudov-rossii-piratstvom-izi",
+        "https://iz.ru/2148169/opublikovany-kadry-razrushenii-posle-udara-vsu-po-novorossiisku-izi",
+        "https://iz.ru/2148171/roskosmos-pokazal-kadry-solnechnogo-zatmeniia-izi",
+        "https://iz.ru/2148216/minselkhoz-podgotovit-novye-marshruty-eksporta-zerna-izi",
+        "https://iz.ru/2148218/rossiia-predupredila-morskikh-piratov-evropy-o-posledstviiakh-zakhvata-torgovykh-sudov-izi",
+        "https://iz.ru/2147313/glavnye-boi-turnira-ufc-330-obzor-karda-i-forma-boitcov-izi",
+        "https://iz.ru/2147340/pervyi-dvoinoi-chempion-ufc-iz-rossii-islam-makhachev-biografiia-izi"
       ]
     },
     "2026-08-13": {
-      "totalChecked": 887,
+      "totalChecked": 878,
       "totalIzi": 237,
       "totalIiz": 2,
       "totalAi": 239,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 926,
+      "totalChecked": 925,
       "totalIzi": 234,
       "totalIiz": 5,
       "totalAi": 239,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 495,
-      "totalIzi": 114,
+      "totalChecked": 544,
+      "totalIzi": 132,
       "totalIiz": 2,
-      "totalAi": 116,
+      "totalAi": 134,
       "topLinks": [
         "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
         "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
