@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:04:10.577Z",
+  "generatedAt": "2026-08-21T15:57:59.270Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,40 +151,39 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 566,
-      "totalIzi": 155,
+      "totalChecked": 520,
+      "totalIzi": 137,
       "totalIiz": 1,
-      "totalAi": 156,
+      "totalAi": 138,
       "topLinks": [
-        "https://iz.ru/2148563/mask-sravnil-sebia-s-ostinom-pauersom-posle-shutki-o-pokupke-velikobritanii-izi",
-        "https://iz.ru/2148564/uchastnik-loterei-v-ssha-vyigral-bolee-1-mlrd-izi",
-        "https://iz.ru/2148567/v-ldpr-predlozhili-vkliuchit-pomoshch-detiam-s-ozhireniem-v-oms-izi",
-        "https://iz.ru/2148569/moshenniki-obmanuli-podrostka-na-32-mln-rublei-v-moskve-izi",
-        "https://iz.ru/2148572/aktrisa-dzhenna-ortega-rasskazala-ob-otkaze-ot-edy-na-semkakh-v-detstve-izi",
-        "https://iz.ru/2148575/litva-soobshchila-o-stroitelstve-ukrainoi-zavoda-snariadov-po-standartam-nato-izi",
-        "https://iz.ru/2148581/sovershivshii-ubiistvo-syn-eks-vitce-gubernatora-peterburga-lechilsia-ot-narkomanii-izi",
-        "https://iz.ru/2148584/robert-brukfild-smenit-saru-teilor-na-postu-posla-kanady-v-rf-izi",
-        "https://iz.ru/2148585/dagestanetc-zastrelil-v-muzhchinu-vo-vremia-okhoty-na-kabanov-izi",
-        "https://iz.ru/2148595/ministr-kultury-litvy-prizval-dumat-ob-ukraintcakh-pri-otkaze-ot-russkogo-izi",
-        "https://iz.ru/2148596/gruziia-zakryla-granitcy-s-rf-iz-za-podniatiia-urovnia-vody-v-reke-izi",
-        "https://iz.ru/2148598/v-krymu-veteran-velikoi-otechestvennoi-voiny-umer-za-den-do-100-letiia-izi",
-        "https://iz.ru/2148599/direktorom-moskovskogo-teatra-satiry-naznachena-ekaterina-sirotkina-izi",
-        "https://iz.ru/2148601/astronomy-prosledili-za-raspadom-veshchestva-pogibshei-zvezdy-izi",
-        "https://iz.ru/2148621/na-ukrainu-dostavili-ostanki-osnovatelia-oun-evgeniia-konovaltca-izi",
-        "https://iz.ru/2148630/vsemirnaia-federatciia-tantcevalnogo-sporta-sniala-ogranicheniia-s-rossiian-izi",
-        "https://iz.ru/2148632/rossiia-i-ukraina-proveli-obmen-grazhdanskimi-litcami-v-belorussii-izi",
-        "https://iz.ru/2148633/uchenye-obnaruzhili-skrytyi-mekhanizm-vosstanovleniia-kletok-mozga-izi",
         "https://iz.ru/2148635/zakharova-ukazala-na-snizhenie-sposobnosti-kieva-protivostoiat-svo-izi",
-        "https://iz.ru/2148644/vs-rf-nanesli-udary-po-portovoi-infrastrukture-v-ochakove-i-odesse-izi"
+        "https://iz.ru/2148644/vs-rf-nanesli-udary-po-portovoi-infrastrukture-v-ochakove-i-odesse-izi",
+        "https://iz.ru/2148645/peregovory-o-sozdanii-prodolzheniia-barbi-zashli-v-tupik-izi",
+        "https://iz.ru/2148653/moshchnyi-vzryv-proizoshel-na-zavode-po-proizvodstvu-boepripasov-pod-rimom-izi",
+        "https://iz.ru/2148654/posadivshii-v-pole-pod-novosibirskom-samolet-pilot-poblagodaril-za-podderzhku-izi",
+        "https://iz.ru/2148661/razvozhaev-predlozhil-nagradit-ordenami-muzhestva-pogibshikh-sotrudnikov-mchs-izi",
+        "https://iz.ru/2148668/mendel-zaiavila-o-perekladyvanii-zelenskim-otvetstvennosti-za-defitcit-raket-izi",
+        "https://iz.ru/2148669/stolichnyi-sud-v-zaochnom-poriadke-arestoval-komika-sashu-dolgopolova-izi",
+        "https://iz.ru/2148684/minselkhoz-rf-nazval-usloviia-dlia-sniatiia-ogranichenii-s-importa-tovarov-iz-armenii-izi",
+        "https://iz.ru/2148689/reuters-uznalo-o-predlozhenii-ukrainy-vzaimno-prekratit-obstrel-sudov-izi",
+        "https://iz.ru/2148692/kolichestvo-povrezhdennykh-domov-pri-atake-bpla-na-novorossiisk-vozroslo-do-185-izi",
+        "https://iz.ru/2148730/chetvero-postradavshikh-pri-atake-na-nizhnekamsk-ostaiutsia-v-tiazhelom-sostoianii-izi",
+        "https://iz.ru/2148731/sily-pvo-za-den-sbili-193-bespilotnika-vsu-v-nebe-nad-regionami-rossii-izi",
+        "https://iz.ru/2148760/v-mid-nazvali-zaiavleniia-takaiti-po-poezdke-putina-na-iturup-nepriemplemymi-izi",
+        "https://iz.ru/2148764/v-britanii-11-chelovek-postradali-pri-skhode-poezda-s-relsov-izi",
+        "https://iz.ru/2148770/v-gd-rasskazali-o-poriadke-kompensatcii-ushcherba-tekhnike-posle-skachkov-napriazheniia-izi",
+        "https://iz.ru/2148780/estoniia-bessrochno-prodlila-ogranichennyi-rezhim-raboty-granitcy-s-rossiei-izi",
+        "https://iz.ru/2148785/v-oak-zaiavili-o-pervom-polete-seriinogo-importozameshchennogo-ms-21-310-izi",
+        "https://iz.ru/2147419/opasnyi-prokol-kakie-rany-mogut-privesti-k-gazovoi-gangrene-izi",
+        "https://iz.ru/2148093/narodnye-primety-na-13-avgusta-chto-mozhno-i-nelzia-delat-iiz"
       ]
     },
     "2026-08-14": {
-      "totalChecked": 919,
+      "totalChecked": 912,
       "totalIzi": 234,
-      "totalIiz": 4,
-      "totalAi": 238,
+      "totalIiz": 3,
+      "totalAi": 237,
       "topLinks": [
-        "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2148667/2026-08-14/nevrolog-predupredila-o-golovnoi-boli-iz-za-zapakhov-rastenii-izi",
         "https://iz.ru/2148819/ssha-obvinili-bolee-40-stran-v-masshtabnykh-makhinatciiakh-s-gruzami-iz-kitaia-izi",
         "https://iz.ru/2148821/wp-sviazala-tcru-s-seriei-atak-na-ekvadorskie-suda-u-galapagosskikh-ostrovov-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2148901/eksperty-perezvoni-sam-predupredili-o-zvonkakh-ot-lzheoperatorov-mobilnoi-sviazi-izi",
         "https://iz.ru/2148904/moshenniki-nachali-ispolzovat-realnye-dannye-kompanii-pri-prodazhe-avto-izi",
         "https://iz.ru/2148905/puertorikanskii-bokser-prichard-kolon-melendes-biografiia-izi",
-        "https://iz.ru/2148907/v-armenii-v-vozraste-100-let-skonchalsia-veteran-velikoi-otechestvennoi-voiny-izi"
+        "https://iz.ru/2148907/v-armenii-v-vozraste-100-let-skonchalsia-veteran-velikoi-otechestvennoi-voiny-izi",
+        "https://iz.ru/2148908/golikova-nazvala-podkontrolnoi-demograficheskuiu-situatciiu-v-rossii-izi"
       ]
     },
     "2026-08-15": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 548,
+      "totalChecked": 546,
       "totalIzi": 136,
       "totalIiz": 0,
       "totalAi": 136,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 839,
+      "totalChecked": 838,
       "totalIzi": 262,
       "totalIiz": 1,
       "totalAi": 263,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 534,
-      "totalIzi": 157,
+      "totalChecked": 590,
+      "totalIzi": 172,
       "totalIiz": 2,
-      "totalAi": 159,
+      "totalAi": 174,
       "topLinks": [
         "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi",
         "https://iz.ru/2151559/2026-08-21/uchenye-sviazali-sindrom-razdrazhennogo-kishechnika-sviazali-s-riskom-psoriaza-izi",
