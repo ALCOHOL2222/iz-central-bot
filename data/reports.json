@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:51:17.077Z",
+  "generatedAt": "2026-08-21T02:07:44.788Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 780,
+      "totalChecked": 769,
       "totalIzi": 227,
       "totalIiz": 1,
       "totalAi": 228,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-20": {
-      "totalChecked": 797,
+      "totalChecked": 800,
       "totalIzi": 220,
       "totalIiz": 2,
       "totalAi": 222,
@@ -375,12 +375,16 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 42,
-      "totalIzi": 0,
-      "totalIiz": 1,
-      "totalAi": 1,
+      "totalChecked": 104,
+      "totalIzi": 3,
+      "totalIiz": 2,
+      "totalAi": 5,
       "topLinks": [
-        "https://iz.ru/2152092/narodnye-primety-na-21-avgusta-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi",
+        "https://iz.ru/2152092/narodnye-primety-na-21-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2152439/fsb-rassekretila-dokumenty-vremen-vov-o-diversantakh-na-kurskoi-duge-izi",
+        "https://iz.ru/2152092/narodnye-primety-na-21-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2152439/fsb-rassekretila-dokumenty-vremen-vov-o-diversantakh-na-kurskoi-duge-izi"
       ]
     }
   }
