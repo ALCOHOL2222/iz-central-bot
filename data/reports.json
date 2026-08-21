@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:52:40.553Z",
+  "generatedAt": "2026-08-21T23:50:52.084Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,7 +123,7 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 463,
+      "totalChecked": 457,
       "totalIzi": 119,
       "totalIiz": 1,
       "totalAi": 120,
@@ -151,7 +151,7 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 886,
+      "totalChecked": 876,
       "totalIzi": 233,
       "totalIiz": 3,
       "totalAi": 236,
@@ -375,13 +375,16 @@
       ]
     },
     "2026-08-22": {
-      "totalChecked": 42,
-      "totalIzi": 2,
+      "totalChecked": 58,
+      "totalIzi": 5,
       "totalIiz": 2,
-      "totalAi": 4,
+      "totalAi": 7,
       "topLinks": [
         "https://iz.ru/2152579/narodnye-primety-na-22-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2152660/rospotrebnadzor-dal-rekomendatcii-po-profilaktike-gribnogo-otravleniia-izi",
+        "https://iz.ru/2153040/bank-rossii-zapustit-transgranichnye-perevody-kriptovaliut-s-1-sentiabria-izi",
+        "https://iz.ru/2153054/2026-08-22/srednii-razmer-sotcialnoi-pensii-v-rossii-prevysil-165-tysiachi-rublei-izi",
+        "https://iz.ru/2153055/2026-08-22/errol-mask-schel-moskvu-samym-krasivym-stolichnym-gorodom-izi",
         "https://iz.ru/2152579/narodnye-primety-na-22-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2152660/rospotrebnadzor-dal-rekomendatcii-po-profilaktike-gribnogo-otravleniia-izi"
       ]
