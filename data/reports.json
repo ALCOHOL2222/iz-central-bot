@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:18:05.608Z",
+  "generatedAt": "2026-08-21T08:07:45.626Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,23 +151,11 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 733,
-      "totalIzi": 215,
+      "totalChecked": 706,
+      "totalIzi": 203,
       "totalIiz": 1,
-      "totalAi": 216,
+      "totalAi": 204,
       "topLinks": [
-        "https://iz.ru/2148351/khegset-dopustil-voennoe-vtorzhenie-ssha-na-kubu-izi",
-        "https://iz.ru/2148355/rossiia-gotova-peredat-ukraine-273-voennykh-v-ramkakh-obmena-izi",
-        "https://iz.ru/2148356/tresh-strimershu-kipishnuiu-zaderzhali-na-paveletckom-vokzale-v-moskve-izi",
-        "https://iz.ru/2148357/veteran-vov-znamenskii-rasskazal-o-svoei-nadpisi-na-stene-v-khode-vziatiia-reikhstaga-izi",
-        "https://iz.ru/2148358/rossiiskuiu-strimershu-fasoollka-deportirovali-iz-kazakhstana-na-piat-let-izi",
-        "https://iz.ru/2148360/ugolovnoe-delo-vozbudili-posle-ataki-vsu-na-raspredelitelnyi-tcentr-v-bashkirii-izi",
-        "https://iz.ru/2148362/grossi-zaiavil-o-medlennoi-smerti-oon-izi",
-        "https://iz.ru/2148366/ot-idealnoi-semi-do-suda-za-vinodelniu-istoriia-andzheliny-dzholi-i-breda-pitta-izi",
-        "https://iz.ru/2148369/istorik-napomnila-ob-otkaze-finliandii-ot-neitraliteta-v-1990-godu-izi",
-        "https://iz.ru/2148373/rekordnoe-chislo-ukrainskikh-bezhentcev-pokinulo-polshu-na-fone-volny-agressii-k-nim-izi",
-        "https://iz.ru/2148374/vsu-zastavliali-plennykh-zhitelei-kurskoi-oblasti-delat-groby-izi",
-        "https://iz.ru/2148382/riabkov-nazval-novye-sanktcii-ssha-protiv-kuby-proiavleniem-bessiliia-izi",
         "https://iz.ru/2148388/v-mid-rf-zaiavili-o-militarizatcii-nato-u-severnykh-granitc-rossii-izi",
         "https://iz.ru/2148390/na-gosuslugakh-poiavitsia-servis-poiska-mest-na-kladbishchakh-izi",
         "https://iz.ru/2148391/v-minobrnauki-nazvali-liderov-reitinga-gorodov-po-chislu-studentov-izi",
@@ -175,16 +163,27 @@
         "https://iz.ru/2148399/vo-vsekh-shkolakh-rossii-do-1-sentiabria-sozdadut-komissii-po-uregulirovaniiu-sporov-izi",
         "https://iz.ru/2148401/v-bagazhe-priletevshego-iz-knr-rossiianina-nashli-64-fragmenta-krokodilov-izi",
         "https://iz.ru/2148405/v-sotcfonde-rf-napomnili-o-sposobe-uvelichit-posobie-po-rodam-izi",
-        "https://iz.ru/2148407/zavod-v-orske-ostanovil-rabotu-posle-ataki-bespilotnikov-vsu-izi"
+        "https://iz.ru/2148407/zavod-v-orske-ostanovil-rabotu-posle-ataki-bespilotnikov-vsu-izi",
+        "https://iz.ru/2148408/sakhalinskii-gubernator-rasskazal-putinu-o-srednei-zarabotnoi-plate-v-regione-izi",
+        "https://iz.ru/2148413/seismolog-obiasnil-nevozmozhnost-iskusstvenno-vyzvat-razrushitelnoe-tcunami-izi",
+        "https://iz.ru/2148420/minprosveshcheniia-rf-ogranichilo-perechen-otchetov-dlia-pedagogov-izi",
+        "https://iz.ru/2148421/putina-priglasili-na-rybalku-na-paltusa-izi",
+        "https://iz.ru/2148422/bolee-15-tys-uchastnikov-svo-vydvinuli-na-vyborakh-vsekh-urovnei-izi",
+        "https://iz.ru/2148424/posolstvo-rossii-nazvalo-omerzitelnym-vyskazyvanie-zhurnalista-faz-o-russkikh-izi",
+        "https://iz.ru/2148435/v-abkhazii-zaversheno-stroitelstvo-novoi-shkoly-dlia-detei-voennosluzhashchikh-izi",
+        "https://iz.ru/2148438/pamfilova-predupredila-ob-otsutstvii-golosovaniia-cherez-messendzhery-izi",
+        "https://iz.ru/2148439/v-balashikhe-startovala-besplatnaia-obrazovatelnaia-programma-po-ii-izi",
+        "https://iz.ru/2148440/pevitca-peris-dzhekson-rasskazala-o-dvukh-rastorgnutykh-pomolvkakh-izi",
+        "https://iz.ru/2148444/pashinian-zaiavil-o-nezhelanii-idti-na-ostrye-resheniia-voprosa-s-zheleznymi-dorogami-izi",
+        "https://iz.ru/2148445/shaman-obratilsia-k-bogu-v-novoi-pesne-bozhe-pomogi-izi"
       ]
     },
     "2026-08-14": {
-      "totalChecked": 925,
+      "totalChecked": 923,
       "totalIzi": 234,
-      "totalIiz": 5,
-      "totalAi": 239,
+      "totalIiz": 4,
+      "totalAi": 238,
       "topLinks": [
-        "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
         "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2148667/2026-08-14/nevrolog-predupredila-o-golovnoi-boli-iz-za-zapakhov-rastenii-izi",
         "https://iz.ru/2148819/ssha-obvinili-bolee-40-stran-v-masshtabnykh-makhinatciiakh-s-gruzami-iz-kitaia-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2148894/na-kamchatke-vulkan-shiveluch-vybrosil-pepel-s-gazom-na-vysotu-do-4-km-izi",
         "https://iz.ru/2148901/eksperty-perezvoni-sam-predupredili-o-zvonkakh-ot-lzheoperatorov-mobilnoi-sviazi-izi",
         "https://iz.ru/2148904/moshenniki-nachali-ispolzovat-realnye-dannye-kompanii-pri-prodazhe-avto-izi",
-        "https://iz.ru/2148905/puertorikanskii-bokser-prichard-kolon-melendes-biografiia-izi"
+        "https://iz.ru/2148905/puertorikanskii-bokser-prichard-kolon-melendes-biografiia-izi",
+        "https://iz.ru/2148907/v-armenii-v-vozraste-100-let-skonchalsia-veteran-velikoi-otechestvennoi-voiny-izi"
       ]
     },
     "2026-08-15": {
-      "totalChecked": 600,
+      "totalChecked": 598,
       "totalIzi": 189,
       "totalIiz": 0,
       "totalAi": 189,
@@ -375,15 +375,16 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 177,
-      "totalIzi": 34,
+      "totalChecked": 208,
+      "totalIzi": 46,
       "totalIiz": 2,
-      "totalAi": 36,
+      "totalAi": 48,
       "topLinks": [
         "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi",
         "https://iz.ru/2151559/2026-08-21/uchenye-sviazali-sindrom-razdrazhennogo-kishechnika-sviazali-s-riskom-psoriaza-izi",
         "https://iz.ru/2151999/ot-chto-ia-em-za-den-do-fastfuda-kak-sotcseti-meniaiut-ratcion-podrostkov-izi",
         "https://iz.ru/2152092/narodnye-primety-na-21-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2152121/2026-08-21/fsb-zaderzhala-prichastnogo-k-razvedke-dronami-v-moskve-inostrantca-izi",
         "https://iz.ru/2152268/uchenye-raskryli-mekhanizm-raboty-mozga-pri-neopredelennosti-izi",
         "https://iz.ru/2152425/2026-08-21/sinoptiki-rasskazali-o-pogode-v-moskve-na-vykhodnykh-22-i-23-avgusta-izi",
         "https://iz.ru/2152439/fsb-rassekretila-dokumenty-vremen-vov-o-diversantakh-na-kurskoi-duge-izi",
@@ -398,8 +399,7 @@
         "https://iz.ru/2152476/zhitel-latvii-sdal-brata-gosbezopasnosti-za-nastroiki-rossiiskogo-tv-izi",
         "https://iz.ru/2152481/konsul-v-zheneve-nazval-prichiny-stremleniia-evropeitcev-pereekhat-v-rossiiu-izi",
         "https://iz.ru/2152483/nbc-news-uznal-o-vozvrashchenii-avianostca-avraama-linkolna-na-bazu-v-ssha-izi",
-        "https://iz.ru/2152485/advokat-rasskazal-o-zhelanii-syna-advokata-pavla-astakhova-vernutsia-v-zonu-svo-izi",
-        "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi"
+        "https://iz.ru/2152484/v-tcentrobanke-nazvali-tcvet-logotipa-tcifrovogo-rublia-izi"
       ]
     }
   }
