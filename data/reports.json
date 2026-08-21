@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:06:55.850Z",
+  "generatedAt": "2026-08-21T19:48:05.927Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 502,
-      "totalIzi": 129,
+      "totalChecked": 485,
+      "totalIzi": 124,
       "totalIiz": 1,
-      "totalAi": 130,
+      "totalAi": 125,
       "topLinks": [
-        "https://iz.ru/2148684/minselkhoz-rf-nazval-usloviia-dlia-sniatiia-ogranichenii-s-importa-tovarov-iz-armenii-izi",
-        "https://iz.ru/2148689/reuters-uznalo-o-predlozhenii-ukrainy-vzaimno-prekratit-obstrel-sudov-izi",
-        "https://iz.ru/2148692/kolichestvo-povrezhdennykh-domov-pri-atake-bpla-na-novorossiisk-vozroslo-do-185-izi",
-        "https://iz.ru/2148730/chetvero-postradavshikh-pri-atake-na-nizhnekamsk-ostaiutsia-v-tiazhelom-sostoianii-izi",
-        "https://iz.ru/2148731/sily-pvo-za-den-sbili-193-bespilotnika-vsu-v-nebe-nad-regionami-rossii-izi",
         "https://iz.ru/2148760/v-mid-nazvali-zaiavleniia-takaiti-po-poezdke-putina-na-iturup-nepriemplemymi-izi",
         "https://iz.ru/2148764/v-britanii-11-chelovek-postradali-pri-skhode-poezda-s-relsov-izi",
         "https://iz.ru/2148770/v-gd-rasskazali-o-poriadke-kompensatcii-ushcherba-tekhnike-posle-skachkov-napriazheniia-izi",
@@ -175,11 +170,16 @@
         "https://iz.ru/2148255/ukrainskii-ombudsmen-soobshchil-o-mobilizatcii-v-vsu-shizofrenika-izi",
         "https://iz.ru/2148257/iurist-rasskazala-o-deistviiakh-pri-moshennichestve-s-rabotoi-za-rubezhom-izi",
         "https://iz.ru/2148268/ekspert-nazvala-prichinu-otsutstviia-vliianiia-bolshoi-zarplaty-na-pensiiu-izi",
-        "https://iz.ru/2148284/v-2027-godu-strakhovuiu-pensiiu-po-starosti-ne-budut-naznachat-na-obshchikh-osnovaniiakh-izi"
+        "https://iz.ru/2148284/v-2027-godu-strakhovuiu-pensiiu-po-starosti-ne-budut-naznachat-na-obshchikh-osnovaniiakh-izi",
+        "https://iz.ru/2148285/rodnym-pogibshikh-v-belgorodskoi-oblasti-vyplatili-bolee-11-mlrd-rublei-s-2022-goda-izi",
+        "https://iz.ru/2148303/v-mifi-sozdali-robota-dlia-poiska-sledov-vzryvchatykh-veshchestv-izi",
+        "https://iz.ru/2148315/guardian-soobshchila-o-teriaiushchikh-soznanie-ot-zhary-medrabotnikakh-v-britanii-izi",
+        "https://iz.ru/2148334/rosstat-otcenil-rost-vvp-rf-v-ii-kvartale-na-urovne-13-izi",
+        "https://iz.ru/2148335/komandir-tek-soobshchil-ob-unichtozhenii-fury-vsu-dlia-zapuska-bespilotnikov-po-rossii-izi"
       ]
     },
     "2026-08-14": {
-      "totalChecked": 903,
+      "totalChecked": 897,
       "totalIzi": 233,
       "totalIiz": 3,
       "totalAi": 236,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 596,
+      "totalChecked": 595,
       "totalIzi": 188,
       "totalIiz": 0,
       "totalAi": 188,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 705,
-      "totalIzi": 206,
+      "totalChecked": 729,
+      "totalIzi": 223,
       "totalIiz": 2,
-      "totalAi": 208,
+      "totalAi": 225,
       "topLinks": [
         "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi",
         "https://iz.ru/2151559/2026-08-21/uchenye-sviazali-sindrom-razdrazhennogo-kishechnika-sviazali-s-riskom-psoriaza-izi",
