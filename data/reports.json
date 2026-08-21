@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T03:26:13.280Z",
+  "generatedAt": "2026-08-21T05:05:04.411Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-08-13": {
-      "totalChecked": 769,
-      "totalIzi": 227,
+      "totalChecked": 754,
+      "totalIzi": 226,
       "totalIiz": 1,
-      "totalAi": 228,
+      "totalAi": 227,
       "topLinks": [
-        "https://iz.ru/2148315/guardian-soobshchila-o-teriaiushchikh-soznanie-ot-zhary-medrabotnikakh-v-britanii-izi",
         "https://iz.ru/2148334/rosstat-otcenil-rost-vvp-rf-v-ii-kvartale-na-urovne-13-izi",
         "https://iz.ru/2148335/komandir-tek-soobshchil-ob-unichtozhenii-fury-vsu-dlia-zapuska-bespilotnikov-po-rossii-izi",
         "https://iz.ru/2148338/vsu-predpriniali-popytku-povtornoi-ataki-na-orsk-izi",
@@ -175,7 +174,8 @@
         "https://iz.ru/2148358/rossiiskuiu-strimershu-fasoollka-deportirovali-iz-kazakhstana-na-piat-let-izi",
         "https://iz.ru/2148360/ugolovnoe-delo-vozbudili-posle-ataki-vsu-na-raspredelitelnyi-tcentr-v-bashkirii-izi",
         "https://iz.ru/2148362/grossi-zaiavil-o-medlennoi-smerti-oon-izi",
-        "https://iz.ru/2148366/ot-idealnoi-semi-do-suda-za-vinodelniu-istoriia-andzheliny-dzholi-i-breda-pitta-izi"
+        "https://iz.ru/2148366/ot-idealnoi-semi-do-suda-za-vinodelniu-istoriia-andzheliny-dzholi-i-breda-pitta-izi",
+        "https://iz.ru/2148369/istorik-napomnila-ob-otkaze-finliandii-ot-neitraliteta-v-1990-godu-izi"
       ]
     },
     "2026-08-14": {
@@ -375,16 +375,31 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 104,
-      "totalIzi": 3,
+      "totalChecked": 156,
+      "totalIzi": 25,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 27,
       "topLinks": [
         "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi",
+        "https://iz.ru/2151559/2026-08-21/uchenye-sviazali-sindrom-razdrazhennogo-kishechnika-sviazali-s-riskom-psoriaza-izi",
+        "https://iz.ru/2151999/ot-chto-ia-em-za-den-do-fastfuda-kak-sotcseti-meniaiut-ratcion-podrostkov-izi",
         "https://iz.ru/2152092/narodnye-primety-na-21-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2152268/uchenye-raskryli-mekhanizm-raboty-mozga-pri-neopredelennosti-izi",
+        "https://iz.ru/2152425/2026-08-21/sinoptiki-rasskazali-o-pogode-v-moskve-na-vykhodnykh-22-i-23-avgusta-izi",
         "https://iz.ru/2152439/fsb-rassekretila-dokumenty-vremen-vov-o-diversantakh-na-kurskoi-duge-izi",
+        "https://iz.ru/2152444/2026-08-21/ekonomist-predupredil-o-riskakh-perekhoda-na-nakopitelnye-scheta-izi",
+        "https://iz.ru/2152448/2026-08-21/deputat-obiasnil-poriadok-deistvii-pri-poborakh-v-shkolakh-izi",
+        "https://iz.ru/2152455/2026-08-21/mask-predrek-krakh-ekonomiki-ssha-iz-za-gosdolga-k-2030-godu-izi",
+        "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi",
+        "https://iz.ru/2151559/2026-08-21/uchenye-sviazali-sindrom-razdrazhennogo-kishechnika-sviazali-s-riskom-psoriaza-izi",
+        "https://iz.ru/2151999/ot-chto-ia-em-za-den-do-fastfuda-kak-sotcseti-meniaiut-ratcion-podrostkov-izi",
         "https://iz.ru/2152092/narodnye-primety-na-21-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2152439/fsb-rassekretila-dokumenty-vremen-vov-o-diversantakh-na-kurskoi-duge-izi"
+        "https://iz.ru/2152268/uchenye-raskryli-mekhanizm-raboty-mozga-pri-neopredelennosti-izi",
+        "https://iz.ru/2152425/2026-08-21/sinoptiki-rasskazali-o-pogode-v-moskve-na-vykhodnykh-22-i-23-avgusta-izi",
+        "https://iz.ru/2152439/fsb-rassekretila-dokumenty-vremen-vov-o-diversantakh-na-kurskoi-duge-izi",
+        "https://iz.ru/2152444/2026-08-21/ekonomist-predupredil-o-riskakh-perekhoda-na-nakopitelnye-scheta-izi",
+        "https://iz.ru/2152448/2026-08-21/deputat-obiasnil-poriadok-deistvii-pri-poborakh-v-shkolakh-izi",
+        "https://iz.ru/2152455/2026-08-21/mask-predrek-krakh-ekonomiki-ssha-iz-za-gosdolga-k-2030-godu-izi"
       ]
     }
   }
