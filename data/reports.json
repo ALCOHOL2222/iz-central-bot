@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:58:35.789Z",
+  "generatedAt": "2026-08-22T09:53:16.536Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,20 +151,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 807,
-      "totalIzi": 220,
+      "totalChecked": 782,
+      "totalIzi": 211,
       "totalIiz": 3,
-      "totalAi": 223,
+      "totalAi": 214,
       "topLinks": [
-        "https://iz.ru/2148894/na-kamchatke-vulkan-shiveluch-vybrosil-pepel-s-gazom-na-vysotu-do-4-km-izi",
-        "https://iz.ru/2148901/eksperty-perezvoni-sam-predupredili-o-zvonkakh-ot-lzheoperatorov-mobilnoi-sviazi-izi",
-        "https://iz.ru/2148904/moshenniki-nachali-ispolzovat-realnye-dannye-kompanii-pri-prodazhe-avto-izi",
-        "https://iz.ru/2148905/puertorikanskii-bokser-prichard-kolon-melendes-biografiia-izi",
-        "https://iz.ru/2148907/v-armenii-v-vozraste-100-let-skonchalsia-veteran-velikoi-otechestvennoi-voiny-izi",
-        "https://iz.ru/2148908/golikova-nazvala-podkontrolnoi-demograficheskuiu-situatciiu-v-rossii-izi",
-        "https://iz.ru/2148909/rzhd-ogranichili-perevozku-gruzov-v-chernomorskii-port-novorossiiska-izi",
-        "https://iz.ru/2148911/zhurnalist-khristoforu-vysmeial-prosby-zelenskogo-o-raketakh-dlia-patriot-izi",
-        "https://iz.ru/2148913/pri-atakakh-vsu-na-belgorodskuiu-oblast-odin-chelovek-pogib-i-10-postradali-izi",
         "https://iz.ru/2148919/telegraph-uznala-o-negotovnosti-britanii-protivostoiat-zakhvatu-sudov-izi",
         "https://iz.ru/2148923/razvedka-ssha-nazvala-sroki-remontov-elektrostantcii-na-ukraine-izi",
         "https://iz.ru/2148925/sud-prigovoril-rabotavshego-na-polskie-spetcsluzhby-rossiianina-k-23-godam-kolonii-izi",
@@ -175,7 +166,16 @@
         "https://iz.ru/2148941/prezident-finliandii-stubb-priznalsia-v-liubvi-k-rossiianam-i-russkoi-kulture-izi",
         "https://iz.ru/2148947/ukrainskie-bespilotniki-povredili-zdanie-shkoly-v-kaluzhskoi-oblasti-izi",
         "https://iz.ru/2148950/v-moskovskikh-aeroportakh-vveli-vremennye-ogranicheniia-na-polety-izi",
-        "https://iz.ru/2148951/verkhovnyi-sud-rassmotrit-zhalobu-rodiny-na-reshenie-po-spisku-iabloka-izi"
+        "https://iz.ru/2148951/verkhovnyi-sud-rassmotrit-zhalobu-rodiny-na-reshenie-po-spisku-iabloka-izi",
+        "https://iz.ru/2148952/vs-rf-porazili-ispolzuemuiu-ukrainskimi-boevikami-azs-v-chernigovskoi-oblasti-izi",
+        "https://iz.ru/2148958/umer-baletmeiste-i-osnovatel-teatra-tantca-step-igor-petukhov-izi",
+        "https://iz.ru/2148970/lavrov-zaiavil-o-zhestkikh-deistviiakh-protiv-voennoi-podderzhki-ukrainy-zapadom-izi",
+        "https://iz.ru/2148991/mosbirzha-uvelichit-vremia-torgov-v-sentiabre-na-chas-izi",
+        "https://iz.ru/2149009/lavrov-nazval-pokazatelnym-publichnoe-molchanie-stran-posle-udarov-kieva-po-ktk-izi",
+        "https://iz.ru/2149017/v-iaroslavle-byl-perekryt-vyezd-v-storonu-moskvy-iz-za-raketnoi-opasnosti-izi",
+        "https://iz.ru/2149025/reuters-sprognozirovalo-krizis-v-agrosektore-ukrainy-iz-za-blokady-portov-izi",
+        "https://iz.ru/2149026/sk-vozbudil-delo-o-terakte-posle-ataki-vsu-na-zhiloi-dom-v-brianske-izi",
+        "https://iz.ru/2149029/lavrov-prizval-uvolit-iz-smi-zhurnalista-faz-za-slova-o-russkikh-izi"
       ]
     },
     "2026-08-15": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-22": {
-      "totalChecked": 192,
-      "totalIzi": 52,
+      "totalChecked": 266,
+      "totalIzi": 97,
       "totalIiz": 2,
-      "totalAi": 54,
+      "totalAi": 99,
       "topLinks": [
         "https://iz.ru/2152099/ne-lozh-reaktciia-mozga-uchenye-raskryli-vliianie-travmy-na-vospominaniia-izi",
         "https://iz.ru/2152210/ne-tolko-bodrost-uchenye-sviazali-kofe-s-bolee-zdorovym-sostavom-tela-izi",
