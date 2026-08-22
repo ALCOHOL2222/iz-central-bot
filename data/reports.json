@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T22:48:07.165Z",
+  "generatedAt": "2026-08-22T23:45:44.156Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,14 +123,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 627,
-      "totalIzi": 168,
+      "totalChecked": 619,
+      "totalIzi": 165,
       "totalIiz": 3,
-      "totalAi": 171,
+      "totalAi": 168,
       "topLinks": [
-        "https://iz.ru/2149127/mendel-nazvala-politiku-zelenskogo-prevrashchaiushchei-ukrainu-v-ruiny-izi",
-        "https://iz.ru/2149129/podozrevaemyi-v-ubiistve-devochki-v-rostovskoi-oblasti-priznal-vinu-izi",
-        "https://iz.ru/2149130/v-kitae-prizvali-iaponiiu-uvazhat-rezultaty-pobedy-v-antifashistskoi-voine-izi",
         "https://iz.ru/2149135/sud-ne-stal-zapreshat-potaninu-izi",
         "https://iz.ru/2149137/minprosveshcheniia-oproverglo-informatciiu-ob-obiazatelnom-prosmotre-detmi-kolobka-izi",
         "https://iz.ru/2149138/steigan-zaiavil-o-priblizhenii-polnoi-morskoi-blokady-ukrainy-izi",
@@ -147,7 +144,10 @@
         "https://iz.ru/2149176/dvukhetazhnoe-zdanie-zagorelos-na-rynke-v-podmoskovnom-podolske-izi",
         "https://iz.ru/2149185/v-neskolkikh-regionakh-uzbekistana-proizoshli-pereboi-s-elektrichestvom-izi",
         "https://iz.ru/2149191/putin-provel-operativnoe-soveshchanie-s-postoiannymi-chlenami-sovbeza-izi",
-        "https://iz.ru/2149203/mid-rossii-ne-poluchal-ofitcialnykh-predlozhenii-ankary-po-chernomu-moriu-izi"
+        "https://iz.ru/2149203/mid-rossii-ne-poluchal-ofitcialnykh-predlozhenii-ankary-po-chernomu-moriu-izi",
+        "https://iz.ru/2149216/indeks-mosbirzhi-vpervye-s-kontca-iiulia-upal-nizhe-2200-punktov-izi",
+        "https://iz.ru/2149222/voennyi-sud-v-moskve-v-zakrytom-rezhime-rassmotrit-delo-arestovicha-izi",
+        "https://iz.ru/2149223/adamu-kadyrovu-prisvoili-zvanie-pochetnyi-grazhdanin-kurchaloevskogo-raiona-izi"
       ]
     },
     "2026-08-15": {
@@ -179,7 +179,7 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 539,
+      "totalChecked": 537,
       "totalIzi": 136,
       "totalIiz": 0,
       "totalAi": 136,
@@ -207,12 +207,11 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 832,
-      "totalIzi": 262,
+      "totalChecked": 831,
+      "totalIzi": 261,
       "totalIiz": 1,
-      "totalAi": 263,
+      "totalAi": 262,
       "topLinks": [
-        "https://iz.ru/2149123/2026-08-17/analitiki-rasskazali-o-samykh-vygodnykh-tcvetakh-etogo-leta-izi",
         "https://iz.ru/2150099/smi-rasskazali-o-riskakh-dlia-kitaiskikh-chinovnikov-iz-za-braka-s-inostrantcami-izi",
         "https://iz.ru/2150102/v-italii-roditeli-ekhali-100-km-riadom-s-umershim-synom-izi",
         "https://iz.ru/2150107/sily-pvo-rossii-s-nachala-goda-unichtozhila-bolee-100-tys-ukrainskikh-bpla-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2150173/izrailskii-ministr-vystupil-za-provedenie-ezhednevnykh-ubiistv-v-gaze-izi",
         "https://iz.ru/2150180/stolichnye-politceiskie-perekryli-uzel-sviazi-telefonnykh-moshennikov-izi",
         "https://iz.ru/2150182/eksperty-perezvoni-sam-nazvali-osnovnye-skhemy-moshennikov-v-onlain-igrakh-izi",
-        "https://iz.ru/2150184/v-bashkirii-obzhalovali-vosstanovlenie-mavlieva-v-dolzhnosti-mera-ufy-izi"
+        "https://iz.ru/2150184/v-bashkirii-obzhalovali-vosstanovlenie-mavlieva-v-dolzhnosti-mera-ufy-izi",
+        "https://iz.ru/2150189/odin-chelovek-pogib-pri-stolknovenii-gruzovika-s-avtobusom-v-moskve-izi"
       ]
     },
     "2026-08-18": {
@@ -375,12 +375,14 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 37,
-      "totalIzi": 0,
+      "totalChecked": 48,
+      "totalIzi": 2,
       "totalIiz": 2,
-      "totalAi": 2,
+      "totalAi": 4,
       "topLinks": [
         "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2153460/rospotrebnadzor-rasskazal-o-pravakh-potrebitelia-pri-pokupke-shkolnoi-odezhdy-izi",
+        "https://iz.ru/2153464/sredniaia-pensiia-za-vyslugu-let-v-rossii-prevysila-1-mln-rublei-izi",
         "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
