@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:51:23.802Z",
+  "generatedAt": "2026-08-22T17:46:58.285Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,20 +151,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 691,
-      "totalIzi": 189,
+      "totalChecked": 671,
+      "totalIzi": 180,
       "totalIiz": 3,
-      "totalAi": 192,
+      "totalAi": 183,
       "topLinks": [
-        "https://iz.ru/2149042/marina-brusnikina-naznachena-khudozhestvennym-rukovoditelem-ramta-izi",
-        "https://iz.ru/2149044/sbornaia-rossii-po-futbolu-provedet-match-s-iranom-v-kazani-29-sentiabria-izi",
-        "https://iz.ru/2149049/lavrov-rasskazal-o-proguliannykh-zaniatiiakh-v-shkole-izi",
-        "https://iz.ru/2149050/ssha-podderzhali-pretenzii-iaponii-na-kurily-posle-vizita-putina-izi",
-        "https://iz.ru/2149051/velosipedist-pogib-pri-ataki-ukrainskogo-bpla-v-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2149052/set-dostavki-ebidoebi-reshila-provesti-rebrending-i-pomeniat-nazvanie-na-e-izi",
-        "https://iz.ru/2149053/v-mintranse-predlozhili-izmenit-sistemu-registratcii-sudov-pod-flagom-rossii-izi",
-        "https://iz.ru/2149055/dmitriev-nazval-vosstanovlenie-dialoga-s-rossiei-pervostepennoi-zadachei-dlia-es-izi",
-        "https://iz.ru/2149060/armiia-rossii-porazila-logisticheskii-kompleks-v-kievskoi-oblasti-izi",
         "https://iz.ru/2149067/eksport-krevetok-v-rossii-za-i-polugodie-vyros-na-17-izi",
         "https://iz.ru/2149071/vladeltcy-100-zaderzhannykh-litovskikh-fur-brosili-ikh-v-belorussii-izi",
         "https://iz.ru/2149076/dva-cheloveka-postradali-pri-pozhare-na-kryshe-zdaniia-v-peterburge-izi",
@@ -175,11 +166,20 @@
         "https://iz.ru/2149099/zakharova-ukazala-na-derusifikatciiu-informprostranstva-v-moldavii-po-primeru-kieva-izi",
         "https://iz.ru/2149101/lavrov-rossiia-khotela-uslyshat-reaktciiu-serbii-na-vopros-ob-ubiistve-russkikh-izi",
         "https://iz.ru/2149108/putin-obsudil-s-sovbezom-sokhranenie-traditcionnykh-tcennostei-v-kulture-izi",
-        "https://iz.ru/2149109/alma-atinskuiu-oblast-chastichno-obestochilo-iz-za-sboia-avtomatiki-izi"
+        "https://iz.ru/2149109/alma-atinskuiu-oblast-chastichno-obestochilo-iz-za-sboia-avtomatiki-izi",
+        "https://iz.ru/2149112/pogovorivshii-s-putinym-o-khrame-na-iturupe-sviashchennik-otmetil-ego-vnimatelnost-izi",
+        "https://iz.ru/2149127/mendel-nazvala-politiku-zelenskogo-prevrashchaiushchei-ukrainu-v-ruiny-izi",
+        "https://iz.ru/2149129/podozrevaemyi-v-ubiistve-devochki-v-rostovskoi-oblasti-priznal-vinu-izi",
+        "https://iz.ru/2149130/v-kitae-prizvali-iaponiiu-uvazhat-rezultaty-pobedy-v-antifashistskoi-voine-izi",
+        "https://iz.ru/2149135/sud-ne-stal-zapreshat-potaninu-izi",
+        "https://iz.ru/2149137/minprosveshcheniia-oproverglo-informatciiu-ob-obiazatelnom-prosmotre-detmi-kolobka-izi",
+        "https://iz.ru/2149138/steigan-zaiavil-o-priblizhenii-polnoi-morskoi-blokady-ukrainy-izi",
+        "https://iz.ru/2149140/v-ssha-nazvali-vozmozhnuiu-prichinu-chp-samoleta-ryanair-v-gretcii-izi",
+        "https://iz.ru/2149141/faradzh-pobedil-komika-v-kostiume-musornogo-vedra-na-vyborakh-v-velikobritanii-izi"
       ]
     },
     "2026-08-15": {
-      "totalChecked": 592,
+      "totalChecked": 591,
       "totalIzi": 188,
       "totalIiz": 0,
       "totalAi": 188,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 542,
+      "totalChecked": 539,
       "totalIzi": 136,
       "totalIiz": 0,
       "totalAi": 136,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-22": {
-      "totalChecked": 440,
-      "totalIzi": 157,
+      "totalChecked": 515,
+      "totalIzi": 183,
       "totalIiz": 2,
-      "totalAi": 159,
+      "totalAi": 185,
       "topLinks": [
         "https://iz.ru/2152099/ne-lozh-reaktciia-mozga-uchenye-raskryli-vliianie-travmy-na-vospominaniia-izi",
         "https://iz.ru/2152210/ne-tolko-bodrost-uchenye-sviazali-kofe-s-bolee-zdorovym-sostavom-tela-izi",
