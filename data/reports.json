@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:59:02.211Z",
+  "generatedAt": "2026-08-22T19:47:17.948Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 671,
-      "totalIzi": 180,
+      "totalChecked": 654,
+      "totalIzi": 176,
       "totalIiz": 3,
-      "totalAi": 183,
+      "totalAi": 179,
       "topLinks": [
-        "https://iz.ru/2149067/eksport-krevetok-v-rossii-za-i-polugodie-vyros-na-17-izi",
-        "https://iz.ru/2149071/vladeltcy-100-zaderzhannykh-litovskikh-fur-brosili-ikh-v-belorussii-izi",
-        "https://iz.ru/2149076/dva-cheloveka-postradali-pri-pozhare-na-kryshe-zdaniia-v-peterburge-izi",
-        "https://iz.ru/2149083/belgiia-v-iiune-stala-glavnym-v-es-pokupatelem-rossiiskogo-gaza-izi",
         "https://iz.ru/2149086/gossekretar-ssha-rubio-poluchil-v-podarok-na-55-letie-kollazh-iz-memov-o-sebe-izi",
         "https://iz.ru/2149089/rossiianam-nazvali-sposob-vernut-perevedennye-rebenkom-dengi-moshennikam-izi",
         "https://iz.ru/2149095/lavrov-nazval-slova-boitcov-vs-rf-o-pobede-rossii-silnym-vyrazheniem-izi",
@@ -175,11 +171,15 @@
         "https://iz.ru/2149137/minprosveshcheniia-oproverglo-informatciiu-ob-obiazatelnom-prosmotre-detmi-kolobka-izi",
         "https://iz.ru/2149138/steigan-zaiavil-o-priblizhenii-polnoi-morskoi-blokady-ukrainy-izi",
         "https://iz.ru/2149140/v-ssha-nazvali-vozmozhnuiu-prichinu-chp-samoleta-ryanair-v-gretcii-izi",
-        "https://iz.ru/2149141/faradzh-pobedil-komika-v-kostiume-musornogo-vedra-na-vyborakh-v-velikobritanii-izi"
+        "https://iz.ru/2149141/faradzh-pobedil-komika-v-kostiume-musornogo-vedra-na-vyborakh-v-velikobritanii-izi",
+        "https://iz.ru/2149143/lavrov-raziasnil-pochemu-nelzia-ostanovit-konflikt-s-ukrainoi-po-linii-fronta-izi",
+        "https://iz.ru/2149144/v-kazakhstane-proizoshlo-massovoe-otkliuchenie-sveta-v-neskolkikh-regionakh-izi",
+        "https://iz.ru/2149145/zaniatost-v-avtoprome-germanii-upala-do-minimuma-s-2005-goda-izi",
+        "https://iz.ru/2149151/semia-veselogo-molochnika-soobshchila-o-podgotovke-dokumentov-dlia-grazhdanstva-rf-izi"
       ]
     },
     "2026-08-15": {
-      "totalChecked": 591,
+      "totalChecked": 590,
       "totalIzi": 188,
       "totalIiz": 0,
       "totalAi": 188,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 835,
+      "totalChecked": 834,
       "totalIzi": 262,
       "totalIiz": 1,
       "totalAi": 263,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-22": {
-      "totalChecked": 515,
-      "totalIzi": 183,
+      "totalChecked": 534,
+      "totalIzi": 192,
       "totalIiz": 2,
-      "totalAi": 185,
+      "totalAi": 194,
       "topLinks": [
         "https://iz.ru/2152099/ne-lozh-reaktciia-mozga-uchenye-raskryli-vliianie-travmy-na-vospominaniia-izi",
         "https://iz.ru/2152210/ne-tolko-bodrost-uchenye-sviazali-kofe-s-bolee-zdorovym-sostavom-tela-izi",
