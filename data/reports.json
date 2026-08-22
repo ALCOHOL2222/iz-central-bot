@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:09:42.724Z",
+  "generatedAt": "2026-08-22T07:55:56.054Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 829,
-      "totalIzi": 224,
+      "totalChecked": 807,
+      "totalIzi": 220,
       "totalIiz": 3,
-      "totalAi": 227,
+      "totalAi": 223,
       "topLinks": [
-        "https://iz.ru/2148873/minprosveshcheniia-ustanovilo-normy-vremeni-na-domashnie-zadaniia-dlia-uchenikov-izi",
-        "https://iz.ru/2148876/v-gd-predlozhili-razreshit-onlain-vozvrat-tovarov-pri-pokupkakh-cherez-internet-izi",
-        "https://iz.ru/2148884/v-mvd-rasskazali-o-skheme-moshennikov-s-blokirovkoi-apple-id-pod-vidom-rabotodatelia-izi",
-        "https://iz.ru/2148886/v-gd-predlozhili-snizit-notarialnye-tarify-pri-sdelkakh-mezhdu-rodstvennikami-izi",
         "https://iz.ru/2148894/na-kamchatke-vulkan-shiveluch-vybrosil-pepel-s-gazom-na-vysotu-do-4-km-izi",
         "https://iz.ru/2148901/eksperty-perezvoni-sam-predupredili-o-zvonkakh-ot-lzheoperatorov-mobilnoi-sviazi-izi",
         "https://iz.ru/2148904/moshenniki-nachali-ispolzovat-realnye-dannye-kompanii-pri-prodazhe-avto-izi",
@@ -175,7 +171,11 @@
         "https://iz.ru/2148926/akter-iz-seriala-kamenskaia-nikolai-kuchitc-umer-v-vozraste-73-let-izi",
         "https://iz.ru/2148930/uchenyi-ran-ukazal-na-neobkhodimost-napisaniia-bukvy-e-v-shkolnykh-uchebnikakh-izi",
         "https://iz.ru/2148934/sk-vozbudil-delo-o-terakte-posle-ataki-vsu-na-elektropoezd-v-dnr-izi",
-        "https://iz.ru/2148935/konstantinov-prizval-vlasti-polshi-otkazatsia-ot-bestolkovykh-zaiavlenii-o-rossii-izi"
+        "https://iz.ru/2148935/konstantinov-prizval-vlasti-polshi-otkazatsia-ot-bestolkovykh-zaiavlenii-o-rossii-izi",
+        "https://iz.ru/2148941/prezident-finliandii-stubb-priznalsia-v-liubvi-k-rossiianam-i-russkoi-kulture-izi",
+        "https://iz.ru/2148947/ukrainskie-bespilotniki-povredili-zdanie-shkoly-v-kaluzhskoi-oblasti-izi",
+        "https://iz.ru/2148950/v-moskovskikh-aeroportakh-vveli-vremennye-ogranicheniia-na-polety-izi",
+        "https://iz.ru/2148951/verkhovnyi-sud-rassmotrit-zhalobu-rodiny-na-reshenie-po-spisku-iabloka-izi"
       ]
     },
     "2026-08-15": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-22": {
-      "totalChecked": 170,
-      "totalIzi": 38,
+      "totalChecked": 192,
+      "totalIzi": 52,
       "totalIiz": 2,
-      "totalAi": 40,
+      "totalAi": 54,
       "topLinks": [
         "https://iz.ru/2152099/ne-lozh-reaktciia-mozga-uchenye-raskryli-vliianie-travmy-na-vospominaniia-izi",
         "https://iz.ru/2152210/ne-tolko-bodrost-uchenye-sviazali-kofe-s-bolee-zdorovym-sostavom-tela-izi",
@@ -392,14 +392,14 @@
         "https://iz.ru/2153058/minoborony-frg-zaiavilo-o-sluchaiakh-dezertirstva-voennykh-vsu-na-obuchenii-izi",
         "https://iz.ru/2153067/2026-08-22/verkhovnyi-sud-razreshil-trampu-stroit-banketnyi-zal-v-belom-dome-izi",
         "https://iz.ru/2153083/biolog-predupredil-o-roste-agressii-os-i-shershnei-v-nachale-oseni-izi",
+        "https://iz.ru/2153096/zoopsikholog-oprovergla-sposobnost-koshek-mstit-vladeltcam-izi",
         "https://iz.ru/2153100/2026-08-22/v-sleduiushchem-godu-rossiian-zhdut-sem-korotkikh-rabochikh-nedel-izi",
+        "https://iz.ru/2153105/v-gosdume-prizvali-vybirat-rossiiskie-sezonnye-tcvety-k-1-sentiabria-izi",
         "https://iz.ru/2153123/2026-08-22/ekspert-ukazal-na-otsutstvie-perspektiv-peregovorov-po-ukraine-v-blizhaishee-vremia-izi",
         "https://iz.ru/2153124/2026-08-22/ukraina-ne-poluchila-ot-zapada-bolee-36-mlrd-finansirovaniia-izi",
         "https://iz.ru/2153125/2026-08-22/okolo-140-bpla-unichtozheny-nad-rostovskoi-oblastiu-za-noch-izi",
         "https://iz.ru/2153127/2026-08-22/v-samarskoi-oblasti-pri-atake-bpla-povrezhden-logisticheskii-kompleks-ozon-izi",
-        "https://iz.ru/2153128/2026-08-22/iz-za-ataki-na-sklade-ozon-v-samarskoi-oblasti-evakuirovany-bolee-500-rabotnikov-izi",
-        "https://iz.ru/2153130/tramp-poshutil-ob-ukhode-livitt-s-posta-press-sekretaria-belogo-doma-izi",
-        "https://iz.ru/2153137/ssha-vnov-vveli-50-protcentnye-poshliny-na-tovary-kanady-posle-provala-peregovorov-izi"
+        "https://iz.ru/2153128/2026-08-22/iz-za-ataki-na-sklade-ozon-v-samarskoi-oblasti-evakuirovany-bolee-500-rabotnikov-izi"
       ]
     }
   }
