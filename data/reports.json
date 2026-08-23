@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T03:24:53.048Z",
+  "generatedAt": "2026-08-23T04:14:24.350Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,16 +123,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 607,
-      "totalIzi": 159,
+      "totalChecked": 596,
+      "totalIzi": 154,
       "totalIiz": 3,
-      "totalAi": 162,
+      "totalAi": 157,
       "topLinks": [
-        "https://iz.ru/2149144/v-kazakhstane-proizoshlo-massovoe-otkliuchenie-sveta-v-neskolkikh-regionakh-izi",
-        "https://iz.ru/2149145/zaniatost-v-avtoprome-germanii-upala-do-minimuma-s-2005-goda-izi",
-        "https://iz.ru/2149151/semia-veselogo-molochnika-soobshchila-o-podgotovke-dokumentov-dlia-grazhdanstva-rf-izi",
-        "https://iz.ru/2149153/sinkhronisty-trofimov-i-rumiantceva-vyigrali-iuniorskii-chm-v-tekhnicheskoi-programme-izi",
-        "https://iz.ru/2149157/muzhchina-postradal-pri-atake-drona-vsu-na-avtomobil-v-belgorodskoi-oblasti-izi",
         "https://iz.ru/2149167/postavki-piva-iz-evrosoiuza-v-rossiiu-v-iiune-vyrosli-v-27-raza-izi",
         "https://iz.ru/2149173/v-minenergo-kazakhstana-soobshchili-o-vosstanovlenii-elektrosnabzheniia-posle-sboia-izi",
         "https://iz.ru/2149176/dvukhetazhnoe-zdanie-zagorelos-na-rynke-v-podmoskovnom-podolske-izi",
@@ -147,11 +142,16 @@
         "https://iz.ru/2149246/armiia-rossii-porazila-rezervuar-s-toplivom-dlia-vsu-v-portu-odessy-izi",
         "https://iz.ru/2149250/tri-cheloveka-postradali-v-rezultate-ataki-dronov-na-melitopol-izi",
         "https://iz.ru/2149263/rossiiskii-moriak-vyigral-1-mln-v-lotereiu-v-dubae-izi",
-        "https://iz.ru/2149267/bild-soobshchila-o-nevozmozhnosti-germanii-sobrat-2000-dobrovoltcev-dlia-litvy-izi"
+        "https://iz.ru/2149267/bild-soobshchila-o-nevozmozhnosti-germanii-sobrat-2000-dobrovoltcev-dlia-litvy-izi",
+        "https://iz.ru/2149268/chto-proizoshlo-za-den-14-avgusta-glavnoe-izi",
+        "https://iz.ru/2149290/rf-po-itogam-iiunia-zaniala-vtoroe-mesto-sredi-eksporterov-gaza-v-es-izi",
+        "https://iz.ru/2149293/otkliuchenie-elektrichestva-v-kazakhstane-sviazyvaiut-s-toktogulskoi-ges-izi",
+        "https://iz.ru/2149315/v-rst-otmetili-rost-na-15-sprosa-turistov-iz-rf-na-tury-v-kndr-izi",
+        "https://iz.ru/2149321/v-kazakhstane-soobshchili-o-vosstanovlenii-elektrosnabzheniia-v-alma-ate-i-oblasti-izi"
       ]
     },
     "2026-08-15": {
-      "totalChecked": 589,
+      "totalChecked": 588,
       "totalIzi": 188,
       "totalIiz": 0,
       "totalAi": 188,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 831,
+      "totalChecked": 830,
       "totalIzi": 261,
       "totalIiz": 1,
       "totalAi": 262,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 83,
-      "totalIzi": 10,
+      "totalChecked": 96,
+      "totalIzi": 13,
       "totalIiz": 2,
-      "totalAi": 12,
+      "totalAi": 15,
       "topLinks": [
         "https://iz.ru/2152634/uchenye-raskryli-rol-immunnykh-kletok-v-razrushenii-neironov-pri-bas-izi",
         "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -386,6 +386,9 @@
         "https://iz.ru/2153464/sredniaia-pensiia-za-vyslugu-let-v-rossii-prevysila-1-mln-rublei-izi",
         "https://iz.ru/2153467/eks-ministr-oborony-ukrainy-nazval-mifom-prepiatstviia-dlia-vyborov-v-strane-izi",
         "https://iz.ru/2153474/ploshchad-pozhara-na-sklade-v-sankt-peterburge-dostigla-22-tys-kv-m-izi",
+        "https://iz.ru/2153482/2026-08-23/vlasti-soobshchili-o-raschistke-dorogi-dlia-vyvoza-turistov-s-vulkana-na-kamchatke-izi",
+        "https://iz.ru/2153484/2026-08-23/posol-irana-nazval-plachevnym-moralnyi-dukh-voennykh-ssha-izi",
+        "https://iz.ru/2153489/guardian-soobshchila-o-bezzashchitnosti-energoinfrastruktury-kieva-izi",
         "https://iz.ru/2152634/uchenye-raskryli-rol-immunnykh-kletok-v-razrushenii-neironov-pri-bas-izi",
         "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2153460/rospotrebnadzor-rasskazal-o-pravakh-potrebitelia-pri-pokupke-shkolnoi-odezhdy-izi",
