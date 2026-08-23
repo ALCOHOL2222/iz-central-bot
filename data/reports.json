@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:58:45.893Z",
+  "generatedAt": "2026-08-23T19:46:31.233Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 564,
-      "totalIzi": 187,
+      "totalChecked": 546,
+      "totalIzi": 183,
       "totalIiz": 0,
-      "totalAi": 187,
+      "totalAi": 183,
       "topLinks": [
-        "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
-        "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
-        "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi",
-        "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi",
         "https://iz.ru/2149439/v-op-predlozhili-vyplachivat-roditeliam-shkolnikov-po-10-tys-rublei-k-1-sentiabria-izi",
         "https://iz.ru/2149456/rossiian-predupredili-o-skheme-moshennikov-s-rozygryshem-shkolnykh-naborov-izi",
         "https://iz.ru/2149468/roskachestvo-predupredilo-ob-opasnosti-iarkikh-kantctovarov-bez-markirovki-izi",
@@ -175,7 +171,11 @@
         "https://iz.ru/2149524/novyi-gost-na-karandashi-nachnet-deistvovat-s-1-sentiabria-izi",
         "https://iz.ru/2149527/v-shature-pri-popadanii-bespilotnika-v-dom-postradali-zhenshchina-i-rebenok-izi",
         "https://iz.ru/2149529/putin-otmetil-bespretcedentnyi-uroven-otnoshenii-rossii-i-kndr-izi",
-        "https://iz.ru/2149531/sredstva-pvo-za-noch-unichtozhili-598-bespilotnikov-nad-regionami-rossii-izi"
+        "https://iz.ru/2149531/sredstva-pvo-za-noch-unichtozhili-598-bespilotnikov-nad-regionami-rossii-izi",
+        "https://iz.ru/2149541/putin-ukazal-na-uspeshnoe-razvitie-otnoshenii-rossii-i-indii-izi",
+        "https://iz.ru/2149547/rossiiskie-boitcy-unichtozhili-odnim-udarom-chetyre-radiolokatcionnye-stantcii-vsu-izi",
+        "https://iz.ru/2149553/vsu-nachali-perebrasyvat-tekhniku-v-sumy-v-zamaskirovannykh-vagonakh-izi",
+        "https://iz.ru/2149562/v-permi-muzhchina-na-detskom-seanse-v-kino-trogal-neznakomuiu-devochku-izi"
       ]
     },
     "2026-08-16": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 432,
-      "totalIzi": 197,
+      "totalChecked": 450,
+      "totalIzi": 210,
       "totalIiz": 2,
-      "totalAi": 199,
+      "totalAi": 212,
       "topLinks": [
         "https://iz.ru/2152634/uchenye-raskryli-rol-immunnykh-kletok-v-razrushenii-neironov-pri-bas-izi",
         "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz",
