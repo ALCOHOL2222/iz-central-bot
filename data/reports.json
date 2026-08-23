@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:11:42.534Z",
+  "generatedAt": "2026-08-23T13:56:21.077Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,17 +123,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 527,
-      "totalIzi": 135,
+      "totalChecked": 507,
+      "totalIzi": 129,
       "totalIiz": 3,
-      "totalAi": 138,
+      "totalAi": 132,
       "topLinks": [
-        "https://iz.ru/2149321/v-kazakhstane-soobshchili-o-vosstanovlenii-elektrosnabzheniia-v-alma-ate-i-oblasti-izi",
-        "https://iz.ru/2149330/zakharova-osudila-molchanie-zapada-na-fone-natcistkoi-messy-v-chest-konovaltca-izi",
-        "https://iz.ru/2149335/rossiianka-chikunova-vyigrala-zoloto-chempionata-evropy-po-vodnym-vidam-sporta-izi",
-        "https://iz.ru/2149338/finliandiia-zainteresovana-v-rasshirenii-iadernogo-zontika-na-vsiu-evropu-izi",
-        "https://iz.ru/2149339/netaniakhu-nazval-britaniiu-islamskoi-respublikoi-izi",
-        "https://iz.ru/2149343/sily-pvo-za-den-sbili-221-bespilotnik-vsu-nad-regionami-rossii-izi",
         "https://iz.ru/2149346/pozhar-na-elisavetinskom-rynke-v-podolske-likvidirovali-izi",
         "https://iz.ru/2149348/chislo-postradavshikh-pri-atake-vsu-na-briansk-vozroslo-do-deviati-izi",
         "https://iz.ru/2149359/v-gorlovke-pri-atake-vsu-pogibla-zhenshchina-i-eshche-sem-chelovek-postradali-izi",
@@ -147,11 +141,17 @@
         "https://iz.ru/2149388/es-v-iiune-snizil-obem-importa-gaza-iz-rossii-na-10-izi",
         "https://iz.ru/2149395/apple-predupredila-polzovatelei-iphone-o-vozmozhnykh-atakakh-shpionskogo-po-izi",
         "https://iz.ru/2136463/ne-rukodelnichat-i-ne-ubiratsia-kakie-zaprety-vazhno-sobliudat-na-iablochnyi-spas-iiz",
-        "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz"
+        "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz",
+        "https://iz.ru/2148619/narodnye-primety-na-14-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2148667/2026-08-14/nevrolog-predupredila-o-golovnoi-boli-iz-za-zapakhov-rastenii-izi",
+        "https://iz.ru/2148819/ssha-obvinili-bolee-40-stran-v-masshtabnykh-makhinatciiakh-s-gruzami-iz-kitaia-izi",
+        "https://iz.ru/2148821/wp-sviazala-tcru-s-seriei-atak-na-ekvadorskie-suda-u-galapagosskikh-ostrovov-izi",
+        "https://iz.ru/2148826/puertorikanskii-bokser-kolon-umer-v-vozraste-33-let-izi",
+        "https://iz.ru/2148837/kndr-zaiavila-o-gotovnosti-otvetit-na-provokatcionnye-ucheniia-ssha-i-iuzhnoi-korei-izi"
       ]
     },
     "2026-08-15": {
-      "totalChecked": 579,
+      "totalChecked": 576,
       "totalIzi": 188,
       "totalIiz": 0,
       "totalAi": 188,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 263,
-      "totalIzi": 91,
+      "totalChecked": 331,
+      "totalIzi": 128,
       "totalIiz": 2,
-      "totalAi": 93,
+      "totalAi": 130,
       "topLinks": [
         "https://iz.ru/2152634/uchenye-raskryli-rol-immunnykh-kletok-v-razrushenii-neironov-pri-bas-izi",
         "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz",
