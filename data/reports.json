@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:51:50.472Z",
+  "generatedAt": "2026-08-23T11:46:52.470Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,14 +123,11 @@
       ]
     },
     "2026-08-14": {
-      "totalChecked": 543,
-      "totalIzi": 138,
+      "totalChecked": 527,
+      "totalIzi": 135,
       "totalIiz": 3,
-      "totalAi": 141,
+      "totalAi": 138,
       "topLinks": [
-        "https://iz.ru/2149290/rf-po-itogam-iiunia-zaniala-vtoroe-mesto-sredi-eksporterov-gaza-v-es-izi",
-        "https://iz.ru/2149293/otkliuchenie-elektrichestva-v-kazakhstane-sviazyvaiut-s-toktogulskoi-ges-izi",
-        "https://iz.ru/2149315/v-rst-otmetili-rost-na-15-sprosa-turistov-iz-rf-na-tury-v-kndr-izi",
         "https://iz.ru/2149321/v-kazakhstane-soobshchili-o-vosstanovlenii-elektrosnabzheniia-v-alma-ate-i-oblasti-izi",
         "https://iz.ru/2149330/zakharova-osudila-molchanie-zapada-na-fone-natcistkoi-messy-v-chest-konovaltca-izi",
         "https://iz.ru/2149335/rossiianka-chikunova-vyigrala-zoloto-chempionata-evropy-po-vodnym-vidam-sporta-izi",
@@ -147,11 +144,14 @@
         "https://iz.ru/2149376/na-morskoi-baze-ssha-v-neapole-nashli-neopoznannyi-dron-izi",
         "https://iz.ru/2149377/italianskie-karabinery-vernuli-ukradennye-kartiny-renuara-sezanna-i-matissa-izi",
         "https://iz.ru/2149382/v-okb-sukhogo-raskryli-vozmozhnosti-ispolzovaniia-istrebitelia-su-57-izi",
-        "https://iz.ru/2149388/es-v-iiune-snizil-obem-importa-gaza-iz-rossii-na-10-izi"
+        "https://iz.ru/2149388/es-v-iiune-snizil-obem-importa-gaza-iz-rossii-na-10-izi",
+        "https://iz.ru/2149395/apple-predupredila-polzovatelei-iphone-o-vozmozhnykh-atakakh-shpionskogo-po-izi",
+        "https://iz.ru/2136463/ne-rukodelnichat-i-ne-ubiratsia-kakie-zaprety-vazhno-sobliudat-na-iablochnyi-spas-iiz",
+        "https://iz.ru/2148372/osobyi-narodnyi-prazdnik-15-avgusta-stepan-senoval-istoriia-traditcii-primety-iiz"
       ]
     },
     "2026-08-15": {
-      "totalChecked": 581,
+      "totalChecked": 579,
       "totalIzi": 188,
       "totalIiz": 0,
       "totalAi": 188,
@@ -179,7 +179,7 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 535,
+      "totalChecked": 534,
       "totalIzi": 136,
       "totalIiz": 0,
       "totalAi": 136,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 826,
+      "totalChecked": 825,
       "totalIzi": 261,
       "totalIiz": 1,
       "totalAi": 262,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 243,
-      "totalIzi": 79,
+      "totalChecked": 263,
+      "totalIzi": 91,
       "totalIiz": 2,
-      "totalAi": 81,
+      "totalAi": 93,
       "topLinks": [
         "https://iz.ru/2152634/uchenye-raskryli-rol-immunnykh-kletok-v-razrushenii-neironov-pri-bas-izi",
         "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz",
