@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:38:48.146Z",
+  "generatedAt": "2026-08-24T09:15:17.975Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,20 +123,11 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 461,
-      "totalIzi": 166,
+      "totalChecked": 439,
+      "totalIzi": 157,
       "totalIiz": 0,
-      "totalAi": 166,
+      "totalAi": 157,
       "topLinks": [
-        "https://iz.ru/2149547/rossiiskie-boitcy-unichtozhili-odnim-udarom-chetyre-radiolokatcionnye-stantcii-vsu-izi",
-        "https://iz.ru/2149553/vsu-nachali-perebrasyvat-tekhniku-v-sumy-v-zamaskirovannykh-vagonakh-izi",
-        "https://iz.ru/2149562/v-permi-muzhchina-na-detskom-seanse-v-kino-trogal-neznakomuiu-devochku-izi",
-        "https://iz.ru/2149565/v-orgkomitete-vef-anonsirovali-vazhnye-zaiavleniia-putina-na-forume-izi",
-        "https://iz.ru/2149567/errol-mask-ne-priznal-zelenskogo-izbrannym-prezidentom-ukrainy-izi",
-        "https://iz.ru/2149568/putin-naznachil-artura-liukmanova-poslom-rossii-v-egipte-izi",
-        "https://iz.ru/2149570/dva-cheloveka-obratilis-za-medpomoshchiu-posle-ataki-na-samarskuiu-oblast-izi",
-        "https://iz.ru/2149573/prokuratura-podmoskovia-otkryla-goriachuiu-liniiu-dlia-postradavshikh-pri-atake-bpla-izi",
-        "https://iz.ru/2149574/rossiianam-porekomendovali-otkliuchit-personalizirovannye-otvety-v-umnykh-kolonkakh-izi",
         "https://iz.ru/2149580/v-primore-podrostki-napali-na-zhenshchinu-invalida-izi",
         "https://iz.ru/2149581/shkolnik-rasskazal-o-moshchnom-futbolnom-pase-putina-v-krasnoiarske-izi",
         "https://iz.ru/2149585/v-mvd-prizvali-ispolzovat-biometriiu-vmesto-sms-kodov-dlia-zashchity-sredstv-izi",
@@ -147,7 +138,16 @@
         "https://iz.ru/2149595/minprosveshcheniia-rasskazalo-o-vliianii-otcenki-za-povedenie-na-dopusk-k-gia-izi",
         "https://iz.ru/2149601/pri-zemletriasenii-v-indonezii-pogibli-38-chelovek-izi",
         "https://iz.ru/2149605/mid-irana-otcenil-ushcherb-ot-razlivov-nefti-v-trilliony-dollarov-izi",
-        "https://iz.ru/2149609/v-shveitcarii-zablokirovali-104-mlrd-rossiiskikh-aktivov-izi"
+        "https://iz.ru/2149609/v-shveitcarii-zablokirovali-104-mlrd-rossiiskikh-aktivov-izi",
+        "https://iz.ru/2149611/v-germanii-prizvali-serezno-otnestis-k-slovam-putina-o-sudakh-izi",
+        "https://iz.ru/2149612/roskomnadzor-podal-isk-k-eks-solistke-fabriki-savelevoi-na-32-tys-rublei-izi",
+        "https://iz.ru/2149613/sbornaia-rossii-vyigrala-zoloto-i-serebro-na-olimpiade-po-informatike-izi",
+        "https://iz.ru/2149614/sviashchennik-obiasnil-smysl-snovidenii-s-pokoinymi-rodstvennikami-izi",
+        "https://iz.ru/2149616/2026-08-15/karta-spetcoperatcii-na-ukraine-15-avgusta-izi",
+        "https://iz.ru/2149617/organizovannykh-turistov-iz-rf-v-indonezii-pri-zemletriasenii-ne-bylo-izi",
+        "https://iz.ru/2149618/na-filippinakh-piat-rossiianok-spasli-iz-seti-torgovli-liudmi-izi",
+        "https://iz.ru/2149621/v-set-popali-fragmenty-novogo-multfilma-o-cheloveke-pauke-izi",
+        "https://iz.ru/2149625/sputniki-zafiksirovali-dva-razliva-nefti-v-vodakh-irana-izi"
       ]
     },
     "2026-08-16": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 157,
-      "totalIzi": 36,
+      "totalChecked": 179,
+      "totalIzi": 38,
       "totalIiz": 2,
-      "totalAi": 38,
+      "totalAi": 40,
       "topLinks": [
         "https://iz.ru/2150217/narodnye-primety-na-18-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
@@ -399,7 +399,7 @@
         "https://iz.ru/2153843/2026-08-24/ekspert-rasskazala-o-problemakh-s-polucheniem-kreditov-izi",
         "https://iz.ru/2153846/v-mvd-predupredili-o-moshennichestve-s-neozhidannymi-bankovskimi-perevodami-izi",
         "https://iz.ru/2153850/eksperty-proekta-perezvoni-sam-predupredili-o-novykh-skhemakh-moshennikov-izi",
-        "https://iz.ru/2150217/narodnye-primety-na-18-avgusta-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2153881/v-rostovskoi-oblasti-v-techenie-nochnoi-massirovannoi-ataki-sbity-bolee-120-bpla-izi"
       ]
     }
   }
