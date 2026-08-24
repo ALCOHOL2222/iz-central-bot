@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:03:51.241Z",
+  "generatedAt": "2026-08-24T17:56:24.490Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,21 +151,11 @@
       ]
     },
     "2026-08-16": {
-      "totalChecked": 406,
-      "totalIzi": 116,
+      "totalChecked": 379,
+      "totalIzi": 106,
       "totalIiz": 0,
-      "totalAi": 116,
+      "totalAi": 106,
       "topLinks": [
-        "https://iz.ru/2149901/armiia-rossii-porazili-punkt-upravleniia-bpla-natcgvardii-ukrainy-v-dobropole-izi",
-        "https://iz.ru/2149903/v-podolske-posle-ataki-nochnoi-bespilotnikov-bez-sveta-ostalis-110-domov-izi",
-        "https://iz.ru/2149904/v-domodedovo-posle-udara-drona-obrushilsia-sklad-na-ploshchadi-izi",
-        "https://iz.ru/2149905/mvd-predupredilo-o-skheme-moshennikov-s-perevodom-ot-neznakomtcev-izi",
-        "https://iz.ru/2149911/dmitriev-obiasnil-naplyv-migrantov-v-suete-zhelaniem-poblagodarit-fon-der-liaien-izi",
-        "https://iz.ru/2149920/sputnik-arktika-m-zapechatlel-polnoe-zatmenie-solntca-izi",
-        "https://iz.ru/2149925/armiia-rossii-za-sutki-unichtozhila-deviat-raket-flamingo-i-1478-dronov-vsu-izi",
-        "https://iz.ru/2149926/vs-rf-porazili-obekty-tek-i-transportnoi-infrastruktury-ukrainy-izi",
-        "https://iz.ru/2149927/ataka-bpla-vsu-na-rf-nochiu-16-avgusta-stala-samoi-massirovannoi-s-nachala-goda-izi",
-        "https://iz.ru/2149929/ekspert-predupredil-o-novoi-skheme-moshennikov-s-feikovymi-ssylkami-na-gosuslugi-izi",
         "https://iz.ru/2149931/2026-08-16/karta-spetcoperatcii-na-ukraine-16-avgusta-izi",
         "https://iz.ru/2149933/kontcert-v-nizhnem-novgorode-zakonchilsia-drakoi-iz-za-aktivnoi-devushki-izi",
         "https://iz.ru/2149936/v-polshe-sgorela-dereviannaia-tcerkov-xvii-veka-izi",
@@ -175,7 +165,17 @@
         "https://iz.ru/2149948/snaipery-vsu-v-kharkovskoi-oblasti-ubili-sosluzhivtcev-za-popytku-sdatsia-v-plen-izi",
         "https://iz.ru/2149949/v-permskom-krae-sem-chelovek-postradali-pri-oprokidyvanii-avtobusa-izi",
         "https://iz.ru/2149955/disney-naznachil-datu-premery-filma-rapuntcel-izi",
-        "https://iz.ru/2149957/rossiianin-zakhar-trofimov-vyigral-zoloto-na-chm-po-sinkhronnomu-plavaniiu-izi"
+        "https://iz.ru/2149957/rossiianin-zakhar-trofimov-vyigral-zoloto-na-chm-po-sinkhronnomu-plavaniiu-izi",
+        "https://iz.ru/2149961/kartiny-epokhi-vozrozhdeniia-pokhitili-iz-sitciliiskogo-muzeia-izi",
+        "https://iz.ru/2149962/bespilotnyi-transport-v-testovom-rezhime-zapustiat-eshche-v-piati-regionakh-izi",
+        "https://iz.ru/2149965/kobiakov-nazval-strany-evropy-prodolzhaiushchie-sotrudnichestvo-s-rossiei-izi",
+        "https://iz.ru/2149971/vrach-dermatolog-egorova-iskliuchila-risk-khimicheskogo-ozhoga-ot-kontrafaktnykh-dukhov-izi",
+        "https://iz.ru/2149972/astronomy-vpervye-obnaruzhili-vodu-riadom-s-chernoi-dyroi-mlechnogo-puti-izi",
+        "https://iz.ru/2149974/novye-liudi-vystupili-za-razvitie-programmy-po-podderzhke-odinokikh-materiei-izi",
+        "https://iz.ru/2149978/disney-anonsirovala-tretiu-chast-franshizy-zveropolis-izi",
+        "https://iz.ru/2149981/v-nato-nazvali-iakoby-rossiiskim-sbityi-nad-rumyniei-dron-izi",
+        "https://iz.ru/2149991/oleinik-pozdravil-makhacheva-s-pobedoi-i-mirovym-rekordom-izi",
+        "https://iz.ru/2149995/zenit-razgromil-dinamo-v-chempionate-rossii-blagodaria-dubliu-soboleva-izi"
       ]
     },
     "2026-08-17": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 692,
-      "totalIzi": 185,
+      "totalChecked": 719,
+      "totalIzi": 195,
       "totalIiz": 2,
-      "totalAi": 187,
+      "totalAi": 197,
       "topLinks": [
         "https://iz.ru/2150217/narodnye-primety-na-18-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
