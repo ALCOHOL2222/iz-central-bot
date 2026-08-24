@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:02:42.382Z",
+  "generatedAt": "2026-08-24T07:38:48.146Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 123,
-      "totalIzi": 28,
+      "totalChecked": 157,
+      "totalIzi": 36,
       "totalIiz": 2,
-      "totalAi": 30,
+      "totalAi": 38,
       "topLinks": [
         "https://iz.ru/2150217/narodnye-primety-na-18-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
