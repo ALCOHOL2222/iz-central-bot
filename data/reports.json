@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:23:54.626Z",
+  "generatedAt": "2026-08-24T14:14:32.557Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,12 +123,11 @@
       ]
     },
     "2026-08-15": {
-      "totalChecked": 305,
-      "totalIzi": 96,
+      "totalChecked": 302,
+      "totalIzi": 95,
       "totalIiz": 0,
-      "totalAi": 96,
+      "totalAi": 95,
       "topLinks": [
-        "https://iz.ru/2149776/voloshin-nazval-priznaniem-realnosti-otobrazhenie-kryma-v-sostave-rf-na-karte-nasa-izi",
         "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
         "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
         "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
@@ -147,22 +146,16 @@
         "https://iz.ru/2149508/rossiiskaia-tennisistka-samsonova-vyshla-vo-vtoroi-krug-turnira-v-tcintcinnati-izi",
         "https://iz.ru/2149513/rossiiane-chashche-vybiraiut-khranenie-deneg-vmesto-investitcii-izi",
         "https://iz.ru/2149515/tennisist-khachanov-proigral-kovachevichu-na-starte-turnira-v-tcintcinnati-izi",
-        "https://iz.ru/2149522/banany-v-rossii-podesheveli-do-150-rublei-za-kg-izi"
+        "https://iz.ru/2149522/banany-v-rossii-podesheveli-do-150-rublei-za-kg-izi",
+        "https://iz.ru/2149524/novyi-gost-na-karandashi-nachnet-deistvovat-s-1-sentiabria-izi"
       ]
     },
     "2026-08-16": {
-      "totalChecked": 524,
-      "totalIzi": 136,
+      "totalChecked": 458,
+      "totalIzi": 129,
       "totalIiz": 0,
-      "totalAi": 136,
+      "totalAi": 129,
       "topLinks": [
-        "https://iz.ru/2149782/v-stambule-muzhchinam-bez-zhenshchin-zakryli-dostup-na-pliazhi-i-v-kluby-izi",
-        "https://iz.ru/2149787/moshenniki-nachali-predlagat-vyplaty-za-sboi-v-rabote-bankov-i-operatorov-sviazi-izi",
-        "https://iz.ru/2149791/v-rossii-rasshirili-trebovaniia-k-razmeru-i-kolichestvu-listov-v-tetradiakh-izi",
-        "https://iz.ru/2149792/rossiianam-rasskazali-o-samykh-vrednykh-produktakh-dlia-zubov-detei-izi",
-        "https://iz.ru/2149809/ekspert-obiasnil-nakhozhdenie-strakhovki-zhilia-v-kvitantcii-zhkkh-izi",
-        "https://iz.ru/2149819/v-op-predlozhili-otkryt-vechernie-gruppy-vo-vsekh-detskikh-sadakh-izi",
-        "https://iz.ru/2149833/metallurgiia-stala-liderom-po-chislu-vakansii-dlia-stazherov-v-rossii-izi",
         "https://iz.ru/2149847/iurist-napomnil-o-dobrovolnoi-osnove-shkolnykh-sborov-na-nuzhdy-klassa-izi",
         "https://iz.ru/2149855/moshenniki-nachali-pokhishchat-dengi-rossiian-cherez-poddelnye-vpn-prilozheniia-izi",
         "https://iz.ru/2149859/v-ran-sprognozirovali-noshenie-masok-v-osennii-period-izi",
@@ -175,7 +168,14 @@
         "https://iz.ru/2149884/wildberries-perestroil-logistiku-posle-ataki-vsu-na-obekt-v-podolske-izi",
         "https://iz.ru/2149887/sily-pvo-za-noch-unichtozhili-822-ukrainskikh-bespilotnikov-nad-regionami-rf-izi",
         "https://iz.ru/2149891/chislo-pogibshikh-pri-atake-bpla-v-rostovskoi-oblasti-vozroslo-do-piati-izi",
-        "https://iz.ru/2149895/komandir-akhmata-zaiavil-o-milliardnykh-poteriakh-ukrainy-iz-za-udarov-vs-rf-izi"
+        "https://iz.ru/2149895/komandir-akhmata-zaiavil-o-milliardnykh-poteriakh-ukrainy-iz-za-udarov-vs-rf-izi",
+        "https://iz.ru/2149901/armiia-rossii-porazili-punkt-upravleniia-bpla-natcgvardii-ukrainy-v-dobropole-izi",
+        "https://iz.ru/2149903/v-podolske-posle-ataki-nochnoi-bespilotnikov-bez-sveta-ostalis-110-domov-izi",
+        "https://iz.ru/2149904/v-domodedovo-posle-udara-drona-obrushilsia-sklad-na-ploshchadi-izi",
+        "https://iz.ru/2149905/mvd-predupredilo-o-skheme-moshennikov-s-perevodom-ot-neznakomtcev-izi",
+        "https://iz.ru/2149911/dmitriev-obiasnil-naplyv-migrantov-v-suete-zhelaniem-poblagodarit-fon-der-liaien-izi",
+        "https://iz.ru/2149920/sputnik-arktika-m-zapechatlel-polnoe-zatmenie-solntca-izi",
+        "https://iz.ru/2149925/armiia-rossii-za-sutki-unichtozhila-deviat-raket-flamingo-i-1478-dronov-vsu-izi"
       ]
     },
     "2026-08-17": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 422,
-      "totalIzi": 99,
+      "totalChecked": 626,
+      "totalIzi": 160,
       "totalIiz": 2,
-      "totalAi": 101,
+      "totalAi": 162,
       "topLinks": [
         "https://iz.ru/2150217/narodnye-primety-na-18-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
