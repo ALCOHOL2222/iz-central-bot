@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:52:15.665Z",
+  "generatedAt": "2026-08-24T22:53:58.934Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 836,
-      "totalIzi": 239,
+      "totalChecked": 874,
+      "totalIzi": 252,
       "totalIiz": 2,
-      "totalAi": 241,
+      "totalAi": 254,
       "topLinks": [
         "https://iz.ru/2150217/narodnye-primety-na-18-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
@@ -375,14 +375,18 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 29,
-      "totalIzi": 2,
-      "totalIiz": 1,
-      "totalAi": 3,
+      "totalChecked": 68,
+      "totalIzi": 5,
+      "totalIiz": 2,
+      "totalAi": 7,
       "topLinks": [
         "https://iz.ru/2154295/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi",
-        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi"
+        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi",
+        "https://iz.ru/2154295/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi",
+        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi",
+        "https://iz.ru/2154440/ozon-izmenil-usloviia-oplaty-zakazov-iz-za-situatcii-so-skladami-izi"
       ]
     }
   }
