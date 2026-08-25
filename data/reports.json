@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-25T03:22:31.030Z",
+  "generatedAt": "2026-08-25T04:12:25.906Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 65,
-    "failedFetches": 1,
+    "fetchedUrlSets": 66,
+    "failedFetches": 0,
     "childLocs": 66,
     "visitedCount": 67
   },
@@ -151,14 +151,11 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 811,
-      "totalIzi": 261,
+      "totalChecked": 791,
+      "totalIzi": 258,
       "totalIiz": 1,
-      "totalAi": 262,
+      "totalAi": 259,
       "topLinks": [
-        "https://iz.ru/2150099/smi-rasskazali-o-riskakh-dlia-kitaiskikh-chinovnikov-iz-za-braka-s-inostrantcami-izi",
-        "https://iz.ru/2150102/v-italii-roditeli-ekhali-100-km-riadom-s-umershim-synom-izi",
-        "https://iz.ru/2150107/sily-pvo-rossii-s-nachala-goda-unichtozhila-bolee-100-tys-ukrainskikh-bpla-izi",
         "https://iz.ru/2150116/rossiian-zhdet-22-rabochikh-dnia-v-sentiabre-izi",
         "https://iz.ru/2150118/v-finliandii-zaiavili-o-vliianii-ssha-na-politiku-stubba-v-otnoshenii-rossii-izi",
         "https://iz.ru/2150120/stala-izvestna-skhema-moshennikov-s-ispolzovaniem-feikovykh-vakansii-za-rubezhom-izi",
@@ -175,7 +172,10 @@
         "https://iz.ru/2150180/stolichnye-politceiskie-perekryli-uzel-sviazi-telefonnykh-moshennikov-izi",
         "https://iz.ru/2150182/eksperty-perezvoni-sam-nazvali-osnovnye-skhemy-moshennikov-v-onlain-igrakh-izi",
         "https://iz.ru/2150184/v-bashkirii-obzhalovali-vosstanovlenie-mavlieva-v-dolzhnosti-mera-ufy-izi",
-        "https://iz.ru/2150189/odin-chelovek-pogib-pri-stolknovenii-gruzovika-s-avtobusom-v-moskve-izi"
+        "https://iz.ru/2150189/odin-chelovek-pogib-pri-stolknovenii-gruzovika-s-avtobusom-v-moskve-izi",
+        "https://iz.ru/2150190/festival-spasskaia-bashnia-na-krasnoi-ploshchadi-perenesli-na-2027-god-izi",
+        "https://iz.ru/2150192/v-moskve-zaderzhali-troikh-podozrevaemykh-v-prodazhe-poddelnogo-kofe-izi",
+        "https://iz.ru/2150193/v-gosdume-napomnili-o-vozmozhnosti-otkazatsia-ot-massovykh-sms-rassylok-izi"
       ]
     },
     "2026-08-18": {
@@ -375,12 +375,13 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 157,
-      "totalIzi": 25,
+      "totalChecked": 177,
+      "totalIzi": 26,
       "totalIiz": 3,
-      "totalAi": 28,
+      "totalAi": 29,
       "topLinks": [
         "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
+        "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
         "https://iz.ru/2154128/uchenye-sviazali-vitamin-d-s-uluchsheniem-pamiati-i-myshleniia-u-pozhilykh-liudei-izi",
         "https://iz.ru/2154295/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi",
@@ -398,8 +399,7 @@
         "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
         "https://iz.ru/2154128/uchenye-sviazali-vitamin-d-s-uluchsheniem-pamiati-i-myshleniia-u-pozhilykh-liudei-izi",
         "https://iz.ru/2154295/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi",
-        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi"
+        "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi"
       ]
     }
   }
