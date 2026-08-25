@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:59:21.735Z",
+  "generatedAt": "2026-08-25T10:59:57.967Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 861,
+      "totalChecked": 862,
       "totalIzi": 248,
       "totalIiz": 1,
       "totalAi": 249,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 362,
-      "totalIzi": 70,
+      "totalChecked": 492,
+      "totalIzi": 94,
       "totalIiz": 3,
-      "totalAi": 73,
+      "totalAi": 97,
       "topLinks": [
         "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
         "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
