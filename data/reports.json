@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-25T02:03:07.590Z",
+  "generatedAt": "2026-08-25T03:22:31.030Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 66,
-    "failedFetches": 0,
+    "fetchedUrlSets": 65,
+    "failedFetches": 1,
     "childLocs": 66,
     "visitedCount": 67
   },
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 123,
-      "totalIzi": 15,
+      "totalChecked": 157,
+      "totalIzi": 25,
       "totalIiz": 3,
-      "totalAi": 18,
+      "totalAi": 28,
       "topLinks": [
         "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
         "https://iz.ru/2154128/uchenye-sviazali-vitamin-d-s-uluchsheniem-pamiati-i-myshleniia-u-pozhilykh-liudei-izi",
@@ -394,10 +394,12 @@
         "https://iz.ru/2154477/v-op-predlozhili-vvesti-nalogovyi-vychet-na-lechenie-domashnikh-zhivotnykh-izi",
         "https://iz.ru/2154481/v-60-regionakh-rossii-ogranichat-prodazhu-alkogolia-v-den-znanii-izi",
         "https://iz.ru/2144424/luna-uidet-v-ten-zemli-kogda-nabliudat-odno-iz-samykh-krasivykh-nebesnykh-iavlenii-goda-iiz",
+        "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
+        "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
+        "https://iz.ru/2154128/uchenye-sviazali-vitamin-d-s-uluchsheniem-pamiati-i-myshleniia-u-pozhilykh-liudei-izi",
         "https://iz.ru/2154295/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi",
-        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi",
-        "https://iz.ru/2154440/ozon-izmenil-usloviia-oplaty-zakazov-iz-za-situatcii-so-skladami-izi"
+        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi"
       ]
     }
   }
