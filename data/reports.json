@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:59:57.967Z",
+  "generatedAt": "2026-08-25T11:53:43.476Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 862,
+      "totalChecked": 861,
       "totalIzi": 248,
       "totalIiz": 1,
       "totalAi": 249,
@@ -375,7 +375,7 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 492,
+      "totalChecked": 493,
       "totalIzi": 94,
       "totalIiz": 3,
       "totalAi": 97,
