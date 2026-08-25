@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:53:43.476Z",
+  "generatedAt": "2026-08-25T13:20:55.101Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,42 +151,39 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 666,
-      "totalIzi": 219,
+      "totalChecked": 596,
+      "totalIzi": 194,
       "totalIiz": 1,
-      "totalAi": 220,
+      "totalAi": 195,
       "topLinks": [
-        "https://iz.ru/2150258/uchenye-obnaruzhili-priznaki-formirovaniia-planet-na-zare-vselennoi-izi",
-        "https://iz.ru/2150262/sud-prigovoril-rossiianina-k-21-godu-kolonii-za-peredachu-dannykh-o-vs-rf-izi",
-        "https://iz.ru/2150264/sk-vozbudil-delo-posle-napadeniia-devochki-na-sester-v-ufe-izi",
-        "https://iz.ru/2150265/pri-atake-vsu-na-avtomobil-v-zaporozhskoi-oblasti-pogibli-dva-cheloveka-izi",
-        "https://iz.ru/2150266/rostekh-zapustil-seriinyi-vypusk-mobilnykh-elektropodstantcii-izi",
-        "https://iz.ru/2150268/promyshlennye-predpriiatiia-astrakhanskoi-oblasti-podverglis-atake-bpla-vsu-izi",
-        "https://iz.ru/2150271/vs-rf-nanesli-porazhenie-logisticheskim-tcentram-i-obektam-tek-ukrainy-izi",
-        "https://iz.ru/2150280/napadenie-s-nozhom-na-dvukh-sester-v-ufe-chto-izvestno-izi",
-        "https://iz.ru/2150283/v-pt-predupredili-o-novom-vredonosnom-po-dlia-android-izi",
-        "https://iz.ru/2150290/raskryt-akterskii-sostav-novykh-liudei-iks-izi",
-        "https://iz.ru/2150291/nechaev-sravnil-evropeiskikh-politikov-so-starukhoi-shapokliak-iz-cheburashki-izi",
-        "https://iz.ru/2150292/vzroslykh-ne-bylo-doma-v-moment-napadeniia-s-nozhom-na-sester-v-ufe-izi",
-        "https://iz.ru/2150296/lvova-belova-zaiavila-o-vazhnosti-trudoustroistva-podrostkov-izi",
-        "https://iz.ru/2150303/amerikanskii-turist-pogib-ot-udara-molnii-na-vulkane-etna-izi",
-        "https://iz.ru/2150304/vrach-sravnil-risk-epidemii-v-seute-s-bomboi-zamedlennogo-deistviia-izi",
-        "https://iz.ru/2150306/akter-gleb-kaliuzhnyi-poluchil-medal-tvardovskogo-izi",
-        "https://iz.ru/2150309/posolstvo-rf-otcenilo-otkaz-shvetcii-priznavat-nebiometricheskie-pasporta-izi",
-        "https://iz.ru/2150314/ft-soobshchila-o-rekordnom-roste-stoimosti-morskikh-perevozok-na-fone-konfliktov-izi",
-        "https://iz.ru/2150317/tagesschau-soobshchila-o-sozyve-ekstrennogo-sammita-v-chekhii-iz-za-zasukhi-izi",
-        "https://iz.ru/2150323/bolee-30-chelovek-otravilis-v-detskom-sadu-na-sakhaline-izi"
+        "https://iz.ru/2150359/al-arabiya-uznal-o-prodlenii-peremiriia-mezhdu-ssha-i-iranom-izi",
+        "https://iz.ru/2150365/filologa-konstantina-polivanova-pokhoroniat-na-vvedenskom-kladbishche-19-avgusta-izi",
+        "https://iz.ru/2150366/minoborony-rf-raskrylo-znachenie-osvobozhdeniia-novosoloshino-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2150370/bild-soobshchila-o-planakh-nato-na-sluchai-vooruzhennogo-konflikta-s-rossiei-izi",
+        "https://iz.ru/2150388/amerikanskii-reper-i-dizainer-kane-uest-biografiia-izi",
+        "https://iz.ru/2150393/gubernator-osipov-prizval-zabaikaltcev-nachat-borbu-so-skvernosloviem-izi",
+        "https://iz.ru/2150396/vs-rf-porazili-patrulnyi-kater-i-angary-s-zapadnoi-voennoi-tekhnikoi-na-ukraine-izi",
+        "https://iz.ru/2150397/tramp-poobeshchal-razbombit-oman-pri-vmeshatelstve-v-peregovory-s-iranom-izi",
+        "https://iz.ru/2150398/tramp-zaiavil-o-nalichii-u-ssha-neofitcialnogo-kanala-sviazi-s-ksir-izi",
+        "https://iz.ru/2150401/uchastnika-bandy-29-kompleks-prigovorili-k-19-godam-za-ubiistvo-eks-rektora-kfu-izi",
+        "https://iz.ru/2150402/stradaiushchii-dementciei-akter-brius-uillis-poiavilsia-na-svadbe-docheri-izi",
+        "https://iz.ru/2150403/deputat-gosdumy-kolesnik-sprognoziroval-sistemnyi-krakh-ukrainy-zimoi-izi",
+        "https://iz.ru/2150405/na-66-m-godu-zhizni-skonchalsia-narodnyi-khudozhnik-rossii-konstantin-kuzminykh-izi",
+        "https://iz.ru/2150406/lavrov-vyzyvaet-udivlenie-chto-posol-iaponii-v-moskve-ne-smog-pribyt-v-mid-rf-izi",
+        "https://iz.ru/2150407/krasota-po-algoritmu-kak-sotcseti-meniaiut-biuti-privychki-podrostkov-izi",
+        "https://iz.ru/2150408/syn-odri-khepbern-podderzhal-lili-kollinz-v-ispolnenii-roli-ego-materi-izi",
+        "https://iz.ru/2150409/lider-uma2rman-vladimir-kristovskii-predrek-docheri-ume-kareru-v-shou-biznese-izi",
+        "https://iz.ru/2150410/narodnyi-khudozhnik-rossii-konstantin-kuzminykh-biografiia-izi",
+        "https://iz.ru/2150413/vsu-nachali-peredelyvat-konteinery-v-portu-odessy-v-puskovye-ustanovki-dlia-bpla-izi",
+        "https://iz.ru/2150418/v-rossii-ezhegodnuiu-semeinuiu-vyplatu-poluchili-12-mln-roditelei-izi"
       ]
     },
     "2026-08-18": {
-      "totalChecked": 775,
-      "totalIzi": 252,
+      "totalChecked": 770,
+      "totalIzi": 249,
       "totalIiz": 1,
-      "totalAi": 253,
+      "totalAi": 250,
       "topLinks": [
-        "https://iz.ru/2150275/uchenye-raskryli-rol-gormona-stressa-v-vosstanovlenii-kletok-mozga-izi",
-        "https://iz.ru/2150288/uchenye-postavili-pod-somnenie-odnu-iz-glavnykh-teorii-pamiati-izi",
-        "https://iz.ru/2150333/uchenye-nashli-sposob-omolodit-kletki-mozga-s-pomoshchiu-belka-timp2-izi",
         "https://iz.ru/2150580/ldpr-predlozhila-razvivat-otechestvennuiu-robotizatciiu-za-schet-otchislenii-ot-migrantov-izi",
         "https://iz.ru/2150687/peterburgskaia-birzha-zapustila-mekhanizm-obespecheniia-potrebitelei-benzinom-izi",
         "https://iz.ru/2150703/2026-08-18/minprosveshcheniia-rf-opredelilo-maksimalnoe-chislo-urokov-dlia-shkolnikov-izi",
@@ -203,7 +200,10 @@
         "https://iz.ru/2150782/euractiv-uznal-o-planakh-ssha-razreshit-puski-raket-s-evropeiskikh-ustanovok-izi",
         "https://iz.ru/2150783/v-rzhd-obdumyvaiut-zapusk-bolshego-chisla-bespilotnykh-lastochek-na-mtck-izi",
         "https://iz.ru/2150784/roditeliam-osnovatelia-azova-prinesli-bukety-s-traurnymi-lentami-izi",
-        "https://iz.ru/2150785/odin-chelovek-pogib-i-15-postradali-pri-udare-bpla-po-energodaru-izi"
+        "https://iz.ru/2150785/odin-chelovek-pogib-i-15-postradali-pri-udare-bpla-po-energodaru-izi",
+        "https://iz.ru/2150786/tri-cheloveka-postradali-pri-atake-bpla-na-riazanskuiu-oblast-izi",
+        "https://iz.ru/2150787/rostekh-razrabotal-dokumentatciiu-na-novyi-dvigatel-dlia-2-izi",
+        "https://iz.ru/2150788/genkonsul-rossii-soobshchil-ob-uzhestochenii-vizovogo-rezhima-v-shveitcarii-izi"
       ]
     },
     "2026-08-19": {
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 486,
+      "totalChecked": 484,
       "totalIzi": 224,
       "totalIiz": 2,
       "totalAi": 226,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 493,
-      "totalIzi": 94,
+      "totalChecked": 570,
+      "totalIzi": 114,
       "totalIiz": 3,
-      "totalAi": 97,
+      "totalAi": 117,
       "topLinks": [
         "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
         "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
