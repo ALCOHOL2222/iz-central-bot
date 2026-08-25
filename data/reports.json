@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:53:42.456Z",
+  "generatedAt": "2026-08-25T22:54:24.945Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,13 +123,11 @@
       ]
     },
     "2026-08-17": {
-      "totalChecked": 437,
-      "totalIzi": 133,
+      "totalChecked": 421,
+      "totalIzi": 131,
       "totalIiz": 1,
-      "totalAi": 134,
+      "totalAi": 132,
       "topLinks": [
-        "https://iz.ru/2150644/rossiianin-ali-iliasov-zavoeval-zoloto-po-greko-rimskoi-borbe-na-chm-do-20-let-izi",
-        "https://iz.ru/2150661/muzykant-i-kompozitor-vladislav-petrovskii-biografiia-izi",
         "https://iz.ru/2137052/sest-iabloko-i-zagadat-zhelanie-vazhnye-narodnye-primety-na-iablochnyi-spas-iiz",
         "https://iz.ru/2149123/2026-08-17/analitiki-rasskazali-o-samykh-vygodnykh-tcvetakh-etogo-leta-izi",
         "https://iz.ru/2150099/smi-rasskazali-o-riskakh-dlia-kitaiskikh-chinovnikov-iz-za-braka-s-inostrantcami-izi",
@@ -147,19 +145,17 @@
         "https://iz.ru/2150145/v-ldpr-predlozhili-vvesti-ezhegodnuiu-vyplatu-10-tys-rublei-na-shkolnuiu-formu-izi",
         "https://iz.ru/2150157/gensek-odkb-predupredil-ob-opasnosti-militarizatcii-evropy-izi",
         "https://iz.ru/2150166/rossiianam-rasskazali-o-sposobe-vozvrata-sredstv-pri-neudachnoi-dostavke-izi",
-        "https://iz.ru/2150173/izrailskii-ministr-vystupil-za-provedenie-ezhednevnykh-ubiistv-v-gaze-izi"
+        "https://iz.ru/2150173/izrailskii-ministr-vystupil-za-provedenie-ezhednevnykh-ubiistv-v-gaze-izi",
+        "https://iz.ru/2150180/stolichnye-politceiskie-perekryli-uzel-sviazi-telefonnykh-moshennikov-izi",
+        "https://iz.ru/2150182/eksperty-perezvoni-sam-nazvali-osnovnye-skhemy-moshennikov-v-onlain-igrakh-izi"
       ]
     },
     "2026-08-18": {
-      "totalChecked": 747,
-      "totalIzi": 248,
+      "totalChecked": 718,
+      "totalIzi": 244,
       "totalIiz": 1,
-      "totalAi": 249,
+      "totalAi": 245,
       "topLinks": [
-        "https://iz.ru/2150687/peterburgskaia-birzha-zapustila-mekhanizm-obespecheniia-potrebitelei-benzinom-izi",
-        "https://iz.ru/2150703/2026-08-18/minprosveshcheniia-rf-opredelilo-maksimalnoe-chislo-urokov-dlia-shkolnikov-izi",
-        "https://iz.ru/2150711/2026-08-18/rossiianam-napomnili-o-pravilakh-naznacheniia-strakhovoi-pensii-po-starosti-izi",
-        "https://iz.ru/2150715/2026-08-18/frantcuzskii-istorik-zaiavil-o-gibeli-kazhdogo-chetvertogo-naemnika-v-riadakh-vsu-izi",
         "https://iz.ru/2150722/minprosveshcheniia-opredelilo-sroki-novogo-uchebnogo-goda-i-chislo-pervoklassnikov-izi",
         "https://iz.ru/2150723/2026-08-18/spasateli-nashli-propavshikh-na-elbruse-turistov-izi",
         "https://iz.ru/2150741/gosobvinenie-potrebovalo-uzhestochit-nakazanie-dlia-blogera-lerchek-izi",
@@ -175,7 +171,11 @@
         "https://iz.ru/2150786/tri-cheloveka-postradali-pri-atake-bpla-na-riazanskuiu-oblast-izi",
         "https://iz.ru/2150787/rostekh-razrabotal-dokumentatciiu-na-novyi-dvigatel-dlia-2-izi",
         "https://iz.ru/2150788/genkonsul-rossii-soobshchil-ob-uzhestochenii-vizovogo-rezhima-v-shveitcarii-izi",
-        "https://iz.ru/2150789/umer-syn-legendarnogo-sovetskogo-futbolista-igor-streltcov-izi"
+        "https://iz.ru/2150789/umer-syn-legendarnogo-sovetskogo-futbolista-igor-streltcov-izi",
+        "https://iz.ru/2150790/zemletriasenie-magnitudoi-58-proizoshlo-u-beregov-meksiki-izi",
+        "https://iz.ru/2150798/povrezhdeniia-pri-atake-bpla-est-v-dvukh-okrugakh-i-trekh-gorodakh-podmoskovia-izi",
+        "https://iz.ru/2150799/moskovskie-khirurgi-udalili-opukhol-mozga-u-rebenka-s-simptomami-gastrita-izi",
+        "https://iz.ru/2150800/v-iki-ran-soobshchili-o-nachale-neozhidannoi-magnitnoi-buri-na-zemle-izi"
       ]
     },
     "2026-08-19": {
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 861,
+      "totalChecked": 864,
       "totalIzi": 248,
       "totalIiz": 1,
       "totalAi": 249,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 961,
-      "totalIzi": 269,
+      "totalChecked": 995,
+      "totalIzi": 274,
       "totalIiz": 3,
-      "totalAi": 272,
+      "totalAi": 277,
       "topLinks": [
         "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
         "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
@@ -375,11 +375,17 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 81,
+      "totalIzi": 3,
+      "totalIiz": 2,
+      "totalAi": 5,
+      "topLinks": [
+        "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2155084/posolstvo-rf-obvinilo-struktury-kanady-v-geroizatcii-konovaltca-izi",
+        "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2155084/posolstvo-rf-obvinilo-struktury-kanady-v-geroizatcii-konovaltca-izi",
+        "https://iz.ru/2155099/vlasti-shvetcii-khotiat-ekspropriirovat-obekt-riadom-s-voennoi-bazoi-muske-izi"
+      ]
     }
   }
 }
