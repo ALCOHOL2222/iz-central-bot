@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:12:05.504Z",
+  "generatedAt": "2026-08-26T10:07:55.619Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,41 +151,39 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 595,
-      "totalIzi": 206,
+      "totalChecked": 540,
+      "totalIzi": 185,
       "totalIiz": 1,
-      "totalAi": 207,
+      "totalAi": 186,
       "topLinks": [
-        "https://iz.ru/2150883/v-finliandii-proizoshel-vzryv-na-zavode-stora-enso-u-granitcy-s-rossiei-izi",
-        "https://iz.ru/2150892/shkola-doma-i-teplitca-povrezhdeny-pri-atake-bpla-na-tambovskuiu-oblast-izi",
-        "https://iz.ru/2150899/osvobozhdenie-krasnopodolia-otkrylo-vs-rf-vykhod-k-uzlu-oborony-vsu-izi",
-        "https://iz.ru/2150901/estonskie-startapy-zarabotali-eu450-mln-na-voennykh-postavkakh-kievu-izi",
-        "https://iz.ru/2150904/aktery-bestolkovykh-mogut-vossoedinitsia-spustia-30-let-izi",
-        "https://iz.ru/2150906/mishustin-otmetil-vozmozhnosti-razvitiia-dvustoronnikh-otnoshenii-mianmy-i-rf-izi",
-        "https://iz.ru/2150910/v-peterburge-naznachili-pervyi-shtraf-za-publikatciiu-posledstvii-ataki-bpla-izi",
-        "https://iz.ru/2150912/zashchita-semi-timmy-zaiavila-o-poddelke-brachnogo-dogovora-sedokovoi-izi",
-        "https://iz.ru/2150919/v-podmoskovnoi-elektrostali-razvernuli-pvr-posle-ataki-bespilotnikov-izi",
-        "https://iz.ru/2150926/v-mid-nazvali-bezrassudnym-shagom-reshenie-ukrainy-sorvat-vizit-grossi-na-zaes-izi",
-        "https://iz.ru/2150927/drevnie-derevia-pomogli-uchenym-raskryt-istoriiu-solnechnykh-bur-izi",
-        "https://iz.ru/2150928/sud-moskvy-oshtrafoval-google-na-38-mln-rublei-za-zapreshchennyi-kontent-izi",
-        "https://iz.ru/2150937/spetcpredstavitel-gruzii-po-sviaziam-s-rossiei-georgii-kadzhaia-pokinul-dolzhnost-izi",
-        "https://iz.ru/2150940/gubernator-vorobev-nochiu-nad-moskovskoi-oblastiu-sbili-bolee-150-bespilotnikov-izi",
-        "https://iz.ru/2150942/uchenye-vyiasnili-pochemu-kosmicheskoe-prostranstvo-nelzia-schitat-pustym-izi",
-        "https://iz.ru/2150944/v-lnr-pri-udarakh-vsu-postradali-piat-chelovek-izi",
-        "https://iz.ru/2150948/napavshaia-na-sester-v-ufe-shkolnitca-chastichno-priznala-vinu-izi",
-        "https://iz.ru/2150949/posol-ukrainy-bodnar-zaiavil-o-neprigodnosti-polskikh-mig-29-dlia-boevykh-deistvii-izi",
-        "https://iz.ru/2150955/tramp-razmestil-kartu-ormuzskogo-proliva-s-nadpisiu-territoriia-ssha-izi",
-        "https://iz.ru/2150956/verkhovnyi-sud-rf-priznal-zakonnym-prigovor-chlenam-orekhovskoi-opg-izi"
+        "https://iz.ru/2150963/v-sirii-dvoiurodnogo-brata-bashara-asada-prigovorili-k-smertnoi-kazni-izi",
+        "https://iz.ru/2150965/chesotka-rasprostranilas-sredi-voennykh-v-ispanskoi-seute-izi",
+        "https://iz.ru/2150966/v-vozraste-98-let-skonchalas-brazilskaia-aktrisa-laura-kardozu-izi",
+        "https://iz.ru/2150968/v-odesse-zaderzhali-obviniaemykh-v-istiazanii-grazhdan-sotrudnikov-ttck-izi",
+        "https://iz.ru/2150977/prigozhin-raskryl-vozmozhnyi-gonorar-kane-uesta-za-kontcerty-v-rossii-izi",
+        "https://iz.ru/2150978/putin-poblagodaril-mianmu-za-pomoshch-v-razvitii-otnoshenii-so-stranami-asean-izi",
+        "https://iz.ru/2150980/putin-vyrazil-soboleznovaniia-lideru-mianmy-iz-za-zhertv-navodneniia-izi",
+        "https://iz.ru/2150981/sandu-postavila-interesy-ukrainskikh-fermerov-vyshe-moldavskikh-izi",
+        "https://iz.ru/2150983/tri-cheloveka-gospitalizirovali-pri-vzryve-shumovoi-granaty-v-shchelkove-izi",
+        "https://iz.ru/2150993/eksport-rossiiskogo-zerna-v-kitai-vyros-na-47-v-stoimostnom-vyrazhenii-izi",
+        "https://iz.ru/2150996/ushakov-nazval-tikhuiu-diplomatiiu-obychnoi-praktikoi-gosudarstv-izi",
+        "https://iz.ru/2150999/uchenye-obiasnili-neobychnoe-raspolozhenie-mumii-v-drevnei-grobnitce-izi",
+        "https://iz.ru/2151001/reshetnikov-soobshchil-o-planakh-po-rasshireniiu-torgovli-rossii-i-mianmy-izi",
+        "https://iz.ru/2151005/v-dnepropetrovskoi-oblasti-rasshirili-zonu-prinuditelnoi-evakuatcii-naseleniia-izi",
+        "https://iz.ru/2151007/sud-v-egipte-opravdal-rossiianina-posle-obvinenii-v-narushenii-norm-islama-izi",
+        "https://iz.ru/2151010/openai-pokazala-chatgpt-dlia-podrostkov-s-ogranicheniiami-i-roditelskim-kontrolem-izi",
+        "https://iz.ru/2151015/na-ukraine-zaiavili-o-kriticheskom-malovodii-dnestra-izi",
+        "https://iz.ru/2151021/vetbiokhim-otozvala-seriiu-vaktciny-multikan-8-posle-soobshchenii-o-gibeli-sobak-izi",
+        "https://iz.ru/2151023/pervyi-posol-abkhazii-v-rossii-igor-akhba-umer-v-vozraste-76-let-izi",
+        "https://iz.ru/2151046/politciia-ispanii-vyiavila-2168-nesovershennoletnikh-migrantov-v-seute-izi"
       ]
     },
     "2026-08-19": {
-      "totalChecked": 821,
-      "totalIzi": 280,
+      "totalChecked": 817,
+      "totalIzi": 278,
       "totalIiz": 2,
-      "totalAi": 282,
+      "totalAi": 280,
       "topLinks": [
-        "https://iz.ru/2150889/uchenye-sviazali-risk-vozniknoveniia-raka-zheludka-s-upotrebleniem-gazirovki-izi",
-        "https://iz.ru/2150925/rossiiane-nazvali-zhizn-ne-po-sredstvam-svoei-glavnoi-finansovoi-oshibkoi-izi",
         "https://iz.ru/2151059/narodnye-primety-na-19-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2151154/uchenye-obnaruzhili-u-immunnykh-kletok-chuvstvo-osiazaniia-izi",
         "https://iz.ru/2151259/2026-08-19/akron-obygral-tcska-v-gruppovom-etape-kubka-rossii-izi",
@@ -203,16 +201,17 @@
         "https://iz.ru/2151332/ekspert-predupredil-o-zvonkakh-moshennikov-ot-litca-uchitelei-pered-1-sentiabria-izi",
         "https://iz.ru/2151336/v-kaluzhskoi-oblasti-likvidirovali-sem-ukrainskikh-dronov-izi",
         "https://iz.ru/2151337/tela-dvukh-pogibshikh-na-sudne-v-knr-rossiiskikh-moriakov-dostaviat-na-rodinu-izi",
-        "https://iz.ru/2151338/na-podlete-k-moskve-sbili-25-bpla-izi"
+        "https://iz.ru/2151338/na-podlete-k-moskve-sbili-25-bpla-izi",
+        "https://iz.ru/2151340/britanskii-rezhisser-dzhon-irvin-umer-v-vozraste-86-let-izi",
+        "https://iz.ru/2151342/v-nizhegorodskoi-oblasti-otrazhena-ataka-52-ukrainskikh-bpla-izi"
       ]
     },
     "2026-08-20": {
-      "totalChecked": 800,
-      "totalIzi": 220,
+      "totalChecked": 799,
+      "totalIzi": 219,
       "totalIiz": 2,
-      "totalAi": 222,
+      "totalAi": 221,
       "topLinks": [
-        "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
         "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
         "https://iz.ru/2151431/uchenye-sviazali-bolezn-krona-s-oslablennoi-immunnoi-zashchitoi-izi",
         "https://iz.ru/2151604/uchenye-sviazali-narusheniia-sna-posle-50-let-s-rannim-ukhodom-s-raboty-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2151942/minprosveshcheniia-soobshchilo-o-roste-nabora-v-kolledzhi-i-tekhnikumy-izi",
         "https://iz.ru/2151947/rossiia-nachala-importirovat-toplivo-izi",
         "https://iz.ru/2151950/telegraph-nazvala-uvolnenie-fedorova-vygodnym-dlia-moskvy-izi",
-        "https://iz.ru/2151951/v-chekhii-v-dva-raza-vyroslo-chislo-vydvorennykh-ukraintcev-s-nachala-2026-goda-izi"
+        "https://iz.ru/2151951/v-chekhii-v-dva-raza-vyroslo-chislo-vydvorennykh-ukraintcev-s-nachala-2026-goda-izi",
+        "https://iz.ru/2151952/posolstvo-rossii-sdelalo-preduprezhdenie-zhelaiushchim-vstupit-v-vsu-frantcuzam-izi"
       ]
     },
     "2026-08-21": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-22": {
-      "totalChecked": 574,
+      "totalChecked": 573,
       "totalIzi": 204,
       "totalIiz": 2,
       "totalAi": 206,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 319,
-      "totalIzi": 42,
+      "totalChecked": 380,
+      "totalIzi": 58,
       "totalIiz": 2,
-      "totalAi": 44,
+      "totalAi": 60,
       "topLinks": [
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
