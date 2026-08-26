@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:55:42.510Z",
+  "generatedAt": "2026-08-26T13:26:55.731Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,40 +151,39 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 540,
-      "totalIzi": 185,
+      "totalChecked": 468,
+      "totalIzi": 151,
       "totalIiz": 1,
-      "totalAi": 186,
+      "totalAi": 152,
       "topLinks": [
-        "https://iz.ru/2150963/v-sirii-dvoiurodnogo-brata-bashara-asada-prigovorili-k-smertnoi-kazni-izi",
-        "https://iz.ru/2150965/chesotka-rasprostranilas-sredi-voennykh-v-ispanskoi-seute-izi",
-        "https://iz.ru/2150966/v-vozraste-98-let-skonchalas-brazilskaia-aktrisa-laura-kardozu-izi",
-        "https://iz.ru/2150968/v-odesse-zaderzhali-obviniaemykh-v-istiazanii-grazhdan-sotrudnikov-ttck-izi",
-        "https://iz.ru/2150977/prigozhin-raskryl-vozmozhnyi-gonorar-kane-uesta-za-kontcerty-v-rossii-izi",
-        "https://iz.ru/2150978/putin-poblagodaril-mianmu-za-pomoshch-v-razvitii-otnoshenii-so-stranami-asean-izi",
-        "https://iz.ru/2150980/putin-vyrazil-soboleznovaniia-lideru-mianmy-iz-za-zhertv-navodneniia-izi",
-        "https://iz.ru/2150981/sandu-postavila-interesy-ukrainskikh-fermerov-vyshe-moldavskikh-izi",
-        "https://iz.ru/2150983/tri-cheloveka-gospitalizirovali-pri-vzryve-shumovoi-granaty-v-shchelkove-izi",
-        "https://iz.ru/2150993/eksport-rossiiskogo-zerna-v-kitai-vyros-na-47-v-stoimostnom-vyrazhenii-izi",
-        "https://iz.ru/2150996/ushakov-nazval-tikhuiu-diplomatiiu-obychnoi-praktikoi-gosudarstv-izi",
-        "https://iz.ru/2150999/uchenye-obiasnili-neobychnoe-raspolozhenie-mumii-v-drevnei-grobnitce-izi",
-        "https://iz.ru/2151001/reshetnikov-soobshchil-o-planakh-po-rasshireniiu-torgovli-rossii-i-mianmy-izi",
-        "https://iz.ru/2151005/v-dnepropetrovskoi-oblasti-rasshirili-zonu-prinuditelnoi-evakuatcii-naseleniia-izi",
-        "https://iz.ru/2151007/sud-v-egipte-opravdal-rossiianina-posle-obvinenii-v-narushenii-norm-islama-izi",
-        "https://iz.ru/2151010/openai-pokazala-chatgpt-dlia-podrostkov-s-ogranicheniiami-i-roditelskim-kontrolem-izi",
-        "https://iz.ru/2151015/na-ukraine-zaiavili-o-kriticheskom-malovodii-dnestra-izi",
-        "https://iz.ru/2151021/vetbiokhim-otozvala-seriiu-vaktciny-multikan-8-posle-soobshchenii-o-gibeli-sobak-izi",
-        "https://iz.ru/2151023/pervyi-posol-abkhazii-v-rossii-igor-akhba-umer-v-vozraste-76-let-izi",
-        "https://iz.ru/2151046/politciia-ispanii-vyiavila-2168-nesovershennoletnikh-migrantov-v-seute-izi"
+        "https://iz.ru/2151101/zhalobu-na-vosstanovlenie-mavlieva-v-dolzhnosti-mera-ufy-rassmotriat-20-avgusta-izi",
+        "https://iz.ru/2151109/restavratciia-v-kremle-podtverdila-mestonakhozhdenie-moshchei-dmitriia-donskogo-izi",
+        "https://iz.ru/2151111/vsu-tcelenapravlenno-atakovali-ostanovku-s-sotrudnikami-zaporozhskoi-aes-izi",
+        "https://iz.ru/2151114/gidy-brosaiut-rabotu-mechty-chto-ne-tak-s-turizmom-v-antarktike-izi",
+        "https://iz.ru/2151120/mid-rf-zaiavil-o-nezyblemosti-suvereniteta-rossii-nad-iuzhnymi-kurilami-izi",
+        "https://iz.ru/2151122/zhurnalistku-forsne-vozmutilo-reshenie-shvetcii-po-rossiiskim-sudam-izi",
+        "https://iz.ru/2151127/syn-borisa-grachevskogo-trebuet-39-mln-rublei-s-sovladeltca-eralasha-izi",
+        "https://iz.ru/2151133/patriarkh-kirill-vozglavil-moleben-u-moshchei-dmitriia-donskogo-izi",
+        "https://iz.ru/2151141/mat-anny-tcomartovoi-oprovergla-informatciiu-o-nakhozhdenii-docheri-v-buinakske-izi",
+        "https://iz.ru/2151148/putin-otmetil-tesnoe-voennoe-sotrudnichestvo-rossii-i-mianmy-izi",
+        "https://iz.ru/2151152/prokuratura-seula-zaprosila-smertnuiu-kazn-dlia-samoi-krasivoi-ubiitcy-muzhchin-izi",
+        "https://iz.ru/2151181/chto-proizoshlo-za-den-18-avgusta-glavnoe-izi",
+        "https://iz.ru/2151201/iurist-napomnil-o-konfiskatcii-dikikh-zhivotnykh-pri-narushenii-pravil-soderzhaniia-izi",
+        "https://iz.ru/2151202/shkolnuiu-sbornuiu-vstretili-v-aeroportu-posle-mezhdunarodnogo-inzhenernogo-konkursa-izi",
+        "https://iz.ru/2151203/overchuk-anonsiroval-zheleznodorozhnoe-soobshchenie-mezhdu-rossiei-i-mianmoi-izi",
+        "https://iz.ru/2151205/fas-zavela-bolee-40-del-protiv-uchastnikov-toplivnogo-rynka-izi",
+        "https://iz.ru/2151207/posolstvo-rf-poprosilo-prokuraturu-berlina-dat-otcenku-slovam-zhurnalista-faz-izi",
+        "https://iz.ru/2151209/v-pravitelstve-rf-soobshchili-o-dostatochnom-obeme-topliva-dlia-agrariev-izi",
+        "https://iz.ru/2151217/v-fsvts-rasskazali-o-voennom-sotrudnichestve-rossii-i-mianmy-izi",
+        "https://iz.ru/2151218/v-rabote-runeta-proizoshel-kratkovremennyi-sboi-izi"
       ]
     },
     "2026-08-19": {
-      "totalChecked": 817,
+      "totalChecked": 806,
       "totalIzi": 278,
-      "totalIiz": 2,
-      "totalAi": 280,
+      "totalIiz": 1,
+      "totalAi": 279,
       "topLinks": [
-        "https://iz.ru/2151059/narodnye-primety-na-19-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2151154/uchenye-obnaruzhili-u-immunnykh-kletok-chuvstvo-osiazaniia-izi",
         "https://iz.ru/2151259/2026-08-19/akron-obygral-tcska-v-gruppovom-etape-kubka-rossii-izi",
         "https://iz.ru/2151261/2026-08-19/spiker-parlamenta-irana-nazval-klounami-ministrov-iz-ssha-izi",
@@ -203,16 +202,16 @@
         "https://iz.ru/2151337/tela-dvukh-pogibshikh-na-sudne-v-knr-rossiiskikh-moriakov-dostaviat-na-rodinu-izi",
         "https://iz.ru/2151338/na-podlete-k-moskve-sbili-25-bpla-izi",
         "https://iz.ru/2151340/britanskii-rezhisser-dzhon-irvin-umer-v-vozraste-86-let-izi",
-        "https://iz.ru/2151342/v-nizhegorodskoi-oblasti-otrazhena-ataka-52-ukrainskikh-bpla-izi"
+        "https://iz.ru/2151342/v-nizhegorodskoi-oblasti-otrazhena-ataka-52-ukrainskikh-bpla-izi",
+        "https://iz.ru/2151347/nasa-pokazalo-snimki-kratera-na-lune-ot-padeniia-fragmenta-rakety-spacex-izi"
       ]
     },
     "2026-08-20": {
-      "totalChecked": 799,
-      "totalIzi": 219,
+      "totalChecked": 798,
+      "totalIzi": 218,
       "totalIiz": 2,
-      "totalAi": 221,
+      "totalAi": 220,
       "topLinks": [
-        "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
         "https://iz.ru/2151431/uchenye-sviazali-bolezn-krona-s-oslablennoi-immunnoi-zashchitoi-izi",
         "https://iz.ru/2151604/uchenye-sviazali-narusheniia-sna-posle-50-let-s-rannim-ukhodom-s-raboty-izi",
         "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -231,7 +230,8 @@
         "https://iz.ru/2151947/rossiia-nachala-importirovat-toplivo-izi",
         "https://iz.ru/2151950/telegraph-nazvala-uvolnenie-fedorova-vygodnym-dlia-moskvy-izi",
         "https://iz.ru/2151951/v-chekhii-v-dva-raza-vyroslo-chislo-vydvorennykh-ukraintcev-s-nachala-2026-goda-izi",
-        "https://iz.ru/2151952/posolstvo-rossii-sdelalo-preduprezhdenie-zhelaiushchim-vstupit-v-vsu-frantcuzam-izi"
+        "https://iz.ru/2151952/posolstvo-rossii-sdelalo-preduprezhdenie-zhelaiushchim-vstupit-v-vsu-frantcuzam-izi",
+        "https://iz.ru/2151955/v-khabarovske-muzhchinu-prigovorili-k-15-godam-kolonii-za-gosizmenu-izi"
       ]
     },
     "2026-08-21": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 495,
-      "totalIzi": 92,
+      "totalChecked": 580,
+      "totalIzi": 117,
       "totalIiz": 2,
-      "totalAi": 94,
+      "totalAi": 119,
       "topLinks": [
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
