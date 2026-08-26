@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:08:36.098Z",
+  "generatedAt": "2026-08-26T03:35:29.708Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -319,10 +319,10 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 861,
-      "totalIzi": 248,
+      "totalChecked": 863,
+      "totalIzi": 249,
       "totalIiz": 1,
-      "totalAi": 249,
+      "totalAi": 250,
       "topLinks": [
         "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
         "https://iz.ru/2153808/dmitriev-zaiavil-o-satanistskom-kharaktere-planov-globalistov-izi",
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 125,
-      "totalIzi": 8,
+      "totalChecked": 167,
+      "totalIzi": 15,
       "totalIiz": 2,
-      "totalAi": 10,
+      "totalAi": 17,
       "topLinks": [
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
@@ -388,8 +388,15 @@
         "https://iz.ru/2155105/s-1-sentiabria-v-shkolakh-rossii-zapretiat-ispolzovanie-telefonov-na-urokakh-izi",
         "https://iz.ru/2155126/ekspert-nazval-meshaiushchie-nakopit-na-pensiiu-oshibki-izi",
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
+        "https://iz.ru/2154657/golodanie-protiv-boli-uchenye-obnaruzhili-novuiu-sviaz-mezhdu-kishechnikom-i-mozgom-izi",
+        "https://iz.ru/2154743/shelkovitca-okazalas-sviazana-s-izmeneniiami-kishechnoi-mikroflory-i-obmena-veshchestv-izi",
         "https://iz.ru/2155084/posolstvo-rf-obvinilo-struktury-kanady-v-geroizatcii-konovaltca-izi",
-        "https://iz.ru/2155099/vlasti-shvetcii-khotiat-ekspropriirovat-obekt-riadom-s-voennoi-bazoi-muske-izi"
+        "https://iz.ru/2155099/vlasti-shvetcii-khotiat-ekspropriirovat-obekt-riadom-s-voennoi-bazoi-muske-izi",
+        "https://iz.ru/2155105/s-1-sentiabria-v-shkolakh-rossii-zapretiat-ispolzovanie-telefonov-na-urokakh-izi",
+        "https://iz.ru/2155126/ekspert-nazval-meshaiushchie-nakopit-na-pensiiu-oshibki-izi",
+        "https://iz.ru/2155133/nbc-uznal-o-zhelanii-driskolla-uiti-v-otstavku-v-sentiabre-izi",
+        "https://iz.ru/2155134/ssha-vydelili-40-mln-na-drony-dlia-borby-s-prestupnostiu-dlia-ukrainy-izi"
       ]
     }
   }
