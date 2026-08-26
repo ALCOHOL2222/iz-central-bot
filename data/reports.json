@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:49:16.801Z",
+  "generatedAt": "2026-08-26T02:08:36.098Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-08-18": {
-      "totalChecked": 718,
-      "totalIzi": 244,
+      "totalChecked": 678,
+      "totalIzi": 237,
       "totalIiz": 1,
-      "totalAi": 245,
+      "totalAi": 238,
       "topLinks": [
-        "https://iz.ru/2150722/minprosveshcheniia-opredelilo-sroki-novogo-uchebnogo-goda-i-chislo-pervoklassnikov-izi",
-        "https://iz.ru/2150723/2026-08-18/spasateli-nashli-propavshikh-na-elbruse-turistov-izi",
-        "https://iz.ru/2150741/gosobvinenie-potrebovalo-uzhestochit-nakazanie-dlia-blogera-lerchek-izi",
-        "https://iz.ru/2150764/2026-08-18/dmitriev-nameknul-na-prevrashchenie-kanady-v-novyi-amerikanskii-shtat-izi",
-        "https://iz.ru/2150767/2026-08-18/rossiia-sokratila-vlozheniia-v-gosdolg-ssha-v-iiune-do-27-mln-izi",
-        "https://iz.ru/2150775/reiting-odobreniia-trampa-upal-do-rekordnykh-33-izi",
-        "https://iz.ru/2150778/zagradotriady-vsu-ubili-pytavshikhsia-sdatsia-v-plen-naemnikov-pod-kharkovom-izi",
         "https://iz.ru/2150781/na-kamchatke-u-izvergaiushchegosia-vulkana-chast-stenki-obrushilas-v-zhelob-izi",
         "https://iz.ru/2150782/euractiv-uznal-o-planakh-ssha-razreshit-puski-raket-s-evropeiskikh-ustanovok-izi",
         "https://iz.ru/2150783/v-rzhd-obdumyvaiut-zapusk-bolshego-chisla-bespilotnykh-lastochek-na-mtck-izi",
@@ -175,7 +168,14 @@
         "https://iz.ru/2150790/zemletriasenie-magnitudoi-58-proizoshlo-u-beregov-meksiki-izi",
         "https://iz.ru/2150798/povrezhdeniia-pri-atake-bpla-est-v-dvukh-okrugakh-i-trekh-gorodakh-podmoskovia-izi",
         "https://iz.ru/2150799/moskovskie-khirurgi-udalili-opukhol-mozga-u-rebenka-s-simptomami-gastrita-izi",
-        "https://iz.ru/2150800/v-iki-ran-soobshchili-o-nachale-neozhidannoi-magnitnoi-buri-na-zemle-izi"
+        "https://iz.ru/2150800/v-iki-ran-soobshchili-o-nachale-neozhidannoi-magnitnoi-buri-na-zemle-izi",
+        "https://iz.ru/2150807/fsb-pokazala-kadry-zaderzhaniia-agenta-gur-ukrainy-v-riazanskoi-oblasti-izi",
+        "https://iz.ru/2150813/tramp-otpravlial-na-pmef-poslannika-dlia-peregovorov-s-kremlem-izi",
+        "https://iz.ru/2150814/dobrovolnye-vznosy-biznesa-v-biudzhet-sostavili-rekordnye-384-mlrd-rublei-izi",
+        "https://iz.ru/2150824/uchenye-raskryli-tainu-zagadochnykh-krasnykh-tochek-na-snimkakh-teleskopa-jwst-izi",
+        "https://iz.ru/2150826/putin-pozdravil-rossiiskikh-shkolnikov-s-medaliami-na-olimpiade-po-informatike-izi",
+        "https://iz.ru/2150828/sk-vozbudil-dela-o-terakte-po-faktu-atak-na-moskovskuiu-i-zaporozhskuiu-oblasti-izi",
+        "https://iz.ru/2150829/ft-ssha-nadeiutsia-dobitsia-proryva-po-ukraine-s-pomoshchiu-novykh-peregovorshchikov-izi"
       ]
     },
     "2026-08-19": {
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 864,
+      "totalChecked": 861,
       "totalIzi": 248,
       "totalIiz": 1,
       "totalAi": 249,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 995,
+      "totalChecked": 994,
       "totalIzi": 274,
       "totalIiz": 3,
       "totalAi": 277,
@@ -375,13 +375,18 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 81,
-      "totalIzi": 3,
+      "totalChecked": 125,
+      "totalIzi": 8,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 10,
       "topLinks": [
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
+        "https://iz.ru/2154743/shelkovitca-okazalas-sviazana-s-izmeneniiami-kishechnoi-mikroflory-i-obmena-veshchestv-izi",
         "https://iz.ru/2155084/posolstvo-rf-obvinilo-struktury-kanady-v-geroizatcii-konovaltca-izi",
+        "https://iz.ru/2155099/vlasti-shvetcii-khotiat-ekspropriirovat-obekt-riadom-s-voennoi-bazoi-muske-izi",
+        "https://iz.ru/2155105/s-1-sentiabria-v-shkolakh-rossii-zapretiat-ispolzovanie-telefonov-na-urokakh-izi",
+        "https://iz.ru/2155126/ekspert-nazval-meshaiushchie-nakopit-na-pensiiu-oshibki-izi",
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2155084/posolstvo-rf-obvinilo-struktury-kanady-v-geroizatcii-konovaltca-izi",
         "https://iz.ru/2155099/vlasti-shvetcii-khotiat-ekspropriirovat-obekt-riadom-s-voennoi-bazoi-muske-izi"
