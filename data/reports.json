@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:00:58.175Z",
+  "generatedAt": "2026-08-26T11:55:42.510Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 860,
+      "totalChecked": 861,
       "totalIzi": 248,
       "totalIiz": 1,
       "totalAi": 249,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 380,
-      "totalIzi": 58,
+      "totalChecked": 495,
+      "totalIzi": 92,
       "totalIiz": 2,
-      "totalAi": 60,
+      "totalAi": 94,
       "topLinks": [
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
