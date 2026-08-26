@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T05:59:17.419Z",
+  "generatedAt": "2026-08-26T07:18:38.451Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -319,10 +319,10 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 860,
-      "totalIzi": 247,
+      "totalChecked": 862,
+      "totalIzi": 248,
       "totalIiz": 1,
-      "totalAi": 248,
+      "totalAi": 249,
       "topLinks": [
         "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
         "https://iz.ru/2153808/dmitriev-zaiavil-o-satanistskom-kharaktere-planov-globalistov-izi",
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 992,
+      "totalChecked": 993,
       "totalIzi": 274,
       "totalIiz": 3,
       "totalAi": 277,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 227,
-      "totalIzi": 22,
+      "totalChecked": 283,
+      "totalIzi": 32,
       "totalIiz": 2,
-      "totalAi": 24,
+      "totalAi": 34,
       "topLinks": [
         "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
