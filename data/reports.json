@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T14:39:34.852Z",
+  "generatedAt": "2026-08-29T18:42:17.054Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,22 +179,11 @@
       ]
     },
     "2026-08-22": {
-      "totalChecked": 423,
-      "totalIzi": 143,
+      "totalChecked": 377,
+      "totalIzi": 132,
       "totalIiz": 1,
-      "totalAi": 144,
+      "totalAi": 133,
       "topLinks": [
-        "https://iz.ru/2153240/putin-pozdravil-rossiian-s-dnem-gosudarstvennogo-flaga-izi",
-        "https://iz.ru/2153246/putin-ukazal-na-neonatcistskuiu-sushchnost-kieva-iz-za-teraktov-v-rossii-izi",
-        "https://iz.ru/2153251/putin-pozdravil-evgeniia-poddubnogo-s-dnem-rozhdeniia-izi",
-        "https://iz.ru/2153263/putin-novyi-sostav-gosdumy-dolzhen-zashchishchat-interesy-strany-i-sluzhit-narodu-izi",
-        "https://iz.ru/2153266/medvedev-ukazal-na-poteriu-ukrainy-poloviny-naseleniia-i-20-territorii-izi",
-        "https://iz.ru/2153272/putin-vystupil-na-vtorom-etape-sezda-edinoi-rossii-glavnoe-izi",
-        "https://iz.ru/2153274/v-eiskom-raione-kubani-obiavili-traur-posle-gibeli-detei-pri-udare-bpla-izi",
-        "https://iz.ru/2153275/medvedev-zaiavil-o-natcistskom-proiskhozhdenii-liderov-stran-evrosoiuza-izi",
-        "https://iz.ru/2153281/medvedev-nazval-neprostitelnoi-rugan-rodiny-ot-rossiian-za-rubezhom-izi",
-        "https://iz.ru/2153284/na-kubani-zagorelos-predpriiatie-posle-padeniia-oblomkov-bpla-izi",
-        "https://iz.ru/2153287/gubernator-orlovskoi-oblasti-prizval-zhitelei-soobshchat-o-podozritelnykh-liudiakh-izi",
         "https://iz.ru/2153289/na-ukraine-otmetili-ostanovku-rynka-nezhvizhimosti-v-kieve-izi",
         "https://iz.ru/2153290/chislo-pogibshikh-pri-atake-vsu-na-eiskii-raion-kubani-vozroslo-do-trekh-izi",
         "https://iz.ru/2153294/v-roskachestve-napomnili-o-srokakh-khraneniia-domashnei-konservatcii-izi",
@@ -203,7 +192,18 @@
         "https://iz.ru/2153302/zelenskii-zaiavil-o-vstreche-s-kellogom-i-gotovnosti-kupit-rakety-dlia-patriot-izi",
         "https://iz.ru/2153303/novak-soobshchil-o-namerenii-sbalansirovat-rynok-topliva-v-rf-za-schet-importa-izi",
         "https://iz.ru/2153316/vulin-ukazal-na-ignorirovanie-es-pozharov-v-serbii-do-pribytiia-rossiiskogo-il-76-izi",
-        "https://iz.ru/2153317/lavrov-zaiavil-ob-otsutstvii-namereniia-rossii-vesti-peregovory-s-evropoi-izi"
+        "https://iz.ru/2153317/lavrov-zaiavil-ob-otsutstvii-namereniia-rossii-vesti-peregovory-s-evropoi-izi",
+        "https://iz.ru/2153323/minpromtorg-napravit-15-mlrd-rublei-na-razvitie-obshchestvennogo-transporta-rossii-izi",
+        "https://iz.ru/2153326/v-mid-rf-nazvali-vbrosy-ob-ugrozakh-metcamorskoi-aes-popytkoi-raskola-s-armeniei-izi",
+        "https://iz.ru/2153354/novak-zaiavil-o-predlozheniiakh-po-perenosu-srokov-modernizatcii-npz-izi",
+        "https://iz.ru/2153371/lavrov-zaiavil-ob-izbavlenii-rossii-ot-protivnikov-spetcoperatcii-izi",
+        "https://iz.ru/2153376/akter-iz-filma-perevodchitca-maikl-rait-umer-v-vozraste-70-let-izi",
+        "https://iz.ru/2153390/miroshnik-zaiavil-ob-ispolzovanii-vsu-grazhdanskikh-gruzovikov-dlia-udarov-izi",
+        "https://iz.ru/2153392/mertca-osvistali-vo-vremia-poseshcheniia-obshchiny-khiurtgenvald-izi",
+        "https://iz.ru/2153394/medvedev-prizval-zakrepit-ekonomicheskie-uspekhi-rf-na-fone-sanktcionnogo-davleniia-izi",
+        "https://iz.ru/2153409/v-novokuibyshevske-posle-ataki-dronov-povrezhdeny-dom-i-predpriiatiia-izi",
+        "https://iz.ru/2153411/sbityi-nad-sevastopolem-bpla-byl-nachinen-porazhaiushchimi-elementami-izi",
+        "https://iz.ru/2153412/lantratova-rasskazala-o-pytkakh-voennoplennykh-rf-soldatami-vsu-izi"
       ]
     },
     "2026-08-23": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-29": {
-      "totalChecked": 416,
-      "totalIzi": 129,
+      "totalChecked": 527,
+      "totalIzi": 150,
       "totalIiz": 3,
-      "totalAi": 132,
+      "totalAi": 153,
       "topLinks": [
         "https://iz.ru/2154282/sobrat-osen-po-kusochkam-kak-napolnit-sezon-uiutom-izi",
         "https://iz.ru/2155507/uchenye-sviazali-kishechnye-bakterii-so-sposobnostiu-spravliatsia-so-stressom-izi",
