@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:23:07.411Z",
+  "generatedAt": "2026-08-29T09:15:59.512Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,43 +151,39 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 428,
-      "totalIzi": 147,
+      "totalChecked": 391,
+      "totalIzi": 124,
       "totalIiz": 1,
-      "totalAi": 148,
+      "totalAi": 125,
       "topLinks": [
-        "https://iz.ru/2152921/zakharova-nazvala-razrushitelnymi-slova-tuska-o-podryve-severnykh-potokov-izi",
-        "https://iz.ru/2152923/v-belgorodskoi-oblasti-iz-za-ataki-vsu-odin-chelovek-pogib-i-chetvero-postradali-izi",
-        "https://iz.ru/2152930/pravitelstvo-poruchilo-optimizirovat-grafiki-remontov-rossiiskikh-npz-izi",
-        "https://iz.ru/2152933/vlasti-moldavii-otkazalis-ot-vechnogo-ognia-v-den-osvobozhdeniia-ot-fashizma-izi",
-        "https://iz.ru/2152936/na-ukraine-ne-podtverdili-priezd-uitkoffa-i-kushnera-v-kiev-izi",
-        "https://iz.ru/2152938/instruktor-po-sapbordingu-spas-tonushchikh-detei-na-pliazhe-v-makhachkale-izi",
-        "https://iz.ru/2152941/sily-pvo-za-den-perekhvatili-211-bespilotnika-vsu-nad-regionami-rossii-izi",
-        "https://iz.ru/2152942/arsenii-dukhno-vyigral-serebro-v-volnykh-uprazhneniiakh-na-che-po-gimnastike-izi",
-        "https://iz.ru/2152946/kravtcov-soobshchil-o-vvedenii-v-shkolakh-kursa-ii-i-informatcionnaia-bezopasnost-izi",
-        "https://iz.ru/2152952/v-novom-aeroportu-dubaia-postroiat-samoe-dlinnoe-v-mire-metro-mezhdu-terminalami-izi",
-        "https://iz.ru/2152954/pilot-rassell-vyigral-kvalifikatciiu-k-sprintu-gran-pri-niderlandov-formuly-1-izi",
-        "https://iz.ru/2152966/minenergo-dolozhilo-o-merakh-neftekompanii-po-uvelicheniiu-postavok-dizelia-i-benzina-izi",
-        "https://iz.ru/2152967/lider-brazilii-predlozhil-trampu-sozvat-vneocherednoe-zasedanie-sb-oon-po-ukraine-izi",
-        "https://iz.ru/2152968/posolstvo-mianmy-otkrylos-v-minske-izi",
-        "https://iz.ru/2152969/v-sirii-soobshchili-ob-izuchenii-vozmozhnosti-prisoedineniia-k-mekkanskomu-soglasheniiu-izi",
-        "https://iz.ru/2152977/ofis-netaniakhu-nazval-zhalkoi-popytku-turtcii-obiavit-premera-v-rozysk-izi",
-        "https://iz.ru/2152978/odin-chelovek-pogib-i-odin-postradal-pri-atakakh-vsu-v-kurskoi-oblasti-izi",
-        "https://iz.ru/2152981/sovbez-oon-provedet-zasedanie-po-ukraine-24-avgusta-izi",
-        "https://iz.ru/2152983/v-latvii-zaderzhali-iakoby-pronikshikh-po-tunneliu-iz-belorussii-migrantov-izi",
-        "https://iz.ru/2152988/daniia-otkazalas-pomoch-frg-v-rassledovanii-dela-severnykh-potokov-izi"
+        "https://iz.ru/2151508/uchenye-sviazali-detskuiu-epilepsiiu-s-nizkoi-uspevaemostiu-vo-vzroslom-vozraste-izi",
+        "https://iz.ru/2151559/2026-08-21/uchenye-sviazali-sindrom-razdrazhennogo-kishechnika-sviazali-s-riskom-psoriaza-izi",
+        "https://iz.ru/2151999/ot-chto-ia-em-za-den-do-fastfuda-kak-sotcseti-meniaiut-ratcion-podrostkov-izi",
+        "https://iz.ru/2152092/narodnye-primety-na-21-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2152121/2026-08-21/fsb-zaderzhala-prichastnogo-k-razvedke-dronami-v-moskve-inostrantca-izi",
+        "https://iz.ru/2152268/uchenye-raskryli-mekhanizm-raboty-mozga-pri-neopredelennosti-izi",
+        "https://iz.ru/2152425/2026-08-21/sinoptiki-rasskazali-o-pogode-v-moskve-na-vykhodnykh-22-i-23-avgusta-izi",
+        "https://iz.ru/2152439/fsb-rassekretila-dokumenty-vremen-vov-o-diversantakh-na-kurskoi-duge-izi",
+        "https://iz.ru/2152444/2026-08-21/ekonomist-predupredil-o-riskakh-perekhoda-na-nakopitelnye-scheta-izi",
+        "https://iz.ru/2152448/2026-08-21/deputat-obiasnil-poriadok-deistvii-pri-poborakh-v-shkolakh-izi",
+        "https://iz.ru/2152455/2026-08-21/mask-predrek-krakh-ekonomiki-ssha-iz-za-gosdolga-k-2030-godu-izi",
+        "https://iz.ru/2152456/amurskie-shchuki-v-primorskom-okeanariume-priviazalis-k-cheloveku-izi",
+        "https://iz.ru/2152468/2026-08-21/sem-chelovek-nakhodilis-na-bortu-poterpevshego-krushenie-na-sakhaline-samoleta-izi",
+        "https://iz.ru/2152471/vdova-genri-kissindzhera-nensi-umerla-v-vozraste-92-let-izi",
+        "https://iz.ru/2152473/2026-08-21/na-sakhaline-nachali-proverku-posle-vynuzhdennoi-posadki-3-izi",
+        "https://iz.ru/2152475/tusk-opravdal-podryvy-severnykh-potokov-izi",
+        "https://iz.ru/2152476/zhitel-latvii-sdal-brata-gosbezopasnosti-za-nastroiki-rossiiskogo-tv-izi",
+        "https://iz.ru/2152481/konsul-v-zheneve-nazval-prichiny-stremleniia-evropeitcev-pereekhat-v-rossiiu-izi",
+        "https://iz.ru/2152483/nbc-news-uznal-o-vozvrashchenii-avianostca-avraama-linkolna-na-bazu-v-ssha-izi",
+        "https://iz.ru/2152484/v-tcentrobanke-nazvali-tcvet-logotipa-tcifrovogo-rublia-izi"
       ]
     },
     "2026-08-22": {
-      "totalChecked": 546,
-      "totalIzi": 198,
+      "totalChecked": 519,
+      "totalIzi": 194,
       "totalIiz": 1,
-      "totalAi": 199,
+      "totalAi": 195,
       "topLinks": [
-        "https://iz.ru/2153040/bank-rossii-zapustit-transgranichnye-perevody-kriptovaliut-s-1-sentiabria-izi",
-        "https://iz.ru/2153054/2026-08-22/srednii-razmer-sotcialnoi-pensii-v-rossii-prevysil-165-tysiachi-rublei-izi",
-        "https://iz.ru/2153055/2026-08-22/errol-mask-schel-moskvu-samym-krasivym-stolichnym-gorodom-izi",
-        "https://iz.ru/2153058/minoborony-frg-zaiavilo-o-sluchaiakh-dezertirstva-voennykh-vsu-na-obuchenii-izi",
         "https://iz.ru/2153067/2026-08-22/verkhovnyi-sud-razreshil-trampu-stroit-banketnyi-zal-v-belom-dome-izi",
         "https://iz.ru/2153083/biolog-predupredil-o-roste-agressii-os-i-shershnei-v-nachale-oseni-izi",
         "https://iz.ru/2153096/zoopsikholog-oprovergla-sposobnost-koshek-mstit-vladeltcam-izi",
@@ -203,7 +199,11 @@
         "https://iz.ru/2153138/v-mvd-nazvali-samye-chastye-sposoby-sviazi-moshennikov-s-zhertvami-izi",
         "https://iz.ru/2153139/zhurnalist-raskritikoval-zelenskogo-za-prosbu-deneg-u-zapada-na-fone-korruptcii-izi",
         "https://iz.ru/2153141/porty-bolshoi-odessy-ne-obsluzhivali-suda-bolshe-mesiatca-izi",
-        "https://iz.ru/2153142/degtiarev-zaiavil-o-vazhnosti-flaga-rossii-dlia-sportsmenov-izi"
+        "https://iz.ru/2153142/degtiarev-zaiavil-o-vazhnosti-flaga-rossii-dlia-sportsmenov-izi",
+        "https://iz.ru/2153143/eks-premer-ukrainy-zaiavil-o-negotovnosti-strany-k-zime-izi",
+        "https://iz.ru/2153145/miroshnik-otcenil-chislo-inostrannykh-naemnikov-v-vsu-v-16-20-tys-chelovek-izi",
+        "https://iz.ru/2153149/amerikanskii-samolet-proletel-cherez-taivanskii-proliv-izi",
+        "https://iz.ru/2153155/iran-zaiavil-ob-udalenii-ot-svoikh-beregov-avianostcev-ssha-posle-udarov-po-nim-izi"
       ]
     },
     "2026-08-23": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 993,
+      "totalChecked": 992,
       "totalIzi": 274,
       "totalIiz": 3,
       "totalAi": 277,
@@ -375,11 +375,12 @@
       ]
     },
     "2026-08-29": {
-      "totalChecked": 113,
-      "totalIzi": 17,
+      "totalChecked": 266,
+      "totalIzi": 73,
       "totalIiz": 3,
-      "totalAi": 20,
+      "totalAi": 76,
       "topLinks": [
+        "https://iz.ru/2154282/sobrat-osen-po-kusochkam-kak-napolnit-sezon-uiutom-izi",
         "https://iz.ru/2155507/uchenye-sviazali-kishechnye-bakterii-so-sposobnostiu-spravliatsia-so-stressom-izi",
         "https://iz.ru/2156159/smartfon-ne-vrag-uchenye-predlozhili-novyi-vzgliad-na-tcifrovye-privychki-izi",
         "https://iz.ru/2156803/uchenye-ukazali-na-opasnost-ekstremalnykh-temperatur-pri-problemakh-s-serdtcem-izi",
@@ -391,15 +392,14 @@
         "https://iz.ru/2157132/melkonian-raskritikoval-reshenie-o-perenose-pamiatnika-geroiam-vov-v-artike-izi",
         "https://iz.ru/2157133/wildberries-opublikovala-dlia-prodavtcov-otchety-o-postradavshikh-ot-bpla-tovarakh-izi",
         "https://iz.ru/2157172/rossiiane-oseniu-2026-goda-smogut-doletet-priamymi-reisami-v-42-strany-izi",
+        "https://iz.ru/2157177/v-sfr-zaiavili-ob-otsutstvii-ogranichenii-po-vozrastu-dlia-vyplaty-strakhovoi-pensii-izi",
         "https://iz.ru/2157180/v-minpromtorge-obiasnili-neobkhodimost-novogo-gosta-na-pivo-izi",
-        "https://iz.ru/2150320/90-luchshie-otkrytki-s-orekhovym-spasom-krasivye-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
-        "https://iz.ru/2156893/narodnye-primety-na-29-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2157117/2026-08-29/pszh-sygral-vnichiu-s-lillem-v-matche-chempionata-frantcii-izi",
-        "https://iz.ru/2157119/nabu-prediavilo-obvinenie-novomu-figurantu-dela-mudroi-izi",
-        "https://iz.ru/2157124/v-mid-rf-zaiavili-o-gotovnosti-zashchitit-svoikh-grazhdan-v-pridnestrove-izi",
-        "https://iz.ru/2157128/v-kalifornii-ukrali-gruzovik-s-50-tys-banok-piva-pabst-blue-ribbon-izi",
-        "https://iz.ru/2157132/melkonian-raskritikoval-reshenie-o-perenose-pamiatnika-geroiam-vov-v-artike-izi",
-        "https://iz.ru/2157133/wildberries-opublikovala-dlia-prodavtcov-otchety-o-postradavshikh-ot-bpla-tovarakh-izi"
+        "https://iz.ru/2157186/vrach-nazval-pervye-priznaki-likhoradki-ebola-izi",
+        "https://iz.ru/2157190/eksperiment-s-peredvizhnymi-aptekami-v-selakh-startuet-v-rossii-1-sentiabria-izi",
+        "https://iz.ru/2157201/v-sumakh-ubili-nachalnika-ttck-izi",
+        "https://iz.ru/2157202/v-op-predlozhili-sdelat-1-sentiabria-vykhodnym-dlia-roditelei-pervoklassnikov-izi",
+        "https://iz.ru/2157213/roskachestvo-predupredilo-roditelei-shkolnikov-o-novoi-moshennicheskoi-skheme-izi",
+        "https://iz.ru/2157218/v-gd-predlozhili-vvesti-osobye-kriterii-nuzhdaemosti-dlia-semei-s-10-i-bolee-detmi-izi"
       ]
     }
   }
