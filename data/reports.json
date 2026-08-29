@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T18:55:25.040Z",
+  "generatedAt": "2026-08-29T02:23:07.411Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-08-15": {
-      "totalChecked": 302,
-      "totalIzi": 95,
-      "totalIiz": 0,
-      "totalAi": 95,
-      "topLinks": [
-        "https://iz.ru/2147841/spetcialist-obiasnila-raznitcu-mezhdu-peregrevom-i-teplovym-udarom-izi",
-        "https://iz.ru/2148662/vrach-predupredil-ob-opasnosti-pozelenevshego-kartofelia-izi",
-        "https://iz.ru/2149401/gruppa-kapitana-plotnikova-unichtozila-tehniku-vsu-i-15-boevikov-izi",
-        "https://iz.ru/2149417/wildberries-rasshiril-vozmozhnosti-dlia-postavok-prodavtcov-izi",
-        "https://iz.ru/2149418/v-gosdume-predlozhili-zamenit-bukvu-p-na-p-na-dorozhnykh-znakakh-parkovki-izi",
-        "https://iz.ru/2149423/smi-soobshchili-o-zakrytii-shveitcarskim-bankom-schetov-rossiian-izi",
-        "https://iz.ru/2149427/v-rf-priniali-gosty-na-detskie-konservy-iz-miasa-i-polufabrikaty-izi",
-        "https://iz.ru/2149439/v-op-predlozhili-vyplachivat-roditeliam-shkolnikov-po-10-tys-rublei-k-1-sentiabria-izi",
-        "https://iz.ru/2149456/rossiian-predupredili-o-skheme-moshennikov-s-rozygryshem-shkolnykh-naborov-izi",
-        "https://iz.ru/2149468/roskachestvo-predupredilo-ob-opasnosti-iarkikh-kantctovarov-bez-markirovki-izi",
-        "https://iz.ru/2149477/v-op-predlozhili-vvesti-federalnye-vyplaty-za-dolgii-brak-izi",
-        "https://iz.ru/2149481/wsj-uznala-o-prizyve-vlastei-ssha-k-apple-otkazatsia-ot-kitaiskikh-chipov-pamiati-izi",
-        "https://iz.ru/2149482/trutnev-zaiavil-o-primenenii-opyta-kryma-dlia-zashchity-obektov-na-dalnem-vostoke-izi",
-        "https://iz.ru/2149495/rossiyane-stali-cashhe-menyat-paroli-iz-za-novyx-mosenniceskix-sxem-izi",
-        "https://iz.ru/2149501/ukraina-za-god-nedopoluchila-po-programme-purl-oruzhiia-iz-ssha-na-6-mlrd-izi",
-        "https://iz.ru/2149508/rossiiskaia-tennisistka-samsonova-vyshla-vo-vtoroi-krug-turnira-v-tcintcinnati-izi",
-        "https://iz.ru/2149513/rossiiane-chashche-vybiraiut-khranenie-deneg-vmesto-investitcii-izi",
-        "https://iz.ru/2149515/tennisist-khachanov-proigral-kovachevichu-na-starte-turnira-v-tcintcinnati-izi",
-        "https://iz.ru/2149522/banany-v-rossii-podesheveli-do-150-rublei-za-kg-izi",
-        "https://iz.ru/2149524/novyi-gost-na-karandashi-nachnet-deistvovat-s-1-sentiabria-izi"
-      ]
-    },
     "2026-08-16": {
       "totalChecked": 276,
       "totalIzi": 68,
@@ -179,42 +151,39 @@
       ]
     },
     "2026-08-21": {
-      "totalChecked": 505,
-      "totalIzi": 169,
+      "totalChecked": 428,
+      "totalIzi": 147,
       "totalIiz": 1,
-      "totalAi": 170,
+      "totalAi": 148,
       "topLinks": [
-        "https://iz.ru/2152724/v-finliandii-nazvali-deiatelnost-fon-der-liaien-vedushchei-evropu-k-voine-s-rossiei-izi",
-        "https://iz.ru/2152725/ukrainskaia-pravda-budanov-figuriruet-v-novykh-rassledovaniiakh-nabu-izi",
-        "https://iz.ru/2152743/v-britanii-uznali-ob-otkaze-trampa-podderzhat-ispolzovanie-starlink-izi",
-        "https://iz.ru/2152756/v-shvetcii-politciia-zastrelila-vooruzhennogo-mechom-muzhchinu-posle-napadeniia-na-shkolu-izi",
-        "https://iz.ru/2152760/mendel-nazvala-nemedlennyi-mir-s-rf-edinstvennym-sposobom-spaseniia-dlia-kieva-izi",
-        "https://iz.ru/2152777/drevnee-sviatilishche-v-chekhii-okazalos-orientirovano-na-solntce-i-lunu-izi",
-        "https://iz.ru/2152781/samolet-il-114-300-proshel-ispytaniia-v-zharu-do-42-gradusov-v-uzbekistane-izi",
-        "https://iz.ru/2152784/der-spiegel-uznal-o-podgotovke-germaniei-sanktcii-protiv-russkogo-doma-v-berline-izi",
-        "https://iz.ru/2152796/mid-finliandii-vyzval-posla-rossii-iz-za-iakoby-narusheniia-vozdushnogo-prostranstva-izi",
-        "https://iz.ru/2152800/pervaia-raketka-mira-iannik-sinner-snialsia-s-uchastiia-v-us-open-iz-za-travmy-kolena-izi",
-        "https://iz.ru/2152834/uchenye-otcenili-rost-i-fizicheskoe-sostoianie-dmitriia-donskogo-izi",
-        "https://iz.ru/2152843/rostekh-predlozhil-narisovavshei-smesharikov-devochke-iz-bolokhovo-razrisovat-tcekh-izi",
-        "https://iz.ru/2152844/novak-poruchil-prodolzhit-rabotu-po-nasyshcheniiu-rynka-rf-toplivom-izi",
-        "https://iz.ru/2152846/miniust-priznal-mediazonu-inostrannym-agentom-izi",
-        "https://iz.ru/2152871/figuristka-dzepka-stala-pobeditelnitcei-iuniorskogo-gran-pri-isu-v-kitae-izi",
-        "https://iz.ru/2152872/rossiianki-pozhalovalis-na-dlitelnuiu-vydachu-italianskikh-viz-izi",
-        "https://iz.ru/2152876/v-gosdume-zaiavili-ob-otvete-na-ucheniia-nato-vozle-kaliningrada-izi",
-        "https://iz.ru/2152888/v-kurskoi-oblasti-muzhchina-ranen-pri-obstrele-vsu-izi",
-        "https://iz.ru/2152892/v-kazakhstane-dvukh-devochek-na-naduvnom-matrase-uneslo-techeniem-v-kaspiiskoe-more-izi",
-        "https://iz.ru/2152900/v-odesse-arestovali-sotrudnika-ttck-za-napadenie-na-podrostka-izi"
+        "https://iz.ru/2152921/zakharova-nazvala-razrushitelnymi-slova-tuska-o-podryve-severnykh-potokov-izi",
+        "https://iz.ru/2152923/v-belgorodskoi-oblasti-iz-za-ataki-vsu-odin-chelovek-pogib-i-chetvero-postradali-izi",
+        "https://iz.ru/2152930/pravitelstvo-poruchilo-optimizirovat-grafiki-remontov-rossiiskikh-npz-izi",
+        "https://iz.ru/2152933/vlasti-moldavii-otkazalis-ot-vechnogo-ognia-v-den-osvobozhdeniia-ot-fashizma-izi",
+        "https://iz.ru/2152936/na-ukraine-ne-podtverdili-priezd-uitkoffa-i-kushnera-v-kiev-izi",
+        "https://iz.ru/2152938/instruktor-po-sapbordingu-spas-tonushchikh-detei-na-pliazhe-v-makhachkale-izi",
+        "https://iz.ru/2152941/sily-pvo-za-den-perekhvatili-211-bespilotnika-vsu-nad-regionami-rossii-izi",
+        "https://iz.ru/2152942/arsenii-dukhno-vyigral-serebro-v-volnykh-uprazhneniiakh-na-che-po-gimnastike-izi",
+        "https://iz.ru/2152946/kravtcov-soobshchil-o-vvedenii-v-shkolakh-kursa-ii-i-informatcionnaia-bezopasnost-izi",
+        "https://iz.ru/2152952/v-novom-aeroportu-dubaia-postroiat-samoe-dlinnoe-v-mire-metro-mezhdu-terminalami-izi",
+        "https://iz.ru/2152954/pilot-rassell-vyigral-kvalifikatciiu-k-sprintu-gran-pri-niderlandov-formuly-1-izi",
+        "https://iz.ru/2152966/minenergo-dolozhilo-o-merakh-neftekompanii-po-uvelicheniiu-postavok-dizelia-i-benzina-izi",
+        "https://iz.ru/2152967/lider-brazilii-predlozhil-trampu-sozvat-vneocherednoe-zasedanie-sb-oon-po-ukraine-izi",
+        "https://iz.ru/2152968/posolstvo-mianmy-otkrylos-v-minske-izi",
+        "https://iz.ru/2152969/v-sirii-soobshchili-ob-izuchenii-vozmozhnosti-prisoedineniia-k-mekkanskomu-soglasheniiu-izi",
+        "https://iz.ru/2152977/ofis-netaniakhu-nazval-zhalkoi-popytku-turtcii-obiavit-premera-v-rozysk-izi",
+        "https://iz.ru/2152978/odin-chelovek-pogib-i-odin-postradal-pri-atakakh-vsu-v-kurskoi-oblasti-izi",
+        "https://iz.ru/2152981/sovbez-oon-provedet-zasedanie-po-ukraine-24-avgusta-izi",
+        "https://iz.ru/2152983/v-latvii-zaderzhali-iakoby-pronikshikh-po-tunneliu-iz-belorussii-migrantov-izi",
+        "https://iz.ru/2152988/daniia-otkazalas-pomoch-frg-v-rassledovanii-dela-severnykh-potokov-izi"
       ]
     },
     "2026-08-22": {
-      "totalChecked": 558,
-      "totalIzi": 201,
+      "totalChecked": 546,
+      "totalIzi": 198,
       "totalIiz": 1,
-      "totalAi": 202,
+      "totalAi": 199,
       "topLinks": [
-        "https://iz.ru/2152726/2026-08-22/uchenyi-obiasnil-uskorenie-vselennoi-kvantovoi-neopredelennostiu-izi",
-        "https://iz.ru/2152804/parashiutist-sergei-boitcov-ustanovil-rekord-s-pryzhkom-s-vysoty-11551-m-izi",
-        "https://iz.ru/2152893/2026-08-22/veterinar-rasskazala-o-priznakakh-problem-s-pishchevareniem-u-pitomtcev-izi",
         "https://iz.ru/2153040/bank-rossii-zapustit-transgranichnye-perevody-kriptovaliut-s-1-sentiabria-izi",
         "https://iz.ru/2153054/2026-08-22/srednii-razmer-sotcialnoi-pensii-v-rossii-prevysil-165-tysiachi-rublei-izi",
         "https://iz.ru/2153055/2026-08-22/errol-mask-schel-moskvu-samym-krasivym-stolichnym-gorodom-izi",
@@ -231,11 +200,14 @@
         "https://iz.ru/2153128/2026-08-22/iz-za-ataki-na-sklade-ozon-v-samarskoi-oblasti-evakuirovany-bolee-500-rabotnikov-izi",
         "https://iz.ru/2153130/tramp-poshutil-ob-ukhode-livitt-s-posta-press-sekretaria-belogo-doma-izi",
         "https://iz.ru/2153137/ssha-vnov-vveli-50-protcentnye-poshliny-na-tovary-kanady-posle-provala-peregovorov-izi",
-        "https://iz.ru/2153138/v-mvd-nazvali-samye-chastye-sposoby-sviazi-moshennikov-s-zhertvami-izi"
+        "https://iz.ru/2153138/v-mvd-nazvali-samye-chastye-sposoby-sviazi-moshennikov-s-zhertvami-izi",
+        "https://iz.ru/2153139/zhurnalist-raskritikoval-zelenskogo-za-prosbu-deneg-u-zapada-na-fone-korruptcii-izi",
+        "https://iz.ru/2153141/porty-bolshoi-odessy-ne-obsluzhivali-suda-bolshe-mesiatca-izi",
+        "https://iz.ru/2153142/degtiarev-zaiavil-o-vazhnosti-flaga-rossii-dlia-sportsmenov-izi"
       ]
     },
     "2026-08-23": {
-      "totalChecked": 473,
+      "totalChecked": 469,
       "totalIzi": 223,
       "totalIiz": 1,
       "totalAi": 224,
@@ -263,12 +235,11 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 858,
-      "totalIzi": 248,
+      "totalChecked": 850,
+      "totalIzi": 247,
       "totalIiz": 1,
-      "totalAi": 249,
+      "totalAi": 248,
       "topLinks": [
-        "https://iz.ru/2152868/chelovek-pauk-uletel-v-kosmos-chto-oznachaet-final-novogo-filma-o-supergeroe-izi",
         "https://iz.ru/2153808/dmitriev-zaiavil-o-satanistskom-kharaktere-planov-globalistov-izi",
         "https://iz.ru/2153809/2026-08-24/drony-vsu-sovershili-popytku-ataki-na-promzonu-nevinnomysska-izi",
         "https://iz.ru/2153812/2026-08-24/dvoe-detei-pogibli-i-sem-postradali-pri-atake-bpla-na-detskii-tcentr-v-krasnodare-izi",
@@ -287,7 +258,8 @@
         "https://iz.ru/2153846/v-mvd-predupredili-o-moshennichestve-s-neozhidannymi-bankovskimi-perevodami-izi",
         "https://iz.ru/2153850/eksperty-proekta-perezvoni-sam-predupredili-o-novykh-skhemakh-moshennikov-izi",
         "https://iz.ru/2153881/v-rostovskoi-oblasti-v-techenie-nochnoi-massirovannoi-ataki-sbity-bolee-120-bpla-izi",
-        "https://iz.ru/2153891/opublikovany-kadry-zaderzhaniia-zhitelia-evpatorii-za-peredachu-dannykh-sbu-izi"
+        "https://iz.ru/2153891/opublikovany-kadry-zaderzhaniia-zhitelia-evpatorii-za-peredachu-dannykh-sbu-izi",
+        "https://iz.ru/2153899/partiia-adilet-nabrala-7117-golosov-na-vyborakh-v-kurultai-kazakhstana-izi"
       ]
     },
     "2026-08-25": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-28": {
-      "totalChecked": 866,
-      "totalIzi": 146,
+      "totalChecked": 977,
+      "totalIzi": 162,
       "totalIiz": 2,
-      "totalAi": 148,
+      "totalAi": 164,
       "topLinks": [
         "https://iz.ru/2155257/gromche-boli-kak-muzyka-vliiaet-na-chto-chuvstvuet-chelovek-izi",
         "https://iz.ru/2155403/glaukoma-mozhet-nezametno-progressirovat-nochiu-izi",
@@ -400,6 +372,34 @@
         "https://iz.ru/2156550/chislo-pogibshikh-v-rezultate-navodneniia-v-nepale-vyroslo-do-475-izi",
         "https://iz.ru/2156551/korol-norvegii-kharald-v-umer-v-vozraste-89-let-izi",
         "https://iz.ru/2156562/v-ran-rasskazali-o-zavershenii-sezona-zatmenii-v-2026-godu-izi"
+      ]
+    },
+    "2026-08-29": {
+      "totalChecked": 113,
+      "totalIzi": 17,
+      "totalIiz": 3,
+      "totalAi": 20,
+      "topLinks": [
+        "https://iz.ru/2155507/uchenye-sviazali-kishechnye-bakterii-so-sposobnostiu-spravliatsia-so-stressom-izi",
+        "https://iz.ru/2156159/smartfon-ne-vrag-uchenye-predlozhili-novyi-vzgliad-na-tcifrovye-privychki-izi",
+        "https://iz.ru/2156803/uchenye-ukazali-na-opasnost-ekstremalnykh-temperatur-pri-problemakh-s-serdtcem-izi",
+        "https://iz.ru/2156893/narodnye-primety-na-29-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2157117/2026-08-29/pszh-sygral-vnichiu-s-lillem-v-matche-chempionata-frantcii-izi",
+        "https://iz.ru/2157119/nabu-prediavilo-obvinenie-novomu-figurantu-dela-mudroi-izi",
+        "https://iz.ru/2157124/v-mid-rf-zaiavili-o-gotovnosti-zashchitit-svoikh-grazhdan-v-pridnestrove-izi",
+        "https://iz.ru/2157128/v-kalifornii-ukrali-gruzovik-s-50-tys-banok-piva-pabst-blue-ribbon-izi",
+        "https://iz.ru/2157132/melkonian-raskritikoval-reshenie-o-perenose-pamiatnika-geroiam-vov-v-artike-izi",
+        "https://iz.ru/2157133/wildberries-opublikovala-dlia-prodavtcov-otchety-o-postradavshikh-ot-bpla-tovarakh-izi",
+        "https://iz.ru/2157172/rossiiane-oseniu-2026-goda-smogut-doletet-priamymi-reisami-v-42-strany-izi",
+        "https://iz.ru/2157180/v-minpromtorge-obiasnili-neobkhodimost-novogo-gosta-na-pivo-izi",
+        "https://iz.ru/2150320/90-luchshie-otkrytki-s-orekhovym-spasom-krasivye-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
+        "https://iz.ru/2156893/narodnye-primety-na-29-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2157117/2026-08-29/pszh-sygral-vnichiu-s-lillem-v-matche-chempionata-frantcii-izi",
+        "https://iz.ru/2157119/nabu-prediavilo-obvinenie-novomu-figurantu-dela-mudroi-izi",
+        "https://iz.ru/2157124/v-mid-rf-zaiavili-o-gotovnosti-zashchitit-svoikh-grazhdan-v-pridnestrove-izi",
+        "https://iz.ru/2157128/v-kalifornii-ukrali-gruzovik-s-50-tys-banok-piva-pabst-blue-ribbon-izi",
+        "https://iz.ru/2157132/melkonian-raskritikoval-reshenie-o-perenose-pamiatnika-geroiam-vov-v-artike-izi",
+        "https://iz.ru/2157133/wildberries-opublikovala-dlia-prodavtcov-otchety-o-postradavshikh-ot-bpla-tovarakh-izi"
       ]
     }
   }
