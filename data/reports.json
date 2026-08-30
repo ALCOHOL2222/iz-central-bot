@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T17:40:43.159Z",
+  "generatedAt": "2026-08-30T21:18:52.974Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-08-17": {
-      "totalChecked": 421,
-      "totalIzi": 131,
-      "totalIiz": 1,
-      "totalAi": 132,
-      "topLinks": [
-        "https://iz.ru/2137052/sest-iabloko-i-zagadat-zhelanie-vazhnye-narodnye-primety-na-iablochnyi-spas-iiz",
-        "https://iz.ru/2149123/2026-08-17/analitiki-rasskazali-o-samykh-vygodnykh-tcvetakh-etogo-leta-izi",
-        "https://iz.ru/2150099/smi-rasskazali-o-riskakh-dlia-kitaiskikh-chinovnikov-iz-za-braka-s-inostrantcami-izi",
-        "https://iz.ru/2150102/v-italii-roditeli-ekhali-100-km-riadom-s-umershim-synom-izi",
-        "https://iz.ru/2150107/sily-pvo-rossii-s-nachala-goda-unichtozhila-bolee-100-tys-ukrainskikh-bpla-izi",
-        "https://iz.ru/2150116/rossiian-zhdet-22-rabochikh-dnia-v-sentiabre-izi",
-        "https://iz.ru/2150118/v-finliandii-zaiavili-o-vliianii-ssha-na-politiku-stubba-v-otnoshenii-rossii-izi",
-        "https://iz.ru/2150120/stala-izvestna-skhema-moshennikov-s-ispolzovaniem-feikovykh-vakansii-za-rubezhom-izi",
-        "https://iz.ru/2150126/ekspert-rasskazal-kak-podgotovitsia-k-pensii-s-pomoshchiu-nakoplenii-i-investitcii-izi",
-        "https://iz.ru/2150134/v-op-rasskazali-o-skheme-moshennikov-s-feikovoi-arendoi-zhilia-pered-1-sentiabria-izi",
-        "https://iz.ru/2150136/v-gosdume-raziasnili-poriadok-polucheniia-vyplat-na-podgotovku-detei-k-1-sentiabria-izi",
-        "https://iz.ru/2150137/rossiianam-rasskazali-o-vozmozhnosti-perenesti-otpusk-pri-bolezni-izi",
-        "https://iz.ru/2150138/v-ldpr-predlozhili-avtomaticheski-naznachat-pensioneram-subsidii-na-zhkkh-izi",
-        "https://iz.ru/2150139/v-san-diego-vspykhnul-lesnoi-pozhar-ploshchadiu-53-ga-izi",
-        "https://iz.ru/2150145/v-ldpr-predlozhili-vvesti-ezhegodnuiu-vyplatu-10-tys-rublei-na-shkolnuiu-formu-izi",
-        "https://iz.ru/2150157/gensek-odkb-predupredil-ob-opasnosti-militarizatcii-evropy-izi",
-        "https://iz.ru/2150166/rossiianam-rasskazali-o-sposobe-vozvrata-sredstv-pri-neudachnoi-dostavke-izi",
-        "https://iz.ru/2150173/izrailskii-ministr-vystupil-za-provedenie-ezhednevnykh-ubiistv-v-gaze-izi",
-        "https://iz.ru/2150180/stolichnye-politceiskie-perekryli-uzel-sviazi-telefonnykh-moshennikov-izi",
-        "https://iz.ru/2150182/eksperty-perezvoni-sam-nazvali-osnovnye-skhemy-moshennikov-v-onlain-igrakh-izi"
-      ]
-    },
     "2026-08-18": {
       "totalChecked": 395,
       "totalIzi": 126,
@@ -179,35 +151,35 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 291,
-      "totalIzi": 140,
+      "totalChecked": 252,
+      "totalIzi": 113,
       "totalIiz": 1,
-      "totalAi": 141,
+      "totalAi": 114,
       "topLinks": [
-        "https://iz.ru/2153675/chto-proizoshlo-za-nedeliu-s-17-po-23-avgusta-glavnoe-izi",
-        "https://iz.ru/2153677/byvshie-ucheniki-obvinili-khoreografa-cherkozianova-v-nasilii-izi",
-        "https://iz.ru/2153681/posol-v-otstavke-maksim-peshkov-umer-v-vozraste-76-let-izi",
-        "https://iz.ru/2153688/predvaritelnaia-iavka-na-vyborakh-v-kurultai-kazakhstana-sostavila-7419-izi",
-        "https://iz.ru/2153689/v-germanii-nazvali-nesostoiatelnym-stcenarii-iakoby-napadeniia-rossii-na-nato-izi",
-        "https://iz.ru/2153696/sportsmen-kedzhelcha-iz-efiopii-ustanovil-mirovoi-rekord-v-polumarafone-izi",
-        "https://iz.ru/2153699/degtiarev-poobeshchal-evrope-po-susalam-za-narushenie-pravil-sorevnovanii-izi",
-        "https://iz.ru/2153700/ft-soobshchila-ob-istoricheskom-maksimume-importa-rossiiskoi-nefti-v-indiiu-izi",
-        "https://iz.ru/2153703/daily-mail-uznala-o-poluchatele-nasledstva-eks-nevesty-klichko-panetteri-izi",
-        "https://iz.ru/2153704/propavshii-v-iakutskoi-taige-traktorist-vernulsia-domoi-spustia-mesiatc-izi",
-        "https://iz.ru/2153705/v-ksir-soobshchili-o-nalichii-u-irana-stcenariia-na-liubye-vrazhdebnye-deistviia-ssha-izi",
-        "https://iz.ru/2153707/nyt-predlozhila-drevnee-shumerskoe-reshenie-dlia-rekordnogo-gosdolga-ssha-izi",
-        "https://iz.ru/2153708/na-ukraine-netrezvaia-zhenshchina-dezertir-iz-vsu-brosila-tri-granaty-vo-dvor-sosedei-izi",
-        "https://iz.ru/2153709/v-irane-rasskazali-o-priglashenii-prisoedinitsia-k-mekkanskomu-soglasheniiu-izi",
-        "https://iz.ru/2153710/sily-pvo-za-den-sbili-269-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2153711/zelenskii-obiavil-o-planakh-proizvodit-ukrainskie-rakety-dlia-patriot-izi",
-        "https://iz.ru/2153712/chibis-zaiavil-o-podgotovke-murmanskoi-oblasti-k-piratskim-atakam-na-sevmorputi-izi",
-        "https://iz.ru/2153713/lesnye-pozhary-v-evrope-priveli-k-vzryvam-boepripasov-vremen-mirovyh-vojn-izi",
-        "https://iz.ru/2153715/v-shebekino-belgorodskoi-oblasti-muzhchina-postradal-pri-udare-bpla-izi",
-        "https://iz.ru/2153717/ukraina-dogovorilas-o-proizvodstve-bespilotnikov-v-finliandii-izi"
+        "https://iz.ru/2153798/zelenskii-rasskazal-ob-obvinenii-trampa-v-obmane-iz-za-starlink-izi",
+        "https://iz.ru/2152634/uchenye-raskryli-rol-immunnykh-kletok-v-razrushenii-neironov-pri-bas-izi",
+        "https://iz.ru/2152688/narodnye-primety-na-23-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2153460/rospotrebnadzor-rasskazal-o-pravakh-potrebitelia-pri-pokupke-shkolnoi-odezhdy-izi",
+        "https://iz.ru/2153464/sredniaia-pensiia-za-vyslugu-let-v-rossii-prevysila-1-mln-rublei-izi",
+        "https://iz.ru/2153467/eks-ministr-oborony-ukrainy-nazval-mifom-prepiatstviia-dlia-vyborov-v-strane-izi",
+        "https://iz.ru/2153474/ploshchad-pozhara-na-sklade-v-sankt-peterburge-dostigla-22-tys-kv-m-izi",
+        "https://iz.ru/2153482/2026-08-23/vlasti-soobshchili-o-raschistke-dorogi-dlia-vyvoza-turistov-s-vulkana-na-kamchatke-izi",
+        "https://iz.ru/2153484/2026-08-23/posol-irana-nazval-plachevnym-moralnyi-dukh-voennykh-ssha-izi",
+        "https://iz.ru/2153485/stomatolog-perechislil-prichiny-poiavleniia-nepriiatnogo-zapakha-izo-rta-izi",
+        "https://iz.ru/2153489/guardian-soobshchila-o-bezzashchitnosti-energoinfrastruktury-kieva-izi",
+        "https://iz.ru/2153494/fsin-razreshila-zakliuchennym-uchitsia-v-vuzakh-distantcionno-izi",
+        "https://iz.ru/2153495/spasatel-rasskazal-o-nestykovkakh-v-ischeznovenii-semi-usoltcevykh-izi",
+        "https://iz.ru/2153500/ekspert-po-etiketu-dala-sovety-starsheklassnitcam-o-nariadakh-na-1-sentiabria-izi",
+        "https://iz.ru/2153512/akter-iz-seriala-sled-pavel-konek-umer-na-40-godu-zhizni-izi",
+        "https://iz.ru/2153513/v-rossii-chislo-domokhoziaistv-s-avtomobiliami-dostiglo-dvukh-tretei-izi",
+        "https://iz.ru/2153515/filippo-ukazal-na-shans-uskorit-otstavku-zelenskogo-prekrashcheniem-podderzhki-izi",
+        "https://iz.ru/2153519/2026-08-23/rospotrebnadzor-soobshchil-o-monitoringe-vspyshki-legionelleza-v-avstrii-izi",
+        "https://iz.ru/2153520/rossiiskie-voennye-pereodelis-v-formu-vsu-i-likvidirovali-piat-boevikov-izi",
+        "https://iz.ru/2153521/rossiianam-nazvali-usloviia-polucheniia-semeinoi-nalogovoi-vyplaty-izi"
       ]
     },
     "2026-08-24": {
-      "totalChecked": 849,
+      "totalChecked": 844,
       "totalIzi": 247,
       "totalIiz": 1,
       "totalAi": 248,
@@ -235,7 +207,7 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 992,
+      "totalChecked": 991,
       "totalIzi": 274,
       "totalIiz": 3,
       "totalAi": 277,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 489,
-      "totalIzi": 180,
+      "totalChecked": 581,
+      "totalIzi": 196,
       "totalIiz": 2,
-      "totalAi": 182,
+      "totalAi": 198,
       "topLinks": [
         "https://iz.ru/2154135/ot-tvin-piksa-do-paddingtona-chto-smotret-oseniu-izi",
         "https://iz.ru/2156286/uchenye-raskryli-mekhanizm-pamiati-kishechnika-posle-vospaleniia-izi",
@@ -401,6 +373,13 @@
         "https://iz.ru/2157635/iurist-rasskazala-o-sluchaiakh-neobkhodimosti-platit-po-chuzhim-kreditam-izi",
         "https://iz.ru/2157641/v-rossii-s-1-sentiabria-vvedut-goskontrol-za-chastiu-promyshlennoi-produktcii-izi"
       ]
+    },
+    "2026-08-31": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
