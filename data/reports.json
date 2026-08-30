@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T13:05:34.924Z",
+  "generatedAt": "2026-08-30T17:40:43.159Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,31 +179,31 @@
       ]
     },
     "2026-08-23": {
-      "totalChecked": 336,
-      "totalIzi": 169,
+      "totalChecked": 291,
+      "totalIzi": 140,
       "totalIiz": 1,
-      "totalAi": 170,
+      "totalAi": 141,
       "topLinks": [
-        "https://iz.ru/2153594/rossiiskii-chempion-nkhl-svechnikov-napolnil-pelmeniami-kubok-stenli-izi",
-        "https://iz.ru/2153596/poddubnyi-podelilsia-emotciiami-ot-pozdravleniia-putina-s-dnem-rozhdeniia-izi",
-        "https://iz.ru/2153598/v-mid-rossii-oprovergli-slukhi-o-planakh-ponizit-uroven-otnoshenii-s-britaniei-izi",
-        "https://iz.ru/2153599/v-minprosveshcheniia-ukazali-na-pedagogicheskii-potentcial-uchastnikov-svo-izi",
-        "https://iz.ru/2153600/v-tambovskom-sele-perestala-rabotat-sotovaia-vyshka-posle-ataki-bpla-izi",
-        "https://iz.ru/2153604/tokaev-primet-reshenie-ob-uchastii-v-vyborakh-prezidenta-v-2027-godu-izi",
-        "https://iz.ru/2153605/krylia-sovetov-obygrali-akron-i-oderzhali-pervuiu-pobedu-v-sezone-v-rpl-izi",
-        "https://iz.ru/2153606/zelenskii-soobshchil-o-defitcite-27-mlrd-v-biudzhete-minoborony-ukrainy-izi",
-        "https://iz.ru/2153610/erling-kholand-pokazal-novuiu-korotkuiu-strizhku-izi",
-        "https://iz.ru/2153613/v-sevastopole-pri-atake-vsu-postradala-podrostok-izi",
-        "https://iz.ru/2153614/mid-finliandii-poluchil-notu-rossii-o-zaprete-demonstratcii-u-posolstva-izi",
-        "https://iz.ru/2153635/sily-pvo-sbili-eshche-chetyre-bpla-na-podlete-k-moskve-izi",
-        "https://iz.ru/2153636/na-ukraine-soobshchili-ob-ispolzovanii-ttck-avto-s-nadpisiu-dostavka-novoi-pochty-izi",
-        "https://iz.ru/2153638/direktor-safari-parka-taigan-oleg-zubkov-sorvalsia-s-gory-na-baggi-izi",
-        "https://iz.ru/2153639/stalo-izvestno-o-perenose-vizita-uitkoffa-i-kushnera-v-rossiiu-izi",
-        "https://iz.ru/2153640/postavki-rossiiskogo-uglia-v-iuzhnuiu-koreiu-vyrosli-bolee-chem-na-chetvert-izi",
-        "https://iz.ru/2153641/v-tulskoi-oblasti-v-rezultate-ataki-bpla-pogibla-mirnaia-zhitelnitca-izi",
-        "https://iz.ru/2153642/rossiiskaia-team-spirit-stala-trekhkratnym-pobeditelem-chempionata-po-dota-2-izi",
-        "https://iz.ru/2153643/v-krasnoiarske-na-ploshchadi-5-tys-kv-m-zagorelsia-mebelnyi-sklad-izi",
-        "https://iz.ru/2153647/pilot-red-bull-ferstappen-razbil-mashinu-na-pervom-kruge-gran-pri-niderlandov-izi"
+        "https://iz.ru/2153675/chto-proizoshlo-za-nedeliu-s-17-po-23-avgusta-glavnoe-izi",
+        "https://iz.ru/2153677/byvshie-ucheniki-obvinili-khoreografa-cherkozianova-v-nasilii-izi",
+        "https://iz.ru/2153681/posol-v-otstavke-maksim-peshkov-umer-v-vozraste-76-let-izi",
+        "https://iz.ru/2153688/predvaritelnaia-iavka-na-vyborakh-v-kurultai-kazakhstana-sostavila-7419-izi",
+        "https://iz.ru/2153689/v-germanii-nazvali-nesostoiatelnym-stcenarii-iakoby-napadeniia-rossii-na-nato-izi",
+        "https://iz.ru/2153696/sportsmen-kedzhelcha-iz-efiopii-ustanovil-mirovoi-rekord-v-polumarafone-izi",
+        "https://iz.ru/2153699/degtiarev-poobeshchal-evrope-po-susalam-za-narushenie-pravil-sorevnovanii-izi",
+        "https://iz.ru/2153700/ft-soobshchila-ob-istoricheskom-maksimume-importa-rossiiskoi-nefti-v-indiiu-izi",
+        "https://iz.ru/2153703/daily-mail-uznala-o-poluchatele-nasledstva-eks-nevesty-klichko-panetteri-izi",
+        "https://iz.ru/2153704/propavshii-v-iakutskoi-taige-traktorist-vernulsia-domoi-spustia-mesiatc-izi",
+        "https://iz.ru/2153705/v-ksir-soobshchili-o-nalichii-u-irana-stcenariia-na-liubye-vrazhdebnye-deistviia-ssha-izi",
+        "https://iz.ru/2153707/nyt-predlozhila-drevnee-shumerskoe-reshenie-dlia-rekordnogo-gosdolga-ssha-izi",
+        "https://iz.ru/2153708/na-ukraine-netrezvaia-zhenshchina-dezertir-iz-vsu-brosila-tri-granaty-vo-dvor-sosedei-izi",
+        "https://iz.ru/2153709/v-irane-rasskazali-o-priglashenii-prisoedinitsia-k-mekkanskomu-soglasheniiu-izi",
+        "https://iz.ru/2153710/sily-pvo-za-den-sbili-269-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2153711/zelenskii-obiavil-o-planakh-proizvodit-ukrainskie-rakety-dlia-patriot-izi",
+        "https://iz.ru/2153712/chibis-zaiavil-o-podgotovke-murmanskoi-oblasti-k-piratskim-atakam-na-sevmorputi-izi",
+        "https://iz.ru/2153713/lesnye-pozhary-v-evrope-priveli-k-vzryvam-boepripasov-vremen-mirovyh-vojn-izi",
+        "https://iz.ru/2153715/v-shebekino-belgorodskoi-oblasti-muzhchina-postradal-pri-udare-bpla-izi",
+        "https://iz.ru/2153717/ukraina-dogovorilas-o-proizvodstve-bespilotnikov-v-finliandii-izi"
       ]
     },
     "2026-08-24": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 1050,
+      "totalChecked": 1049,
       "totalIzi": 304,
       "totalIiz": 2,
       "totalAi": 306,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-08-28": {
-      "totalChecked": 977,
+      "totalChecked": 976,
       "totalIzi": 162,
       "totalIiz": 2,
       "totalAi": 164,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 395,
-      "totalIzi": 150,
+      "totalChecked": 489,
+      "totalIzi": 180,
       "totalIiz": 2,
-      "totalAi": 152,
+      "totalAi": 182,
       "topLinks": [
         "https://iz.ru/2154135/ot-tvin-piksa-do-paddingtona-chto-smotret-oseniu-izi",
         "https://iz.ru/2156286/uchenye-raskryli-mekhanizm-pamiati-kishechnika-posle-vospaleniia-izi",
