@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T23:40:54.827Z",
+  "generatedAt": "2026-08-31T05:49:48.206Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,21 +179,11 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 801,
-      "totalIzi": 235,
+      "totalChecked": 748,
+      "totalIzi": 225,
       "totalIiz": 1,
-      "totalAi": 236,
+      "totalAi": 226,
       "topLinks": [
-        "https://iz.ru/2153838/vnuk-sovetskogo-razvedchika-reshil-borotsia-za-post-prezidenta-frantcii-izi",
-        "https://iz.ru/2153840/2026-08-24/v-dagestane-proizoshlo-vozgoranie-skladov-ot-oblomkov-bpla-izi",
-        "https://iz.ru/2153843/2026-08-24/ekspert-rasskazala-o-problemakh-s-polucheniem-kreditov-izi",
-        "https://iz.ru/2153846/v-mvd-predupredili-o-moshennichestve-s-neozhidannymi-bankovskimi-perevodami-izi",
-        "https://iz.ru/2153850/eksperty-proekta-perezvoni-sam-predupredili-o-novykh-skhemakh-moshennikov-izi",
-        "https://iz.ru/2153881/v-rostovskoi-oblasti-v-techenie-nochnoi-massirovannoi-ataki-sbity-bolee-120-bpla-izi",
-        "https://iz.ru/2153891/opublikovany-kadry-zaderzhaniia-zhitelia-evpatorii-za-peredachu-dannykh-sbu-izi",
-        "https://iz.ru/2153899/partiia-adilet-nabrala-7117-golosov-na-vyborakh-v-kurultai-kazakhstana-izi",
-        "https://iz.ru/2153900/avtostat-predrek-snizhenie-avtorynka-rf-na-10-v-avguste-izi",
-        "https://iz.ru/2153903/dzhigan-zagovoril-o-vozvrashchenii-k-byvshei-supruge-oksane-samoilovoi-izi",
         "https://iz.ru/2153918/pravitelstvo-napravit-35-mlrd-rublei-na-podderzhku-msp-v-monogorodakh-izi",
         "https://iz.ru/2153923/putin-pozdravil-tokaeva-s-pobedoi-partii-adilet-na-vyborakh-v-kazakhstane-izi",
         "https://iz.ru/2153929/uchenye-rasskazali-o-sviazi-kiberbullinga-s-problemami-psikhiki-u-podrostkov-izi",
@@ -203,11 +193,21 @@
         "https://iz.ru/2153940/v-shveitcarii-obiasnili-rost-obema-zamorozhennykh-aktivov-rossii-stoimostiu-zolota-izi",
         "https://iz.ru/2153946/pashinian-vyrazil-udovletvorenie-vozmozhnym-resheniem-odkb-ob-iskliuchenii-armenii-izi",
         "https://iz.ru/2153947/pashinian-poprosil-rossiiu-prodat-kontcessiiu-na-upravlenie-zhd-tretei-strane-izi",
-        "https://iz.ru/2153949/uchenye-rasskazali-o-vliianii-soedinenii-shchavelevoi-kisloty-na-kishechnik-izi"
+        "https://iz.ru/2153949/uchenye-rasskazali-o-vliianii-soedinenii-shchavelevoi-kisloty-na-kishechnik-izi",
+        "https://iz.ru/2153955/dakota-dzhonson-i-taker-pillsberi-rasstalis-kakimi-byli-otnosheniia-pary-izi",
+        "https://iz.ru/2153956/v-kremle-ukazali-na-popytki-britanii-stroit-kozni-na-peregovorakh-po-ukraine-izi",
+        "https://iz.ru/2153960/sovet-fide-ne-dopustil-sbornuiu-rossii-do-vsemirnoi-shakhmatnoi-olimpiady-izi",
+        "https://iz.ru/2153968/rumyniia-podniala-istrebiteli-f-16-iz-za-narusheniia-vozdushnogo-prostranstva-izi",
+        "https://iz.ru/2153976/v-krymu-otcenili-uroven-nezavisimosti-ukrainy-izi",
+        "https://iz.ru/2153988/v-irkutskoi-oblasti-podrostok-zabil-do-smerti-pensionera-izi",
+        "https://iz.ru/2153995/pashinian-nazval-transformatciiu-otnoshenii-armenii-s-rossiei-estestvennym-protcessom-izi",
+        "https://iz.ru/2153998/fsb-presekla-popytku-podzhoga-na-obekte-zheleznodorozhnogo-transporta-na-iamale-izi",
+        "https://iz.ru/2153999/posolstvo-rossii-obvinilo-shveitcariiu-v-otkaze-ot-neitraliteta-izi",
+        "https://iz.ru/2154001/miroshnik-nazval-voennym-prestupleniem-udar-vsu-po-detskomu-tcentru-v-krasnodare-izi"
       ]
     },
     "2026-08-25": {
-      "totalChecked": 991,
+      "totalChecked": 989,
       "totalIzi": 274,
       "totalIiz": 3,
       "totalAi": 277,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 588,
-      "totalIzi": 197,
+      "totalChecked": 593,
+      "totalIzi": 198,
       "totalIiz": 2,
-      "totalAi": 199,
+      "totalAi": 200,
       "topLinks": [
         "https://iz.ru/2154135/ot-tvin-piksa-do-paddingtona-chto-smotret-oseniu-izi",
         "https://iz.ru/2156286/uchenye-raskryli-mekhanizm-pamiati-kishechnika-posle-vospaleniia-izi",
@@ -375,13 +375,31 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 44,
-      "totalIzi": 1,
-      "totalIiz": 1,
-      "totalAi": 2,
+      "totalChecked": 201,
+      "totalIzi": 24,
+      "totalIiz": 2,
+      "totalAi": 26,
       "topLinks": [
+        "https://iz.ru/2156652/igra-v-shakhmaty-sposobstvuet-uluchsheniiu-vnimaniia-i-kachestva-zhizni-izi",
+        "https://iz.ru/2156683/mozg-nauchilsia-spravliatsia-s-mnogozadachnostiu-blagodaria-trenirovke-izi",
         "https://iz.ru/2157008/narodnye-primety-na-31-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2157968/lavrov-zaiavil-o-planakh-nato-prevratit-arktiku-v-novyi-front-protivostoianiia-izi"
+        "https://iz.ru/2157968/lavrov-zaiavil-o-planakh-nato-prevratit-arktiku-v-novyi-front-protivostoianiia-izi",
+        "https://iz.ru/2157973/v-finliandii-zaiavili-o-riske-iadernogo-protivostoianiia-iz-za-provokatcii-evropy-izi",
+        "https://iz.ru/2157987/v-ksir-soobshchili-o-nanesenii-iranom-udarov-po-dvum-aviabazam-ssha-v-iordanii-izi",
+        "https://iz.ru/2157990/v-minprosveshcheniia-zaiavili-ob-otsutstvii-planov-meniat-srok-obucheniia-v-shkolakh-izi",
+        "https://iz.ru/2157992/v-gosdume-napomnili-o-prave-na-sotcialnuiu-pensiiu-pri-otsutstvii-stazha-izi",
+        "https://iz.ru/2158000/rossiianam-rasskazali-o-vozvrate-do-143-tys-rublei-za-detskie-kruzhki-izi",
+        "https://iz.ru/2158011/bessent-zaiavil-o-planakh-ssha-vvodit-novye-sanktcii-protiv-irana-kazhduiu-nedeliu-izi",
+        "https://iz.ru/2158013/nazvany-kategorii-grazhdan-s-pravom-polucheniia-s-sentiabria-dvukh-pensii-odnovremenno-izi",
+        "https://iz.ru/2158014/v-minzdrave-dopustili-pobedu-nad-nekotorymi-vidami-raka-v-techenie-shesti-let-izi",
+        "https://iz.ru/2158017/posol-gonchar-zaiavil-o-predostavlenii-nato-svoikh-territorii-dlia-atak-kieva-izi",
+        "https://iz.ru/2156652/igra-v-shakhmaty-sposobstvuet-uluchsheniiu-vnimaniia-i-kachestva-zhizni-izi",
+        "https://iz.ru/2156683/mozg-nauchilsia-spravliatsia-s-mnogozadachnostiu-blagodaria-trenirovke-izi",
+        "https://iz.ru/2157008/narodnye-primety-na-31-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2157968/lavrov-zaiavil-o-planakh-nato-prevratit-arktiku-v-novyi-front-protivostoianiia-izi",
+        "https://iz.ru/2157973/v-finliandii-zaiavili-o-riske-iadernogo-protivostoianiia-iz-za-provokatcii-evropy-izi",
+        "https://iz.ru/2157987/v-ksir-soobshchili-o-nanesenii-iranom-udarov-po-dvum-aviabazam-ssha-v-iordanii-izi",
+        "https://iz.ru/2157990/v-minprosveshcheniia-zaiavili-ob-otsutstvii-planov-meniat-srok-obucheniia-v-shkolakh-izi"
       ]
     }
   }
