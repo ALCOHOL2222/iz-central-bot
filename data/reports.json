@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:17:06.693Z",
+  "generatedAt": "2026-09-01T00:01:41.772Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-08-18": {
-      "totalChecked": 395,
-      "totalIzi": 126,
-      "totalIiz": 1,
-      "totalAi": 127,
-      "topLinks": [
-        "https://iz.ru/2145458/narodnye-primety-na-11-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2150275/uchenye-raskryli-rol-gormona-stressa-v-vosstanovlenii-kletok-mozga-izi",
-        "https://iz.ru/2150288/uchenye-postavili-pod-somnenie-odnu-iz-glavnykh-teorii-pamiati-izi",
-        "https://iz.ru/2150333/uchenye-nashli-sposob-omolodit-kletki-mozga-s-pomoshchiu-belka-timp2-izi",
-        "https://iz.ru/2150580/ldpr-predlozhila-razvivat-otechestvennuiu-robotizatciiu-za-schet-otchislenii-ot-migrantov-izi",
-        "https://iz.ru/2150687/peterburgskaia-birzha-zapustila-mekhanizm-obespecheniia-potrebitelei-benzinom-izi",
-        "https://iz.ru/2150703/2026-08-18/minprosveshcheniia-rf-opredelilo-maksimalnoe-chislo-urokov-dlia-shkolnikov-izi",
-        "https://iz.ru/2150711/2026-08-18/rossiianam-napomnili-o-pravilakh-naznacheniia-strakhovoi-pensii-po-starosti-izi",
-        "https://iz.ru/2150715/2026-08-18/frantcuzskii-istorik-zaiavil-o-gibeli-kazhdogo-chetvertogo-naemnika-v-riadakh-vsu-izi",
-        "https://iz.ru/2150722/minprosveshcheniia-opredelilo-sroki-novogo-uchebnogo-goda-i-chislo-pervoklassnikov-izi",
-        "https://iz.ru/2150723/2026-08-18/spasateli-nashli-propavshikh-na-elbruse-turistov-izi",
-        "https://iz.ru/2150741/gosobvinenie-potrebovalo-uzhestochit-nakazanie-dlia-blogera-lerchek-izi",
-        "https://iz.ru/2150764/2026-08-18/dmitriev-nameknul-na-prevrashchenie-kanady-v-novyi-amerikanskii-shtat-izi",
-        "https://iz.ru/2150767/2026-08-18/rossiia-sokratila-vlozheniia-v-gosdolg-ssha-v-iiune-do-27-mln-izi",
-        "https://iz.ru/2150775/reiting-odobreniia-trampa-upal-do-rekordnykh-33-izi",
-        "https://iz.ru/2150778/zagradotriady-vsu-ubili-pytavshikhsia-sdatsia-v-plen-naemnikov-pod-kharkovom-izi",
-        "https://iz.ru/2150781/na-kamchatke-u-izvergaiushchegosia-vulkana-chast-stenki-obrushilas-v-zhelob-izi",
-        "https://iz.ru/2150782/euractiv-uznal-o-planakh-ssha-razreshit-puski-raket-s-evropeiskikh-ustanovok-izi",
-        "https://iz.ru/2150783/v-rzhd-obdumyvaiut-zapusk-bolshego-chisla-bespilotnykh-lastochek-na-mtck-izi",
-        "https://iz.ru/2150784/roditeliam-osnovatelia-azova-prinesli-bukety-s-traurnymi-lentami-izi"
-      ]
-    },
     "2026-08-19": {
       "totalChecked": 419,
       "totalIzi": 141,
@@ -179,7 +151,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 433,
+      "totalChecked": 432,
       "totalIzi": 124,
       "totalIiz": 1,
       "totalAi": 125,
@@ -207,31 +179,31 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 952,
-      "totalIzi": 271,
+      "totalChecked": 877,
+      "totalIzi": 254,
       "totalIiz": 2,
-      "totalAi": 273,
+      "totalAi": 256,
       "topLinks": [
-        "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi",
-        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi",
-        "https://iz.ru/2154440/ozon-izmenil-usloviia-oplaty-zakazov-iz-za-situatcii-so-skladami-izi",
-        "https://iz.ru/2154458/velikobritaniia-poluchila-dostup-k-dannym-ukrainskikh-dronov-dlia-razrabotki-ii-izi",
-        "https://iz.ru/2154464/platnye-kliniki-nachnut-preduprezhdat-patcientov-o-posledstviiakh-narusheniia-lecheniia-izi",
-        "https://iz.ru/2154466/v-gosdume-predlozhili-lgotnye-kredity-na-stroitelstvo-domov-svoimi-silami-izi",
-        "https://iz.ru/2154468/minprosveshcheniia-nachalo-razrabotku-novogo-standarta-obucheniia-dlia-5-9-klassov-izi",
-        "https://iz.ru/2154476/v-transportnykh-vuzakh-rossii-vvedut-obiazatelnyi-kurs-po-bespilotnym-sistemam-izi",
-        "https://iz.ru/2154477/v-op-predlozhili-vvesti-nalogovyi-vychet-na-lechenie-domashnikh-zhivotnykh-izi",
-        "https://iz.ru/2154481/v-60-regionakh-rossii-ogranichat-prodazhu-alkogolia-v-den-znanii-izi",
-        "https://iz.ru/2154486/v-gd-rasskazali-o-sposobe-pererascheta-za-neobosnovannuiu-platu-za-remont-doma-izi",
-        "https://iz.ru/2154487/kitai-zapustil-ii-model-dlia-poiska-mestorozhdenii-poleznykh-iskopaemykh-v-sintcziane-izi",
-        "https://iz.ru/2154496/bloomberg-soobshchilo-o-roli-liutnika-v-sryve-torgovykh-peregovorov-ssha-i-kanady-izi",
-        "https://iz.ru/2154498/pochti-50-uchitelei-reguliarno-primeniaiut-iskusstvennyi-intellekt-v-rabote-izi",
-        "https://iz.ru/2154499/za-proshedshuiu-nedeliu-ot-atak-dronov-vsu-pogibli-46-i-postradali-364-chelovek-izi",
-        "https://iz.ru/2154503/bittcevskii-maniak-obzhaloval-otkaz-v-perevode-iz-kolonii-poliarnaia-sova-izi",
-        "https://iz.ru/2154505/v-krasnodarskom-krae-zagorelsia-npz-iz-za-ataki-bespilotnikov-izi",
         "https://iz.ru/2154507/ekspert-predupredil-o-skhemakh-moshennikov-pered-1-sentiabria-izi",
         "https://iz.ru/2154511/oon-prizvala-prekratit-udary-po-mirnym-zhiteliam-posle-ataki-vsu-na-krasnodar-izi",
-        "https://iz.ru/2154512/vsia-informatciia-o-karte-moskvicha-teper-dostupna-v-prilozhenii-moia-moskva-izi"
+        "https://iz.ru/2154512/vsia-informatciia-o-karte-moskvicha-teper-dostupna-v-prilozhenii-moia-moskva-izi",
+        "https://iz.ru/2154516/v-turtcii-pri-stolknovenii-avtobusa-s-benzovozom-postradali-35-chelovek-izi",
+        "https://iz.ru/2154518/putin-otmetil-vazhnost-vospitaniia-molodezhi-na-nezyblemykh-tcennostiakh-izi",
+        "https://iz.ru/2154521/na-ukraine-zaiavili-o-netcelevom-ispolzovanii-dronov-na-parade-v-kieve-izi",
+        "https://iz.ru/2154537/na-amurskom-gazokhimicheskom-komplekse-proizoshlo-vozgoranie-izi",
+        "https://iz.ru/2154539/deputat-predlozhil-udarit-oreshnikom-po-zavodu-bpla-v-evrope-izi",
+        "https://iz.ru/2154546/v-germanii-obnaruzhili-tretii-bpla-posle-popytki-ataki-na-aeroport-leiptciga-izi",
+        "https://iz.ru/2154556/kit-kharington-zamenit-nikolasa-kholta-na-roli-zlatopusta-lokonsa-izi",
+        "https://iz.ru/2154568/biznesmen-koziakov-podal-isk-na-75-mln-rublei-k-bokseru-tcziu-izi",
+        "https://iz.ru/2154571/v-chernoe-zerkalo-snova-zaglianut-chto-izvestno-o-novom-sezone-kultovogo-seriala-izi",
+        "https://iz.ru/2154574/v-armenii-soobshchili-o-chetyrekh-novykh-figurantakh-posle-aresta-kochariana-i-ego-syna-izi",
+        "https://iz.ru/2154577/chislo-postradavshikh-pri-vzryve-na-amurskom-gkhk-vyroslo-do-40-chelovek-izi",
+        "https://iz.ru/2154578/guterresh-zaiavil-o-paraliche-sovbeza-oon-iz-za-geopolitiki-izi",
+        "https://iz.ru/2154580/eks-glavkom-vsu-zaluzhnyi-priznal-postoiannuiu-adaptatciiu-rossii-k-sanktciiam-izi",
+        "https://iz.ru/2154604/odin-chelovek-pogib-i-dvoe-raneny-pri-atakakh-vsu-na-brianskuiu-oblast-izi",
+        "https://iz.ru/2154605/rossiiskie-voiska-osvobodili-annovku-v-dnr-izi",
+        "https://iz.ru/2154607/armiia-rossii-porazila-mesto-podgotovki-raket-flamingo-vsu-izi",
+        "https://iz.ru/2154609/sily-pvo-za-sutki-sbili-460-ukrainskikh-bespilotnikov-izi"
       ]
     },
     "2026-08-26": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 901,
-      "totalIzi": 197,
+      "totalChecked": 980,
+      "totalIzi": 206,
       "totalIiz": 2,
-      "totalAi": 199,
+      "totalAi": 208,
       "topLinks": [
         "https://iz.ru/2156652/igra-v-shakhmaty-sposobstvuet-uluchsheniiu-vnimaniia-i-kachestva-zhizni-izi",
         "https://iz.ru/2156683/mozg-nauchilsia-spravliatsia-s-mnogozadachnostiu-blagodaria-trenirovke-izi",
@@ -400,6 +372,16 @@
         "https://iz.ru/2158035/dzhokovich-ustupil-navone-v-pervom-kruge-na-us-open-v-niu-jorke-izi",
         "https://iz.ru/2158037/chislo-pogibshikh-pri-navodnenii-v-nepale-prevysilo-900-chelovek-izi",
         "https://iz.ru/2158040/ugolovnoe-delo-v-otnoshenii-biznesmena-ili-trabera-prekratili-izi"
+      ]
+    },
+    "2026-09-01": {
+      "totalChecked": 49,
+      "totalIzi": 1,
+      "totalIiz": 1,
+      "totalAi": 2,
+      "topLinks": [
+        "https://iz.ru/2158134/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2158648/kakao-stalo-samym-dorogim-tovarom-v-mire-v-avguste-izi"
       ]
     }
   }
