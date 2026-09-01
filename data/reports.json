@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:23:44.167Z",
+  "generatedAt": "2026-09-01T18:44:01.444Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,43 +179,39 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 824,
-      "totalIzi": 244,
+      "totalChecked": 541,
+      "totalIzi": 149,
       "totalIiz": 2,
-      "totalAi": 246,
+      "totalAi": 151,
       "topLinks": [
-        "https://iz.ru/2154568/biznesmen-koziakov-podal-isk-na-75-mln-rublei-k-bokseru-tcziu-izi",
-        "https://iz.ru/2154571/v-chernoe-zerkalo-snova-zaglianut-chto-izvestno-o-novom-sezone-kultovogo-seriala-izi",
-        "https://iz.ru/2154574/v-armenii-soobshchili-o-chetyrekh-novykh-figurantakh-posle-aresta-kochariana-i-ego-syna-izi",
-        "https://iz.ru/2154577/chislo-postradavshikh-pri-vzryve-na-amurskom-gkhk-vyroslo-do-40-chelovek-izi",
-        "https://iz.ru/2154578/guterresh-zaiavil-o-paraliche-sovbeza-oon-iz-za-geopolitiki-izi",
-        "https://iz.ru/2154580/eks-glavkom-vsu-zaluzhnyi-priznal-postoiannuiu-adaptatciiu-rossii-k-sanktciiam-izi",
-        "https://iz.ru/2154604/odin-chelovek-pogib-i-dvoe-raneny-pri-atakakh-vsu-na-brianskuiu-oblast-izi",
-        "https://iz.ru/2154605/rossiiskie-voiska-osvobodili-annovku-v-dnr-izi",
-        "https://iz.ru/2154607/armiia-rossii-porazila-mesto-podgotovki-raket-flamingo-vsu-izi",
-        "https://iz.ru/2154609/sily-pvo-za-sutki-sbili-460-ukrainskikh-bespilotnikov-izi",
-        "https://iz.ru/2154613/sud-v-dnr-zaochno-dal-14-let-kolonii-voevavshemu-za-kiev-peruanskomu-naemniku-izi",
-        "https://iz.ru/2154619/kontcert-kane-uesta-v-sankt-peterburge-chto-izvestno-izi",
-        "https://iz.ru/2154626/peskov-nazval-udivitelnymi-zaiavleniia-stubba-ob-udarakh-vsu-po-wildberries-izi",
-        "https://iz.ru/2154632/peskov-ne-stal-kommentirovat-slova-zelenskogo-o-bufernoi-zone-v-donbasse-izi",
-        "https://iz.ru/2154637/na-amurskom-gazokhimicheskom-komplekse-proizoshlo-vozgoranie-chto-izvestno-izi",
-        "https://iz.ru/2154643/peskov-zaiavil-ob-otsutstvii-planov-vstrech-posle-prileta-samoleta-ssha-vo-vnukovo-izi",
-        "https://iz.ru/2154644/kak-otdelatsia-ot-parnia-za-10-dnei-prodolzhat-spustia-23-goda-izi",
-        "https://iz.ru/2154673/v-parizhe-vooruzhennyi-muzhchina-ograbil-telokhranitelia-posla-saudovskoi-aravii-izi",
-        "https://iz.ru/2154680/rosfinmonitoring-nachnet-poluchat-dannye-o-perevodakh-ot-nspk-s-1-sentiabria-izi",
-        "https://iz.ru/2154682/odin-chelovek-pogib-i-123-postradalo-vo-vremia-pozhara-na-agkhk-izi"
+        "https://iz.ru/2154989/sredstva-pvo-v-techenii-dnia-sbili-nad-regionami-rf-39-bespilotnikov-vsu-izi",
+        "https://iz.ru/2154992/declassified-rasskazal-o-podgotovke-britaniei-37-rossiiskikh-ofitcerov-izi",
+        "https://iz.ru/2154995/rptc-proinformirovala-vatikan-o-goneniiakh-na-pravoslavnykh-na-ukraine-izi",
+        "https://iz.ru/2155022/tri-cheloveka-pogibli-i-146-postradali-pri-pozhare-na-amurskom-gkhk-izi",
+        "https://iz.ru/2155025/piat-chelovek-postradali-pri-atake-vsu-v-gorlovke-izi",
+        "https://iz.ru/2155026/amerikanskaia-pevitca-i-kinoaktrisa-dolli-parton-biografiia-izi",
+        "https://iz.ru/2155028/piat-chelovek-postradali-v-dtp-s-avtobusom-v-sankt-peterburge-izi",
+        "https://iz.ru/2155030/medvedev-zaiavil-o-rabote-er-nad-ustoichivym-rostom-pochty-rossii-izi",
+        "https://iz.ru/2155040/v-moskve-v-dtp-pogibli-dva-cheloveka-okolo-metro-pykhtino-izi",
+        "https://iz.ru/2155045/kobiakov-rf-na-dve-nedeli-operedila-vsu-nachav-spetcoperatciiu-na-ukr-izi",
+        "https://iz.ru/2155060/uletevshii-iz-moskvy-voenno-transportnyi-samolet-ssha-prizemlilsia-v-rige-izi",
+        "https://iz.ru/2155089/letevshii-v-indiiu-boeing-787-ekstrenno-sel-v-baku-iz-za-tekhnicheskoi-neispravnosti-izi",
+        "https://iz.ru/2144424/luna-uidet-v-ten-zemli-kogda-nabliudat-odno-iz-samykh-krasivykh-nebesnykh-iavlenii-goda-iiz",
+        "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
+        "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
+        "https://iz.ru/2154128/uchenye-sviazali-vitamin-d-s-uluchsheniem-pamiati-i-myshleniia-u-pozhilykh-liudei-izi",
+        "https://iz.ru/2154295/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2154421/baltika-sygrala-vnichiu-s-rubinom-so-schetom-11-v-matche-rpl-izi",
+        "https://iz.ru/2154431/mask-zaiavil-ob-ischeznovenii-chelovechestva-izi",
+        "https://iz.ru/2154440/ozon-izmenil-usloviia-oplaty-zakazov-iz-za-situatcii-so-skladami-izi"
       ]
     },
     "2026-08-26": {
-      "totalChecked": 1041,
-      "totalIzi": 304,
-      "totalIiz": 2,
-      "totalAi": 306,
+      "totalChecked": 1009,
+      "totalIzi": 301,
+      "totalIiz": 1,
+      "totalAi": 302,
       "topLinks": [
-        "https://iz.ru/2154583/narodnye-primety-na-26-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2154606/prosnuvshaiasia-ugroza-kak-tiazhelyi-covid-19-mozhet-aktivirovat-spiashchie-virusy-izi",
-        "https://iz.ru/2154657/golodanie-protiv-boli-uchenye-obnaruzhili-novuiu-sviaz-mezhdu-kishechnikom-i-mozgom-izi",
-        "https://iz.ru/2154743/shelkovitca-okazalas-sviazana-s-izmeneniiami-kishechnoi-mikroflory-i-obmena-veshchestv-izi",
         "https://iz.ru/2155084/posolstvo-rf-obvinilo-struktury-kanady-v-geroizatcii-konovaltca-izi",
         "https://iz.ru/2155099/vlasti-shvetcii-khotiat-ekspropriirovat-obekt-riadom-s-voennoi-bazoi-muske-izi",
         "https://iz.ru/2155105/s-1-sentiabria-v-shkolakh-rossii-zapretiat-ispolzovanie-telefonov-na-urokakh-izi",
@@ -231,16 +227,19 @@
         "https://iz.ru/2155172/zakharova-ukazala-na-degradatciiu-stubba-posle-ego-slov-v-podderzhku-udarov-vsu-izi",
         "https://iz.ru/2155174/v-pentagone-ukazali-na-risk-otstavaniia-ssha-ot-kitaia-v-tekhnologicheskoi-gonke-izi",
         "https://iz.ru/2155175/v-kremle-nazvali-tcel-vizita-glavy-tcru-retkliffa-v-moskvu-izi",
-        "https://iz.ru/2155179/andreeva-priznalas-v-liubvi-rublevu-posle-pobedy-na-starte-miksta-us-open-izi"
+        "https://iz.ru/2155179/andreeva-priznalas-v-liubvi-rublevu-posle-pobedy-na-starte-miksta-us-open-izi",
+        "https://iz.ru/2155181/direktor-valeriia-leonteva-oproverg-vozobnovlenie-kontcertov-pevtca-izi",
+        "https://iz.ru/2155184/v-gosdume-prizvali-armeniiu-otkazatsia-ot-vedeniia-lzhivoi-politiki-izi",
+        "https://iz.ru/2155189/pravitelstvo-utverdilo-mery-podderzhki-postradavshikh-sellerov-wildberries-izi",
+        "https://iz.ru/2155192/v-rossii-zavershat-perekhod-na-novuiu-model-vysshego-obrazovaniia-za-tri-goda-izi"
       ]
     },
     "2026-08-27": {
-      "totalChecked": 1007,
-      "totalIzi": 240,
+      "totalChecked": 1004,
+      "totalIzi": 239,
       "totalIiz": 2,
-      "totalAi": 242,
+      "totalAi": 241,
       "topLinks": [
-        "https://iz.ru/2154796/chem-blizhe-k-lesu-tem-spokoinee-kak-priroda-vliiaet-na-nashe-samochuvstvie-izi",
         "https://iz.ru/2155215/kogda-ne-khvataet-slov-kak-muzyka-pomogaet-zhit-posle-raka-izi",
         "https://iz.ru/2155340/uchenye-izuchili-gendernye-razlichiia-u-muzhchin-i-zhenshchin-pri-diabete-izi",
         "https://iz.ru/2155483/analitiki-tutu-nazvali-populiarnye-regiony-dlia-spontannykh-puteshestvii-rossiian-izi",
@@ -259,7 +258,8 @@
         "https://iz.ru/2155860/smi-soobshchili-o-vozmozhnom-finansirovanii-frg-iadernoi-programmy-britanii-izi",
         "https://iz.ru/2155869/analitik-nazvala-prichiny-populiarnosti-mashi-i-medvedia-v-indonezii-izi",
         "https://iz.ru/2155871/krupnye-npz-kazakhstana-otkazalis-ispolzovat-kvoty-na-postavki-benzina-v-rf-izi",
-        "https://iz.ru/2155874/logisticheskie-obekty-ozon-v-orenburge-i-ufe-podverglis-atake-bpla-izi"
+        "https://iz.ru/2155874/logisticheskie-obekty-ozon-v-orenburge-i-ufe-podverglis-atake-bpla-izi",
+        "https://iz.ru/2155882/armiia-rossii-porazila-npz-v-kremenchuge-i-transportnyi-tcentr-v-borispole-izi"
       ]
     },
     "2026-08-28": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-29": {
-      "totalChecked": 601,
+      "totalChecked": 599,
       "totalIzi": 161,
       "totalIiz": 3,
       "totalAi": 164,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 980,
+      "totalChecked": 979,
       "totalIzi": 206,
       "totalIiz": 2,
       "totalAi": 208,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-01": {
-      "totalChecked": 220,
-      "totalIzi": 29,
+      "totalChecked": 863,
+      "totalIzi": 174,
       "totalIiz": 4,
-      "totalAi": 33,
+      "totalAi": 178,
       "topLinks": [
         "https://iz.ru/2158134/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2158196/uchenye-raskryli-rol-travm-u-zhenshchin-pri-zaniatiiakh-sportom-izi",
@@ -394,12 +394,12 @@
         "https://iz.ru/2158715/2026-09-01/v-mid-rf-ukazali-na-bezdeistvie-shvetcii-v-otvet-na-ataki-dronov-u-posolstva-izi",
         "https://iz.ru/2158718/blagotvoritelnyi-servis-mosru-obedinil-bolee-100-nekommercheskikh-organizatcii-izi",
         "https://iz.ru/2158719/2026-09-01/reuters-uznalo-uslovie-bessenta-dlia-zakliucheniia-soglasheniia-mezhdu-rf-i-ssha-izi",
-        "https://iz.ru/2150437/50-krasivye-otkrytki-s-pervym-dnem-oseni-teplye-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
-        "https://iz.ru/2151593/90-krasivye-otkrytki-s-dnem-znanii-kartinki-gifki-i-pozdravleniia-dlia-shkolnikov-uchitelei-i-iiz",
-        "https://iz.ru/2158134/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2158196/uchenye-raskryli-rol-travm-u-zhenshchin-pri-zaniatiiakh-sportom-izi",
-        "https://iz.ru/2158209/uchenye-nashli-sposob-uskorit-vosstanovlenie-povrezhdennykh-nervov-izi",
-        "https://iz.ru/2158305/uchenye-sviazali-probuzhdeniia-nochiu-s-geneticheskim-riskom-bolezni-altcgeimera-izi"
+        "https://iz.ru/2158724/pushkov-ukazal-na-prichastnost-vlastei-ispanii-k-migratcionnomu-krizisu-izi",
+        "https://iz.ru/2158725/politico-soobshchila-o-stolknovenii-proekta-o-sanktciiakh-protiv-rf-s-oppozitciei-v-ssha-izi",
+        "https://iz.ru/2158727/v-novokuibyshevske-v-rezultate-ataki-bpla-vybilo-okna-v-zhilom-dome-izi",
+        "https://iz.ru/2158728/estoniia-podniala-v-vozdukh-istrebiteli-iz-za-iakoby-zaletevshikh-v-stranu-bpla-izi",
+        "https://iz.ru/2158729/v-rossii-usilili-kontrol-za-sostoianiem-zdorovia-trudovykh-migrantov-izi",
+        "https://iz.ru/2158730/shkolnitca-napala-s-nozhom-na-uchitelia-fiziki-v-krasnoiarskom-krae-izi"
       ]
     }
   }
