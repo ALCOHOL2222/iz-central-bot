@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T21:57:16.351Z",
+  "generatedAt": "2026-09-02T00:25:01.968Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 499,
-      "totalIzi": 138,
+      "totalChecked": 498,
+      "totalIzi": 137,
       "totalIiz": 2,
-      "totalAi": 140,
+      "totalAi": 139,
       "topLinks": [
-        "https://iz.ru/2155089/letevshii-v-indiiu-boeing-787-ekstrenno-sel-v-baku-iz-za-tekhnicheskoi-neispravnosti-izi",
         "https://iz.ru/2144424/luna-uidet-v-ten-zemli-kogda-nabliudat-odno-iz-samykh-krasivykh-nebesnykh-iavlenii-goda-iiz",
         "https://iz.ru/2154014/uchenye-sviazali-sdvg-s-povyshennym-riskom-problem-s-serdtcem-pri-gipertonii-izi",
         "https://iz.ru/2154062/glavnoe-nachinaetsia-posle-pokhudeniia-uchenye-obiasnili-rol-sporta-izi",
@@ -175,20 +174,16 @@
         "https://iz.ru/2154486/v-gd-rasskazali-o-sposobe-pererascheta-za-neobosnovannuiu-platu-za-remont-doma-izi",
         "https://iz.ru/2154487/kitai-zapustil-ii-model-dlia-poiska-mestorozhdenii-poleznykh-iskopaemykh-v-sintcziane-izi",
         "https://iz.ru/2154496/bloomberg-soobshchilo-o-roli-liutnika-v-sryve-torgovykh-peregovorov-ssha-i-kanady-izi",
-        "https://iz.ru/2154498/pochti-50-uchitelei-reguliarno-primeniaiut-iskusstvennyi-intellekt-v-rabote-izi"
+        "https://iz.ru/2154498/pochti-50-uchitelei-reguliarno-primeniaiut-iskusstvennyi-intellekt-v-rabote-izi",
+        "https://iz.ru/2154499/za-proshedshuiu-nedeliu-ot-atak-dronov-vsu-pogibli-46-i-postradali-364-chelovek-izi"
       ]
     },
     "2026-08-26": {
-      "totalChecked": 990,
-      "totalIzi": 300,
+      "totalChecked": 940,
+      "totalIzi": 295,
       "totalIiz": 1,
-      "totalAi": 301,
+      "totalAi": 296,
       "topLinks": [
-        "https://iz.ru/2155099/vlasti-shvetcii-khotiat-ekspropriirovat-obekt-riadom-s-voennoi-bazoi-muske-izi",
-        "https://iz.ru/2155105/s-1-sentiabria-v-shkolakh-rossii-zapretiat-ispolzovanie-telefonov-na-urokakh-izi",
-        "https://iz.ru/2155126/ekspert-nazval-meshaiushchie-nakopit-na-pensiiu-oshibki-izi",
-        "https://iz.ru/2155133/nbc-uznal-o-zhelanii-driskolla-uiti-v-otstavku-v-sentiabre-izi",
-        "https://iz.ru/2155134/ssha-vydelili-40-mln-na-drony-dlia-borby-s-prestupnostiu-dlia-ukrainy-izi",
         "https://iz.ru/2155143/v-rospotrebnadzore-nazvali-optimalnye-sroki-vaktcinatcii-ot-grippa-izi",
         "https://iz.ru/2155154/moshenniki-sozdali-falshivuiu-obrazovatelnuiu-platformu-dlia-krazhi-dannykh-uchitelei-izi",
         "https://iz.ru/2155158/ekspert-rasskazal-o-vozmozhnosti-potrebovat-pereraschet-za-neokazannuiu-uslugu-zhkkh-izi",
@@ -203,7 +198,12 @@
         "https://iz.ru/2155184/v-gosdume-prizvali-armeniiu-otkazatsia-ot-vedeniia-lzhivoi-politiki-izi",
         "https://iz.ru/2155189/pravitelstvo-utverdilo-mery-podderzhki-postradavshikh-sellerov-wildberries-izi",
         "https://iz.ru/2155192/v-rossii-zavershat-perekhod-na-novuiu-model-vysshego-obrazovaniia-za-tri-goda-izi",
-        "https://iz.ru/2155193/opublikovany-kadry-zaderzhaniia-radikalov-terroristov-v-kbr-i-adygee-izi"
+        "https://iz.ru/2155193/opublikovany-kadry-zaderzhaniia-radikalov-terroristov-v-kbr-i-adygee-izi",
+        "https://iz.ru/2155201/v-rossii-vpervye-obnaruzhili-opasnuiu-tcikadku-vreditelia-iz-severnoi-ameriki-izi",
+        "https://iz.ru/2155204/v-ispanii-soobshchili-o-tupike-v-rassledovanii-ubiistva-predatelia-kuzminova-izi",
+        "https://iz.ru/2155205/regbiinyi-sudia-aleksei-bryzgalin-umer-v-vozraste-47-let-izi",
+        "https://iz.ru/2155211/v-kotovske-polnostiu-unichtozhen-logisticheskii-tcentr-wildberries-izi",
+        "https://iz.ru/2155222/na-severnom-kavkaze-zaderzhan-planirovavshii-prestupnuiu-deiatelnost-uchastnik-igil-izi"
       ]
     },
     "2026-08-27": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-09-01": {
-      "totalChecked": 979,
+      "totalChecked": 988,
       "totalIzi": 176,
       "totalIiz": 4,
       "totalAi": 180,
@@ -375,11 +375,15 @@
       ]
     },
     "2026-09-02": {
-      "totalChecked": 26,
-      "totalIzi": 1,
-      "totalIiz": 1,
-      "totalAi": 2,
+      "totalChecked": 68,
+      "totalIzi": 4,
+      "totalIiz": 2,
+      "totalAi": 6,
       "topLinks": [
+        "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2159322/2026-09-02/rosselkhoznadzor-nachal-proverku-vaktciny-multikan-8-posle-gibeli-sobak-izi",
+        "https://iz.ru/2159327/2026-09-02/vseukrainskii-agrarnyi-sovet-predupredil-o-zakrytii-portov-do-dekabria-izi",
+        "https://iz.ru/2159338/putin-nazval-prichinu-otkaza-evropy-ot-rossiiskogo-gaza-izi",
         "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2159322/2026-09-02/rosselkhoznadzor-nachal-proverku-vaktciny-multikan-8-posle-gibeli-sobak-izi"
       ]
