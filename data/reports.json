@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T19:57:26.831Z",
+  "generatedAt": "2026-09-02T22:49:19.283Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-08-20": {
-      "totalChecked": 403,
-      "totalIzi": 110,
-      "totalIiz": 1,
-      "totalAi": 111,
-      "topLinks": [
-        "https://iz.ru/2150913/mozg-nashel-svoego-dirizhera-uchenye-otkryli-gen-upravliaiushchii-stressom-izi",
-        "https://iz.ru/2150974/strakh-neudachi-mozhet-roditsia-v-detstve-uchenye-nashli-sposob-ego-oslabit-izi",
-        "https://iz.ru/2151431/uchenye-sviazali-bolezn-krona-s-oslablennoi-immunnoi-zashchitoi-izi",
-        "https://iz.ru/2151604/uchenye-sviazali-narusheniia-sna-posle-50-let-s-rannim-ukhodom-s-raboty-izi",
-        "https://iz.ru/2151665/narodnye-primety-na-20-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2151703/istoriia-bez-stereotipov-chto-dnk-rasskazala-o-zhenshchinakh-drevnosti-izi",
-        "https://iz.ru/2151704/fsb-i-rosgvardiia-presekli-nezakonnuiu-dobychu-krasnoknizhnoi-ryby-v-dnr-izi",
-        "https://iz.ru/2151863/gosdolg-ssha-prevysil-40-trln-vpervye-v-istorii-izi",
-        "https://iz.ru/2151872/sredniaia-pensiia-nerabotaiushchikh-pensionerov-prevysila-40-tys-rublei-v-shesti-regionakh-izi",
-        "https://iz.ru/2151896/psikholog-goldshtein-rasskazala-o-bazovoi-potrebnosti-cheloveka-v-leni-izi",
-        "https://iz.ru/2151916/2026-08-20/wsj-soobshchila-o-rospuske-batalona-bpla-armii-ssha-posle-uchenii-s-ukrainoi-izi",
-        "https://iz.ru/2151925/2026-08-20/vlasti-shveitcarii-nachali-otkazyvat-rossiianam-vo-vezde-na-lechenie-izi",
-        "https://iz.ru/2151932/2026-08-20/nad-rostovskoi-oblastiu-unichtozhili-okolo-90-ukrainskikh-bespilotnikov-izi",
-        "https://iz.ru/2151934/2026-08-20/v-sevastopole-ogranichili-podachu-elektrichestva-iz-za-peregruzki-setei-izi",
-        "https://iz.ru/2151936/2026-08-20/odin-chelovek-postradal-pri-atake-bpla-na-ulianovskuiu-oblast-izi",
-        "https://iz.ru/2151941/openai-podast-dokumenty-na-ipo-i-stanet-publichnoi-kompaniei-v-2027-godu-izi",
-        "https://iz.ru/2151942/minprosveshcheniia-soobshchilo-o-roste-nabora-v-kolledzhi-i-tekhnikumy-izi",
-        "https://iz.ru/2151947/rossiia-nachala-importirovat-toplivo-izi",
-        "https://iz.ru/2151950/telegraph-nazvala-uvolnenie-fedorova-vygodnym-dlia-moskvy-izi",
-        "https://iz.ru/2151951/v-chekhii-v-dva-raza-vyroslo-chislo-vydvorennykh-ukraintcev-s-nachala-2026-goda-izi"
-      ]
-    },
     "2026-08-21": {
       "totalChecked": 391,
       "totalIzi": 124,
@@ -123,7 +95,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 432,
+      "totalChecked": 435,
       "totalIzi": 124,
       "totalIiz": 1,
       "totalAi": 125,
@@ -151,7 +123,7 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 498,
+      "totalChecked": 499,
       "totalIzi": 137,
       "totalIiz": 2,
       "totalAi": 139,
@@ -179,7 +151,7 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 531,
+      "totalChecked": 529,
       "totalIzi": 152,
       "totalIiz": 1,
       "totalAi": 153,
@@ -207,14 +179,11 @@
       ]
     },
     "2026-08-27": {
-      "totalChecked": 950,
-      "totalIzi": 235,
+      "totalChecked": 937,
+      "totalIzi": 232,
       "totalIiz": 1,
-      "totalAi": 236,
+      "totalAi": 233,
       "topLinks": [
-        "https://iz.ru/2155794/apple-predstavit-pervyi-skladnoi-iphone-9-sentiabria-izi",
-        "https://iz.ru/2155796/ekspert-rasskazal-ob-iskliucheniiakh-pri-uvolnenii-po-sobstvennomu-zhelaniiu-izi",
-        "https://iz.ru/2155797/ekspert-sprognoziroval-rost-mrot-do-327-tys-rublei-v-2027-godu-izi",
         "https://iz.ru/2155802/v-12-regionakh-rossii-sredniaia-pensiia-prevysila-30-tys-rublei-izi",
         "https://iz.ru/2155805/v-rossii-s-1-sentiabria-uvelichat-limit-sverkhurochnoi-raboty-do-240-chasov-izi",
         "https://iz.ru/2155806/times-predlozhila-ispolzovat-aliuminii-dlia-pomoshchi-ukraine-izi",
@@ -231,7 +200,10 @@
         "https://iz.ru/2155889/gerasimov-zaiavil-o-stremlenii-kieva-ubedit-zapad-v-uspekhakh-vsu-izi",
         "https://iz.ru/2155898/dmitriev-ukazal-na-finansovye-problemy-evrosoiuza-izi",
         "https://iz.ru/2155906/gerasimov-otmetil-nastuplenie-vs-rf-nesnizhaiushchimisia-tempami-na-vsekh-napravleniiakh-izi",
-        "https://iz.ru/2155907/deviat-postradavshikh-pri-chp-na-amurskom-gkhk-dostavleny-na-lechenie-v-moskvu-izi"
+        "https://iz.ru/2155907/deviat-postradavshikh-pri-chp-na-amurskom-gkhk-dostavleny-na-lechenie-v-moskvu-izi",
+        "https://iz.ru/2155913/v-nepale-posle-navodneniia-propali-bez-vesti-vosem-rossiian-izi",
+        "https://iz.ru/2155914/sotrudnik-posolstva-rumynii-v-moskve-obiavlen-personoi-non-grata-izi",
+        "https://iz.ru/2155915/otnosheniia-po-stcenariiu-chto-izvestno-o-filme-gipoteza-liubvi-izi"
       ]
     },
     "2026-08-28": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-09-02": {
-      "totalChecked": 1023,
-      "totalIzi": 225,
+      "totalChecked": 1066,
+      "totalIzi": 228,
       "totalIiz": 2,
-      "totalAi": 227,
+      "totalAi": 230,
       "topLinks": [
         "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2158784/uchenye-nashli-prichinu-poteri-sposobnosti-pecheni-k-regeneratcii-izi",
@@ -401,6 +373,13 @@
         "https://iz.ru/2159412/britanka-s-russkim-aktcentom-vyigrala-delo-o-diskriminatcii-i-poluchila-223-tys-izi",
         "https://iz.ru/2159416/v-minprosveshcheniia-rf-napomnili-pravila-formirovaniia-shkolnogo-grafika-izi"
       ]
+    },
+    "2026-09-03": {
+      "totalChecked": 33,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
