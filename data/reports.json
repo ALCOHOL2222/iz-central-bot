@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:25:01.968Z",
+  "generatedAt": "2026-09-02T06:00:44.482Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,31 +179,31 @@
       ]
     },
     "2026-08-26": {
-      "totalChecked": 940,
-      "totalIzi": 295,
+      "totalChecked": 877,
+      "totalIzi": 277,
       "totalIiz": 1,
-      "totalAi": 296,
+      "totalAi": 278,
       "topLinks": [
-        "https://iz.ru/2155143/v-rospotrebnadzore-nazvali-optimalnye-sroki-vaktcinatcii-ot-grippa-izi",
-        "https://iz.ru/2155154/moshenniki-sozdali-falshivuiu-obrazovatelnuiu-platformu-dlia-krazhi-dannykh-uchitelei-izi",
-        "https://iz.ru/2155158/ekspert-rasskazal-o-vozmozhnosti-potrebovat-pereraschet-za-neokazannuiu-uslugu-zhkkh-izi",
-        "https://iz.ru/2155166/v-khabarovske-zaderzhali-podozrevaemogo-v-napadenii-na-dvukh-detei-s-toporom-izi",
-        "https://iz.ru/2155168/na-amurskom-gkhk-neizvestna-sudba-deviati-grazhdan-knr-posle-pozhara-izi",
-        "https://iz.ru/2155171/trofimov-nazval-sozidatelnyi-dialog-s-es-nevozmozhnym-v-usloviiakh-podderzhki-kieva-izi",
-        "https://iz.ru/2155172/zakharova-ukazala-na-degradatciiu-stubba-posle-ego-slov-v-podderzhku-udarov-vsu-izi",
-        "https://iz.ru/2155174/v-pentagone-ukazali-na-risk-otstavaniia-ssha-ot-kitaia-v-tekhnologicheskoi-gonke-izi",
-        "https://iz.ru/2155175/v-kremle-nazvali-tcel-vizita-glavy-tcru-retkliffa-v-moskvu-izi",
-        "https://iz.ru/2155179/andreeva-priznalas-v-liubvi-rublevu-posle-pobedy-na-starte-miksta-us-open-izi",
-        "https://iz.ru/2155181/direktor-valeriia-leonteva-oproverg-vozobnovlenie-kontcertov-pevtca-izi",
-        "https://iz.ru/2155184/v-gosdume-prizvali-armeniiu-otkazatsia-ot-vedeniia-lzhivoi-politiki-izi",
-        "https://iz.ru/2155189/pravitelstvo-utverdilo-mery-podderzhki-postradavshikh-sellerov-wildberries-izi",
-        "https://iz.ru/2155192/v-rossii-zavershat-perekhod-na-novuiu-model-vysshego-obrazovaniia-za-tri-goda-izi",
-        "https://iz.ru/2155193/opublikovany-kadry-zaderzhaniia-radikalov-terroristov-v-kbr-i-adygee-izi",
-        "https://iz.ru/2155201/v-rossii-vpervye-obnaruzhili-opasnuiu-tcikadku-vreditelia-iz-severnoi-ameriki-izi",
-        "https://iz.ru/2155204/v-ispanii-soobshchili-o-tupike-v-rassledovanii-ubiistva-predatelia-kuzminova-izi",
-        "https://iz.ru/2155205/regbiinyi-sudia-aleksei-bryzgalin-umer-v-vozraste-47-let-izi",
         "https://iz.ru/2155211/v-kotovske-polnostiu-unichtozhen-logisticheskii-tcentr-wildberries-izi",
-        "https://iz.ru/2155222/na-severnom-kavkaze-zaderzhan-planirovavshii-prestupnuiu-deiatelnost-uchastnik-igil-izi"
+        "https://iz.ru/2155222/na-severnom-kavkaze-zaderzhan-planirovavshii-prestupnuiu-deiatelnost-uchastnik-igil-izi",
+        "https://iz.ru/2155224/sk-vozbudil-ugolovnoe-delo-o-terakte-posle-ataki-vsu-na-wildberries-v-kotovske-izi",
+        "https://iz.ru/2155226/konstantinov-dal-sovet-stubbu-posle-ego-slov-ob-udarakh-po-rossii-izi",
+        "https://iz.ru/2155228/byvshemu-igroku-sbornoi-anglii-sterlingu-grozit-dva-goda-tiurmy-izi",
+        "https://iz.ru/2155229/vrachi-otcenili-sostoianie-vosmi-postradavshikh-pri-chp-na-agkkh-kak-tiazheloe-izi",
+        "https://iz.ru/2155236/ekspert-obiasnil-poiavlenie-sputnikov-starlink-nad-moskvoi-izi",
+        "https://iz.ru/2155240/pamfilova-predupredila-o-rasprostranenii-bolee-300-tys-feikov-o-vyborakh-v-gd-izi",
+        "https://iz.ru/2155241/rossiia-i-ukraina-gotoviat-eshche-odin-krupnyi-obmen-voennoplennymi-izi",
+        "https://iz.ru/2155245/uchenye-rasskazali-o-vliianii-shuma-mashin-na-polzu-peniia-ptitc-izi",
+        "https://iz.ru/2155250/putin-obsudil-s-prezidentom-sirii-razvitie-otnoshenii-moskvy-i-damaska-izi",
+        "https://iz.ru/2155253/zhitel-mariupolia-poluchil-23-goda-kolonii-za-podgotovku-terakta-izi",
+        "https://iz.ru/2155269/chislo-pogibshikh-ot-ataki-vsu-na-detskii-tcentr-v-krasnodare-vyroslo-do-chetyrekh-izi",
+        "https://iz.ru/2155276/uchenye-vyiavili-sboi-obrazovaniia-novykh-neironov-pri-depressii-izi",
+        "https://iz.ru/2155287/dva-cheloveka-raneny-pri-atake-dronov-vsu-na-sklad-wb-v-kotovske-izi",
+        "https://iz.ru/2155295/v-mid-rossii-zaiavili-o-politike-shantazha-zapada-v-otnoshenii-armenii-izi",
+        "https://iz.ru/2155300/astrofizik-rasskazal-o-posledstviiakh-dlia-cheloveka-pri-popadanii-v-chernuiu-dyru-izi",
+        "https://iz.ru/2155305/posle-moskvy-otmena-kontcerty-v-rf-stali-prichinoi-otmen-vystuplenii-za-rubezhom-izi",
+        "https://iz.ru/2155310/malchik-poluchil-ognestrelnoe-ranenie-v-khode-politceiskoi-pogoni-v-ingushetii-izi",
+        "https://iz.ru/2155311/genetika-povliiala-na-rost-kholesterina-pri-nizkouglevodnoi-diete-izi"
       ]
     },
     "2026-08-27": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-08-28": {
-      "totalChecked": 976,
+      "totalChecked": 974,
       "totalIzi": 162,
       "totalIiz": 2,
       "totalAi": 164,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-29": {
-      "totalChecked": 599,
+      "totalChecked": 598,
       "totalIzi": 161,
       "totalIiz": 3,
       "totalAi": 164,
@@ -375,17 +375,31 @@
       ]
     },
     "2026-09-02": {
-      "totalChecked": 68,
-      "totalIzi": 4,
+      "totalChecked": 231,
+      "totalIzi": 39,
       "totalIiz": 2,
-      "totalAi": 6,
+      "totalAi": 41,
       "topLinks": [
         "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2158784/uchenye-nashli-prichinu-poteri-sposobnosti-pecheni-k-regeneratcii-izi",
+        "https://iz.ru/2158855/uchenye-sviazali-pozdnii-rezhim-sna-s-problemami-psikhicheskogo-zdorovia-izi",
+        "https://iz.ru/2158886/uchenye-vyiavili-polzu-medlennogo-bega-dlia-mozga-izi",
+        "https://iz.ru/2158911/uchenye-nashli-sviazannyi-s-razvitiem-unikalnykh-osobennostei-mozga-cheloveka-gen-izi",
         "https://iz.ru/2159322/2026-09-02/rosselkhoznadzor-nachal-proverku-vaktciny-multikan-8-posle-gibeli-sobak-izi",
         "https://iz.ru/2159327/2026-09-02/vseukrainskii-agrarnyi-sovet-predupredil-o-zakrytii-portov-do-dekabria-izi",
         "https://iz.ru/2159338/putin-nazval-prichinu-otkaza-evropy-ot-rossiiskogo-gaza-izi",
+        "https://iz.ru/2159350/isu-lishil-figurista-kondratiuka-neitralnogo-statusa-izi",
+        "https://iz.ru/2159351/2026-09-02/iordaniia-otbila-ataku-13-ballisticheskikh-raket-izi",
+        "https://iz.ru/2159361/2026-09-02/samolet-pegasus-razvernulsia-po-puti-iz-antali-v-moskvu-izi",
+        "https://iz.ru/2159362/2026-09-02/v-odesse-progremela-seriia-vzryvov-na-fone-vozdushnoi-trevogi-izi",
+        "https://iz.ru/2159364/tramp-vydvinul-khung-kao-na-post-glavy-vms-ssha-izi",
+        "https://iz.ru/2159366/rostov-obygral-tcska-so-schetom-20-v-matche-kubka-rossii-izi",
+        "https://iz.ru/2159375/grushko-zaiavil-o-zhelanii-zapada-dobitsia-voennogo-prevoskhodstva-v-arktike-izi",
+        "https://iz.ru/2159382/kadastrovaia-stoimost-zemli-na-dalnem-vostoke-vyrosla-na-30-izi",
+        "https://iz.ru/2159389/kitaiskie-kompanii-narastili-perevozki-po-sevmorputi-v-evropu-izi",
+        "https://iz.ru/2159399/glava-minfina-ssha-zaiavil-o-vazhnosti-dialoga-s-rossiei-v-g20-izi",
         "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2159322/2026-09-02/rosselkhoznadzor-nachal-proverku-vaktciny-multikan-8-posle-gibeli-sobak-izi"
+        "https://iz.ru/2158784/uchenye-nashli-prichinu-poteri-sposobnosti-pecheni-k-regeneratcii-izi"
       ]
     }
   }
