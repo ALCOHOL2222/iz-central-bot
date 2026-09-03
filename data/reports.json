@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:27:13.533Z",
+  "generatedAt": "2026-09-03T16:36:21.973Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,45 +179,39 @@
       ]
     },
     "2026-08-27": {
-      "totalChecked": 617,
+      "totalChecked": 508,
+      "totalIzi": 120,
+      "totalIiz": 1,
+      "totalAi": 121,
+      "topLinks": [
+        "https://iz.ru/2154796/chem-blizhe-k-lesu-tem-spokoinee-kak-priroda-vliiaet-na-nashe-samochuvstvie-izi",
+        "https://iz.ru/2155215/kogda-ne-khvataet-slov-kak-muzyka-pomogaet-zhit-posle-raka-izi",
+        "https://iz.ru/2155340/uchenye-izuchili-gendernye-razlichiia-u-muzhchin-i-zhenshchin-pri-diabete-izi",
+        "https://iz.ru/2155483/analitiki-tutu-nazvali-populiarnye-regiony-dlia-spontannykh-puteshestvii-rossiian-izi",
+        "https://iz.ru/2155540/narodnye-primety-na-27-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2155736/2026-08-28/ldpr-predlozhila-eshche-odin-sposob-lisheniia-grazhdanstva-migrantov-izi",
+        "https://iz.ru/2155794/apple-predstavit-pervyi-skladnoi-iphone-9-sentiabria-izi",
+        "https://iz.ru/2155796/ekspert-rasskazal-ob-iskliucheniiakh-pri-uvolnenii-po-sobstvennomu-zhelaniiu-izi",
+        "https://iz.ru/2155797/ekspert-sprognoziroval-rost-mrot-do-327-tys-rublei-v-2027-godu-izi",
+        "https://iz.ru/2155802/v-12-regionakh-rossii-sredniaia-pensiia-prevysila-30-tys-rublei-izi",
+        "https://iz.ru/2155805/v-rossii-s-1-sentiabria-uvelichat-limit-sverkhurochnoi-raboty-do-240-chasov-izi",
+        "https://iz.ru/2155806/times-predlozhila-ispolzovat-aliuminii-dlia-pomoshchi-ukraine-izi",
+        "https://iz.ru/2155814/v-amurskoi-oblasti-poiavilis-pervye-china-friendly-apteki-izi",
+        "https://iz.ru/2155819/bloomberg-uznalo-o-planakh-ssha-vernut-prizovye-sudy-dlia-zakhvata-tankerov-irana-izi",
+        "https://iz.ru/2155835/moshenniki-nachali-rassylat-pervokursnikam-soobshcheniia-ot-imeni-vuzov-izi",
+        "https://iz.ru/2155840/v-sf-predupredili-o-rassylke-moshennikami-feikovykh-video-s-kamer-sosedei-izi",
+        "https://iz.ru/2155860/smi-soobshchili-o-vozmozhnom-finansirovanii-frg-iadernoi-programmy-britanii-izi",
+        "https://iz.ru/2155869/analitik-nazvala-prichiny-populiarnosti-mashi-i-medvedia-v-indonezii-izi",
+        "https://iz.ru/2155871/krupnye-npz-kazakhstana-otkazalis-ispolzovat-kvoty-na-postavki-benzina-v-rf-izi",
+        "https://iz.ru/2155874/logisticheskie-obekty-ozon-v-orenburge-i-ufe-podverglis-atake-bpla-izi"
+      ]
+    },
+    "2026-08-28": {
+      "totalChecked": 867,
       "totalIzi": 151,
       "totalIiz": 1,
       "totalAi": 152,
       "topLinks": [
-        "https://iz.ru/2156196/zakharova-ukazala-na-repressiiu-oppozitcii-v-armenii-iz-za-druzhby-s-rossiei-izi",
-        "https://iz.ru/2156202/v-mid-rf-ukazali-na-kolebaniia-v-ritorike-ssha-po-peregovoram-vokrug-ukrainy-izi",
-        "https://iz.ru/2156203/v-finliandii-prizvali-skandinavskie-strany-prekratit-protivostoianie-s-rossiei-izi",
-        "https://iz.ru/2156224/na-kubani-lokalizovali-pozhar-v-zapovednike-utrish-izi",
-        "https://iz.ru/2156225/glavnogo-trenera-baltiki-talalaeva-diskvalifitcirovali-na-chetyre-matcha-izi",
-        "https://iz.ru/2156236/chislo-spasennykh-inostrantcev-posle-navodneniia-v-nepale-vyroslo-do-31-izi",
-        "https://iz.ru/2156242/v-kazani-otkrylsia-novyi-tcentr-figurnogo-kataniia-izi",
-        "https://iz.ru/2156246/syna-ubitoi-vdovy-vitce-premera-dagestana-otpravili-pod-arest-izi",
-        "https://iz.ru/2156248/rossiia-stala-chetvertoi-v-mire-po-chislu-milliarderov-izi",
-        "https://iz.ru/2156264/lukashenko-otpravilsia-v-rossiiu-s-rabochim-vizitom-izi",
-        "https://iz.ru/2156272/v-rostekhe-soobshchili-ob-uvelichenii-proizvodstva-boepripasov-dlia-tankov-v-50-raz-izi",
-        "https://iz.ru/2156275/strelba-v-shkole-pod-berlinom-privela-k-gibeli-dvukh-chelovek-izi",
-        "https://iz.ru/2156276/dodik-soobshchil-o-namerenii-posetit-rossiiu-v-kontce-sentiabria-izi",
-        "https://iz.ru/2156277/aliev-vydelil-sabakhu-pochti-3-mln-v-sviazi-s-vykhodom-v-osnovnoi-etap-lch-izi",
-        "https://iz.ru/2156281/navodneniia-v-nepale-smelo-potokom-tcelye-zdaniia-v-pogranichnom-raione-izi",
-        "https://iz.ru/2156282/v-britanii-obvinili-ukrainu-vo-vspyshke-salmonelleza-izi",
-        "https://iz.ru/2156283/v-britanii-uznali-o-namerenii-uefa-dobivatsia-ugolovnogo-dela-protiv-infantino-izi",
-        "https://iz.ru/2156311/krymskie-predprinimateli-poluchat-otsrochku-po-uplate-strakhovykh-vznosov-izi",
-        "https://iz.ru/2156316/voennye-eksperty-obiasnili-neobkhodimost-vysokoi-dalnosti-novogo-iskandera-izi",
-        "https://iz.ru/2156341/v-gaage-rasporiadilis-provesti-rassledovanie-obstoiatelstv-smerti-mladicha-izi"
-      ]
-    },
-    "2026-08-28": {
-      "totalChecked": 951,
-      "totalIzi": 157,
-      "totalIiz": 1,
-      "totalAi": 158,
-      "topLinks": [
-        "https://iz.ru/2156462/v-op-podderzhali-mekhanizm-vozvrata-deneg-zhertvam-telefonnykh-moshennikov-cherez-banki-izi",
-        "https://iz.ru/2156487/v-rossii-utverdili-gost-na-biopechat-tkanei-i-organov-izi",
-        "https://iz.ru/2156495/rossiian-predupredili-o-skheme-s-poddelnymi-pismami-ot-fns-izi",
-        "https://iz.ru/2156502/v-avstralii-pogib-ustanovivshii-rekord-v-16-let-pilot-bob-bremli-izi",
-        "https://iz.ru/2156503/ekspert-nazvala-kategorii-grazhdan-s-pravom-polucheniia-vyplat-k-1-sentiabria-izi",
-        "https://iz.ru/2156514/smi-soobshchili-o-vozmozhnosti-vykhoda-iz-venesuely-iz-opek-na-fone-peregovorov-s-ssha-izi",
         "https://iz.ru/2156520/tramp-sostavil-reiting-prezidentov-ssha-i-nazval-sebia-velichaishim-izi",
         "https://iz.ru/2156529/lavrov-rasskazal-o-reaktcii-klintona-na-predlozhenie-putina-vstupit-v-nato-izi",
         "https://iz.ru/2156532/pogranichniki-4-go-pogranotriada-ukrainy-propadaiut-v-volchanskom-kotle-izi",
@@ -231,7 +225,13 @@
         "https://iz.ru/2156605/stalo-izvestno-o-vozmozhnom-usilenii-kontrolia-za-rynkom-nefteproduktov-v-rossii-izi",
         "https://iz.ru/2156607/spetcialist-rasskazal-o-prichinakh-silnoi-reaktcii-na-ukusy-komarov-izi",
         "https://iz.ru/2156609/nad-iaroslavskoi-oblastiu-sbili-67-bespilotnikov-izi",
-        "https://iz.ru/2156611/sotni-liudei-iz-33-stran-ostaiutsia-propavshimi-posle-navodneniia-v-nepale-izi"
+        "https://iz.ru/2156611/sotni-liudei-iz-33-stran-ostaiutsia-propavshimi-posle-navodneniia-v-nepale-izi",
+        "https://iz.ru/2156621/zhitelia-melitopolia-osudili-na-24-goda-za-gosizmenu-i-podgotovku-terakta-izi",
+        "https://iz.ru/2156625/rosel-sozdal-sposobnuiu-obnaruzhivat-roi-dronov-radiolokatcionnuiu-stantciiu-izi",
+        "https://iz.ru/2156640/vs-rf-porazili-punkty-upravleniia-bpla-ukrainy-v-khersone-i-pod-kharkovom-izi",
+        "https://iz.ru/2156645/sily-pvo-rossii-za-nedeliu-sbili-14-raket-flamingo-i-pochti-6-tys-dronov-vsu-izi",
+        "https://iz.ru/2156654/v-gosdume-dopustili-snizhenie-kliuchevoi-stavki-do-13-k-kontcu-goda-izi",
+        "https://iz.ru/2156657/v-sevastopole-iz-za-ataki-vsu-na-zhiloi-dom-postradali-chetyre-cheloveka-izi"
       ]
     },
     "2026-08-29": {
@@ -263,12 +263,11 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 585,
-      "totalIzi": 197,
+      "totalChecked": 582,
+      "totalIzi": 196,
       "totalIiz": 2,
-      "totalAi": 199,
+      "totalAi": 198,
       "topLinks": [
-        "https://iz.ru/2156286/uchenye-raskryli-mekhanizm-pamiati-kishechnika-posle-vospaleniia-izi",
         "https://iz.ru/2156581/osen-mezhdu-stranitc-10-knig-v-kotorye-zakhochetsia-pogruzitsia-izi",
         "https://iz.ru/2156635/2026-08-30/predrakovye-kletki-krovi-meniaiut-kostnyi-mozg-eshche-do-razvitiia-onkozabolevaniia-izi",
         "https://iz.ru/2156918/narodnye-primety-na-30-avgusta-chto-mozhno-i-nelzia-delat-iiz",
@@ -287,11 +286,12 @@
         "https://iz.ru/2157630/nazvan-region-s-samoi-vysokoi-zarplatoi-u-shakhterov-izi",
         "https://iz.ru/2157635/iurist-rasskazala-o-sluchaiakh-neobkhodimosti-platit-po-chuzhim-kreditam-izi",
         "https://iz.ru/2157641/v-rossii-s-1-sentiabria-vvedut-goskontrol-za-chastiu-promyshlennoi-produktcii-izi",
-        "https://iz.ru/2157647/mintrans-predlozhil-razreshit-overbuking-tolko-na-populiarnykh-avianapravleniiakh-izi"
+        "https://iz.ru/2157647/mintrans-predlozhil-razreshit-overbuking-tolko-na-populiarnykh-avianapravleniiakh-izi",
+        "https://iz.ru/2157652/v-kaluzhskoi-oblasti-za-proshedshii-vecher-i-noch-sily-pvo-unichtozhili-23-bespilotnika-izi"
       ]
     },
     "2026-08-31": {
-      "totalChecked": 976,
+      "totalChecked": 973,
       "totalIzi": 206,
       "totalIiz": 2,
       "totalAi": 208,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-09-01": {
-      "totalChecked": 987,
+      "totalChecked": 986,
       "totalIzi": 176,
       "totalIiz": 4,
       "totalAi": 180,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 699,
-      "totalIzi": 60,
+      "totalChecked": 1056,
+      "totalIzi": 152,
       "totalIiz": 1,
-      "totalAi": 61,
+      "totalAi": 153,
       "topLinks": [
         "https://iz.ru/2158987/uchenye-raskryli-posledstviia-podslastitelei-dlia-sleduiushchikh-pokolenii-izi",
         "https://iz.ru/2159160/psikhiatry-ne-opredelili-stokgolmskii-sindrom-kak-psikhicheskoe-rasstroistvo-izi",
