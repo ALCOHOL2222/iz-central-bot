@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:49:19.283Z",
+  "generatedAt": "2026-09-03T01:16:49.459Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,22 +179,11 @@
       ]
     },
     "2026-08-27": {
-      "totalChecked": 937,
-      "totalIzi": 232,
+      "totalChecked": 871,
+      "totalIzi": 221,
       "totalIiz": 1,
-      "totalAi": 233,
+      "totalAi": 222,
       "topLinks": [
-        "https://iz.ru/2155802/v-12-regionakh-rossii-sredniaia-pensiia-prevysila-30-tys-rublei-izi",
-        "https://iz.ru/2155805/v-rossii-s-1-sentiabria-uvelichat-limit-sverkhurochnoi-raboty-do-240-chasov-izi",
-        "https://iz.ru/2155806/times-predlozhila-ispolzovat-aliuminii-dlia-pomoshchi-ukraine-izi",
-        "https://iz.ru/2155814/v-amurskoi-oblasti-poiavilis-pervye-china-friendly-apteki-izi",
-        "https://iz.ru/2155819/bloomberg-uznalo-o-planakh-ssha-vernut-prizovye-sudy-dlia-zakhvata-tankerov-irana-izi",
-        "https://iz.ru/2155835/moshenniki-nachali-rassylat-pervokursnikam-soobshcheniia-ot-imeni-vuzov-izi",
-        "https://iz.ru/2155840/v-sf-predupredili-o-rassylke-moshennikami-feikovykh-video-s-kamer-sosedei-izi",
-        "https://iz.ru/2155860/smi-soobshchili-o-vozmozhnom-finansirovanii-frg-iadernoi-programmy-britanii-izi",
-        "https://iz.ru/2155869/analitik-nazvala-prichiny-populiarnosti-mashi-i-medvedia-v-indonezii-izi",
-        "https://iz.ru/2155871/krupnye-npz-kazakhstana-otkazalis-ispolzovat-kvoty-na-postavki-benzina-v-rf-izi",
-        "https://iz.ru/2155874/logisticheskie-obekty-ozon-v-orenburge-i-ufe-podverglis-atake-bpla-izi",
         "https://iz.ru/2155882/armiia-rossii-porazila-npz-v-kremenchuge-i-transportnyi-tcentr-v-borispole-izi",
         "https://iz.ru/2155887/v-nepale-posle-navodneniia-propali-466-inostrantcev-iz-28-stran-izi",
         "https://iz.ru/2155889/gerasimov-zaiavil-o-stremlenii-kieva-ubedit-zapad-v-uspekhakh-vsu-izi",
@@ -203,7 +192,18 @@
         "https://iz.ru/2155907/deviat-postradavshikh-pri-chp-na-amurskom-gkhk-dostavleny-na-lechenie-v-moskvu-izi",
         "https://iz.ru/2155913/v-nepale-posle-navodneniia-propali-bez-vesti-vosem-rossiian-izi",
         "https://iz.ru/2155914/sotrudnik-posolstva-rumynii-v-moskve-obiavlen-personoi-non-grata-izi",
-        "https://iz.ru/2155915/otnosheniia-po-stcenariiu-chto-izvestno-o-filme-gipoteza-liubvi-izi"
+        "https://iz.ru/2155915/otnosheniia-po-stcenariiu-chto-izvestno-o-filme-gipoteza-liubvi-izi",
+        "https://iz.ru/2155916/minoborony-perechislilo-tceli-udarov-v-kieve-i-odesse-izi",
+        "https://iz.ru/2155921/dve-spasennye-v-nepale-rossiianki-poluchili-pomoshch-posolstva-rf-v-katmandu-izi",
+        "https://iz.ru/2155925/v-senate-ssha-sravnili-s-kuvaldoi-zakon-ob-adskikh-sanktciiakh-protiv-rossii-izi",
+        "https://iz.ru/2155926/piat-rossiian-postradali-v-dtp-v-aeroportu-antali-izi",
+        "https://iz.ru/2155927/zakharova-ukazala-na-iadernyi-shantazh-v-atakakh-kieva-na-energodar-izi",
+        "https://iz.ru/2155941/zakharova-nazvala-zakonnoi-tceliu-vs-rossii-liubye-inostrannye-voiska-na-ukraine-izi",
+        "https://iz.ru/2155942/putin-otmetil-razvitie-sistemy-podderzhki-veteranov-svo-izi",
+        "https://iz.ru/2155956/v-kremle-ne-nazvali-sroki-provedeniia-novykh-peregovorov-po-ukraine-izi",
+        "https://iz.ru/2155958/peskov-soobshchil-o-gotovnosti-rf-zashchishchat-svoi-interesy-pri-ispolzovanii-aktivov-izi",
+        "https://iz.ru/2155967/voennosluzhashchii-s-zhenoi-nakhodilsia-v-vzorvavshemsia-avtomobile-v-peterburge-izi",
+        "https://iz.ru/2155973/liubov-ili-parizh-chem-mozhet-zakonchitsia-istoriia-emili-kuper-izi"
       ]
     },
     "2026-08-28": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 978,
+      "totalChecked": 977,
       "totalIzi": 206,
       "totalIiz": 2,
       "totalAi": 208,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-09-02": {
-      "totalChecked": 1066,
+      "totalChecked": 1068,
       "totalIzi": 228,
       "totalIiz": 2,
       "totalAi": 230,
@@ -375,11 +375,14 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 33,
-      "totalIzi": 0,
+      "totalChecked": 98,
+      "totalIzi": 2,
       "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalAi": 2,
+      "topLinks": [
+        "https://iz.ru/2160077/norvezhskii-zhurnalist-nazval-neitralnyi-status-sportsmenov-iz-rf-vremennoi-meroi-izi",
+        "https://iz.ru/2160080/britanskii-deputat-nazvala-rossiiskuiu-ugrozu-vydumkoi-nato-izi"
+      ]
     }
   }
 }
