@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T01:16:49.459Z",
+  "generatedAt": "2026-09-03T06:00:32.401Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -95,7 +95,7 @@
       ]
     },
     "2026-08-24": {
-      "totalChecked": 435,
+      "totalChecked": 432,
       "totalIzi": 124,
       "totalIiz": 1,
       "totalAi": 125,
@@ -123,7 +123,7 @@
       ]
     },
     "2026-08-25": {
-      "totalChecked": 499,
+      "totalChecked": 498,
       "totalIzi": 137,
       "totalIiz": 2,
       "totalAi": 139,
@@ -179,35 +179,35 @@
       ]
     },
     "2026-08-27": {
-      "totalChecked": 871,
-      "totalIzi": 221,
+      "totalChecked": 809,
+      "totalIzi": 205,
       "totalIiz": 1,
-      "totalAi": 222,
+      "totalAi": 206,
       "topLinks": [
-        "https://iz.ru/2155882/armiia-rossii-porazila-npz-v-kremenchuge-i-transportnyi-tcentr-v-borispole-izi",
-        "https://iz.ru/2155887/v-nepale-posle-navodneniia-propali-466-inostrantcev-iz-28-stran-izi",
-        "https://iz.ru/2155889/gerasimov-zaiavil-o-stremlenii-kieva-ubedit-zapad-v-uspekhakh-vsu-izi",
-        "https://iz.ru/2155898/dmitriev-ukazal-na-finansovye-problemy-evrosoiuza-izi",
-        "https://iz.ru/2155906/gerasimov-otmetil-nastuplenie-vs-rf-nesnizhaiushchimisia-tempami-na-vsekh-napravleniiakh-izi",
-        "https://iz.ru/2155907/deviat-postradavshikh-pri-chp-na-amurskom-gkhk-dostavleny-na-lechenie-v-moskvu-izi",
-        "https://iz.ru/2155913/v-nepale-posle-navodneniia-propali-bez-vesti-vosem-rossiian-izi",
-        "https://iz.ru/2155914/sotrudnik-posolstva-rumynii-v-moskve-obiavlen-personoi-non-grata-izi",
-        "https://iz.ru/2155915/otnosheniia-po-stcenariiu-chto-izvestno-o-filme-gipoteza-liubvi-izi",
-        "https://iz.ru/2155916/minoborony-perechislilo-tceli-udarov-v-kieve-i-odesse-izi",
-        "https://iz.ru/2155921/dve-spasennye-v-nepale-rossiianki-poluchili-pomoshch-posolstva-rf-v-katmandu-izi",
-        "https://iz.ru/2155925/v-senate-ssha-sravnili-s-kuvaldoi-zakon-ob-adskikh-sanktciiakh-protiv-rossii-izi",
-        "https://iz.ru/2155926/piat-rossiian-postradali-v-dtp-v-aeroportu-antali-izi",
-        "https://iz.ru/2155927/zakharova-ukazala-na-iadernyi-shantazh-v-atakakh-kieva-na-energodar-izi",
-        "https://iz.ru/2155941/zakharova-nazvala-zakonnoi-tceliu-vs-rossii-liubye-inostrannye-voiska-na-ukraine-izi",
-        "https://iz.ru/2155942/putin-otmetil-razvitie-sistemy-podderzhki-veteranov-svo-izi",
         "https://iz.ru/2155956/v-kremle-ne-nazvali-sroki-provedeniia-novykh-peregovorov-po-ukraine-izi",
         "https://iz.ru/2155958/peskov-soobshchil-o-gotovnosti-rf-zashchishchat-svoi-interesy-pri-ispolzovanii-aktivov-izi",
         "https://iz.ru/2155967/voennosluzhashchii-s-zhenoi-nakhodilsia-v-vzorvavshemsia-avtomobile-v-peterburge-izi",
-        "https://iz.ru/2155973/liubov-ili-parizh-chem-mozhet-zakonchitsia-istoriia-emili-kuper-izi"
+        "https://iz.ru/2155973/liubov-ili-parizh-chem-mozhet-zakonchitsia-istoriia-emili-kuper-izi",
+        "https://iz.ru/2155977/sk-vozbudil-ugolovnoe-delo-posle-vzryva-avtomobilia-v-peterburge-izi",
+        "https://iz.ru/2155980/edinaia-rossiia-proverit-gotovnost-kommunalnoi-infrastruktury-regionov-k-zime-izi",
+        "https://iz.ru/2155981/rupert-grint-vernetsia-k-roli-rona-uizli-spustia-25-let-izi",
+        "https://iz.ru/2155986/armiia-rossii-osvobodila-shevchenkovskoe-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2155990/zakharova-nazvala-vozmozhnye-tceli-otveta-rf-na-ispolzovanie-britanskogo-oruzhiia-vsu-izi",
+        "https://iz.ru/2155993/uchenye-ukazali-na-sposobnost-kurkumina-zashchishchat-sosudy-pri-diabete-izi",
+        "https://iz.ru/2156001/vzryv-avtomobilia-v-sankt-peterburge-chto-izvestno-izi",
+        "https://iz.ru/2156014/zakharova-ukazala-na-otsutstvie-soglasovaniia-evrointegratcii-erevana-s-eaes-izi",
+        "https://iz.ru/2156025/zhitelnitcu-bashkirii-osudili-na-13-let-za-uchastie-v-terroristicheskoi-organizatcii-izi",
+        "https://iz.ru/2156036/kalashnikov-soobshchil-o-postavke-krupnoi-partii-aviapushek-gsh-301-armii-rossii-izi",
+        "https://iz.ru/2156038/dron-vsu-izi",
+        "https://iz.ru/2156039/glava-lnr-nazval-ataku-na-avtobus-samoi-massovoi-po-chislu-zhertv-na-transporte-izi",
+        "https://iz.ru/2156043/stalo-izvestno-o-zaderzhanii-syna-ubitoi-vdovy-byvshego-vitce-premera-dagestana-izi",
+        "https://iz.ru/2156046/chislo-pogibshikh-pri-pozhare-na-amurskom-gazokhimicheskom-kombinate-vyroslo-do-15-izi",
+        "https://iz.ru/2156047/sboi-v-nuzhnykh-kletkakh-uchenye-nashli-rannii-mekhanizm-bolezni-altcgeimera-izi",
+        "https://iz.ru/2156048/ochevidetc-rasskazala-o-sostoianii-passazhirki-posle-vzryva-avtomobilia-v-peterburge-izi"
       ]
     },
     "2026-08-28": {
-      "totalChecked": 971,
+      "totalChecked": 969,
       "totalIzi": 159,
       "totalIiz": 2,
       "totalAi": 161,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 588,
+      "totalChecked": 587,
       "totalIzi": 197,
       "totalIiz": 2,
       "totalAi": 199,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-09-02": {
-      "totalChecked": 1068,
+      "totalChecked": 1069,
       "totalIzi": 228,
       "totalIiz": 2,
       "totalAi": 230,
@@ -375,13 +375,27 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 98,
-      "totalIzi": 2,
-      "totalIiz": 0,
-      "totalAi": 2,
+      "totalChecked": 223,
+      "totalIzi": 15,
+      "totalIiz": 1,
+      "totalAi": 16,
       "topLinks": [
+        "https://iz.ru/2158987/uchenye-raskryli-posledstviia-podslastitelei-dlia-sleduiushchikh-pokolenii-izi",
+        "https://iz.ru/2159160/psikhiatry-ne-opredelili-stokgolmskii-sindrom-kak-psikhicheskoe-rasstroistvo-izi",
+        "https://iz.ru/2159626/uchenye-raskryli-vliianie-pitaniia-na-geneticheskie-prichiny-muzhskogo-besplodiia-izi",
         "https://iz.ru/2160077/norvezhskii-zhurnalist-nazval-neitralnyi-status-sportsmenov-iz-rf-vremennoi-meroi-izi",
-        "https://iz.ru/2160080/britanskii-deputat-nazvala-rossiiskuiu-ugrozu-vydumkoi-nato-izi"
+        "https://iz.ru/2160080/britanskii-deputat-nazvala-rossiiskuiu-ugrozu-vydumkoi-nato-izi",
+        "https://iz.ru/2160100/reshetnikov-prokommentiroval-povyshenie-sverkhurochnykh-do-240-chasov-v-god-izi",
+        "https://iz.ru/2160129/likhachev-nazval-stroitelstvo-aes-v-kazakhstane-prioritetom-sotrudnichestva-izi",
+        "https://iz.ru/2160146/madiar-podcherknul-neodobrenie-vengriei-uskorennogo-vstupleniia-stran-v-es-izi",
+        "https://iz.ru/2160157/moskovskie-predprinimateli-sobiraiut-gumanitarnye-gruzy-dlia-uchastnikov-svo-izi",
+        "https://iz.ru/2152525/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2158987/uchenye-raskryli-posledstviia-podslastitelei-dlia-sleduiushchikh-pokolenii-izi",
+        "https://iz.ru/2159160/psikhiatry-ne-opredelili-stokgolmskii-sindrom-kak-psikhicheskoe-rasstroistvo-izi",
+        "https://iz.ru/2159626/uchenye-raskryli-vliianie-pitaniia-na-geneticheskie-prichiny-muzhskogo-besplodiia-izi",
+        "https://iz.ru/2160077/norvezhskii-zhurnalist-nazval-neitralnyi-status-sportsmenov-iz-rf-vremennoi-meroi-izi",
+        "https://iz.ru/2160080/britanskii-deputat-nazvala-rossiiskuiu-ugrozu-vydumkoi-nato-izi",
+        "https://iz.ru/2160100/reshetnikov-prokommentiroval-povyshenie-sverkhurochnykh-do-240-chasov-v-god-izi"
       ]
     }
   }
