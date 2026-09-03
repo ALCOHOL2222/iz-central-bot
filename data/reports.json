@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T16:36:21.973Z",
+  "generatedAt": "2026-09-03T20:01:52.563Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -207,16 +207,11 @@
       ]
     },
     "2026-08-28": {
-      "totalChecked": 867,
-      "totalIzi": 151,
+      "totalChecked": 839,
+      "totalIzi": 146,
       "totalIiz": 1,
-      "totalAi": 152,
+      "totalAi": 147,
       "topLinks": [
-        "https://iz.ru/2156520/tramp-sostavil-reiting-prezidentov-ssha-i-nazval-sebia-velichaishim-izi",
-        "https://iz.ru/2156529/lavrov-rasskazal-o-reaktcii-klintona-na-predlozhenie-putina-vstupit-v-nato-izi",
-        "https://iz.ru/2156532/pogranichniki-4-go-pogranotriada-ukrainy-propadaiut-v-volchanskom-kotle-izi",
-        "https://iz.ru/2156541/v-ispanii-rasskazali-o-problemakh-vsu-s-starlink-iz-za-rossiiskikh-sistem-reb-izi",
-        "https://iz.ru/2156542/glava-centcom-zaiavil-o-polnom-razminirovanii-ormuzskogo-proliva-izi",
         "https://iz.ru/2156550/chislo-pogibshikh-v-rezultate-navodneniia-v-nepale-vyroslo-do-475-izi",
         "https://iz.ru/2156551/korol-norvegii-kharald-v-umer-v-vozraste-89-let-izi",
         "https://iz.ru/2156562/v-ran-rasskazali-o-zavershenii-sezona-zatmenii-v-2026-godu-izi",
@@ -231,7 +226,12 @@
         "https://iz.ru/2156640/vs-rf-porazili-punkty-upravleniia-bpla-ukrainy-v-khersone-i-pod-kharkovom-izi",
         "https://iz.ru/2156645/sily-pvo-rossii-za-nedeliu-sbili-14-raket-flamingo-i-pochti-6-tys-dronov-vsu-izi",
         "https://iz.ru/2156654/v-gosdume-dopustili-snizhenie-kliuchevoi-stavki-do-13-k-kontcu-goda-izi",
-        "https://iz.ru/2156657/v-sevastopole-iz-za-ataki-vsu-na-zhiloi-dom-postradali-chetyre-cheloveka-izi"
+        "https://iz.ru/2156657/v-sevastopole-iz-za-ataki-vsu-na-zhiloi-dom-postradali-chetyre-cheloveka-izi",
+        "https://iz.ru/2156658/pozhar-v-v-zapovednike-utrish-v-anape-potushili-izi",
+        "https://iz.ru/2156659/v-podmoskove-vozbudili-delo-po-faktu-strelby-u-restorana-v-derevne-zhukovka-izi",
+        "https://iz.ru/2156672/prokuratura-proverit-akrobaticheskie-polety-neizvestnogo-pilota-nad-krasnoiarskom-izi",
+        "https://iz.ru/2156680/uchenye-rasskazali-o-polze-vitamina-c-dlia-organizma-izi",
+        "https://iz.ru/2156693/v-rossii-nachalos-seriinoe-proizvodstvo-kompleksa-glusheniia-sputnikov-starlink-izi"
       ]
     },
     "2026-08-29": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 1056,
-      "totalIzi": 152,
+      "totalChecked": 1153,
+      "totalIzi": 174,
       "totalIiz": 1,
-      "totalAi": 153,
+      "totalAi": 175,
       "topLinks": [
         "https://iz.ru/2158987/uchenye-raskryli-posledstviia-podslastitelei-dlia-sleduiushchikh-pokolenii-izi",
         "https://iz.ru/2159160/psikhiatry-ne-opredelili-stokgolmskii-sindrom-kak-psikhicheskoe-rasstroistvo-izi",
