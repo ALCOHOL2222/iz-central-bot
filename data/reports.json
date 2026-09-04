@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T06:06:45.658Z",
+  "generatedAt": "2026-09-04T11:35:19.984Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-08-28": {
-      "totalChecked": 696,
-      "totalIzi": 120,
+      "totalChecked": 598,
+      "totalIzi": 97,
       "totalIiz": 1,
-      "totalAi": 121,
+      "totalAi": 98,
       "topLinks": [
-        "https://iz.ru/2156768/u-muzhchin-s-nezdorovym-ratcionom-chashche-vyiavliali-rak-prostaty-izi",
-        "https://iz.ru/2156770/v-evroparlamente-prizvali-polshu-izmenit-politiku-v-otnoshenii-ukrainy-izi",
-        "https://iz.ru/2156772/v-moskve-proshlo-testovoe-golosovanie-o-sudbe-pamiatnika-aleksandru-pushkinu-izi",
-        "https://iz.ru/2156781/tcska-provedet-proshchalnyi-match-vagnera-lava-26-sentiabria-izi",
-        "https://iz.ru/2156791/vozbuzhdeno-delo-posle-ataki-vsu-na-grazhdanskie-obekty-v-iaroslavskoi-oblasti-izi",
-        "https://iz.ru/2156792/glava-kryma-otpravil-v-otstavku-neskolkikh-rukovoditelei-mestnykh-administratcii-izi",
-        "https://iz.ru/2156799/umerla-104-letniaia-mama-iriny-alferovoi-izi",
-        "https://iz.ru/2156805/zhenikh-pogibshei-na-altae-devushki-ne-prishel-na-pominki-i-prerval-sviaz-s-ee-semei-izi",
-        "https://iz.ru/2156809/v-ran-otcenili-kolichestvo-modernizirovannykh-chekhiei-tankov-t-72-dlia-ukrainy-izi",
-        "https://iz.ru/2156810/uchenye-rasskazali-ob-izmeneniiakh-mozga-pri-khronicheskoi-boli-izi",
-        "https://iz.ru/2156814/bloomberg-soobshchilo-o-vozmozhnoi-otmene-prava-veto-na-priem-novykh-stran-v-es-izi",
-        "https://iz.ru/2156821/poezd-v-adlere-zadel-rebenka-na-zheleznodorozhnykh-putiakh-izi",
-        "https://iz.ru/2156847/moskovskii-gubernskii-teatr-integriruetsia-v-mkhat-im-gorkogo-izi",
-        "https://iz.ru/2156851/lukashenko-zaiavil-ob-obshchei-probleme-na-iuge-belorussii-i-na-zapade-rossii-izi",
-        "https://iz.ru/2156862/minoborony-soobshchilo-ob-uchebno-boevom-puske-mbr-na-kosmodrome-plesetck-izi",
-        "https://iz.ru/2156866/v-ispanskoi-seute-gotoviatsia-novye-protesty-iz-za-naplyva-migrantov-iz-marokko-izi",
-        "https://iz.ru/2156876/arkheologi-nashli-v-turtcii-vorota-s-1800-letnimi-relefami-izi",
-        "https://iz.ru/2156882/eks-glavu-administratcii-tokaeva-dadebaia-izbrali-glavoi-kurultaia-kazakhstana-izi",
-        "https://iz.ru/2156890/uchenye-raskryli-sostav-krasok-khudozhnikov-drevnego-egipta-izi",
-        "https://iz.ru/2156897/v-kitae-eks-glavu-provintcii-khubei-prigovorili-k-smertnoi-kazni-za-vziatki-izi"
+        "https://iz.ru/2156911/v-minoborony-soobshchil-o-primenenii-vs-rossii-skorostnykh-fpv-perekhvatchikov-izi",
+        "https://iz.ru/2156916/putin-prizval-uchityvat-opyt-boitcov-svo-pri-razvitii-tekhnologii-v-rossii-izi",
+        "https://iz.ru/2156933/ushakov-zaiavil-o-podpisanii-na-sammite-shos-bolee-20-dokumentov-izi",
+        "https://iz.ru/2156946/zakharova-nazvala-shokiruiushchimi-zaiavleniia-kane-uesta-s-voskhvaleniem-gitlera-izi",
+        "https://iz.ru/2156956/putin-otmetil-rost-selskogo-khoziaistva-i-promyshlennosti-nizhegorodskoi-oblasti-izi",
+        "https://iz.ru/2156975/dva-rebenka-postradali-v-rezultate-atak-vsu-na-belgorodskuiu-oblasti-izi",
+        "https://iz.ru/2156983/v-rostovskoi-oblasti-vveli-rezhim-chs-iz-za-narusheniia-raboty-portov-i-sudokhodstva-izi",
+        "https://iz.ru/2156991/kisliak-poluchil-travmu-v-nachale-matcha-shestogo-tura-rpl-s-akronom-izi",
+        "https://iz.ru/2157010/ushakov-nazval-glavnogo-gostia-vostochnogo-ekonomicheskogo-foruma-izi",
+        "https://iz.ru/2157027/na-ukraine-krupneishaia-set-atb-vvela-ogranicheniia-na-pokupku-produktov-izi",
+        "https://iz.ru/2157037/v-usadbe-ostankino-nashli-rukopisi-xviii-veka-vo-vremia-restavratcii-izi",
+        "https://iz.ru/2157043/vo-frantcii-soobshchili-ob-ostanovke-raboty-portov-ukrainy-bolee-chem-na-mesiatc-izi",
+        "https://iz.ru/2157054/posla-polshi-vyzvali-v-mid-azerbaidzhana-iz-za-telesiuzheta-izi",
+        "https://iz.ru/2157060/dva-zhitelia-pogibli-i-shestero-postradali-pri-atake-vsu-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2157066/ozon-anonsiroval-novuiu-skhemu-dostavki-i-prodazhi-tovarov-izi",
+        "https://iz.ru/2157091/mid-rf-predupredil-finliandiiu-ob-otvete-na-peresmotr-sdelok-rossiian-izi",
+        "https://iz.ru/2155257/gromche-boli-kak-muzyka-vliiaet-na-chto-chuvstvuet-chelovek-izi",
+        "https://iz.ru/2155403/glaukoma-mozhet-nezametno-progressirovat-nochiu-izi",
+        "https://iz.ru/2155441/uchenye-raskryli-sviaz-kozhi-i-mozga-cherez-stress-i-vospalenie-izi",
+        "https://iz.ru/2155968/2026-08-28/uchenye-nashli-sviaz-mezhdu-dolgim-ispolzovaniem-sotcsetei-i-depressiei-izi"
       ]
     },
     "2026-08-29": {
-      "totalChecked": 590,
-      "totalIzi": 159,
-      "totalIiz": 3,
-      "totalAi": 162,
+      "totalChecked": 582,
+      "totalIzi": 158,
+      "totalIiz": 2,
+      "totalAi": 160,
       "topLinks": [
-        "https://iz.ru/2156803/uchenye-ukazali-na-opasnost-ekstremalnykh-temperatur-pri-problemakh-s-serdtcem-izi",
-        "https://iz.ru/2156893/narodnye-primety-na-29-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2157117/2026-08-29/pszh-sygral-vnichiu-s-lillem-v-matche-chempionata-frantcii-izi",
         "https://iz.ru/2157119/nabu-prediavilo-obvinenie-novomu-figurantu-dela-mudroi-izi",
         "https://iz.ru/2157124/v-mid-rf-zaiavili-o-gotovnosti-zashchitit-svoikh-grazhdan-v-pridnestrove-izi",
@@ -231,11 +229,13 @@
         "https://iz.ru/2157218/v-gd-predlozhili-vvesti-osobye-kriterii-nuzhdaemosti-dlia-semei-s-10-i-bolee-detmi-izi",
         "https://iz.ru/2157220/v-sovfede-predupredili-roditelei-o-novoi-skheme-moshennikov-v-messendzherakh-izi",
         "https://iz.ru/2157221/v-nepale-otcenili-stoimost-vosstanovleniia-posle-navodneniia-v-4-5-mlrd-izi",
-        "https://iz.ru/2157222/biolog-fedorov-razveial-mif-o-vliianii-polnoluniia-na-klev-ryby-izi"
+        "https://iz.ru/2157222/biolog-fedorov-razveial-mif-o-vliianii-polnoluniia-na-klev-ryby-izi",
+        "https://iz.ru/2157223/rubio-otcenil-obem-chastnykh-investitcii-v-venesuelu-posle-neftianoi-sdelki-s-ssha-izi",
+        "https://iz.ru/2157225/sily-pvo-sbili-313-ukrainskikh-dronov-nad-regionami-rossii-za-noch-izi"
       ]
     },
     "2026-08-30": {
-      "totalChecked": 578,
+      "totalChecked": 573,
       "totalIzi": 194,
       "totalIiz": 2,
       "totalAi": 196,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 969,
+      "totalChecked": 963,
       "totalIzi": 204,
       "totalIiz": 2,
       "totalAi": 206,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-04": {
-      "totalChecked": 198,
-      "totalIzi": 27,
+      "totalChecked": 488,
+      "totalIzi": 85,
       "totalIiz": 2,
-      "totalAi": 29,
+      "totalAi": 87,
       "topLinks": [
         "https://iz.ru/2159492/narodnye-primety-na-4-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2159666/uchenye-obiasnili-rol-obkhvata-talii-pri-otcenke-ozhireniia-izi",
@@ -399,7 +399,7 @@
         "https://iz.ru/2160958/putin-otmetil-razvitie-strategicheskogo-partnerstva-s-knr-po-voskhodiashchei-izi",
         "https://iz.ru/2160961/sily-pvo-za-noch-sbili-490-ukrainskikh-bpla-nad-regionami-rossii-izi",
         "https://iz.ru/2160962/vs-rossii-pristupili-k-zachistke-volchanskogo-kotla-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2159492/narodnye-primety-na-4-sentiabria-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2160963/novak-soobshchil-o-planakh-obsudit-situatciiu-na-rynke-topliva-s-azs-izi"
       ]
     }
   }
