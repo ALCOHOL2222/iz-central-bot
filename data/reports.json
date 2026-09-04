@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:33:21.664Z",
+  "generatedAt": "2026-09-04T19:46:57.295Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -207,18 +207,11 @@
       ]
     },
     "2026-08-29": {
-      "totalChecked": 540,
-      "totalIzi": 152,
+      "totalChecked": 510,
+      "totalIzi": 145,
       "totalIiz": 2,
-      "totalAi": 154,
+      "totalAi": 147,
       "topLinks": [
-        "https://iz.ru/2157172/rossiiane-oseniu-2026-goda-smogut-doletet-priamymi-reisami-v-42-strany-izi",
-        "https://iz.ru/2157177/v-sfr-zaiavili-ob-otsutstvii-ogranichenii-po-vozrastu-dlia-vyplaty-strakhovoi-pensii-izi",
-        "https://iz.ru/2157180/v-minpromtorge-obiasnili-neobkhodimost-novogo-gosta-na-pivo-izi",
-        "https://iz.ru/2157186/vrach-nazval-pervye-priznaki-likhoradki-ebola-izi",
-        "https://iz.ru/2157190/eksperiment-s-peredvizhnymi-aptekami-v-selakh-startuet-v-rossii-1-sentiabria-izi",
-        "https://iz.ru/2157201/v-sumakh-ubili-nachalnika-ttck-izi",
-        "https://iz.ru/2157202/v-op-predlozhili-sdelat-1-sentiabria-vykhodnym-dlia-roditelei-pervoklassnikov-izi",
         "https://iz.ru/2157213/roskachestvo-predupredilo-roditelei-shkolnikov-o-novoi-moshennicheskoi-skheme-izi",
         "https://iz.ru/2157218/v-gd-predlozhili-vvesti-osobye-kriterii-nuzhdaemosti-dlia-semei-s-10-i-bolee-detmi-izi",
         "https://iz.ru/2157220/v-sovfede-predupredili-roditelei-o-novoi-skheme-moshennikov-v-messendzherakh-izi",
@@ -231,7 +224,14 @@
         "https://iz.ru/2157236/posolstvo-rossii-v-nepale-prizvalo-semi-rossiian-napravit-zaprosy-o-poiske-izi",
         "https://iz.ru/2157239/v-rossii-s-sentiabria-vvedut-zapret-na-razmeshchenie-reklamy-na-resursakh-inoagentov-izi",
         "https://iz.ru/2157241/v-gu-mvd-rasskazali-ob-oformlenii-registratcii-po-mestu-prebyvaniia-iz-doma-izi",
-        "https://iz.ru/2157243/armiia-rossii-porazila-morskoi-peregruzochnyi-terminal-v-portu-nikolaev-izi"
+        "https://iz.ru/2157243/armiia-rossii-porazila-morskoi-peregruzochnyi-terminal-v-portu-nikolaev-izi",
+        "https://iz.ru/2157244/v-finliandii-zaiavili-o-riske-ottoka-naseleniia-iz-za-zakrytiia-granitcy-s-rossiei-izi",
+        "https://iz.ru/2157245/astronomicheskaia-osen-v-rossii-nastupit-s-23-sentiabria-izi",
+        "https://iz.ru/2157249/v-dnr-dron-vsu-atakoval-pozharnuiu-avtotcisternu-mchs-rossii-izi",
+        "https://iz.ru/2157258/ilon-mask-rezko-otreagiroval-na-reshenie-openai-prekratit-sotrudnichestvo-s-cursor-izi",
+        "https://iz.ru/2157263/odin-chelovek-pogib-i-tri-postradali-pri-nochnoi-atake-vsu-na-sevastopol-izi",
+        "https://iz.ru/2157264/rossiianam-nazvali-maksimalnyi-srok-khraneniia-domashnikh-zagotovok-na-zimu-izi",
+        "https://iz.ru/2157265/sk-vozbudil-ugolovnye-dela-posle-atak-bpla-v-belgorodskoi-i-rostovskoi-oblastiakh-izi"
       ]
     },
     "2026-08-30": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-04": {
-      "totalChecked": 773,
-      "totalIzi": 159,
+      "totalChecked": 873,
+      "totalIzi": 190,
       "totalIiz": 2,
-      "totalAi": 161,
+      "totalAi": 192,
       "topLinks": [
         "https://iz.ru/2159492/narodnye-primety-na-4-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2159666/uchenye-obiasnili-rol-obkhvata-talii-pri-otcenke-ozhireniia-izi",
