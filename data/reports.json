@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T22:50:05.777Z",
+  "generatedAt": "2026-09-04T01:09:53.013Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,15 +179,11 @@
       ]
     },
     "2026-08-28": {
-      "totalChecked": 780,
-      "totalIzi": 137,
+      "totalChecked": 759,
+      "totalIzi": 133,
       "totalIiz": 1,
-      "totalAi": 138,
+      "totalAi": 134,
       "topLinks": [
-        "https://iz.ru/2156621/zhitelia-melitopolia-osudili-na-24-goda-za-gosizmenu-i-podgotovku-terakta-izi",
-        "https://iz.ru/2156625/rosel-sozdal-sposobnuiu-obnaruzhivat-roi-dronov-radiolokatcionnuiu-stantciiu-izi",
-        "https://iz.ru/2156640/vs-rf-porazili-punkty-upravleniia-bpla-ukrainy-v-khersone-i-pod-kharkovom-izi",
-        "https://iz.ru/2156645/sily-pvo-rossii-za-nedeliu-sbili-14-raket-flamingo-i-pochti-6-tys-dronov-vsu-izi",
         "https://iz.ru/2156654/v-gosdume-dopustili-snizhenie-kliuchevoi-stavki-do-13-k-kontcu-goda-izi",
         "https://iz.ru/2156657/v-sevastopole-iz-za-ataki-vsu-na-zhiloi-dom-postradali-chetyre-cheloveka-izi",
         "https://iz.ru/2156658/pozhar-v-v-zapovednike-utrish-v-anape-potushili-izi",
@@ -203,7 +199,11 @@
         "https://iz.ru/2156757/rockstar-prezentovala-novye-detali-igry-gta-vi-izi",
         "https://iz.ru/2156768/u-muzhchin-s-nezdorovym-ratcionom-chashche-vyiavliali-rak-prostaty-izi",
         "https://iz.ru/2156770/v-evroparlamente-prizvali-polshu-izmenit-politiku-v-otnoshenii-ukrainy-izi",
-        "https://iz.ru/2156772/v-moskve-proshlo-testovoe-golosovanie-o-sudbe-pamiatnika-aleksandru-pushkinu-izi"
+        "https://iz.ru/2156772/v-moskve-proshlo-testovoe-golosovanie-o-sudbe-pamiatnika-aleksandru-pushkinu-izi",
+        "https://iz.ru/2156781/tcska-provedet-proshchalnyi-match-vagnera-lava-26-sentiabria-izi",
+        "https://iz.ru/2156791/vozbuzhdeno-delo-posle-ataki-vsu-na-grazhdanskie-obekty-v-iaroslavskoi-oblasti-izi",
+        "https://iz.ru/2156792/glava-kryma-otpravil-v-otstavku-neskolkikh-rukovoditelei-mestnykh-administratcii-izi",
+        "https://iz.ru/2156799/umerla-104-letniaia-mama-iriny-alferovoi-izi"
       ]
     },
     "2026-08-29": {
@@ -235,12 +235,11 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 580,
-      "totalIzi": 195,
+      "totalChecked": 579,
+      "totalIzi": 194,
       "totalIiz": 2,
-      "totalAi": 197,
+      "totalAi": 196,
       "topLinks": [
-        "https://iz.ru/2156635/2026-08-30/predrakovye-kletki-krovi-meniaiut-kostnyi-mozg-eshche-do-razvitiia-onkozabolevaniia-izi",
         "https://iz.ru/2156918/narodnye-primety-na-30-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2156970/uchenye-obiasnili-fenomen-ukhudsheniia-nastroeniia-iz-za-algoritmov-sotcialnykh-setei-izi",
         "https://iz.ru/2157573/kapitan-kalmykaev-lichno-vozglavil-ataku-i-unichtozhil-dvukh-boevikov-vsu-izi",
@@ -259,11 +258,12 @@
         "https://iz.ru/2157641/v-rossii-s-1-sentiabria-vvedut-goskontrol-za-chastiu-promyshlennoi-produktcii-izi",
         "https://iz.ru/2157647/mintrans-predlozhil-razreshit-overbuking-tolko-na-populiarnykh-avianapravleniiakh-izi",
         "https://iz.ru/2157652/v-kaluzhskoi-oblasti-za-proshedshii-vecher-i-noch-sily-pvo-unichtozhili-23-bespilotnika-izi",
-        "https://iz.ru/2157654/v-mid-rf-poobeshchali-otvetit-na-reshenie-finliandii-po-razmeshcheniiu-iadernogo-oruzhiia-izi"
+        "https://iz.ru/2157654/v-mid-rf-poobeshchali-otvetit-na-reshenie-finliandii-po-razmeshcheniiu-iadernogo-oruzhiia-izi",
+        "https://iz.ru/2157657/vozbuzhdeno-ugolovnoe-delo-po-faktu-dtp-s-avtobusom-v-stavropolskom-krae-izi"
       ]
     },
     "2026-08-31": {
-      "totalChecked": 972,
+      "totalChecked": 971,
       "totalIzi": 206,
       "totalIiz": 2,
       "totalAi": 208,
@@ -375,12 +375,17 @@
       ]
     },
     "2026-09-04": {
-      "totalChecked": 71,
-      "totalIzi": 1,
+      "totalChecked": 94,
+      "totalIzi": 6,
       "totalIiz": 2,
-      "totalAi": 3,
+      "totalAi": 8,
       "topLinks": [
         "https://iz.ru/2159492/narodnye-primety-na-4-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2160878/2026-09-04/madiar-zaiavil-o-prodolzhenii-predostavleniia-statusa-bezhentcev-dlia-ukraintcev-izi",
+        "https://iz.ru/2160884/medvedev-predupredil-o-posledstviiakh-dlia-ekonomiki-germanii-ot-antirossiiskoi-politiki-izi",
+        "https://iz.ru/2160887/polsha-vvela-ogranicheniia-na-polety-v-vostochnoi-chasti-strany-izi",
+        "https://iz.ru/2160889/2026-09-04/ekspert-otcenil-vozmozhnyi-srednii-razmer-pensii-po-starosti-v-2027-godu-izi",
+        "https://iz.ru/2160895/2026-09-04/v-mid-rf-zaiavili-o-zhelanii-nekotorykh-stran-es-razreshit-postavki-gaza-iz-rf-izi",
         "https://iz.ru/2159492/narodnye-primety-na-4-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2160878/2026-09-04/madiar-zaiavil-o-prodolzhenii-predostavleniia-statusa-bezhentcev-dlia-ukraintcev-izi"
       ]
