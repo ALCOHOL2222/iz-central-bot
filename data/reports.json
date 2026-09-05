@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T01:07:35.451Z",
+  "generatedAt": "2026-09-05T05:56:17.574Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,17 +179,11 @@
       ]
     },
     "2026-08-29": {
-      "totalChecked": 446,
-      "totalIzi": 107,
+      "totalChecked": 420,
+      "totalIzi": 101,
       "totalIiz": 2,
-      "totalAi": 109,
+      "totalAi": 103,
       "topLinks": [
-        "https://iz.ru/2157346/figurist-egor-rukhin-budet-vystupat-za-bolgariiu-izi",
-        "https://iz.ru/2157349/putin-nazval-moskovskuiu-sistemu-obrazovaniia-khoroshim-primerom-dlia-regionov-izi",
-        "https://iz.ru/2157356/putin-prinial-uchastie-v-otkrytii-novykh-shkol-v-piati-regionakh-rossii-izi",
-        "https://iz.ru/2157358/putin-zaiavil-o-vnedrenii-innovatcii-v-pedagogicheskuiu-sferu-izi",
-        "https://iz.ru/2157383/v-ssha-oshtrafovali-operatora-telesuflera-za-zarabotok-na-vystupleniiakh-trampa-izi",
-        "https://iz.ru/2157384/rassekrecheny-dokumenty-o-kazniakh-sovetskikh-grazhdan-v-ilovaiske-v-gody-vov-izi",
         "https://iz.ru/2157389/voennyi-ekspert-zaiavil-ob-budushchem-unichtozhenii-zavodov-dronov-na-zapadnoi-ukraine-izi",
         "https://iz.ru/2157406/britaniia-otsledila-soprovozhdenie-korabliami-rossii-sudov-cherez-la-mansh-izi",
         "https://iz.ru/2157409/na-ukraine-nazvali-1-oktiabria-tochkoi-nevozvrata-dlia-eksporta-agroproduktcii-izi",
@@ -203,11 +197,17 @@
         "https://iz.ru/2157487/minoborony-nigera-obiavilo-o-podavlenii-popytki-voennogo-miatezha-izi",
         "https://iz.ru/2157506/zamglavy-ofisa-zelenskogo-otkazalsia-ot-posta-posla-ukrainy-v-ssha-izi",
         "https://iz.ru/2157507/putin-v-shutku-obygral-frazu-pro-nikolaia-ii-primenitelno-k-rabote-vlastei-izi",
-        "https://iz.ru/2157516/franczuzskij-premer-ministr-otkazalsya-ot-uchastiya-v-prezidentskoj-gonke-izi"
+        "https://iz.ru/2157516/franczuzskij-premer-ministr-otkazalsya-ot-uchastiya-v-prezidentskoj-gonke-izi",
+        "https://iz.ru/2157533/krasnodar-obygral-rostov-i-oderzhal-shestuiu-pobedu-podriad-v-rpl-izi",
+        "https://iz.ru/2157545/evrokomissiia-zakhotela-privlech-sberezheniia-grazhdan-v-ekonomiku-es-izi",
+        "https://iz.ru/2157558/piat-chelovek-postradali-v-rezultate-atak-vsu-na-belgorodskuiu-oblast-izi",
+        "https://iz.ru/2157559/daily-telegraph-zaiavila-o-blokirovke-portov-ukrainy-novoi-raketoi-rossii-izi",
+        "https://iz.ru/2157569/v-germanii-amerikanskii-voennyi-pogib-vo-vremia-nelegalnoi-gonki-izi",
+        "https://iz.ru/2157576/v-kharkovskoi-oblasti-unichtozhili-komandnyi-punkt-brigady-vsu-izi"
       ]
     },
     "2026-08-30": {
-      "totalChecked": 561,
+      "totalChecked": 560,
       "totalIzi": 193,
       "totalIiz": 1,
       "totalAi": 194,
@@ -375,12 +375,15 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 66,
-      "totalIzi": 10,
+      "totalChecked": 117,
+      "totalIzi": 31,
       "totalIiz": 2,
-      "totalAi": 12,
+      "totalAi": 33,
       "topLinks": [
         "https://iz.ru/2160180/narodnye-primety-na-5-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2161048/uchenye-obiasnili-rol-perekusov-v-ratcione-pitaniia-izi",
+        "https://iz.ru/2161077/uchenye-obiasnili-sokrytie-zhenshchinami-sobstvennykh-dostizhenii-strakhom-osuzhdeniia-izi",
+        "https://iz.ru/2161300/sud-v-dnr-prigovoril-muzhchinu-k-15-godam-lisheniia-svobody-za-shpionazh-izi",
         "https://iz.ru/2161527/2026-09-05/ikao-podtverdila-poluchenie-obrashcheniia-rossii-iz-za-ugroz-ukrainy-aviatcii-izi",
         "https://iz.ru/2161529/zarplaty-vyshe-200-tys-rublei-poluchali-v-20-otrasliakh-rossii-v-iiune-izi",
         "https://iz.ru/2161530/gosdep-ssha-odobril-vozmozhnuiu-prodazhu-saudovskoi-aravii-bomb-jdam-er-na-5-mlrd-izi",
@@ -388,10 +391,15 @@
         "https://iz.ru/2161539/tramp-zaiavil-ob-otsutstvii-bespokoistva-po-povodu-riska-vykhoda-ii-iz-pod-kontrolia-izi",
         "https://iz.ru/2161541/ekspert-predostereg-ot-prezhdevremennogo-pogasheniia-ipoteki-v-shesti-situatciiakh-izi",
         "https://iz.ru/2161542/v-mus-soobshchili-o-vozmozhnom-rasshirenii-restriktcii-ssha-izi",
-        "https://iz.ru/2160180/narodnye-primety-na-5-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2161527/2026-09-05/ikao-podtverdila-poluchenie-obrashcheniia-rossii-iz-za-ugroz-ukrainy-aviatcii-izi",
-        "https://iz.ru/2161529/zarplaty-vyshe-200-tys-rublei-poluchali-v-20-otrasliakh-rossii-v-iiune-izi",
-        "https://iz.ru/2161530/gosdep-ssha-odobril-vozmozhnuiu-prodazhu-saudovskoi-aravii-bomb-jdam-er-na-5-mlrd-izi"
+        "https://iz.ru/2161543/istorik-viter-rasskazala-o-geroicheskoi-oborone-petropavlovska-v-khode-krymskoi-voiny-izi",
+        "https://iz.ru/2161548/2026-09-05/politolog-mirshaimer-rasskazal-o-slozhnostiakh-nato-iz-za-ukrainy-izi",
+        "https://iz.ru/2161553/putin-predlozhil-obedinit-programmy-patrioticheskogo-turizma-na-odnom-resurse-izi",
+        "https://iz.ru/2161564/2026-09-05/sredniaia-zarplata-v-morskom-rybovodstve-v-rossii-prevysila-971-tys-rublei-izi",
+        "https://iz.ru/2161572/ministr-oborony-bolivii-soobshchil-o-58-postradavshikh-pri-vzryve-na-sklade-izi",
+        "https://iz.ru/2161579/prozorov-zaiavil-o-publikatcii-gur-i-sbu-kompromata-drug-na-druga-izi",
+        "https://iz.ru/2161582/stomatolog-perechislil-osnovaniia-dlia-udaleniia-zuba-mudrosti-izi",
+        "https://iz.ru/2161592/v-lenoblasti-voditel-nasmert-sbil-losia-i-pogib-sam-pri-vylete-v-kiuvet-izi",
+        "https://iz.ru/2160180/narodnye-primety-na-5-sentiabria-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
   }
