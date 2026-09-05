@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T22:30:18.375Z",
+  "generatedAt": "2026-09-05T01:07:35.451Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,17 +179,11 @@
       ]
     },
     "2026-08-29": {
-      "totalChecked": 458,
-      "totalIzi": 113,
+      "totalChecked": 446,
+      "totalIzi": 107,
       "totalIiz": 2,
-      "totalAi": 115,
+      "totalAi": 109,
       "topLinks": [
-        "https://iz.ru/2157322/sovetnik-prezidenta-ukrainy-zaiavil-ob-otstavanii-kieva-v-gonke-dronov-izi",
-        "https://iz.ru/2157331/putin-posetil-moskovskii-pedagogicheskii-gosudarstvennyi-universitet-izi",
-        "https://iz.ru/2157332/v-bolnitce-volgograda-umer-postradavshii-pri-atake-bpla-31-iiulia-izi",
-        "https://iz.ru/2157335/vs-rf-ustanovili-kontrol-nad-tremia-naselennymi-punktami-v-dnr-izi",
-        "https://iz.ru/2157337/lantratova-posetila-v-gospitale-osvobozhdennykh-iz-plena-voennosluzhashchikh-izi",
-        "https://iz.ru/2157344/zelenskii-priznal-razmeshchenie-sklada-boepripasov-pod-kievom-sredi-zhilykh-domov-izi",
         "https://iz.ru/2157346/figurist-egor-rukhin-budet-vystupat-za-bolgariiu-izi",
         "https://iz.ru/2157349/putin-nazval-moskovskuiu-sistemu-obrazovaniia-khoroshim-primerom-dlia-regionov-izi",
         "https://iz.ru/2157356/putin-prinial-uchastie-v-otkrytii-novykh-shkol-v-piati-regionakh-rossii-izi",
@@ -203,7 +197,13 @@
         "https://iz.ru/2157447/umar-nurmagomedov-proigral-nokautom-songu-iadonku-na-turnire-ufc-v-shankhae-izi",
         "https://iz.ru/2157455/sem-mirnykh-zhitelei-postradali-v-rezultate-atak-vsu-na-belgorodskuiu-oblast-izi",
         "https://iz.ru/2157472/fitco-nazval-vopros-zhurnalista-ob-ubiistve-russkikh-rezultatom-rusofobii-izi",
-        "https://iz.ru/2157473/mertc-sobiraetsia-obvinit-rossiiu-v-intcidente-s-dronom-v-leiptcige-izi"
+        "https://iz.ru/2157473/mertc-sobiraetsia-obvinit-rossiiu-v-intcidente-s-dronom-v-leiptcige-izi",
+        "https://iz.ru/2157476/v-mid-rossii-nazvali-manipuliatciei-zaiavleniia-armenii-o-sanktciiakh-izi",
+        "https://iz.ru/2157480/v-gosdume-predlozhili-vvesti-otdelnuiu-professiiu-dlia-dalnoboishchikov-izi",
+        "https://iz.ru/2157487/minoborony-nigera-obiavilo-o-podavlenii-popytki-voennogo-miatezha-izi",
+        "https://iz.ru/2157506/zamglavy-ofisa-zelenskogo-otkazalsia-ot-posta-posla-ukrainy-v-ssha-izi",
+        "https://iz.ru/2157507/putin-v-shutku-obygral-frazu-pro-nikolaia-ii-primenitelno-k-rabote-vlastei-izi",
+        "https://iz.ru/2157516/franczuzskij-premer-ministr-otkazalsya-ot-uchastiya-v-prezidentskoj-gonke-izi"
       ]
     },
     "2026-08-30": {
@@ -375,12 +375,19 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 54,
-      "totalIzi": 3,
+      "totalChecked": 66,
+      "totalIzi": 10,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 12,
       "topLinks": [
         "https://iz.ru/2160180/narodnye-primety-na-5-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2161527/2026-09-05/ikao-podtverdila-poluchenie-obrashcheniia-rossii-iz-za-ugroz-ukrainy-aviatcii-izi",
+        "https://iz.ru/2161529/zarplaty-vyshe-200-tys-rublei-poluchali-v-20-otrasliakh-rossii-v-iiune-izi",
+        "https://iz.ru/2161530/gosdep-ssha-odobril-vozmozhnuiu-prodazhu-saudovskoi-aravii-bomb-jdam-er-na-5-mlrd-izi",
+        "https://iz.ru/2161536/postavki-rossiiskogo-morozhenogo-v-ssha-vyrosli-do-maksimuma-s-vesny-2022-goda-izi",
+        "https://iz.ru/2161539/tramp-zaiavil-ob-otsutstvii-bespokoistva-po-povodu-riska-vykhoda-ii-iz-pod-kontrolia-izi",
+        "https://iz.ru/2161541/ekspert-predostereg-ot-prezhdevremennogo-pogasheniia-ipoteki-v-shesti-situatciiakh-izi",
+        "https://iz.ru/2161542/v-mus-soobshchili-o-vozmozhnom-rasshirenii-restriktcii-ssha-izi",
         "https://iz.ru/2160180/narodnye-primety-na-5-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161527/2026-09-05/ikao-podtverdila-poluchenie-obrashcheniia-rossii-iz-za-ugroz-ukrainy-aviatcii-izi",
         "https://iz.ru/2161529/zarplaty-vyshe-200-tys-rublei-poluchali-v-20-otrasliakh-rossii-v-iiune-izi",
