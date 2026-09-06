@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:37:26.859Z",
+  "generatedAt": "2026-09-06T13:50:11.483Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,18 +179,11 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 346,
-      "totalIzi": 107,
+      "totalChecked": 308,
+      "totalIzi": 100,
       "totalIiz": 1,
-      "totalAi": 108,
+      "totalAi": 101,
       "topLinks": [
-        "https://iz.ru/2157845/perevernuvshiisia-u-beregov-severnogo-kipra-parom-zatonul-na-glubine-514-m-izi",
-        "https://iz.ru/2157875/le-pen-ne-poschitala-vstuplenie-v-es-itogom-dlia-evropeiskikh-demokratii-izi",
-        "https://iz.ru/2157878/ft-rasskazala-ob-ukreplenii-vlasti-samoi-bogatoi-dinastiei-evropy-izi",
-        "https://iz.ru/2157884/spartak-sygral-vnichiu-s-orenburgom-so-schetom-11-v-matche-rpl-izi",
-        "https://iz.ru/2157887/starshaia-doch-silvestra-stallone-obiavila-o-pomolvke-izi",
-        "https://iz.ru/2157896/mintrans-rossii-anonsiroval-obsuzhdenie-legalizatcii-overbukinga-do-kontca-goda-izi",
-        "https://iz.ru/2157903/peskov-nazval-temu-vstrechi-putina-i-pashiniana-v-bishkeke-izi",
         "https://iz.ru/2157934/v-real-sosedad-oprovergli-informatciiu-o-demarshe-zakhariana-vo-vremia-matcha-izi",
         "https://iz.ru/2154135/ot-tvin-piksa-do-paddingtona-chto-smotret-oseniu-izi",
         "https://iz.ru/2156286/uchenye-raskryli-mekhanizm-pamiati-kishechnika-posle-vospaleniia-izi",
@@ -203,11 +196,18 @@
         "https://iz.ru/2157589/putin-pozdravil-rossiiskikh-shakhterov-s-professionalnym-prazdnikom-izi",
         "https://iz.ru/2157590/mintrans-gotovit-pravila-legalizatcii-overbukinga-v-rossii-izi",
         "https://iz.ru/2157594/putin-pozdravil-shakhterov-s-professionalnym-prazdnikom-izi",
-        "https://iz.ru/2157596/ekspert-predupredil-o-riske-prodovolstvennogo-krizisa-v-ssha-izi"
+        "https://iz.ru/2157596/ekspert-predupredil-o-riske-prodovolstvennogo-krizisa-v-ssha-izi",
+        "https://iz.ru/2157597/barselona-obsuzhdaet-obmen-balde-na-dimarko-s-interom-izi",
+        "https://iz.ru/2157606/v-sotcfonde-nazvali-sposob-uvelichit-razmer-pensii-na-10-za-god-izi",
+        "https://iz.ru/2157607/britanskii-politicheskii-provokator-mailo-iannopulos-biografiia-izi",
+        "https://iz.ru/2157608/v-minprosveshcheniia-nazvali-primernuiu-datu-okonchaniia-uchebnogo-goda-v-2027-godu-izi",
+        "https://iz.ru/2157611/v-op-predupredili-rossiian-o-obmanakh-moshennikami-rossiian-s-tcifrovym-rublem-izi",
+        "https://iz.ru/2157630/nazvan-region-s-samoi-vysokoi-zarplatoi-u-shakhterov-izi",
+        "https://iz.ru/2157635/iurist-rasskazala-o-sluchaiakh-neobkhodimosti-platit-po-chuzhim-kreditam-izi"
       ]
     },
     "2026-08-31": {
-      "totalChecked": 953,
+      "totalChecked": 948,
       "totalIzi": 203,
       "totalIiz": 1,
       "totalAi": 204,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-06": {
-      "totalChecked": 209,
-      "totalIzi": 68,
+      "totalChecked": 299,
+      "totalIzi": 122,
       "totalIiz": 2,
-      "totalAi": 70,
+      "totalAi": 124,
       "topLinks": [
         "https://iz.ru/2161144/narodnye-primety-na-6-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161214/uchenye-ukazali-na-rol-khodby-pri-astme-izi",
