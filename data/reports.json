@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:50:11.483Z",
+  "generatedAt": "2026-09-06T17:14:18.470Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,12 +179,11 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 308,
-      "totalIzi": 100,
+      "totalChecked": 297,
+      "totalIzi": 99,
       "totalIiz": 1,
-      "totalAi": 101,
+      "totalAi": 100,
       "topLinks": [
-        "https://iz.ru/2157934/v-real-sosedad-oprovergli-informatciiu-o-demarshe-zakhariana-vo-vremia-matcha-izi",
         "https://iz.ru/2154135/ot-tvin-piksa-do-paddingtona-chto-smotret-oseniu-izi",
         "https://iz.ru/2156286/uchenye-raskryli-mekhanizm-pamiati-kishechnika-posle-vospaleniia-izi",
         "https://iz.ru/2156581/osen-mezhdu-stranitc-10-knig-v-kotorye-zakhochetsia-pogruzitsia-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2157608/v-minprosveshcheniia-nazvali-primernuiu-datu-okonchaniia-uchebnogo-goda-v-2027-godu-izi",
         "https://iz.ru/2157611/v-op-predupredili-rossiian-o-obmanakh-moshennikami-rossiian-s-tcifrovym-rublem-izi",
         "https://iz.ru/2157630/nazvan-region-s-samoi-vysokoi-zarplatoi-u-shakhterov-izi",
-        "https://iz.ru/2157635/iurist-rasskazala-o-sluchaiakh-neobkhodimosti-platit-po-chuzhim-kreditam-izi"
+        "https://iz.ru/2157635/iurist-rasskazala-o-sluchaiakh-neobkhodimosti-platit-po-chuzhim-kreditam-izi",
+        "https://iz.ru/2157641/v-rossii-s-1-sentiabria-vvedut-goskontrol-za-chastiu-promyshlennoi-produktcii-izi"
       ]
     },
     "2026-08-31": {
-      "totalChecked": 948,
+      "totalChecked": 929,
       "totalIzi": 203,
       "totalIiz": 1,
       "totalAi": 204,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-06": {
-      "totalChecked": 299,
-      "totalIzi": 122,
+      "totalChecked": 358,
+      "totalIzi": 142,
       "totalIiz": 2,
-      "totalAi": 124,
+      "totalAi": 144,
       "topLinks": [
         "https://iz.ru/2161144/narodnye-primety-na-6-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161214/uchenye-ukazali-na-rol-khodby-pri-astme-izi",
