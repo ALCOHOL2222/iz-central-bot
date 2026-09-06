@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:14:18.470Z",
+  "generatedAt": "2026-09-06T19:20:55.914Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -207,14 +207,11 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 929,
-      "totalIzi": 203,
+      "totalChecked": 906,
+      "totalIzi": 200,
       "totalIiz": 1,
-      "totalAi": 204,
+      "totalAi": 201,
       "topLinks": [
-        "https://iz.ru/2157968/lavrov-zaiavil-o-planakh-nato-prevratit-arktiku-v-novyi-front-protivostoianiia-izi",
-        "https://iz.ru/2157973/v-finliandii-zaiavili-o-riske-iadernogo-protivostoianiia-iz-za-provokatcii-evropy-izi",
-        "https://iz.ru/2157987/v-ksir-soobshchili-o-nanesenii-iranom-udarov-po-dvum-aviabazam-ssha-v-iordanii-izi",
         "https://iz.ru/2157990/v-minprosveshcheniia-zaiavili-ob-otsutstvii-planov-meniat-srok-obucheniia-v-shkolakh-izi",
         "https://iz.ru/2157992/v-gosdume-napomnili-o-prave-na-sotcialnuiu-pensiiu-pri-otsutstvii-stazha-izi",
         "https://iz.ru/2158000/rossiianam-rasskazali-o-vozvrate-do-143-tys-rublei-za-detskie-kruzhki-izi",
@@ -231,7 +228,10 @@
         "https://iz.ru/2158042/v-finliandii-podschitali-poteri-iz-za-prekrashcheniia-turpotoka-iz-rossii-izi",
         "https://iz.ru/2158043/eks-posol-ssha-metlok-nazval-tragediei-pomoshch-nato-dlia-ukrainy-izi",
         "https://iz.ru/2158047/putin-zaiavil-o-prodolzhenii-tesnogo-dvustoronnego-sotrudnichestva-s-kirgiziei-izi",
-        "https://iz.ru/2158048/v-tiumenskoi-oblasti-arestovali-18-letnego-zhitelia-za-opravdanie-terrorizma-izi"
+        "https://iz.ru/2158048/v-tiumenskoi-oblasti-arestovali-18-letnego-zhitelia-za-opravdanie-terrorizma-izi",
+        "https://iz.ru/2158049/putin-pozdravil-byvshego-prezidenta-armenii-roberta-kochariana-s-dnem-rozhdeniia-izi",
+        "https://iz.ru/2158058/eksperty-perezvoni-sam-otmetili-vazhnost-rossiiskikh-sertifikatov-bezopasnosti-izi",
+        "https://iz.ru/2158064/tokaev-naznachil-erlana-karina-na-post-vitce-prezidenta-kazakhstana-izi"
       ]
     },
     "2026-09-01": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-06": {
-      "totalChecked": 358,
-      "totalIzi": 142,
+      "totalChecked": 422,
+      "totalIzi": 161,
       "totalIiz": 2,
-      "totalAi": 144,
+      "totalAi": 163,
       "topLinks": [
         "https://iz.ru/2161144/narodnye-primety-na-6-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161214/uchenye-ukazali-na-rol-khodby-pri-astme-izi",
