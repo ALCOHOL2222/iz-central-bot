@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:37:54.234Z",
+  "generatedAt": "2026-09-07T20:44:01.565Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,15 +179,11 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 521,
-      "totalIzi": 107,
+      "totalChecked": 493,
+      "totalIzi": 103,
       "totalIiz": 1,
-      "totalAi": 108,
+      "totalAi": 104,
       "topLinks": [
-        "https://iz.ru/2158557/peskov-oproverg-slukhi-o-trekhstoronnem-sammite-po-ukraine-izi",
-        "https://iz.ru/2158585/tcb-sprognoziroval-kliuchevuiu-stavku-na-urovne-145-146-v-2026-godu-izi",
-        "https://iz.ru/2158588/ukrainskii-analitik-soobshchil-o-podorozhanii-produktov-na-ukraine-izi",
-        "https://iz.ru/2158612/2026-08-31/tramp-zaiavil-ob-ozhidanii-vizita-si-tczinpina-v-ssha-izi",
         "https://iz.ru/2156652/igra-v-shakhmaty-sposobstvuet-uluchsheniiu-vnimaniia-i-kachestva-zhizni-izi",
         "https://iz.ru/2156683/mozg-nauchilsia-spravliatsia-s-mnogozadachnostiu-blagodaria-trenirovke-izi",
         "https://iz.ru/2156925/2026-08-31/ekspert-raskryla-sekrety-privlekatelnogo-reziume-izi",
@@ -203,11 +199,15 @@
         "https://iz.ru/2158014/v-minzdrave-dopustili-pobedu-nad-nekotorymi-vidami-raka-v-techenie-shesti-let-izi",
         "https://iz.ru/2158015/ekspert-rasskazal-o-pravilakh-peredachi-pasportnykh-dannykh-organizatciiam-izi",
         "https://iz.ru/2158017/posol-gonchar-zaiavil-o-predostavlenii-nato-svoikh-territorii-dlia-atak-kieva-izi",
-        "https://iz.ru/2158020/ekspert-predupredil-ob-anomalnykh-osadkakh-v-rossii-oseniu-izi"
+        "https://iz.ru/2158020/ekspert-predupredil-ob-anomalnykh-osadkakh-v-rossii-oseniu-izi",
+        "https://iz.ru/2158029/v-ksir-soobshchili-o-podryve-supertankera-na-minakh-v-ormuzskom-prolive-izi",
+        "https://iz.ru/2158035/dzhokovich-ustupil-navone-v-pervom-kruge-na-us-open-v-niu-jorke-izi",
+        "https://iz.ru/2158037/chislo-pogibshikh-pri-navodnenii-v-nepale-prevysilo-900-chelovek-izi",
+        "https://iz.ru/2158040/ugolovnoe-delo-v-otnoshenii-biznesmena-ili-trabera-prekratili-izi"
       ]
     },
     "2026-09-01": {
-      "totalChecked": 948,
+      "totalChecked": 930,
       "totalIzi": 173,
       "totalIiz": 3,
       "totalAi": 176,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 795,
-      "totalIzi": 175,
+      "totalChecked": 894,
+      "totalIzi": 230,
       "totalIiz": 2,
-      "totalAi": 177,
+      "totalAi": 232,
       "topLinks": [
         "https://iz.ru/2161196/narodnye-primety-na-7-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161426/na-festivale-rossiia-budushchego-proidet-gonka-dronov-izi",
