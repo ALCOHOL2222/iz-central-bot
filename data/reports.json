@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:32:19.304Z",
+  "generatedAt": "2026-09-07T16:37:54.234Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-08-31": {
-      "totalChecked": 676,
-      "totalIzi": 139,
+      "totalChecked": 521,
+      "totalIzi": 107,
       "totalIiz": 1,
-      "totalAi": 140,
+      "totalAi": 108,
       "topLinks": [
-        "https://iz.ru/2158270/semia-ubitogo-pashi-podala-isk-o-kompensatcii-k-obviniaemomu-v-prestuplenii-zhilkinu-izi",
-        "https://iz.ru/2158271/novak-prizval-operativno-prinimat-mery-dlia-nedopushcheniia-defitcita-topliva-izi",
-        "https://iz.ru/2158283/ntv-kapitan-zatonuvshego-u-kipra-paroma-pokinul-sudno-odnim-iz-pervykh-izi",
-        "https://iz.ru/2158288/arkheologi-nashli-v-laose-massovoe-zakhoronenie-vnutri-drevnego-kamennogo-kuvshina-izi",
-        "https://iz.ru/2158291/v-nepale-posle-navodneniia-udalos-spasti-bolee-10-tys-chelovek-izi",
-        "https://iz.ru/2158292/putin-zaiavil-o-gotovnosti-rossii-sdelat-bezviz-s-kitaem-postoiannym-izi",
-        "https://iz.ru/2158307/vs-rf-porazili-obekty-toplivno-energeticheskoi-infrastruktury-vraga-izi",
-        "https://iz.ru/2158324/dmitriev-zaiavil-o-prodolzhenii-dialoga-rossii-i-ssha-vopreki-davleniiu-izi",
-        "https://iz.ru/2158326/tokaev-naznachil-aidu-balaevu-zampredom-soveta-bezopasnosti-kazakhstana-izi",
-        "https://iz.ru/2158346/putin-ukazal-na-sovpadenie-podkhodov-rossii-i-kitaia-v-voprosakh-vneshnei-politiki-izi",
-        "https://iz.ru/2158358/sadovod-obiasnil-opasnost-ostavlennykh-pod-derevom-iablok-izi",
-        "https://iz.ru/2158360/evropeitcy-stali-rezhe-vybirat-turtciiu-dlia-otdykha-iz-za-vysokikh-tcen-izi",
-        "https://iz.ru/2158362/deputat-raskryl-detali-otvetnogo-udara-za-ataku-na-ekaterinburg-izi",
-        "https://iz.ru/2158377/peskov-zaiavil-o-gotovnosti-rossii-privetstvovat-usiliia-stran-po-ukraine-izi",
-        "https://iz.ru/2158385/peskov-zaiavil-o-gotovnosti-rossii-protivostoiat-vmeshatelstvu-v-vybory-izi",
-        "https://iz.ru/2158395/uchenye-nashli-sotni-skrytykh-zemletriasenii-pod-lednikom-sudnogo-dnia-izi",
-        "https://iz.ru/2158400/v-shkolakh-ekaterinburga-posle-ataki-bpla-otmeniaiut-ulichnye-lineiki-izi",
-        "https://iz.ru/2158401/glava-mid-turtcii-zaiavil-o-podgotovke-plana-bezopasnosti-v-chernom-more-izi",
-        "https://iz.ru/2158402/peskov-oproverg-prichastnost-rossii-k-migratcionnomu-krizisu-v-seute-izi",
-        "https://iz.ru/2158417/dzhon-galiano-otkazalsia-ot-vystavki-v-metropoliten-muzee-dlia-met-gala-2027-izi"
+        "https://iz.ru/2158557/peskov-oproverg-slukhi-o-trekhstoronnem-sammite-po-ukraine-izi",
+        "https://iz.ru/2158585/tcb-sprognoziroval-kliuchevuiu-stavku-na-urovne-145-146-v-2026-godu-izi",
+        "https://iz.ru/2158588/ukrainskii-analitik-soobshchil-o-podorozhanii-produktov-na-ukraine-izi",
+        "https://iz.ru/2158612/2026-08-31/tramp-zaiavil-ob-ozhidanii-vizita-si-tczinpina-v-ssha-izi",
+        "https://iz.ru/2156652/igra-v-shakhmaty-sposobstvuet-uluchsheniiu-vnimaniia-i-kachestva-zhizni-izi",
+        "https://iz.ru/2156683/mozg-nauchilsia-spravliatsia-s-mnogozadachnostiu-blagodaria-trenirovke-izi",
+        "https://iz.ru/2156925/2026-08-31/ekspert-raskryla-sekrety-privlekatelnogo-reziume-izi",
+        "https://iz.ru/2157008/narodnye-primety-na-31-avgusta-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2157968/lavrov-zaiavil-o-planakh-nato-prevratit-arktiku-v-novyi-front-protivostoianiia-izi",
+        "https://iz.ru/2157973/v-finliandii-zaiavili-o-riske-iadernogo-protivostoianiia-iz-za-provokatcii-evropy-izi",
+        "https://iz.ru/2157987/v-ksir-soobshchili-o-nanesenii-iranom-udarov-po-dvum-aviabazam-ssha-v-iordanii-izi",
+        "https://iz.ru/2157990/v-minprosveshcheniia-zaiavili-ob-otsutstvii-planov-meniat-srok-obucheniia-v-shkolakh-izi",
+        "https://iz.ru/2157992/v-gosdume-napomnili-o-prave-na-sotcialnuiu-pensiiu-pri-otsutstvii-stazha-izi",
+        "https://iz.ru/2158000/rossiianam-rasskazali-o-vozvrate-do-143-tys-rublei-za-detskie-kruzhki-izi",
+        "https://iz.ru/2158011/bessent-zaiavil-o-planakh-ssha-vvodit-novye-sanktcii-protiv-irana-kazhduiu-nedeliu-izi",
+        "https://iz.ru/2158013/nazvany-kategorii-grazhdan-s-pravom-polucheniia-s-sentiabria-dvukh-pensii-odnovremenno-izi",
+        "https://iz.ru/2158014/v-minzdrave-dopustili-pobedu-nad-nekotorymi-vidami-raka-v-techenie-shesti-let-izi",
+        "https://iz.ru/2158015/ekspert-rasskazal-o-pravilakh-peredachi-pasportnykh-dannykh-organizatciiam-izi",
+        "https://iz.ru/2158017/posol-gonchar-zaiavil-o-predostavlenii-nato-svoikh-territorii-dlia-atak-kieva-izi",
+        "https://iz.ru/2158020/ekspert-predupredil-ob-anomalnykh-osadkakh-v-rossii-oseniu-izi"
       ]
     },
     "2026-09-01": {
-      "totalChecked": 973,
-      "totalIzi": 174,
+      "totalChecked": 948,
+      "totalIzi": 173,
       "totalIiz": 3,
-      "totalAi": 177,
+      "totalAi": 176,
       "topLinks": [
-        "https://iz.ru/2158305/uchenye-sviazali-probuzhdeniia-nochiu-s-geneticheskim-riskom-bolezni-altcgeimera-izi",
         "https://iz.ru/2158648/kakao-stalo-samym-dorogim-tovarom-v-mire-v-avguste-izi",
         "https://iz.ru/2158654/v-tcentre-niu-jorka-proizoshla-strelba-s-uchastiem-politcii-izi",
         "https://iz.ru/2158666/tramp-iskliuchil-primenenie-iadernogo-oruzhiia-protiv-irana-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2158730/shkolnitca-napala-s-nozhom-na-uchitelia-fiziki-v-krasnoiarskom-krae-izi",
         "https://iz.ru/2158731/lukashenko-ukazal-na-pokaznoe-vozvrashchenie-v-mir-massirovannoi-voennoi-agressii-izi",
         "https://iz.ru/2158732/tcena-na-gaz-v-evrope-dostigla-maksimuma-s-2022-goda-izi",
-        "https://iz.ru/2158736/sily-pvo-za-noch-sbili-516-ukrainskikh-bpla-nad-regionami-rossii-izi"
+        "https://iz.ru/2158736/sily-pvo-za-noch-sbili-516-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2158739/tovarooborot-rossii-so-stranami-shos-v-2025-godu-prevysil-400-mlrd-izi"
       ]
     },
     "2026-09-02": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 353,
-      "totalIzi": 72,
+      "totalChecked": 795,
+      "totalIzi": 175,
       "totalIiz": 2,
-      "totalAi": 74,
+      "totalAi": 177,
       "topLinks": [
         "https://iz.ru/2161196/narodnye-primety-na-7-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161426/na-festivale-rossiia-budushchego-proidet-gonka-dronov-izi",
