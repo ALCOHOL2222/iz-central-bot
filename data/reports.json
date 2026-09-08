@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T09:53:57.804Z",
+  "generatedAt": "2026-09-08T14:45:09.541Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-09-01": {
-      "totalChecked": 743,
-      "totalIzi": 125,
+      "totalChecked": 562,
+      "totalIzi": 89,
       "totalIiz": 3,
-      "totalAi": 128,
+      "totalAi": 92,
       "topLinks": [
-        "https://iz.ru/2158884/putin-i-aliev-poobshchalis-na-nogakh-na-poliakh-shos-izi",
-        "https://iz.ru/2158888/matvienko-nazvala-usloviia-dlia-nachala-mirnykh-peregovorov-po-ukraine-izi",
-        "https://iz.ru/2158889/rossiianam-potrebuetsia-oformliat-elektronnoe-razreshenie-na-vezd-v-kazakhstan-izi",
-        "https://iz.ru/2158894/knr-namerena-usilit-koordinatciiu-po-ukraine-dlia-politicheskogo-uregulirovaniia-izi",
-        "https://iz.ru/2158896/v-mid-rossii-ukazali-na-provokatcionnye-deistviia-stran-nato-v-arktike-izi",
-        "https://iz.ru/2158912/gensek-oon-prizval-k-nemedlennomu-prekrashcheniiu-ognia-na-ukraine-izi",
-        "https://iz.ru/2158913/zakharova-prigrozila-otvetom-na-ispolzovanie-zamorozhennykh-rossiiskikh-aktivov-izi",
-        "https://iz.ru/2158929/degtiarev-prizval-lishat-strany-sorevnovanii-za-nedopusk-rossiian-izi",
-        "https://iz.ru/2158930/dva-cheloveka-razbilis-pri-padenii-paraplana-v-iuzhno-sakhalinske-izi",
-        "https://iz.ru/2158931/kallas-odernula-sebia-pri-popytke-obvinit-rossiiu-v-intcidente-s-bpla-v-leiptcige-izi",
-        "https://iz.ru/2158934/v-moskve-pianyi-muzhchina-izbil-pensionera-skovorodkoi-iz-za-zamechaniia-izi",
-        "https://iz.ru/2158938/v-rossii-startoval-proekt-vykhod-31-dlia-zashchity-podrostkov-ot-moshennikov-izi",
-        "https://iz.ru/2158940/tank-abrams-vsu-iskali-neskolko-mesiatcev-i-unichtozhili-odnim-fpv-dronom-izi",
-        "https://iz.ru/2158942/ft-nazvala-sdelku-trampa-na-65-mlrd-barrelei-nefti-vozrozhdeniem-venesuely-izi",
-        "https://iz.ru/2158945/mel-gibson-izvinilsia-za-parodiiu-na-surdoperevodchika-na-festivale-v-kanade-izi",
-        "https://iz.ru/2158947/umer-pervyi-professionalnyi-zhurnalist-v-kosmose-iz-iaponii-toekhiro-akiiama-izi",
-        "https://iz.ru/2158949/opytnyi-turist-zaiavil-o-prakticheski-polnom-otsutstvii-shansov-naiti-usoltcevykh-izi",
-        "https://iz.ru/2158950/pevetc-oleg-maiami-biografiia-izi",
-        "https://iz.ru/2158952/rodion-gazmanov-prizval-ne-provodit-kontcert-kane-uesta-v-peterburge-izi",
-        "https://iz.ru/2158956/rostekh-rasskazal-o-temperaturnykh-ogranicheniiakh-silovoi-ustanovki-su-57-izi"
+        "https://iz.ru/2159246/zakharova-nazvala-vydumannym-predlog-berlina-dlia-obostreniia-s-rossiei-izi",
+        "https://iz.ru/2150437/50-krasivye-otkrytki-s-pervym-dnem-oseni-teplye-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
+        "https://iz.ru/2151593/90-krasivye-otkrytki-s-dnem-znanii-kartinki-gifki-i-pozdravleniia-dlia-shkolnikov-uchitelei-i-iiz",
+        "https://iz.ru/2158134/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2158196/uchenye-raskryli-rol-travm-u-zhenshchin-pri-zaniatiiakh-sportom-izi",
+        "https://iz.ru/2158209/uchenye-nashli-sposob-uskorit-vosstanovlenie-povrezhdennykh-nervov-izi",
+        "https://iz.ru/2158305/uchenye-sviazali-probuzhdeniia-nochiu-s-geneticheskim-riskom-bolezni-altcgeimera-izi",
+        "https://iz.ru/2158648/kakao-stalo-samym-dorogim-tovarom-v-mire-v-avguste-izi",
+        "https://iz.ru/2158654/v-tcentre-niu-jorka-proizoshla-strelba-s-uchastiem-politcii-izi",
+        "https://iz.ru/2158666/tramp-iskliuchil-primenenie-iadernogo-oruzhiia-protiv-irana-izi",
+        "https://iz.ru/2158675/bilety-na-transport-v-rossii-standartiziruiut-s-1-sentiabria-izi",
+        "https://iz.ru/2158693/rossiiskie-dziudoisty-vernulis-v-moskvu-s-zolotom-turnira-bolshoi-shlem-izi",
+        "https://iz.ru/2158712/v-kongresse-ssha-vyrazili-opaseniia-po-povodu-antirossiiskikh-mer-izi",
+        "https://iz.ru/2158714/minpromtorg-mozhet-nachat-postavki-obnovlennykh-2-s-2028-goda-izi",
+        "https://iz.ru/2158715/2026-09-01/v-mid-rf-ukazali-na-bezdeistvie-shvetcii-v-otvet-na-ataki-dronov-u-posolstva-izi",
+        "https://iz.ru/2158718/blagotvoritelnyi-servis-mosru-obedinil-bolee-100-nekommercheskikh-organizatcii-izi",
+        "https://iz.ru/2158719/2026-09-01/reuters-uznalo-uslovie-bessenta-dlia-zakliucheniia-soglasheniia-mezhdu-rf-i-ssha-izi",
+        "https://iz.ru/2158724/pushkov-ukazal-na-prichastnost-vlastei-ispanii-k-migratcionnomu-krizisu-izi",
+        "https://iz.ru/2158725/politico-soobshchila-o-stolknovenii-proekta-o-sanktciiakh-protiv-rf-s-oppozitciei-v-ssha-izi",
+        "https://iz.ru/2158727/v-novokuibyshevske-v-rezultate-ataki-bpla-vybilo-okna-v-zhilom-dome-izi"
       ]
     },
     "2026-09-02": {
-      "totalChecked": 1060,
-      "totalIzi": 226,
+      "totalChecked": 1036,
+      "totalIzi": 224,
       "totalIiz": 1,
-      "totalAi": 227,
+      "totalAi": 225,
       "topLinks": [
-        "https://iz.ru/2158886/uchenye-vyiavili-polzu-medlennogo-bega-dlia-mozga-izi",
-        "https://iz.ru/2158911/uchenye-nashli-sviazannyi-s-razvitiem-unikalnykh-osobennostei-mozga-cheloveka-gen-izi",
         "https://iz.ru/2159322/2026-09-02/rosselkhoznadzor-nachal-proverku-vaktciny-multikan-8-posle-gibeli-sobak-izi",
         "https://iz.ru/2159327/2026-09-02/vseukrainskii-agrarnyi-sovet-predupredil-o-zakrytii-portov-do-dekabria-izi",
         "https://iz.ru/2159338/putin-nazval-prichinu-otkaza-evropy-ot-rossiiskogo-gaza-izi",
@@ -231,17 +229,17 @@
         "https://iz.ru/2159416/v-minprosveshcheniia-rf-napomnili-pravila-formirovaniia-shkolnogo-grafika-izi",
         "https://iz.ru/2159418/iran-soobshchil-ob-atake-na-amerikanskuiu-voennuiu-bazu-v-bakhreine-izi",
         "https://iz.ru/2159420/zakharova-nazvala-vlast-na-ukraine-sochetaniem-gosmekhanizma-i-terrora-izi",
-        "https://iz.ru/2159423/sily-pvo-za-noch-sbili-130-ukrainskikh-bpla-nad-regionami-rossii-izi"
+        "https://iz.ru/2159423/sily-pvo-za-noch-sbili-130-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2159426/vs-rossii-porazili-chetyre-obekta-energetiki-portov-ukrainy-v-odesskoi-oblasti-izi",
+        "https://iz.ru/2159427/shkolnik-ranil-odnoklassnika-nozhom-vo-vremia-uroka-v-bashkirii-izi"
       ]
     },
     "2026-09-03": {
-      "totalChecked": 1215,
-      "totalIzi": 178,
+      "totalChecked": 1211,
+      "totalIzi": 176,
       "totalIiz": 1,
-      "totalAi": 179,
+      "totalAi": 177,
       "topLinks": [
-        "https://iz.ru/2158987/uchenye-raskryli-posledstviia-podslastitelei-dlia-sleduiushchikh-pokolenii-izi",
-        "https://iz.ru/2159160/psikhiatry-ne-opredelili-stokgolmskii-sindrom-kak-psikhicheskoe-rasstroistvo-izi",
         "https://iz.ru/2159549/ot-avatara-do-zveropolisa-2-kakie-filmy-stali-samymi-kassovymi-v-istorii-izi",
         "https://iz.ru/2159626/uchenye-raskryli-vliianie-pitaniia-na-geneticheskie-prichiny-muzhskogo-besplodiia-izi",
         "https://iz.ru/2160077/norvezhskii-zhurnalist-nazval-neitralnyi-status-sportsmenov-iz-rf-vremennoi-meroi-izi",
@@ -259,11 +257,13 @@
         "https://iz.ru/2160194/uchenye-otcenili-vyzhivaemost-zemnykh-mikrobov-na-lune-izi",
         "https://iz.ru/2160269/armiia-rossii-porazila-logisticheskii-tcentr-biokon-v-kievskoi-oblasti-izi",
         "https://iz.ru/2160285/armiia-rossii-porazila-dva-sukhogruza-v-raione-portov-odesskoi-oblasti-izi",
-        "https://iz.ru/2160290/putin-zaiavil-ob-unikalnosti-atomnoi-energetiki-maloi-moshchnosti-rossii-izi"
+        "https://iz.ru/2160290/putin-zaiavil-ob-unikalnosti-atomnoi-energetiki-maloi-moshchnosti-rossii-izi",
+        "https://iz.ru/2160291/rabotu-metro-mtck-i-tramvaev-prodliat-v-moskve-na-den-goroda-izi",
+        "https://iz.ru/2160299/bpla-udaril-po-zhilomu-domu-v-kubinke-zagorelis-kvartiry-izi"
       ]
     },
     "2026-09-04": {
-      "totalChecked": 921,
+      "totalChecked": 920,
       "totalIzi": 201,
       "totalIiz": 2,
       "totalAi": 203,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 912,
+      "totalChecked": 911,
       "totalIzi": 238,
       "totalIiz": 2,
       "totalAi": 240,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-08": {
-      "totalChecked": 370,
-      "totalIzi": 40,
+      "totalChecked": 719,
+      "totalIzi": 116,
       "totalIiz": 2,
-      "totalAi": 42,
+      "totalAi": 118,
       "topLinks": [
         "https://iz.ru/2162521/vozrast-ne-prigovor-uchenye-obiasnili-rol-trenirovok-v-zdorovom-starenii-izi",
         "https://iz.ru/2162558/bakterii-v-shkolnoi-pyli-sviazali-so-snizheniem-funktcii-legkikh-u-detei-izi",
