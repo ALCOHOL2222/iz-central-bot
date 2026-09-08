@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:45:09.541Z",
+  "generatedAt": "2026-09-08T18:52:30.226Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,12 +179,11 @@
       ]
     },
     "2026-09-01": {
-      "totalChecked": 562,
-      "totalIzi": 89,
+      "totalChecked": 498,
+      "totalIzi": 88,
       "totalIiz": 3,
-      "totalAi": 92,
+      "totalAi": 91,
       "topLinks": [
-        "https://iz.ru/2159246/zakharova-nazvala-vydumannym-predlog-berlina-dlia-obostreniia-s-rossiei-izi",
         "https://iz.ru/2150437/50-krasivye-otkrytki-s-pervym-dnem-oseni-teplye-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
         "https://iz.ru/2151593/90-krasivye-otkrytki-s-dnem-znanii-kartinki-gifki-i-pozdravleniia-dlia-shkolnikov-uchitelei-i-iiz",
         "https://iz.ru/2158134/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -203,11 +202,12 @@
         "https://iz.ru/2158719/2026-09-01/reuters-uznalo-uslovie-bessenta-dlia-zakliucheniia-soglasheniia-mezhdu-rf-i-ssha-izi",
         "https://iz.ru/2158724/pushkov-ukazal-na-prichastnost-vlastei-ispanii-k-migratcionnomu-krizisu-izi",
         "https://iz.ru/2158725/politico-soobshchila-o-stolknovenii-proekta-o-sanktciiakh-protiv-rf-s-oppozitciei-v-ssha-izi",
-        "https://iz.ru/2158727/v-novokuibyshevske-v-rezultate-ataki-bpla-vybilo-okna-v-zhilom-dome-izi"
+        "https://iz.ru/2158727/v-novokuibyshevske-v-rezultate-ataki-bpla-vybilo-okna-v-zhilom-dome-izi",
+        "https://iz.ru/2158728/estoniia-podniala-v-vozdukh-istrebiteli-iz-za-iakoby-zaletevshikh-v-stranu-bpla-izi"
       ]
     },
     "2026-09-02": {
-      "totalChecked": 1036,
+      "totalChecked": 1028,
       "totalIzi": 224,
       "totalIiz": 1,
       "totalAi": 225,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 571,
+      "totalChecked": 570,
       "totalIzi": 148,
       "totalIiz": 2,
       "totalAi": 150,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-08": {
-      "totalChecked": 719,
-      "totalIzi": 116,
+      "totalChecked": 921,
+      "totalIzi": 174,
       "totalIiz": 2,
-      "totalAi": 118,
+      "totalAi": 176,
       "topLinks": [
         "https://iz.ru/2162521/vozrast-ne-prigovor-uchenye-obiasnili-rol-trenirovok-v-zdorovom-starenii-izi",
         "https://iz.ru/2162558/bakterii-v-shkolnoi-pyli-sviazali-so-snizheniem-funktcii-legkikh-u-detei-izi",
