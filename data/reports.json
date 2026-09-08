@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:39:23.524Z",
+  "generatedAt": "2026-09-08T04:51:34.758Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,7 +123,7 @@
       ]
     },
     "2026-08-30": {
-      "totalChecked": 296,
+      "totalChecked": 297,
       "totalIzi": 99,
       "totalIiz": 1,
       "totalAi": 100,
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-01": {
-      "totalChecked": 875,
-      "totalIzi": 166,
+      "totalChecked": 813,
+      "totalIzi": 144,
       "totalIiz": 3,
-      "totalAi": 169,
+      "totalAi": 147,
       "topLinks": [
-        "https://iz.ru/2158715/2026-09-01/v-mid-rf-ukazali-na-bezdeistvie-shvetcii-v-otvet-na-ataki-dronov-u-posolstva-izi",
-        "https://iz.ru/2158718/blagotvoritelnyi-servis-mosru-obedinil-bolee-100-nekommercheskikh-organizatcii-izi",
-        "https://iz.ru/2158719/2026-09-01/reuters-uznalo-uslovie-bessenta-dlia-zakliucheniia-soglasheniia-mezhdu-rf-i-ssha-izi",
-        "https://iz.ru/2158724/pushkov-ukazal-na-prichastnost-vlastei-ispanii-k-migratcionnomu-krizisu-izi",
-        "https://iz.ru/2158725/politico-soobshchila-o-stolknovenii-proekta-o-sanktciiakh-protiv-rf-s-oppozitciei-v-ssha-izi",
-        "https://iz.ru/2158727/v-novokuibyshevske-v-rezultate-ataki-bpla-vybilo-okna-v-zhilom-dome-izi",
-        "https://iz.ru/2158728/estoniia-podniala-v-vozdukh-istrebiteli-iz-za-iakoby-zaletevshikh-v-stranu-bpla-izi",
-        "https://iz.ru/2158729/v-rossii-usilili-kontrol-za-sostoianiem-zdorovia-trudovykh-migrantov-izi",
-        "https://iz.ru/2158730/shkolnitca-napala-s-nozhom-na-uchitelia-fiziki-v-krasnoiarskom-krae-izi",
-        "https://iz.ru/2158731/lukashenko-ukazal-na-pokaznoe-vozvrashchenie-v-mir-massirovannoi-voennoi-agressii-izi",
-        "https://iz.ru/2158732/tcena-na-gaz-v-evrope-dostigla-maksimuma-s-2022-goda-izi",
-        "https://iz.ru/2158736/sily-pvo-za-noch-sbili-516-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2158739/tovarooborot-rossii-so-stranami-shos-v-2025-godu-prevysil-400-mlrd-izi",
-        "https://iz.ru/2158741/putin-nazval-otnosheniia-rossii-i-uzbekistana-strategicheskim-partnerstvom-izi",
-        "https://iz.ru/2158745/v-frg-ukazali-na-vliianie-novykh-rossiiskikh-dronov-na-rabotu-portov-na-ukraine-izi",
-        "https://iz.ru/2158747/armiia-rossii-porazila-predpriiatie-v-kieve-po-proizvodstvu-aerostatov-dlia-bpla-izi",
-        "https://iz.ru/2158752/vsu-napravili-studentov-i-kursantov-na-boevye-pozitcii-v-sumskoi-oblasti-izi",
-        "https://iz.ru/2158759/v-mid-rf-zaiavili-ob-usilenii-militarizatcii-arktiki-so-storony-nato-izi",
-        "https://iz.ru/2158760/stala-izvestna-lichnost-napavshei-s-nozhom-na-shkolu-v-kanske-devochki-izi",
-        "https://iz.ru/2158766/chislo-postradavshikh-pri-napadenii-na-shkolu-v-kanske-vyroslo-do-deviati-chelovek-izi"
+        "https://iz.ru/2158788/tcentrobank-rossii-postavil-logotip-tcifrovogo-rublia-na-foto-v-svoikh-messendzherakh-izi",
+        "https://iz.ru/2158795/posol-rf-andrei-kelin-zavershil-diplomaticheskuiu-missiiu-v-velikobritanii-izi",
+        "https://iz.ru/2158801/strany-shos-vyrazili-soboleznovaniia-iranu-v-sviazi-s-gibeliu-ali-khamenei-izi",
+        "https://iz.ru/2158803/titov-predupredil-o-vozmozhnom-riske-rezhima-berserka-v-ekonomike-izi",
+        "https://iz.ru/2158805/putin-lukashenko-i-erdogan-poobshchalis-na-poliakh-sammita-shos-izi",
+        "https://iz.ru/2158808/pushkinskii-muzei-v-moskve-vremenno-priostanovil-rabotu-izi",
+        "https://iz.ru/2158813/zvezda-papinykh-dochek-ekaterina-starshova-rasskazala-podrobnosti-lichnoi-zhizni-izi",
+        "https://iz.ru/2158820/v-tcb-sravnili-ekonomiku-rossii-s-verbliudom-izi",
+        "https://iz.ru/2158831/zakharova-nazvala-teatrom-absurda-naznachenie-fedorova-sovetnikom-glavy-mo-italii-izi",
+        "https://iz.ru/2158835/putin-ukazal-na-sokhraniaiushchiesia-nedostatki-v-rabote-oon-izi",
+        "https://iz.ru/2158840/v-tcb-nazvali-sroki-proiasneniia-situatcii-na-toplivnom-rynke-izi",
+        "https://iz.ru/2158844/zakharova-obvinila-zapad-v-souchastii-v-teraktakh-protiv-detei-izi",
+        "https://iz.ru/2158848/zakharova-soobshchila-o-poiske-12-rossiian-posle-navodneniia-v-nepale-izi",
+        "https://iz.ru/2158858/kallas-prizvala-kiev-ne-zhdat-itogov-ot-vstrechi-ministrov-oborony-es-v-irlandii-izi",
+        "https://iz.ru/2158868/v-mid-rossii-vyrazili-trevogu-iz-za-planov-zapada-na-kaliningrad-izi",
+        "https://iz.ru/2158874/zakharova-nazvala-chudovishchnymi-plany-kieva-po-perezakhoroneniiu-sovetskikh-geroev-izi",
+        "https://iz.ru/2158875/sk-vozbudil-delo-posle-napadeniia-shkolnitcy-na-uchitelia-v-kanske-izi",
+        "https://iz.ru/2158878/dmitriev-zaiavil-ob-izoliatcii-evropy-na-fone-peregovorov-rossii-i-ssha-izi",
+        "https://iz.ru/2158883/v-kremle-ukazali-na-nezavisimost-bishkeka-ot-moskvy-izi",
+        "https://iz.ru/2158884/putin-i-aliev-poobshchalis-na-nogakh-na-poliakh-shos-izi"
       ]
     },
     "2026-09-02": {
-      "totalChecked": 1070,
+      "totalChecked": 1067,
       "totalIzi": 228,
-      "totalIiz": 2,
-      "totalAi": 230,
+      "totalIiz": 1,
+      "totalAi": 229,
       "topLinks": [
-        "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2158784/uchenye-nashli-prichinu-poteri-sposobnosti-pecheni-k-regeneratcii-izi",
         "https://iz.ru/2158855/uchenye-sviazali-pozdnii-rezhim-sna-s-problemami-psikhicheskogo-zdorovia-izi",
         "https://iz.ru/2158886/uchenye-vyiavili-polzu-medlennogo-bega-dlia-mozga-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2159389/kitaiskie-kompanii-narastili-perevozki-po-sevmorputi-v-evropu-izi",
         "https://iz.ru/2159399/glava-minfina-ssha-zaiavil-o-vazhnosti-dialoga-s-rossiei-v-g20-izi",
         "https://iz.ru/2159412/britanka-s-russkim-aktcentom-vyigrala-delo-o-diskriminatcii-i-poluchila-223-tys-izi",
-        "https://iz.ru/2159416/v-minprosveshcheniia-rf-napomnili-pravila-formirovaniia-shkolnogo-grafika-izi"
+        "https://iz.ru/2159416/v-minprosveshcheniia-rf-napomnili-pravila-formirovaniia-shkolnogo-grafika-izi",
+        "https://iz.ru/2159418/iran-soobshchil-ob-atake-na-amerikanskuiu-voennuiu-bazu-v-bakhreine-izi"
       ]
     },
     "2026-09-03": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 901,
-      "totalIzi": 232,
+      "totalChecked": 912,
+      "totalIzi": 236,
       "totalIiz": 2,
-      "totalAi": 234,
+      "totalAi": 238,
       "topLinks": [
         "https://iz.ru/2161196/narodnye-primety-na-7-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161426/na-festivale-rossiia-budushchego-proidet-gonka-dronov-izi",
@@ -375,13 +375,28 @@
       ]
     },
     "2026-09-08": {
-      "totalChecked": 51,
-      "totalIzi": 1,
-      "totalIiz": 1,
-      "totalAi": 2,
+      "totalChecked": 224,
+      "totalIzi": 15,
+      "totalIiz": 2,
+      "totalAi": 17,
       "topLinks": [
+        "https://iz.ru/2162521/vozrast-ne-prigovor-uchenye-obiasnili-rol-trenirovok-v-zdorovom-starenii-izi",
+        "https://iz.ru/2162558/bakterii-v-shkolnoi-pyli-sviazali-so-snizheniem-funktcii-legkikh-u-detei-izi",
+        "https://iz.ru/2162599/kod-lichnosti-chto-my-poluchaem-ot-roditelei-i-meniaem-sami-izi",
         "https://iz.ru/2162652/narodnye-primety-na-8-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi"
+        "https://iz.ru/2162676/uchenye-opredelili-faktory-prochnosti-otnoshenii-s-pomoshchiu-matematiki-izi",
+        "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi",
+        "https://iz.ru/2162951/rubin-i-akhmat-sygrali-vnichiu-v-matche-rpl-v-kazani-izi",
+        "https://iz.ru/2162955/strakhovye-pensii-po-starosti-budut-naznachat-avtomaticheski-izi",
+        "https://iz.ru/2162998/pravila-vneseniia-nalichnykh-v-bankomaty-izmeniatsia-s-1-oktiabria-izi",
+        "https://iz.ru/2162521/vozrast-ne-prigovor-uchenye-obiasnili-rol-trenirovok-v-zdorovom-starenii-izi",
+        "https://iz.ru/2162558/bakterii-v-shkolnoi-pyli-sviazali-so-snizheniem-funktcii-legkikh-u-detei-izi",
+        "https://iz.ru/2162599/kod-lichnosti-chto-my-poluchaem-ot-roditelei-i-meniaem-sami-izi",
+        "https://iz.ru/2162652/narodnye-primety-na-8-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2162676/uchenye-opredelili-faktory-prochnosti-otnoshenii-s-pomoshchiu-matematiki-izi",
+        "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi",
+        "https://iz.ru/2162951/rubin-i-akhmat-sygrali-vnichiu-v-matche-rpl-v-kazani-izi",
+        "https://iz.ru/2162955/strakhovye-pensii-po-starosti-budut-naznachat-avtomaticheski-izi"
       ]
     }
   }
