@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:08:53.984Z",
+  "generatedAt": "2026-09-09T11:36:54.304Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-09-02": {
-      "totalChecked": 893,
-      "totalIzi": 195,
+      "totalChecked": 754,
+      "totalIzi": 161,
       "totalIiz": 1,
-      "totalAi": 196,
+      "totalAi": 162,
       "topLinks": [
-        "https://iz.ru/2159473/deputat-oproverg-obsuzhdenie-v-gosdume-naloga-na-sverkhpribyl-bankov-izi",
-        "https://iz.ru/2159475/putin-osmotrel-stroiashchiisia-tanker-gazovoz-petr-stolypin-na-sudoverfi-zvezda-izi",
-        "https://iz.ru/2159479/noa-dzhup-prisoedinilsia-k-akterskomu-sostavu-filma-mstiteli-sekretnye-voiny-izi",
-        "https://iz.ru/2159483/rf-i-kambodzha-podpisali-programmu-obmena-opytom-v-sfere-finansovykh-rassledovanii-izi",
-        "https://iz.ru/2159487/axios-uznal-ob-atake-ssha-na-dva-iranskikh-tankera-v-ramkakh-novoi-strategii-trampa-izi",
-        "https://iz.ru/2159490/putin-nazval-slova-zelenskogo-ob-aviatcii-zaiavkoi-na-gosudarstvennyi-terrorizm-izi",
-        "https://iz.ru/2159494/vs-rf-unichtozhili-sklad-chaiki-s-komplektuiushchimi-dlia-bpla-pod-kievom-izi",
-        "https://iz.ru/2159512/miller-upreknul-tuska-v-zapugivanii-grazhdan-rossiiskoi-ugrozoi-izi",
-        "https://iz.ru/2159516/fis-dopustila-rossiiskikh-lyzhnikov-k-mezhdunarodnym-turniram-v-neitralnom-statuse-izi",
-        "https://iz.ru/2159526/wp-ukazala-na-rol-kitaia-v-protivostoianii-ekonomicheskomu-davleniiu-ssha-na-iran-izi",
-        "https://iz.ru/2159527/uchenye-soobshchili-o-nizkoi-solnechnoi-aktivnosti-2-sentiabria-izi",
-        "https://iz.ru/2159535/reshetnikov-sprognoziroval-rost-vvp-rossii-na-urovne-06-v-2026-godu-izi",
-        "https://iz.ru/2159539/uchenye-obnaruzhili-v-mozge-mekhanizm-podavleniia-khronicheskoi-boli-izi",
-        "https://iz.ru/2159547/zhitel-niu-jorka-vyzhil-posle-udara-molnii-izi",
-        "https://iz.ru/2159555/ksir-zaiavil-o-podryve-dvukh-tankerov-na-minakh-v-ormuzskom-prolive-izi",
-        "https://iz.ru/2159557/putin-osmotrel-rossiiskii-rybolovnyi-trauler-kapitan-iunak-vo-vladivostoke-izi",
-        "https://iz.ru/2159559/vs-rossii-porazili-logisticheskii-tcentr-fire-point-v-kievskoi-oblasti-izi",
-        "https://iz.ru/2159571/zakharova-podelilas-mneniem-o-sbezhavshikh-za-granitcu-politicheskikh-ekspertakh-izi",
-        "https://iz.ru/2159577/putina-udivili-razmery-novogo-tankera-gazovoza-petr-stolypin-izi",
-        "https://iz.ru/2159579/mintrans-poobeshchal-ne-dopustit-znachimykh-pereryvov-v-rabote-grazhdanskoi-aviatcii-izi"
+        "https://iz.ru/2159667/euractiv-uznal-o-predlozhenii-vyvesti-zamorozhennye-aktivy-rossii-iz-belgii-izi",
+        "https://iz.ru/2159670/chislo-pogibshikh-pri-navodnenii-v-nepale-vyroslo-do-1127-izi",
+        "https://iz.ru/2159671/uchenye-dopustili-vliianie-mezhzvezdnykh-oblakov-na-klimat-zemli-izi",
+        "https://iz.ru/2159674/v-khersonskoi-oblasti-ukrainskie-bpla-atakovali-gumanitarnuiu-kolonnu-izi",
+        "https://iz.ru/2159682/smi-soobshchili-o-zaprete-printca-garri-i-megan-markl-snimat-ikh-detei-v-shkole-izi",
+        "https://iz.ru/2159686/range-rover-vpervye-poluchil-polnostiu-elektricheskuiu-versiiu-izi",
+        "https://iz.ru/2159687/ft-uznala-o-planakh-evrokomissii-zaniatsia-reformatciei-sluzhby-kallas-izi",
+        "https://iz.ru/2159693/novym-prezidentom-estonii-izbrana-eks-kantcler-prava-iulle-madize-izi",
+        "https://iz.ru/2159697/voennyi-ekspert-predrek-ukraine-polnuiu-poteriu-vykhoda-k-moriu-cherez-mesiatc-izi",
+        "https://iz.ru/2159704/mid-rossii-vyzval-vremennogo-poverennogo-v-delakh-germanii-v-moskve-izi",
+        "https://iz.ru/2159710/vrachi-izvlekli-iz-ukha-devushki-zhivogo-tarakana-v-podmoskove-izi",
+        "https://iz.ru/2159712/reper-t-killah-biografiia-izi",
+        "https://iz.ru/2159715/si-tczinpin-poobeshchal-obespechit-bezopasnost-morskikh-putei-na-blizhnem-vostoke-izi",
+        "https://iz.ru/2159717/rostekh-vpervye-predstavit-v-egipte-sistemu-porazheniia-bpla-bizon-izi",
+        "https://iz.ru/2159718/akademik-onishchenko-ukazal-na-krushenie-sistemy-pravilnogo-pitaniia-v-rossii-izi",
+        "https://iz.ru/2159725/psikholog-obiasnila-poiavlenie-trevogi-posle-dezhaviu-izi",
+        "https://iz.ru/2159733/armiia-rossii-s-pomoshchiu-bpla-geran-porazila-logisticheskii-tcentr-v-kieve-izi",
+        "https://iz.ru/2159741/uchenye-soobshchili-o-roste-chisla-silnykh-vspyshek-na-solntce-letom-izi",
+        "https://iz.ru/2159750/uchenye-nazvali-faktor-sokhraneniia-pamiati-v-pozhilom-vozraste-izi",
+        "https://iz.ru/2159766/putin-nazval-moskvu-glavnym-partnerom-pekina-v-sfere-mirnogo-atoma-izi"
       ]
     },
     "2026-09-03": {
-      "totalChecked": 1211,
-      "totalIzi": 176,
+      "totalChecked": 1205,
+      "totalIzi": 174,
       "totalIiz": 1,
-      "totalAi": 177,
+      "totalAi": 175,
       "topLinks": [
-        "https://iz.ru/2159549/ot-avatara-do-zveropolisa-2-kakie-filmy-stali-samymi-kassovymi-v-istorii-izi",
-        "https://iz.ru/2159626/uchenye-raskryli-vliianie-pitaniia-na-geneticheskie-prichiny-muzhskogo-besplodiia-izi",
         "https://iz.ru/2160077/norvezhskii-zhurnalist-nazval-neitralnyi-status-sportsmenov-iz-rf-vremennoi-meroi-izi",
         "https://iz.ru/2160080/britanskii-deputat-nazvala-rossiiskuiu-ugrozu-vydumkoi-nato-izi",
         "https://iz.ru/2160100/reshetnikov-prokommentiroval-povyshenie-sverkhurochnykh-do-240-chasov-v-god-izi",
@@ -231,17 +229,17 @@
         "https://iz.ru/2160285/armiia-rossii-porazila-dva-sukhogruza-v-raione-portov-odesskoi-oblasti-izi",
         "https://iz.ru/2160290/putin-zaiavil-ob-unikalnosti-atomnoi-energetiki-maloi-moshchnosti-rossii-izi",
         "https://iz.ru/2160291/rabotu-metro-mtck-i-tramvaev-prodliat-v-moskve-na-den-goroda-izi",
-        "https://iz.ru/2160299/bpla-udaril-po-zhilomu-domu-v-kubinke-zagorelis-kvartiry-izi"
+        "https://iz.ru/2160299/bpla-udaril-po-zhilomu-domu-v-kubinke-zagorelis-kvartiry-izi",
+        "https://iz.ru/2160310/prezident-rossii-vystupil-za-vosstanovlenie-otnoshenii-s-ssha-v-polnom-obeme-izi",
+        "https://iz.ru/2160320/peskov-ukazal-na-krakh-printcipov-nezavisimosti-ukrainy-izi"
       ]
     },
     "2026-09-04": {
-      "totalChecked": 920,
-      "totalIzi": 201,
-      "totalIiz": 2,
-      "totalAi": 203,
+      "totalChecked": 914,
+      "totalIzi": 200,
+      "totalIiz": 1,
+      "totalAi": 201,
       "topLinks": [
-        "https://iz.ru/2159492/narodnye-primety-na-4-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2159666/uchenye-obiasnili-rol-obkhvata-talii-pri-otcenke-ozhireniia-izi",
         "https://iz.ru/2159773/uchenye-vyiasnili-vliianie-pozitivnogo-myshleniia-na-zdorove-serdtca-izi",
         "https://iz.ru/2159813/uchenye-raskryli-mekhanizm-razryva-mezhdu-mysliami-i-deistviiami-pri-okr-izi",
         "https://iz.ru/2160878/2026-09-04/madiar-zaiavil-o-prodolzhenii-predostavleniia-statusa-bezhentcev-dlia-ukraintcev-izi",
@@ -259,7 +257,9 @@
         "https://iz.ru/2160958/putin-otmetil-razvitie-strategicheskogo-partnerstva-s-knr-po-voskhodiashchei-izi",
         "https://iz.ru/2160961/sily-pvo-za-noch-sbili-490-ukrainskikh-bpla-nad-regionami-rossii-izi",
         "https://iz.ru/2160962/vs-rossii-pristupili-k-zachistke-volchanskogo-kotla-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2160963/novak-soobshchil-o-planakh-obsudit-situatciiu-na-rynke-topliva-s-azs-izi"
+        "https://iz.ru/2160963/novak-soobshchil-o-planakh-obsudit-situatciiu-na-rynke-topliva-s-azs-izi",
+        "https://iz.ru/2160964/mosbilet-sobral-samye-uvlekatelnye-nauchno-populiarnye-ekskursii-dlia-detei-izi",
+        "https://iz.ru/2160966/finskii-voenkor-rasskazal-ob-otsutstvii-vliianiia-zapadnykh-sanktcii-v-krymu-izi"
       ]
     },
     "2026-09-05": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-09": {
-      "totalChecked": 217,
-      "totalIzi": 34,
+      "totalChecked": 439,
+      "totalIzi": 71,
       "totalIiz": 4,
-      "totalAi": 38,
+      "totalAi": 75,
       "topLinks": [
         "https://iz.ru/2163083/uchenye-obiasnili-prichiny-iskliuchenii-zhenshchin-iz-nauchnykh-issledovanii-izi",
         "https://iz.ru/2163107/samyi-strogii-den-chto-nelzia-delat-veruiushchim-na-useknovenie-glavy-ioanna-predtechi-iiz",
@@ -399,7 +399,7 @@
         "https://iz.ru/2163682/zakharova-zaiavila-o-perekhode-zapadnykh-poslov-v-oppozitciiu-posle-raboty-v-rf-izi",
         "https://iz.ru/2163690/v-rospotrebnadzore-nazvali-sroki-nachala-rosta-zabolevaemosti-orvi-v-rossii-izi",
         "https://iz.ru/2163696/ekspert-rasskazal-o-povyshenii-stavok-po-kratkosrochnym-vkladam-iz-za-ottoka-sredstv-izi",
-        "https://iz.ru/2163083/uchenye-obiasnili-prichiny-iskliuchenii-zhenshchin-iz-nauchnykh-issledovanii-izi"
+        "https://iz.ru/2163706/v-izraile-zaiavili-chto-zakroiut-britanskoe-konsulstvo-v-otvet-na-sanktcii-londona-izi"
       ]
     }
   }
