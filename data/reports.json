@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:33:31.435Z",
+  "generatedAt": "2026-09-10T16:36:45.079Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,35 +179,35 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 966,
-      "totalIzi": 160,
+      "totalChecked": 844,
+      "totalIzi": 142,
       "totalIiz": 1,
-      "totalAi": 161,
+      "totalAi": 143,
       "topLinks": [
-        "https://iz.ru/2160285/armiia-rossii-porazila-dva-sukhogruza-v-raione-portov-odesskoi-oblasti-izi",
-        "https://iz.ru/2160290/putin-zaiavil-ob-unikalnosti-atomnoi-energetiki-maloi-moshchnosti-rossii-izi",
-        "https://iz.ru/2160291/rabotu-metro-mtck-i-tramvaev-prodliat-v-moskve-na-den-goroda-izi",
-        "https://iz.ru/2160299/bpla-udaril-po-zhilomu-domu-v-kubinke-zagorelis-kvartiry-izi",
-        "https://iz.ru/2160310/prezident-rossii-vystupil-za-vosstanovlenie-otnoshenii-s-ssha-v-polnom-obeme-izi",
-        "https://iz.ru/2160320/peskov-ukazal-na-krakh-printcipov-nezavisimosti-ukrainy-izi",
-        "https://iz.ru/2160321/der-spiegel-soobshchil-o-vozmozhnoi-pomoshchi-germanii-ukraine-v-sbore-dannykh-o-tceliakh-izi",
-        "https://iz.ru/2160322/aktcii-zavoda-ventprom-iziali-v-dokhod-gosudarstva-po-resheniiu-suda-izi",
-        "https://iz.ru/2160323/peskov-rossiia-ne-budet-initciatorom-ponizheniia-urovnia-dipotnoshenii-s-frg-izi",
-        "https://iz.ru/2160327/putin-otcenil-deistviia-tcb-i-pravitelstva-kak-balans-mezhdu-stcilloi-i-kharibdoi-izi",
-        "https://iz.ru/2160387/rosaviatciia-ne-poluchala-zaprosov-o-priostanovke-soobshcheniia-ot-zarubezhnykh-kompanii-izi",
-        "https://iz.ru/2160399/netflix-vypustit-dokumentalnyi-serial-o-zhizni-mettiu-perri-izi",
-        "https://iz.ru/2160401/moshenniki-nachali-reklamirovat-dietu-ot-imeni-aktrisy-aronovoi-pri-pomoshchi-ii-izi",
-        "https://iz.ru/2160405/popytka-ataki-ukrainskikh-bpla-na-moskvu-stala-odnoi-iz-krupneishikh-za-dva-goda-izi",
-        "https://iz.ru/2160414/v-podmoskovnoi-kubinke-muzhchina-postradal-pri-padenii-oblomkov-bpla-na-avto-izi",
-        "https://iz.ru/2160422/chislo-postradavshikh-pri-udare-bpla-po-podmoskovnoi-kubinke-vyroslo-do-dvukh-izi",
-        "https://iz.ru/2160434/rezhissery-mstitelei-raskryli-podrobnosti-semok-bez-gotovogo-stcenariia-izi",
-        "https://iz.ru/2160445/ekspert-nazvala-luchshie-mesta-dlia-khraneniia-khleba-izi",
         "https://iz.ru/2160458/v-engelse-saratovskoi-oblasti-neizvestnyi-vystrelil-v-voennosluzhashchego-izi",
-        "https://iz.ru/2160477/minfin-napravit-na-pokupku-valiuty-i-zolota-556-mlrd-rublei-izi"
+        "https://iz.ru/2160477/minfin-napravit-na-pokupku-valiuty-i-zolota-556-mlrd-rublei-izi",
+        "https://iz.ru/2160478/uchenye-sviazali-izmeneniia-setchatki-s-riskom-bolezni-altcgeimera-izi",
+        "https://iz.ru/2160485/serial-o-garri-pottere-pokazhet-bolshe-sobytii-pervoi-knigi-izi",
+        "https://iz.ru/2160497/uchenye-rasskazali-o-roli-limfouzlov-v-povrezhdenii-mozga-izi",
+        "https://iz.ru/2160499/zakharova-sprognozirovala-moshchnyi-mezhdunarodnyi-otklik-na-rech-putina-na-vef-izi",
+        "https://iz.ru/2160506/v-riazanskoi-oblasti-podrostka-obvinili-v-sovershenii-terakta-na-zheleznoi-doroge-izi",
+        "https://iz.ru/2160511/rossiiskie-voiska-sozdali-ugrozu-okruzheniia-dlia-vsu-v-volchanskom-raione-izi",
+        "https://iz.ru/2160520/rossiiskii-istrebitel-piatogo-pokoleniia-su-57e-vpervye-predstaviat-v-egipte-izi",
+        "https://iz.ru/2160524/rosptitcesoiuz-obiasnil-registratciiu-kuritc-neobkhodimostiu-zashchity-ot-ptichego-grippa-izi",
+        "https://iz.ru/2160531/posolstvo-rf-nazvalo-absurdnymi-obvineniia-londona-po-intcidentu-v-leiptcige-izi",
+        "https://iz.ru/2160538/uchenye-prosledili-istoriiu-endometrioza-ot-drevnosti-do-nashikh-dnei-izi",
+        "https://iz.ru/2160541/ozon-oproverg-soobshcheniia-o-roste-tcen-iz-za-atak-vsu-na-sklady-marketpleisa-izi",
+        "https://iz.ru/2160550/glava-vtb-zaiavil-o-vozmozhnosti-plavnogo-snizheniia-kliuchevoi-stavki-tcb-izi",
+        "https://iz.ru/2160552/s-gory-shasta-v-ssha-evakuirovali-polozhivshikhsia-na-ii-pri-voskhozhdenii-turistov-izi",
+        "https://iz.ru/2160570/v-engelse-zaveli-delo-o-pokushenii-na-zhizn-voennogo-izi",
+        "https://iz.ru/2160572/uchenye-predupredili-ob-opasnosti-detskogo-khrapa-dlia-zdorovia-izi",
+        "https://iz.ru/2160574/v-vef-priniali-uchastie-bolee-7-tys-chelovek-iz-78-stran-izi",
+        "https://iz.ru/2160575/v-orlovskoi-oblasti-dva-cheloveka-postradali-iz-za-padeniia-oblomkov-bpla-izi",
+        "https://iz.ru/2160576/putin-nazval-provedenie-vef-chetkim-i-organizovannym-izi"
       ]
     },
     "2026-09-04": {
-      "totalChecked": 911,
+      "totalChecked": 907,
       "totalIzi": 198,
       "totalIiz": 1,
       "totalAi": 199,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 569,
+      "totalChecked": 566,
       "totalIzi": 148,
       "totalIiz": 1,
       "totalAi": 149,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-09-06": {
-      "totalChecked": 460,
+      "totalChecked": 458,
       "totalIzi": 172,
       "totalIiz": 2,
       "totalAi": 174,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 911,
+      "totalChecked": 910,
       "totalIzi": 238,
       "totalIiz": 2,
       "totalAi": 240,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 444,
-      "totalIzi": 84,
+      "totalChecked": 803,
+      "totalIzi": 159,
       "totalIiz": 2,
-      "totalAi": 86,
+      "totalAi": 161,
       "topLinks": [
         "https://iz.ru/2163275/uchenye-obiasnili-prichiny-dnevnoi-sonlivosti-izi",
         "https://iz.ru/2163318/uchenye-raskryli-rol-glubokogo-sna-v-borbe-so-stressom-izi",
