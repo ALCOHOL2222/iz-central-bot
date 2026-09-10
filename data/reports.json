@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:43:38.490Z",
+  "generatedAt": "2026-09-10T01:15:41.020Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-09-02": {
-      "totalChecked": 567,
-      "totalIzi": 118,
+      "totalChecked": 535,
+      "totalIzi": 114,
       "totalIiz": 1,
-      "totalAi": 119,
+      "totalAi": 115,
       "topLinks": [
-        "https://iz.ru/2159988/v-oon-vyrazili-obespokoennost-rasshireniem-konflikta-posle-ugroz-zelenskogo-izi",
-        "https://iz.ru/2160002/ekspert-po-zhkkh-obiasnil-raznitcu-mezhdu-infliatciei-i-rostom-tarifov-izi",
-        "https://iz.ru/2160004/prezident-turtcii-poobeshchal-sdelat-vse-vozmozhnoe-dlia-mira-na-ukraine-izi",
-        "https://iz.ru/2160021/zelenskii-nazval-pozornoi-perestrelku-sotrudnikov-sbu-i-gur-v-kieve-izi",
         "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2158784/uchenye-nashli-prichinu-poteri-sposobnosti-pecheni-k-regeneratcii-izi",
         "https://iz.ru/2158855/uchenye-sviazali-pozdnii-rezhim-sna-s-problemami-psikhicheskogo-zdorovia-izi",
@@ -175,17 +171,19 @@
         "https://iz.ru/2159364/tramp-vydvinul-khung-kao-na-post-glavy-vms-ssha-izi",
         "https://iz.ru/2159366/rostov-obygral-tcska-so-schetom-20-v-matche-kubka-rossii-izi",
         "https://iz.ru/2159375/grushko-zaiavil-o-zhelanii-zapada-dobitsia-voennogo-prevoskhodstva-v-arktike-izi",
-        "https://iz.ru/2159382/kadastrovaia-stoimost-zemli-na-dalnem-vostoke-vyrosla-na-30-izi"
+        "https://iz.ru/2159382/kadastrovaia-stoimost-zemli-na-dalnem-vostoke-vyrosla-na-30-izi",
+        "https://iz.ru/2159389/kitaiskie-kompanii-narastili-perevozki-po-sevmorputi-v-evropu-izi",
+        "https://iz.ru/2159399/glava-minfina-ssha-zaiavil-o-vazhnosti-dialoga-s-rossiei-v-g20-izi",
+        "https://iz.ru/2159412/britanka-s-russkim-aktcentom-vyigrala-delo-o-diskriminatcii-i-poluchila-223-tys-izi",
+        "https://iz.ru/2159416/v-minprosveshcheniia-rf-napomnili-pravila-formirovaniia-shkolnogo-grafika-izi"
       ]
     },
     "2026-09-03": {
-      "totalChecked": 1179,
-      "totalIzi": 174,
+      "totalChecked": 1138,
+      "totalIzi": 172,
       "totalIiz": 1,
-      "totalAi": 175,
+      "totalAi": 173,
       "topLinks": [
-        "https://iz.ru/2160077/norvezhskii-zhurnalist-nazval-neitralnyi-status-sportsmenov-iz-rf-vremennoi-meroi-izi",
-        "https://iz.ru/2160080/britanskii-deputat-nazvala-rossiiskuiu-ugrozu-vydumkoi-nato-izi",
         "https://iz.ru/2160100/reshetnikov-prokommentiroval-povyshenie-sverkhurochnykh-do-240-chasov-v-god-izi",
         "https://iz.ru/2160129/likhachev-nazval-stroitelstvo-aes-v-kazakhstane-prioritetom-sotrudnichestva-izi",
         "https://iz.ru/2160146/madiar-podcherknul-neodobrenie-vengriei-uskorennogo-vstupleniia-stran-v-es-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2160291/rabotu-metro-mtck-i-tramvaev-prodliat-v-moskve-na-den-goroda-izi",
         "https://iz.ru/2160299/bpla-udaril-po-zhilomu-domu-v-kubinke-zagorelis-kvartiry-izi",
         "https://iz.ru/2160310/prezident-rossii-vystupil-za-vosstanovlenie-otnoshenii-s-ssha-v-polnom-obeme-izi",
-        "https://iz.ru/2160320/peskov-ukazal-na-krakh-printcipov-nezavisimosti-ukrainy-izi"
+        "https://iz.ru/2160320/peskov-ukazal-na-krakh-printcipov-nezavisimosti-ukrainy-izi",
+        "https://iz.ru/2160321/der-spiegel-soobshchil-o-vozmozhnoi-pomoshchi-germanii-ukraine-v-sbore-dannykh-o-tceliakh-izi",
+        "https://iz.ru/2160322/aktcii-zavoda-ventprom-iziali-v-dokhod-gosudarstva-po-resheniiu-suda-izi"
       ]
     },
     "2026-09-04": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-09-09": {
-      "totalChecked": 950,
+      "totalChecked": 958,
       "totalIzi": 202,
       "totalIiz": 4,
       "totalAi": 206,
@@ -375,11 +375,30 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 144,
+      "totalIzi": 16,
+      "totalIiz": 2,
+      "totalAi": 18,
+      "topLinks": [
+        "https://iz.ru/2164071/narodnye-primety-na-10-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2164152/2026-09-10/v-kprf-predlozhili-ne-otmeniat-registratciiu-kandidatov-za-administrativnye-narusheniia-izi",
+        "https://iz.ru/2164308/dolina-otcenila-reshenie-suda-o-vzyskanii-s-moshennikov-114-mln-izi",
+        "https://iz.ru/2164315/andreeva-ustupila-gauff-i-ne-vyshla-v-polufinal-us-open-izi",
+        "https://iz.ru/2164318/minprosveshcheniia-sinkhronizirovalo-programmy-po-fizike-i-khimii-s-ege-i-oge-izi",
+        "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
+        "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
+        "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi",
+        "https://iz.ru/2164334/nazvany-regiony-s-ustanovlennoi-vyplatoi-za-tretego-rebenka-izi",
+        "https://iz.ru/2164071/narodnye-primety-na-10-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2164152/2026-09-10/v-kprf-predlozhili-ne-otmeniat-registratciiu-kandidatov-za-administrativnye-narusheniia-izi",
+        "https://iz.ru/2164308/dolina-otcenila-reshenie-suda-o-vzyskanii-s-moshennikov-114-mln-izi",
+        "https://iz.ru/2164315/andreeva-ustupila-gauff-i-ne-vyshla-v-polufinal-us-open-izi",
+        "https://iz.ru/2164318/minprosveshcheniia-sinkhronizirovalo-programmy-po-fizike-i-khimii-s-ege-i-oge-izi",
+        "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
+        "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
+        "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi",
+        "https://iz.ru/2164334/nazvany-regiony-s-ustanovlennoi-vyplatoi-za-tretego-rebenka-izi"
+      ]
     }
   }
 }
