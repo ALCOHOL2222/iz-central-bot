@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T01:15:41.020Z",
+  "generatedAt": "2026-09-10T06:10:18.980Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,13 +179,11 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 1138,
-      "totalIzi": 172,
+      "totalChecked": 1090,
+      "totalIzi": 170,
       "totalIiz": 1,
-      "totalAi": 173,
+      "totalAi": 171,
       "topLinks": [
-        "https://iz.ru/2160100/reshetnikov-prokommentiroval-povyshenie-sverkhurochnykh-do-240-chasov-v-god-izi",
-        "https://iz.ru/2160129/likhachev-nazval-stroitelstvo-aes-v-kazakhstane-prioritetom-sotrudnichestva-izi",
         "https://iz.ru/2160146/madiar-podcherknul-neodobrenie-vengriei-uskorennogo-vstupleniia-stran-v-es-izi",
         "https://iz.ru/2160157/moskovskie-predprinimateli-sobiraiut-gumanitarnye-gruzy-dlia-uchastnikov-svo-izi",
         "https://iz.ru/2160160/manutrov-vyrazil-nadezhdu-na-neprimenenie-vremennogo-upravleniia-predpriiatiiami-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2160310/prezident-rossii-vystupil-za-vosstanovlenie-otnoshenii-s-ssha-v-polnom-obeme-izi",
         "https://iz.ru/2160320/peskov-ukazal-na-krakh-printcipov-nezavisimosti-ukrainy-izi",
         "https://iz.ru/2160321/der-spiegel-soobshchil-o-vozmozhnoi-pomoshchi-germanii-ukraine-v-sbore-dannykh-o-tceliakh-izi",
-        "https://iz.ru/2160322/aktcii-zavoda-ventprom-iziali-v-dokhod-gosudarstva-po-resheniiu-suda-izi"
+        "https://iz.ru/2160322/aktcii-zavoda-ventprom-iziali-v-dokhod-gosudarstva-po-resheniiu-suda-izi",
+        "https://iz.ru/2160323/peskov-rossiia-ne-budet-initciatorom-ponizheniia-urovnia-dipotnoshenii-s-frg-izi",
+        "https://iz.ru/2160327/putin-otcenil-deistviia-tcb-i-pravitelstva-kak-balans-mezhdu-stcilloi-i-kharibdoi-izi"
       ]
     },
     "2026-09-04": {
@@ -375,11 +375,15 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 144,
-      "totalIzi": 16,
+      "totalChecked": 244,
+      "totalIzi": 36,
       "totalIiz": 2,
-      "totalAi": 18,
+      "totalAi": 38,
       "topLinks": [
+        "https://iz.ru/2163275/uchenye-obiasnili-prichiny-dnevnoi-sonlivosti-izi",
+        "https://iz.ru/2163318/uchenye-raskryli-rol-glubokogo-sna-v-borbe-so-stressom-izi",
+        "https://iz.ru/2163375/uchenye-peresmotreli-prichiny-razvitiia-bolezni-altcgeimera-izi",
+        "https://iz.ru/2163977/uchenye-sviazali-zdorovyi-obraz-zhizni-s-schastem-i-dolgoletiem-izi",
         "https://iz.ru/2164071/narodnye-primety-na-10-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2164152/2026-09-10/v-kprf-predlozhili-ne-otmeniat-registratciiu-kandidatov-za-administrativnye-narusheniia-izi",
         "https://iz.ru/2164308/dolina-otcenila-reshenie-suda-o-vzyskanii-s-moshennikov-114-mln-izi",
@@ -388,16 +392,14 @@
         "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
         "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
         "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi",
+        "https://iz.ru/2164333/otriad-severnogo-flota-voshel-v-akvatoriiu-moria-laptevykh-izi",
         "https://iz.ru/2164334/nazvany-regiony-s-ustanovlennoi-vyplatoi-za-tretego-rebenka-izi",
-        "https://iz.ru/2164071/narodnye-primety-na-10-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2164152/2026-09-10/v-kprf-predlozhili-ne-otmeniat-registratciiu-kandidatov-za-administrativnye-narusheniia-izi",
-        "https://iz.ru/2164308/dolina-otcenila-reshenie-suda-o-vzyskanii-s-moshennikov-114-mln-izi",
-        "https://iz.ru/2164315/andreeva-ustupila-gauff-i-ne-vyshla-v-polufinal-us-open-izi",
-        "https://iz.ru/2164318/minprosveshcheniia-sinkhronizirovalo-programmy-po-fizike-i-khimii-s-ege-i-oge-izi",
-        "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
-        "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
-        "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi",
-        "https://iz.ru/2164334/nazvany-regiony-s-ustanovlennoi-vyplatoi-za-tretego-rebenka-izi"
+        "https://iz.ru/2164335/v-gretcii-zhenshchina-rodila-rebenka-iz-khranivshegosia-22-goda-v-zamorozke-embriona-izi",
+        "https://iz.ru/2164348/rossiianam-nazvali-chislo-pensionnykh-ballov-pri-srednei-zarplate-izi",
+        "https://iz.ru/2164354/nazvany-11-sfer-s-dokhodom-vyshe-500-tys-rublei-v-rossii-izi",
+        "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi",
+        "https://iz.ru/2164366/onishchenko-prizval-ne-provodit-v-shkolakh-kontrolnye-raboty-po-chetvergam-izi",
+        "https://iz.ru/2163275/uchenye-obiasnili-prichiny-dnevnoi-sonlivosti-izi"
       ]
     }
   }
