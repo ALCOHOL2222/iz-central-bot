@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:10:18.980Z",
+  "generatedAt": "2026-09-10T11:33:31.435Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,21 +179,11 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 1090,
-      "totalIzi": 170,
+      "totalChecked": 966,
+      "totalIzi": 160,
       "totalIiz": 1,
-      "totalAi": 171,
+      "totalAi": 161,
       "topLinks": [
-        "https://iz.ru/2160146/madiar-podcherknul-neodobrenie-vengriei-uskorennogo-vstupleniia-stran-v-es-izi",
-        "https://iz.ru/2160157/moskovskie-predprinimateli-sobiraiut-gumanitarnye-gruzy-dlia-uchastnikov-svo-izi",
-        "https://iz.ru/2160160/manutrov-vyrazil-nadezhdu-na-neprimenenie-vremennogo-upravleniia-predpriiatiiami-izi",
-        "https://iz.ru/2160163/degtiarev-zaiavil-o-polozhitelnom-vliianii-perioda-otstraneniia-na-sportsmenov-iz-rf-izi",
-        "https://iz.ru/2160168/v-tcrpt-zaiavili-ob-otsutstvii-planov-po-markirovke-khleba-v-rossii-izi",
-        "https://iz.ru/2160172/mat-osvobozhdennoi-v-meksike-18-letnei-rossiianki-opisala-tiazheloe-sostoianie-docheri-izi",
-        "https://iz.ru/2160179/veteran-rasskazal-ob-obnaruzhenii-na-pozitciiakh-v-marinke-drona-s-poslaniem-ot-vsu-izi",
-        "https://iz.ru/2160184/rosatom-i-kazakhstan-podpisali-soglashenie-o-stroitelstve-aes-balkhash-izi",
-        "https://iz.ru/2160194/uchenye-otcenili-vyzhivaemost-zemnykh-mikrobov-na-lune-izi",
-        "https://iz.ru/2160269/armiia-rossii-porazila-logisticheskii-tcentr-biokon-v-kievskoi-oblasti-izi",
         "https://iz.ru/2160285/armiia-rossii-porazila-dva-sukhogruza-v-raione-portov-odesskoi-oblasti-izi",
         "https://iz.ru/2160290/putin-zaiavil-ob-unikalnosti-atomnoi-energetiki-maloi-moshchnosti-rossii-izi",
         "https://iz.ru/2160291/rabotu-metro-mtck-i-tramvaev-prodliat-v-moskve-na-den-goroda-izi",
@@ -203,7 +193,17 @@
         "https://iz.ru/2160321/der-spiegel-soobshchil-o-vozmozhnoi-pomoshchi-germanii-ukraine-v-sbore-dannykh-o-tceliakh-izi",
         "https://iz.ru/2160322/aktcii-zavoda-ventprom-iziali-v-dokhod-gosudarstva-po-resheniiu-suda-izi",
         "https://iz.ru/2160323/peskov-rossiia-ne-budet-initciatorom-ponizheniia-urovnia-dipotnoshenii-s-frg-izi",
-        "https://iz.ru/2160327/putin-otcenil-deistviia-tcb-i-pravitelstva-kak-balans-mezhdu-stcilloi-i-kharibdoi-izi"
+        "https://iz.ru/2160327/putin-otcenil-deistviia-tcb-i-pravitelstva-kak-balans-mezhdu-stcilloi-i-kharibdoi-izi",
+        "https://iz.ru/2160387/rosaviatciia-ne-poluchala-zaprosov-o-priostanovke-soobshcheniia-ot-zarubezhnykh-kompanii-izi",
+        "https://iz.ru/2160399/netflix-vypustit-dokumentalnyi-serial-o-zhizni-mettiu-perri-izi",
+        "https://iz.ru/2160401/moshenniki-nachali-reklamirovat-dietu-ot-imeni-aktrisy-aronovoi-pri-pomoshchi-ii-izi",
+        "https://iz.ru/2160405/popytka-ataki-ukrainskikh-bpla-na-moskvu-stala-odnoi-iz-krupneishikh-za-dva-goda-izi",
+        "https://iz.ru/2160414/v-podmoskovnoi-kubinke-muzhchina-postradal-pri-padenii-oblomkov-bpla-na-avto-izi",
+        "https://iz.ru/2160422/chislo-postradavshikh-pri-udare-bpla-po-podmoskovnoi-kubinke-vyroslo-do-dvukh-izi",
+        "https://iz.ru/2160434/rezhissery-mstitelei-raskryli-podrobnosti-semok-bez-gotovogo-stcenariia-izi",
+        "https://iz.ru/2160445/ekspert-nazvala-luchshie-mesta-dlia-khraneniia-khleba-izi",
+        "https://iz.ru/2160458/v-engelse-saratovskoi-oblasti-neizvestnyi-vystrelil-v-voennosluzhashchego-izi",
+        "https://iz.ru/2160477/minfin-napravit-na-pokupku-valiuty-i-zolota-556-mlrd-rublei-izi"
       ]
     },
     "2026-09-04": {
@@ -235,12 +235,11 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 570,
+      "totalChecked": 569,
       "totalIzi": 148,
-      "totalIiz": 2,
-      "totalAi": 150,
+      "totalIiz": 1,
+      "totalAi": 149,
       "topLinks": [
-        "https://iz.ru/2160180/narodnye-primety-na-5-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161048/uchenye-obiasnili-rol-perekusov-v-ratcione-pitaniia-izi",
         "https://iz.ru/2161077/uchenye-obiasnili-sokrytie-zhenshchinami-sobstvennykh-dostizhenii-strakhom-osuzhdeniia-izi",
         "https://iz.ru/2161160/chto-izvestno-ob-iphone-18-data-vykhoda-kharakteristiki-i-stoimost-izi",
@@ -259,7 +258,8 @@
         "https://iz.ru/2161572/ministr-oborony-bolivii-soobshchil-o-58-postradavshikh-pri-vzryve-na-sklade-izi",
         "https://iz.ru/2161579/prozorov-zaiavil-o-publikatcii-gur-i-sbu-kompromata-drug-na-druga-izi",
         "https://iz.ru/2161582/stomatolog-perechislil-osnovaniia-dlia-udaleniia-zuba-mudrosti-izi",
-        "https://iz.ru/2161584/fitnes-instruktor-perev-rasskazal-o-bessmyslennosti-trenirovok-cherez-ne-mogu-izi"
+        "https://iz.ru/2161584/fitnes-instruktor-perev-rasskazal-o-bessmyslennosti-trenirovok-cherez-ne-mogu-izi",
+        "https://iz.ru/2161592/v-lenoblasti-voditel-nasmert-sbil-losia-i-pogib-sam-pri-vylete-v-kiuvet-izi"
       ]
     },
     "2026-09-06": {
@@ -375,14 +375,15 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 244,
-      "totalIzi": 36,
+      "totalChecked": 444,
+      "totalIzi": 84,
       "totalIiz": 2,
-      "totalAi": 38,
+      "totalAi": 86,
       "topLinks": [
         "https://iz.ru/2163275/uchenye-obiasnili-prichiny-dnevnoi-sonlivosti-izi",
         "https://iz.ru/2163318/uchenye-raskryli-rol-glubokogo-sna-v-borbe-so-stressom-izi",
         "https://iz.ru/2163375/uchenye-peresmotreli-prichiny-razvitiia-bolezni-altcgeimera-izi",
+        "https://iz.ru/2163836/biznes-protiv-braka-chem-nalogovye-proverki-groziat-semiam-predprinimatelei-izi",
         "https://iz.ru/2163977/uchenye-sviazali-zdorovyi-obraz-zhizni-s-schastem-i-dolgoletiem-izi",
         "https://iz.ru/2164071/narodnye-primety-na-10-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2164152/2026-09-10/v-kprf-predlozhili-ne-otmeniat-registratciiu-kandidatov-za-administrativnye-narusheniia-izi",
@@ -392,14 +393,13 @@
         "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
         "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
         "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi",
+        "https://iz.ru/2164331/fsb-zaderzhala-agenta-sbu-iz-okhrany-posolstva-velikobritanii-v-moskve-izi",
         "https://iz.ru/2164333/otriad-severnogo-flota-voshel-v-akvatoriiu-moria-laptevykh-izi",
         "https://iz.ru/2164334/nazvany-regiony-s-ustanovlennoi-vyplatoi-za-tretego-rebenka-izi",
         "https://iz.ru/2164335/v-gretcii-zhenshchina-rodila-rebenka-iz-khranivshegosia-22-goda-v-zamorozke-embriona-izi",
         "https://iz.ru/2164348/rossiianam-nazvali-chislo-pensionnykh-ballov-pri-srednei-zarplate-izi",
         "https://iz.ru/2164354/nazvany-11-sfer-s-dokhodom-vyshe-500-tys-rublei-v-rossii-izi",
-        "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi",
-        "https://iz.ru/2164366/onishchenko-prizval-ne-provodit-v-shkolakh-kontrolnye-raboty-po-chetvergam-izi",
-        "https://iz.ru/2163275/uchenye-obiasnili-prichiny-dnevnoi-sonlivosti-izi"
+        "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi"
       ]
     }
   }
