@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:35:45.880Z",
+  "generatedAt": "2026-09-11T16:40:15.488Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,42 +179,39 @@
       ]
     },
     "2026-09-04": {
-      "totalChecked": 755,
-      "totalIzi": 172,
+      "totalChecked": 623,
+      "totalIzi": 145,
       "totalIiz": 1,
-      "totalAi": 173,
+      "totalAi": 146,
       "topLinks": [
-        "https://iz.ru/2161008/manturov-zaiavil-o-vosstanovlenii-npz-v-minimalno-vozmozhnye-sroki-izi",
-        "https://iz.ru/2161015/v-tiumenskoi-i-kurganskoi-oblastiakh-obiavili-opasnost-ataki-bpla-izi",
-        "https://iz.ru/2161020/vs-rossii-nanesli-udar-po-logisticheskomu-tcentru-v-kievskoi-oblasti-izi",
-        "https://iz.ru/2161026/belyi-dom-zapustil-na-svoem-saite-igry-o-resheniiakh-administratcii-trampa-izi",
-        "https://iz.ru/2161030/air-tanzania-s-4-sentiabria-priostanovila-polety-mezhdu-tanzaniei-i-moskvoi-izi",
-        "https://iz.ru/2161036/arkheologi-nashli-sledy-chelovecheskikh-zhertvoprinoshenii-v-povolzhe-izi",
-        "https://iz.ru/2161038/medvedchuk-zaiavil-o-podgotovke-britaniei-proryva-moskovskogo-uzla-pvo-izi",
-        "https://iz.ru/2161041/hraparakam-soobshchilo-o-trebovaniiakh-zapada-po-vizam-mezhdu-armeniei-i-rf-izi",
-        "https://iz.ru/2161046/daily-express-otmetila-vazhnost-preduprezhdeniia-putina-zapadu-na-vef-izi",
-        "https://iz.ru/2161052/v-finliandii-prizvali-priznat-rasshirenie-nato-istoricheskoi-oshibkoi-izi",
-        "https://iz.ru/2161056/iaponskie-bolelshchiki-prishli-s-rossiiskimi-flagami-na-chellendzher-v-tokio-izi",
-        "https://iz.ru/2161058/v-nepale-na-10-i-den-spasatelnoi-operatcii-posle-opolznia-nashli-eshche-dvukh-vyzhivshikh-izi",
-        "https://iz.ru/2161072/vs-rossii-vyveli-iz-stroia-infrastrukturu-portov-ukrainy-dlia-khraneniia-gruzov-vsu-izi",
-        "https://iz.ru/2161073/armiia-rossii-za-nedeliu-sbila-vosem-krylatykh-raket-flamingo-i-6093-drona-vsu-izi",
-        "https://iz.ru/2161085/krasnov-zaiavil-ob-interese-k-opytu-elektronnoi-sistemy-verkhovnogo-suda-indonezii-izi",
-        "https://iz.ru/2161132/zasluzhennyi-zhurnalist-rossii-aleksei-vishnevetckii-umer-v-vozraste-60-let-izi",
-        "https://iz.ru/2161140/nyt-soobshchila-o-trudnostiakh-ukrainskoi-pvo-iz-za-reaktivnykh-bpla-rossii-izi",
-        "https://iz.ru/2161147/naryshkin-zaiavil-ob-ischerpanii-mobilizatcionnogo-potentciala-ukrainy-za-god-izi",
-        "https://iz.ru/2161152/edinaia-rossiia-obespechit-vypolnenie-vsekh-sotcialnykh-obiazatelstv-izi",
-        "https://iz.ru/2161170/ekspert-raskryl-kharakteristiki-iphone-18-izi"
+        "https://iz.ru/2161206/fitco-sprognoziroval-bespretcedentnyi-rost-tceny-na-gaz-posle-zapreta-importa-iz-rf-izi",
+        "https://iz.ru/2161210/v-stranakh-baltii-poiavilis-predlozheniia-zastrakhovat-zhile-na-sluchai-voiny-izi",
+        "https://iz.ru/2161226/uchenye-sviazali-smenu-vremeni-priema-pishchi-s-riskom-boleznei-serdtca-izi",
+        "https://iz.ru/2161230/peskov-obekty-po-proizvodstvu-oruzhiia-zapada-na-ukraine-stanut-tceliami-vs-rossii-izi",
+        "https://iz.ru/2161231/germaniia-ne-budet-otvechat-na-zakrytie-instituta-gete-v-rossii-izi",
+        "https://iz.ru/2161243/vrach-predupredila-o-glavnoi-opasnosti-pri-zarazhenii-grippom-izi",
+        "https://iz.ru/2161252/glava-minfina-ukrainy-zaiavil-o-problemakh-s-finansirovaniem-na-2027-god-izi",
+        "https://iz.ru/2161253/predstavitel-ek-pereputal-chislo-sanktcionnykh-paketov-protiv-rossii-na-brifinge-izi",
+        "https://iz.ru/2161265/uchenye-rasskazali-o-vozmozhnoi-sviazi-sdvg-s-tvorcheskim-myshleniem-izi",
+        "https://iz.ru/2161272/vrachi-rasskazali-o-metodakh-zashchity-detei-ot-infektcii-posle-kontakta-s-zhivotnymi-izi",
+        "https://iz.ru/2161277/axios-soobshchil-o-planakh-uitkoffa-i-kushnera-posetit-moskvu-i-kiev-v-eti-vykhodnye-izi",
+        "https://iz.ru/2161282/sud-priznal-nezakonnymi-obiavleniia-tolko-dlia-slavian-pri-poiske-sosedei-izi",
+        "https://iz.ru/2161285/glava-mea-ukazal-na-mirovoi-shok-ot-prekrashcheniia-postavok-gaza-iz-rossii-izi",
+        "https://iz.ru/2161294/svr-zaiavila-o-rabote-stran-zapada-nad-podryvom-mezhdunarodnoi-sistemy-prava-izi",
+        "https://iz.ru/2161295/zvezda-seriala-muzhchina-v-dome-osallivan-umer-v-vozraste-82-let-izi",
+        "https://iz.ru/2161299/polskaia-oppozitciia-oblaiala-ministra-oborony-v-seime-izi",
+        "https://iz.ru/2161310/kultovuiu-avtomarku-jensen-vozrodili-v-velikobritanii-izi",
+        "https://iz.ru/2161327/mid-rossii-napravil-v-ikao-obrashchenie-iz-za-ugroz-ukrainy-grazhdanskoi-aviatcii-izi",
+        "https://iz.ru/2161330/chempionu-rossii-obnulili-vrashchenie-v-korotkoi-programme-na-turnire-v-iaponii-izi",
+        "https://iz.ru/2161335/internet-izdanie-novaia-gazeta-vnesli-v-reestr-inoagentov-miniusta-rf-izi"
       ]
     },
     "2026-09-05": {
-      "totalChecked": 564,
-      "totalIzi": 148,
+      "totalChecked": 559,
+      "totalIzi": 145,
       "totalIiz": 1,
-      "totalAi": 149,
+      "totalAi": 146,
       "topLinks": [
-        "https://iz.ru/2161048/uchenye-obiasnili-rol-perekusov-v-ratcione-pitaniia-izi",
-        "https://iz.ru/2161077/uchenye-obiasnili-sokrytie-zhenshchinami-sobstvennykh-dostizhenii-strakhom-osuzhdeniia-izi",
-        "https://iz.ru/2161160/chto-izvestno-ob-iphone-18-data-vykhoda-kharakteristiki-i-stoimost-izi",
         "https://iz.ru/2161300/sud-v-dnr-prigovoril-muzhchinu-k-15-godam-lisheniia-svobody-za-shpionazh-izi",
         "https://iz.ru/2161527/2026-09-05/ikao-podtverdila-poluchenie-obrashcheniia-rossii-iz-za-ugroz-ukrainy-aviatcii-izi",
         "https://iz.ru/2161529/zarplaty-vyshe-200-tys-rublei-poluchali-v-20-otrasliakh-rossii-v-iiune-izi",
@@ -231,16 +228,18 @@
         "https://iz.ru/2161579/prozorov-zaiavil-o-publikatcii-gur-i-sbu-kompromata-drug-na-druga-izi",
         "https://iz.ru/2161582/stomatolog-perechislil-osnovaniia-dlia-udaleniia-zuba-mudrosti-izi",
         "https://iz.ru/2161584/fitnes-instruktor-perev-rasskazal-o-bessmyslennosti-trenirovok-cherez-ne-mogu-izi",
-        "https://iz.ru/2161592/v-lenoblasti-voditel-nasmert-sbil-losia-i-pogib-sam-pri-vylete-v-kiuvet-izi"
+        "https://iz.ru/2161592/v-lenoblasti-voditel-nasmert-sbil-losia-i-pogib-sam-pri-vylete-v-kiuvet-izi",
+        "https://iz.ru/2161598/v-kuzbasse-v-dtp-pogibli-chetyre-cheloveka-i-postradali-troe-detei-izi",
+        "https://iz.ru/2161599/v-mvd-raziasnili-poriadok-oformleniia-grazhdanstva-rf-dlia-novorozhdennykh-za-rubezhom-izi",
+        "https://iz.ru/2161600/v-finliandii-zaiavili-o-problemakh-s-bezrabotitcei-iz-za-zakrytiia-granitcy-s-rf-izi"
       ]
     },
     "2026-09-06": {
-      "totalChecked": 456,
+      "totalChecked": 452,
       "totalIzi": 172,
-      "totalIiz": 2,
-      "totalAi": 174,
+      "totalIiz": 1,
+      "totalAi": 173,
       "topLinks": [
-        "https://iz.ru/2161144/narodnye-primety-na-6-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161214/uchenye-ukazali-na-rol-khodby-pri-astme-izi",
         "https://iz.ru/2161290/uchenye-obiasnili-polzu-umerennogo-stressa-dlia-kletok-organizma-izi",
         "https://iz.ru/2161393/uchenye-nauchilis-otlichat-sindrom-razbitogo-serdtca-ot-infarkta-po-analizu-krovi-izi",
@@ -259,16 +258,16 @@
         "https://iz.ru/2162058/plennyi-soldat-vsu-rasskazal-o-narkotorgovle-v-uchebnoi-chasti-na-ukraine-izi",
         "https://iz.ru/2162061/iurist-prizval-soobshchat-pravookhraniteliam-o-popytke-skloneniia-k-gosizmene-izi",
         "https://iz.ru/2162076/prozorov-soobshchil-o-zaprete-briusselia-kritikovat-kievskii-rezhim-izi",
-        "https://iz.ru/2162077/v-suvenirnom-magazine-belogo-doma-ne-nashli-ostavlennuiu-uitkoffom-v-moskve-monetu-izi"
+        "https://iz.ru/2162077/v-suvenirnom-magazine-belogo-doma-ne-nashli-ostavlennuiu-uitkoffom-v-moskve-monetu-izi",
+        "https://iz.ru/2162078/v-egipte-vynesli-smertnye-prigovory-12-figurantam-dela-o-narkotikakh-izi"
       ]
     },
     "2026-09-07": {
-      "totalChecked": 910,
+      "totalChecked": 904,
       "totalIzi": 238,
-      "totalIiz": 2,
-      "totalAi": 240,
+      "totalIiz": 1,
+      "totalAi": 239,
       "topLinks": [
-        "https://iz.ru/2161196/narodnye-primety-na-7-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161426/na-festivale-rossiia-budushchego-proidet-gonka-dronov-izi",
         "https://iz.ru/2162301/v-es-300-tys-rabochikh-mest-okazalis-pod-ugrozoi-iz-za-kitaiskogo-importa-izi",
         "https://iz.ru/2162322/khirurg-trynov-rasskazal-o-mifakh-pro-zhvachki-izi",
@@ -287,11 +286,12 @@
         "https://iz.ru/2162348/raschety-bpla-lis-unichtozhili-bespilotniki-vsu-v-kurskom-prigraniche-izi",
         "https://iz.ru/2162350/biolog-safonov-sprognoziroval-prikhod-zolotoi-oseni-v-moskvu-v-kontce-sentiabria-izi",
         "https://iz.ru/2162351/rosoboroneksport-zakliuchil-kontraktov-na-13-mlrd-za-polgoda-izi",
-        "https://iz.ru/2162353/v-rossii-k-kontcu-goda-razrabotaiut-edinuiu-sistemu-oplaty-truda-medikov-izi"
+        "https://iz.ru/2162353/v-rossii-k-kontcu-goda-razrabotaiut-edinuiu-sistemu-oplaty-truda-medikov-izi",
+        "https://iz.ru/2162354/2026-09-07/deputat-svishchev-rasskazal-o-srokakh-vyplaty-bolnichnogo-izi"
       ]
     },
     "2026-09-08": {
-      "totalChecked": 1020,
+      "totalChecked": 1017,
       "totalIzi": 212,
       "totalIiz": 2,
       "totalAi": 214,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 537,
-      "totalIzi": 100,
+      "totalChecked": 818,
+      "totalIzi": 158,
       "totalIiz": 2,
-      "totalAi": 102,
+      "totalAi": 160,
       "topLinks": [
         "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
         "https://iz.ru/2163932/bystree-ili-bolshe-uchenye-ukazali-na-sviaz-khodby-s-dolgoletiem-izi",
