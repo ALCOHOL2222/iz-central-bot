@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:17:00.268Z",
+  "generatedAt": "2026-09-11T06:12:14.358Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,21 +151,11 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 676,
-      "totalIzi": 99,
+      "totalChecked": 630,
+      "totalIzi": 89,
       "totalIiz": 1,
-      "totalAi": 100,
+      "totalAi": 90,
       "topLinks": [
-        "https://iz.ru/2160715/v-fszhr-ukazali-na-otsutstvie-konkretnykh-prichin-ot-kkhl-po-otkazu-v-akkreditatcii-izi",
-        "https://iz.ru/2160722/v-kievskoi-oblasti-proizoshel-pozhar-na-zavode-coca-cola-izi",
-        "https://iz.ru/2160729/chekunkov-dlia-evakuatcii-liudei-so-shpitcbergena-zadeistvovali-sudno-morspasflota-izi",
-        "https://iz.ru/2160734/v-ek-soobshchili-o-nesposobnosti-samostoiatelno-zakryvat-russkie-doma-v-evrope-izi",
-        "https://iz.ru/2160740/tramp-potreboval-ot-es-vernut-potrachennye-baidenom-na-ukrainu-dengi-izi",
-        "https://iz.ru/2160752/politolog-iz-avstralii-uznal-o-pokupkakh-oruzhiia-naemnikami-vsu-za-svoi-dengi-izi",
-        "https://iz.ru/2160795/v-podmoskove-otkryli-dvizhenie-na-iuzhno-lytkarinskoi-avtodoroge-izi",
-        "https://iz.ru/2160803/sily-pvo-perekhvatili-i-unichtozhili-za-den-426-ukrainskikh-bespilotnikov-izi",
-        "https://iz.ru/2160808/soiuz-zhurnalistov-napravil-pismo-v-federatciiu-sportivnykh-zhurnalistov-izi",
-        "https://iz.ru/2160819/v-germanii-nachali-seriinyi-vypusk-bolee-5-tys-bespilotnikov-dlia-kieva-izi",
         "https://iz.ru/2152525/narodnye-primety-na-25-avgusta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2158987/uchenye-raskryli-posledstviia-podslastitelei-dlia-sleduiushchikh-pokolenii-izi",
         "https://iz.ru/2159160/psikhiatry-ne-opredelili-stokgolmskii-sindrom-kak-psikhicheskoe-rasstroistvo-izi",
@@ -175,11 +165,21 @@
         "https://iz.ru/2160080/britanskii-deputat-nazvala-rossiiskuiu-ugrozu-vydumkoi-nato-izi",
         "https://iz.ru/2160100/reshetnikov-prokommentiroval-povyshenie-sverkhurochnykh-do-240-chasov-v-god-izi",
         "https://iz.ru/2160129/likhachev-nazval-stroitelstvo-aes-v-kazakhstane-prioritetom-sotrudnichestva-izi",
-        "https://iz.ru/2160146/madiar-podcherknul-neodobrenie-vengriei-uskorennogo-vstupleniia-stran-v-es-izi"
+        "https://iz.ru/2160146/madiar-podcherknul-neodobrenie-vengriei-uskorennogo-vstupleniia-stran-v-es-izi",
+        "https://iz.ru/2160157/moskovskie-predprinimateli-sobiraiut-gumanitarnye-gruzy-dlia-uchastnikov-svo-izi",
+        "https://iz.ru/2160160/manutrov-vyrazil-nadezhdu-na-neprimenenie-vremennogo-upravleniia-predpriiatiiami-izi",
+        "https://iz.ru/2160163/degtiarev-zaiavil-o-polozhitelnom-vliianii-perioda-otstraneniia-na-sportsmenov-iz-rf-izi",
+        "https://iz.ru/2160168/v-tcrpt-zaiavili-ob-otsutstvii-planov-po-markirovke-khleba-v-rossii-izi",
+        "https://iz.ru/2160172/mat-osvobozhdennoi-v-meksike-18-letnei-rossiianki-opisala-tiazheloe-sostoianie-docheri-izi",
+        "https://iz.ru/2160179/veteran-rasskazal-ob-obnaruzhenii-na-pozitciiakh-v-marinke-drona-s-poslaniem-ot-vsu-izi",
+        "https://iz.ru/2160184/rosatom-i-kazakhstan-podpisali-soglashenie-o-stroitelstve-aes-balkhash-izi",
+        "https://iz.ru/2160194/uchenye-otcenili-vyzhivaemost-zemnykh-mikrobov-na-lune-izi",
+        "https://iz.ru/2160269/armiia-rossii-porazila-logisticheskii-tcentr-biokon-v-kievskoi-oblasti-izi",
+        "https://iz.ru/2160285/armiia-rossii-porazila-dva-sukhogruza-v-raione-portov-odesskoi-oblasti-izi"
       ]
     },
     "2026-09-04": {
-      "totalChecked": 892,
+      "totalChecked": 882,
       "totalIzi": 198,
       "totalIiz": 1,
       "totalAi": 199,
@@ -375,13 +375,19 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 179,
-      "totalIzi": 20,
+      "totalChecked": 294,
+      "totalIzi": 64,
       "totalIiz": 2,
-      "totalAi": 22,
+      "totalAi": 66,
       "topLinks": [
         "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
+        "https://iz.ru/2163932/bystree-ili-bolshe-uchenye-ukazali-na-sviaz-khodby-s-dolgoletiem-izi",
+        "https://iz.ru/2163999/uchenye-ukazali-rol-muzyki-v-vosstanovlenii-posle-stressa-izi",
+        "https://iz.ru/2164028/uchenye-obiasnili-sviaz-kofeina-s-kletochnymi-mekhanizmami-stareniia-izi",
+        "https://iz.ru/2164480/uchenye-nashli-sviaz-detskoi-travmy-i-narushenii-moralnogo-povedeniia-izi",
+        "https://iz.ru/2164602/2026-09-11/v-rptc-otcenili-dopustimost-provedeniia-abortov-u-zhivotnykh-izi",
         "https://iz.ru/2164726/narodnye-primety-na-11-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2164771/2026-09-11/nevrolog-rasskazala-o-vliianii-ambidekstrii-na-rabotu-mozga-izi",
         "https://iz.ru/2164970/manchester-iunaited-razgromil-sabakh-v-matche-obshchego-etapa-ligi-chempionov-izi",
         "https://iz.ru/2164972/spartak-obygral-ska-so-schetom-31-v-matche-chempionata-kkhl-izi",
         "https://iz.ru/2164975/evropa-ne-smozhet-polnostiu-pokryt-finansovye-zaprosy-ukrainy-v-2026-godu-izi",
@@ -391,15 +397,9 @@
         "https://iz.ru/2164996/chechnia-vozglavila-reiting-regionov-rossii-s-samym-nizkim-potrebleniem-alkogolia-izi",
         "https://iz.ru/2164998/v-minprosveshcheniia-rasskazali-o-novom-standarte-dlia-starshikh-klassov-s-2027-goda-izi",
         "https://iz.ru/2165003/bolee-450-molodykh-semei-v-pskovskoi-oblasti-poluchili-vyplaty-za-tretego-rebenka-izi",
-        "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
-        "https://iz.ru/2164726/narodnye-primety-na-11-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2164970/manchester-iunaited-razgromil-sabakh-v-matche-obshchego-etapa-ligi-chempionov-izi",
-        "https://iz.ru/2164972/spartak-obygral-ska-so-schetom-31-v-matche-chempionata-kkhl-izi",
-        "https://iz.ru/2164975/evropa-ne-smozhet-polnostiu-pokryt-finansovye-zaprosy-ukrainy-v-2026-godu-izi",
-        "https://iz.ru/2164983/v-finliandii-raskritikovali-zaiavlenie-riutte-o-iakoby-prevoskhodstve-nato-nad-rossiei-izi",
-        "https://iz.ru/2164992/v-rossii-vyiavili-sferu-so-srednei-zarplatoi-vyshe-1-mln-rublei-izi",
-        "https://iz.ru/2164994/senator-ssha-nachal-rassledovanie-protiv-openai-iz-za-ii-izi",
-        "https://iz.ru/2164996/chechnia-vozglavila-reiting-regionov-rossii-s-samym-nizkim-potrebleniem-alkogolia-izi"
+        "https://iz.ru/2165013/moshenniki-nachali-vzlamyvat-akkaunty-uchitelei-dlia-obmana-roditelei-izi",
+        "https://iz.ru/2165015/rossiiane-nazvali-zhelaemyi-razmer-minimalnoi-zarplaty-izi",
+        "https://iz.ru/2165017/nazvany-otrasli-s-samym-dlinnym-rabochim-dnem-v-pervom-polugodii-izi"
       ]
     }
   }
