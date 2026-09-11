@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:40:15.488Z",
+  "generatedAt": "2026-09-11T19:54:54.483Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-04": {
-      "totalChecked": 623,
-      "totalIzi": 145,
+      "totalChecked": 569,
+      "totalIzi": 128,
       "totalIiz": 1,
-      "totalAi": 146,
+      "totalAi": 129,
       "topLinks": [
-        "https://iz.ru/2161206/fitco-sprognoziroval-bespretcedentnyi-rost-tceny-na-gaz-posle-zapreta-importa-iz-rf-izi",
-        "https://iz.ru/2161210/v-stranakh-baltii-poiavilis-predlozheniia-zastrakhovat-zhile-na-sluchai-voiny-izi",
-        "https://iz.ru/2161226/uchenye-sviazali-smenu-vremeni-priema-pishchi-s-riskom-boleznei-serdtca-izi",
-        "https://iz.ru/2161230/peskov-obekty-po-proizvodstvu-oruzhiia-zapada-na-ukraine-stanut-tceliami-vs-rossii-izi",
-        "https://iz.ru/2161231/germaniia-ne-budet-otvechat-na-zakrytie-instituta-gete-v-rossii-izi",
-        "https://iz.ru/2161243/vrach-predupredila-o-glavnoi-opasnosti-pri-zarazhenii-grippom-izi",
-        "https://iz.ru/2161252/glava-minfina-ukrainy-zaiavil-o-problemakh-s-finansirovaniem-na-2027-god-izi",
-        "https://iz.ru/2161253/predstavitel-ek-pereputal-chislo-sanktcionnykh-paketov-protiv-rossii-na-brifinge-izi",
-        "https://iz.ru/2161265/uchenye-rasskazali-o-vozmozhnoi-sviazi-sdvg-s-tvorcheskim-myshleniem-izi",
-        "https://iz.ru/2161272/vrachi-rasskazali-o-metodakh-zashchity-detei-ot-infektcii-posle-kontakta-s-zhivotnymi-izi",
-        "https://iz.ru/2161277/axios-soobshchil-o-planakh-uitkoffa-i-kushnera-posetit-moskvu-i-kiev-v-eti-vykhodnye-izi",
-        "https://iz.ru/2161282/sud-priznal-nezakonnymi-obiavleniia-tolko-dlia-slavian-pri-poiske-sosedei-izi",
-        "https://iz.ru/2161285/glava-mea-ukazal-na-mirovoi-shok-ot-prekrashcheniia-postavok-gaza-iz-rossii-izi",
-        "https://iz.ru/2161294/svr-zaiavila-o-rabote-stran-zapada-nad-podryvom-mezhdunarodnoi-sistemy-prava-izi",
-        "https://iz.ru/2161295/zvezda-seriala-muzhchina-v-dome-osallivan-umer-v-vozraste-82-let-izi",
-        "https://iz.ru/2161299/polskaia-oppozitciia-oblaiala-ministra-oborony-v-seime-izi",
-        "https://iz.ru/2161310/kultovuiu-avtomarku-jensen-vozrodili-v-velikobritanii-izi",
         "https://iz.ru/2161327/mid-rossii-napravil-v-ikao-obrashchenie-iz-za-ugroz-ukrainy-grazhdanskoi-aviatcii-izi",
         "https://iz.ru/2161330/chempionu-rossii-obnulili-vrashchenie-v-korotkoi-programme-na-turnire-v-iaponii-izi",
-        "https://iz.ru/2161335/internet-izdanie-novaia-gazeta-vnesli-v-reestr-inoagentov-miniusta-rf-izi"
+        "https://iz.ru/2161335/internet-izdanie-novaia-gazeta-vnesli-v-reestr-inoagentov-miniusta-rf-izi",
+        "https://iz.ru/2161350/putin-nazval-vazhneishei-zadachei-sokhranenie-istoricheskoi-pamiati-izi",
+        "https://iz.ru/2161365/dva-mirnykh-zhitelia-i-rebenok-postradali-pri-atake-bpla-vsu-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2161370/vrach-rasskazala-o-riskakh-universalnogo-podkhoda-k-lecheniiu-patcientov-izi",
+        "https://iz.ru/2161375/posol-zaiavil-o-rabote-rossii-i-alzhira-nad-vozobnovleniem-priamogo-aviasoobshcheniia-izi",
+        "https://iz.ru/2161382/putin-nazval-geroicheskoi-istoriiu-kurilskoi-desantnoi-operatcii-izi",
+        "https://iz.ru/2161384/vengriia-otozvala-posla-norberta-konkoia-iz-rossii-i-naznachila-poverennogo-izi",
+        "https://iz.ru/2161389/rmf24-soobshchila-o-rassylke-mobilizatcionnykh-kartochek-v-polshe-izi",
+        "https://iz.ru/2161395/putin-obsudil-s-sovbezom-profilaktiku-podrostkovoi-prestupnosti-izi",
+        "https://iz.ru/2161400/v-ispanii-temperatura-vozdukha-dostigla-457-gradusa-tcelsiia-izi",
+        "https://iz.ru/2161418/ministr-energetiki-zaporozhskoi-oblasti-i-ego-pervyi-zam-otpravleny-v-otstavku-izi",
+        "https://iz.ru/2161422/chto-proizoshlo-za-den-4-sentiabria-glavnoe-izi",
+        "https://iz.ru/2161425/saransk-i-joshkar-ola-mogut-stat-gorodami-trudovoi-doblesti-izi",
+        "https://iz.ru/2161428/misharina-zavoevala-zoloto-v-plavanii-na-75-km-na-otkrytoi-vode-na-iuniorskom-chm-izi",
+        "https://iz.ru/2161429/ssha-edinstvennymi-ne-podderzhali-rezoliutciiu-oon-s-realnymi-razmerami-afriki-izi",
+        "https://iz.ru/2161431/bolee-13-tys-chelovek-ostaiutsia-bez-sveta-v-vashingtone-i-prigorodakh-posle-shtorma-izi",
+        "https://iz.ru/2161434/gidromettcentr-nazval-proshedshee-leto-samym-teplym-v-rf-za-vsiu-istoriiu-nabliudenii-izi",
+        "https://iz.ru/2161451/politolog-ukazal-na-pochti-polnoe-otsutstvie-pvo-u-kieva-izi"
       ]
     },
     "2026-09-05": {
-      "totalChecked": 559,
-      "totalIzi": 145,
+      "totalChecked": 554,
+      "totalIzi": 144,
       "totalIiz": 1,
-      "totalAi": 146,
+      "totalAi": 145,
       "topLinks": [
-        "https://iz.ru/2161300/sud-v-dnr-prigovoril-muzhchinu-k-15-godam-lisheniia-svobody-za-shpionazh-izi",
         "https://iz.ru/2161527/2026-09-05/ikao-podtverdila-poluchenie-obrashcheniia-rossii-iz-za-ugroz-ukrainy-aviatcii-izi",
         "https://iz.ru/2161529/zarplaty-vyshe-200-tys-rublei-poluchali-v-20-otrasliakh-rossii-v-iiune-izi",
         "https://iz.ru/2161530/gosdep-ssha-odobril-vozmozhnuiu-prodazhu-saudovskoi-aravii-bomb-jdam-er-na-5-mlrd-izi",
@@ -231,17 +230,16 @@
         "https://iz.ru/2161592/v-lenoblasti-voditel-nasmert-sbil-losia-i-pogib-sam-pri-vylete-v-kiuvet-izi",
         "https://iz.ru/2161598/v-kuzbasse-v-dtp-pogibli-chetyre-cheloveka-i-postradali-troe-detei-izi",
         "https://iz.ru/2161599/v-mvd-raziasnili-poriadok-oformleniia-grazhdanstva-rf-dlia-novorozhdennykh-za-rubezhom-izi",
-        "https://iz.ru/2161600/v-finliandii-zaiavili-o-problemakh-s-bezrabotitcei-iz-za-zakrytiia-granitcy-s-rf-izi"
+        "https://iz.ru/2161600/v-finliandii-zaiavili-o-problemakh-s-bezrabotitcei-iz-za-zakrytiia-granitcy-s-rf-izi",
+        "https://iz.ru/2161603/v-mvd-predupredili-o-skheme-moshennikov-s-dareniem-vnutriigrovoi-valiuty-izi"
       ]
     },
     "2026-09-06": {
-      "totalChecked": 452,
-      "totalIzi": 172,
+      "totalChecked": 444,
+      "totalIzi": 170,
       "totalIiz": 1,
-      "totalAi": 173,
+      "totalAi": 171,
       "topLinks": [
-        "https://iz.ru/2161214/uchenye-ukazali-na-rol-khodby-pri-astme-izi",
-        "https://iz.ru/2161290/uchenye-obiasnili-polzu-umerennogo-stressa-dlia-kletok-organizma-izi",
         "https://iz.ru/2161393/uchenye-nauchilis-otlichat-sindrom-razbitogo-serdtca-ot-infarkta-po-analizu-krovi-izi",
         "https://iz.ru/2161990/vs-rf-porazili-zavod-boepripasov-blek-ammo-i-sudno-s-imushchestvom-dlia-vsu-izi",
         "https://iz.ru/2162014/2026-09-06/takaiti-potrebovala-demontirovat-memorial-pobedy-nad-iaponiei-v-khabarovske-izi",
@@ -259,11 +257,13 @@
         "https://iz.ru/2162061/iurist-prizval-soobshchat-pravookhraniteliam-o-popytke-skloneniia-k-gosizmene-izi",
         "https://iz.ru/2162076/prozorov-soobshchil-o-zaprete-briusselia-kritikovat-kievskii-rezhim-izi",
         "https://iz.ru/2162077/v-suvenirnom-magazine-belogo-doma-ne-nashli-ostavlennuiu-uitkoffom-v-moskve-monetu-izi",
-        "https://iz.ru/2162078/v-egipte-vynesli-smertnye-prigovory-12-figurantam-dela-o-narkotikakh-izi"
+        "https://iz.ru/2162078/v-egipte-vynesli-smertnye-prigovory-12-figurantam-dela-o-narkotikakh-izi",
+        "https://iz.ru/2162079/ukraina-profinansirovala-podgotovku-k-zime-lish-na-chetvert-izi",
+        "https://iz.ru/2162080/figuristy-boikova-i-kozlovskii-vyigrali-kinoshita-group-cup-v-tokio-izi"
       ]
     },
     "2026-09-07": {
-      "totalChecked": 904,
+      "totalChecked": 898,
       "totalIzi": 238,
       "totalIiz": 1,
       "totalAi": 239,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 818,
-      "totalIzi": 158,
+      "totalChecked": 999,
+      "totalIzi": 200,
       "totalIiz": 2,
-      "totalAi": 160,
+      "totalAi": 202,
       "topLinks": [
         "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
         "https://iz.ru/2163932/bystree-ili-bolshe-uchenye-ukazali-na-sviaz-khodby-s-dolgoletiem-izi",
