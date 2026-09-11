@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:12:14.358Z",
+  "generatedAt": "2026-09-11T11:35:45.880Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-09-03": {
-      "totalChecked": 630,
+      "totalChecked": 611,
       "totalIzi": 89,
       "totalIiz": 1,
       "totalAi": 90,
@@ -179,31 +179,31 @@
       ]
     },
     "2026-09-04": {
-      "totalChecked": 882,
-      "totalIzi": 198,
+      "totalChecked": 755,
+      "totalIzi": 172,
       "totalIiz": 1,
-      "totalAi": 199,
+      "totalAi": 173,
       "topLinks": [
-        "https://iz.ru/2160878/2026-09-04/madiar-zaiavil-o-prodolzhenii-predostavleniia-statusa-bezhentcev-dlia-ukraintcev-izi",
-        "https://iz.ru/2160884/medvedev-predupredil-o-posledstviiakh-dlia-ekonomiki-germanii-ot-antirossiiskoi-politiki-izi",
-        "https://iz.ru/2160887/polsha-vvela-ogranicheniia-na-polety-v-vostochnoi-chasti-strany-izi",
-        "https://iz.ru/2160889/2026-09-04/ekspert-otcenil-vozmozhnyi-srednii-razmer-pensii-po-starosti-v-2027-godu-izi",
-        "https://iz.ru/2160895/2026-09-04/v-mid-rf-zaiavili-o-zhelanii-nekotorykh-stran-es-razreshit-postavki-gaza-iz-rf-izi",
-        "https://iz.ru/2160902/podozritelnyi-predmet-nashli-u-podstantcii-v-nemetckom-dormagene-izi",
-        "https://iz.ru/2160925/v-tciurikhe-nazvali-laureatov-shnobelevskoi-premii-2026-goda-izi",
-        "https://iz.ru/2160930/pentagon-nachal-rassledovanie-gibeli-voennykh-v-ssha-ot-vaktcin-covid-19-izi",
-        "https://iz.ru/2160934/pashinian-nazval-vernym-resheniem-priniatie-zakona-o-vstuplenii-armenii-v-es-izi",
-        "https://iz.ru/2160936/2026-09-04/nazvana-sfera-deiatelnosti-s-samymi-vysokimi-zarplatami-v-rossii-izi",
-        "https://iz.ru/2160951/glava-aeroflota-oboznachil-vozmozhnye-sroki-poiavleniia-interneta-na-samoletakh-rf-izi",
-        "https://iz.ru/2160955/kobiakov-ukazal-na-vysokuiu-tcenu-rusofobii-v-mire-izi",
-        "https://iz.ru/2160958/putin-otmetil-razvitie-strategicheskogo-partnerstva-s-knr-po-voskhodiashchei-izi",
-        "https://iz.ru/2160961/sily-pvo-za-noch-sbili-490-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2160962/vs-rossii-pristupili-k-zachistke-volchanskogo-kotla-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2160963/novak-soobshchil-o-planakh-obsudit-situatciiu-na-rynke-topliva-s-azs-izi",
-        "https://iz.ru/2160964/mosbilet-sobral-samye-uvlekatelnye-nauchno-populiarnye-ekskursii-dlia-detei-izi",
-        "https://iz.ru/2160966/finskii-voenkor-rasskazal-ob-otsutstvii-vliianiia-zapadnykh-sanktcii-v-krymu-izi",
-        "https://iz.ru/2160967/sk-vozbudil-ugolovnoe-delo-posle-ocherednoi-ataki-vsu-na-avtobus-v-gorlovke-izi",
-        "https://iz.ru/2160973/v-mvd-predupredili-o-populiarnykh-skhemakh-moshennichestva-pri-internet-znakomstvakh-izi"
+        "https://iz.ru/2161008/manturov-zaiavil-o-vosstanovlenii-npz-v-minimalno-vozmozhnye-sroki-izi",
+        "https://iz.ru/2161015/v-tiumenskoi-i-kurganskoi-oblastiakh-obiavili-opasnost-ataki-bpla-izi",
+        "https://iz.ru/2161020/vs-rossii-nanesli-udar-po-logisticheskomu-tcentru-v-kievskoi-oblasti-izi",
+        "https://iz.ru/2161026/belyi-dom-zapustil-na-svoem-saite-igry-o-resheniiakh-administratcii-trampa-izi",
+        "https://iz.ru/2161030/air-tanzania-s-4-sentiabria-priostanovila-polety-mezhdu-tanzaniei-i-moskvoi-izi",
+        "https://iz.ru/2161036/arkheologi-nashli-sledy-chelovecheskikh-zhertvoprinoshenii-v-povolzhe-izi",
+        "https://iz.ru/2161038/medvedchuk-zaiavil-o-podgotovke-britaniei-proryva-moskovskogo-uzla-pvo-izi",
+        "https://iz.ru/2161041/hraparakam-soobshchilo-o-trebovaniiakh-zapada-po-vizam-mezhdu-armeniei-i-rf-izi",
+        "https://iz.ru/2161046/daily-express-otmetila-vazhnost-preduprezhdeniia-putina-zapadu-na-vef-izi",
+        "https://iz.ru/2161052/v-finliandii-prizvali-priznat-rasshirenie-nato-istoricheskoi-oshibkoi-izi",
+        "https://iz.ru/2161056/iaponskie-bolelshchiki-prishli-s-rossiiskimi-flagami-na-chellendzher-v-tokio-izi",
+        "https://iz.ru/2161058/v-nepale-na-10-i-den-spasatelnoi-operatcii-posle-opolznia-nashli-eshche-dvukh-vyzhivshikh-izi",
+        "https://iz.ru/2161072/vs-rossii-vyveli-iz-stroia-infrastrukturu-portov-ukrainy-dlia-khraneniia-gruzov-vsu-izi",
+        "https://iz.ru/2161073/armiia-rossii-za-nedeliu-sbila-vosem-krylatykh-raket-flamingo-i-6093-drona-vsu-izi",
+        "https://iz.ru/2161085/krasnov-zaiavil-ob-interese-k-opytu-elektronnoi-sistemy-verkhovnogo-suda-indonezii-izi",
+        "https://iz.ru/2161132/zasluzhennyi-zhurnalist-rossii-aleksei-vishnevetckii-umer-v-vozraste-60-let-izi",
+        "https://iz.ru/2161140/nyt-soobshchila-o-trudnostiakh-ukrainskoi-pvo-iz-za-reaktivnykh-bpla-rossii-izi",
+        "https://iz.ru/2161147/naryshkin-zaiavil-ob-ischerpanii-mobilizatcionnogo-potentciala-ukrainy-za-god-izi",
+        "https://iz.ru/2161152/edinaia-rossiia-obespechit-vypolnenie-vsekh-sotcialnykh-obiazatelstv-izi",
+        "https://iz.ru/2161170/ekspert-raskryl-kharakteristiki-iphone-18-izi"
       ]
     },
     "2026-09-05": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 294,
-      "totalIzi": 64,
+      "totalChecked": 537,
+      "totalIzi": 100,
       "totalIiz": 2,
-      "totalAi": 66,
+      "totalAi": 102,
       "topLinks": [
         "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
         "https://iz.ru/2163932/bystree-ili-bolshe-uchenye-ukazali-na-sviaz-khodby-s-dolgoletiem-izi",
