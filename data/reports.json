@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T17:20:36.143Z",
+  "generatedAt": "2026-09-12T19:34:00.160Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,12 +179,11 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 343,
-      "totalIzi": 78,
+      "totalChecked": 321,
+      "totalIzi": 77,
       "totalIiz": 1,
-      "totalAi": 79,
+      "totalAi": 78,
       "topLinks": [
-        "https://iz.ru/2161856/vlasti-turtcii-proiasnili-budushchee-bosforskikh-mostov-posle-resheniia-erdogana-izi",
         "https://iz.ru/2161929/turetckii-akter-serkhat-mustafa-kylych-naiden-mertvym-v-stambule-izi",
         "https://iz.ru/2161936/aktrisa-mariia-aronova-raskryla-sekret-pokhudeniia-na-22-kg-izi",
         "https://iz.ru/2161986/2026-09-05/iran-prigrozil-ssha-novymi-udarami-v-sluchae-napadenii-na-iranskie-suda-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2161543/istorik-viter-rasskazala-o-geroicheskoi-oborone-petropavlovska-v-khode-krymskoi-voiny-izi",
         "https://iz.ru/2161548/2026-09-05/politolog-mirshaimer-rasskazal-o-slozhnostiakh-nato-iz-za-ukrainy-izi",
         "https://iz.ru/2161553/putin-predlozhil-obedinit-programmy-patrioticheskogo-turizma-na-odnom-resurse-izi",
-        "https://iz.ru/2161564/2026-09-05/sredniaia-zarplata-v-morskom-rybovodstve-v-rossii-prevysila-971-tys-rublei-izi"
+        "https://iz.ru/2161564/2026-09-05/sredniaia-zarplata-v-morskom-rybovodstve-v-rossii-prevysila-971-tys-rublei-izi",
+        "https://iz.ru/2161572/ministr-oborony-bolivii-soobshchil-o-58-postradavshikh-pri-vzryve-na-sklade-izi"
       ]
     },
     "2026-09-06": {
-      "totalChecked": 437,
+      "totalChecked": 434,
       "totalIzi": 169,
       "totalIiz": 1,
       "totalAi": 170,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 591,
-      "totalIzi": 217,
+      "totalChecked": 616,
+      "totalIzi": 228,
       "totalIiz": 1,
-      "totalAi": 218,
+      "totalAi": 229,
       "topLinks": [
         "https://iz.ru/2164114/uchenye-raskryli-sekret-ustoichivoi-uverennosti-v-sobstvennom-tele-izi",
         "https://iz.ru/2164545/uchenye-obiasnili-sviaz-raka-s-riskom-insulta-izi",
