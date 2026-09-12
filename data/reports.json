@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:19:44.031Z",
+  "generatedAt": "2026-09-12T17:20:36.143Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,15 +179,11 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 400,
-      "totalIzi": 82,
+      "totalChecked": 343,
+      "totalIzi": 78,
       "totalIiz": 1,
-      "totalAi": 83,
+      "totalAi": 79,
       "topLinks": [
-        "https://iz.ru/2161755/putin-otmetil-rol-moskvy-v-obespechenii-tekhnologicheskogo-suvereniteta-izi",
-        "https://iz.ru/2161777/dmitriev-poprivetstvoval-pribyvshikh-rossiiu-uitkoffa-i-kushnera-izi",
-        "https://iz.ru/2161787/rassell-pokazal-luchshee-vremia-v-tretei-praktike-gran-pri-formuly-1-v-italii-izi",
-        "https://iz.ru/2161789/flag-rossii-poiavilsia-na-arene-v-tokio-vo-vremia-nagrazhdeniia-figuristov-izi",
         "https://iz.ru/2161856/vlasti-turtcii-proiasnili-budushchee-bosforskikh-mostov-posle-resheniia-erdogana-izi",
         "https://iz.ru/2161929/turetckii-akter-serkhat-mustafa-kylych-naiden-mertvym-v-stambule-izi",
         "https://iz.ru/2161936/aktrisa-mariia-aronova-raskryla-sekret-pokhudeniia-na-22-kg-izi",
@@ -203,11 +199,15 @@
         "https://iz.ru/2161536/postavki-rossiiskogo-morozhenogo-v-ssha-vyrosli-do-maksimuma-s-vesny-2022-goda-izi",
         "https://iz.ru/2161539/tramp-zaiavil-ob-otsutstvii-bespokoistva-po-povodu-riska-vykhoda-ii-iz-pod-kontrolia-izi",
         "https://iz.ru/2161541/ekspert-predostereg-ot-prezhdevremennogo-pogasheniia-ipoteki-v-shesti-situatciiakh-izi",
-        "https://iz.ru/2161542/v-mus-soobshchili-o-vozmozhnom-rasshirenii-restriktcii-ssha-izi"
+        "https://iz.ru/2161542/v-mus-soobshchili-o-vozmozhnom-rasshirenii-restriktcii-ssha-izi",
+        "https://iz.ru/2161543/istorik-viter-rasskazala-o-geroicheskoi-oborone-petropavlovska-v-khode-krymskoi-voiny-izi",
+        "https://iz.ru/2161548/2026-09-05/politolog-mirshaimer-rasskazal-o-slozhnostiakh-nato-iz-za-ukrainy-izi",
+        "https://iz.ru/2161553/putin-predlozhil-obedinit-programmy-patrioticheskogo-turizma-na-odnom-resurse-izi",
+        "https://iz.ru/2161564/2026-09-05/sredniaia-zarplata-v-morskom-rybovodstve-v-rossii-prevysila-971-tys-rublei-izi"
       ]
     },
     "2026-09-06": {
-      "totalChecked": 441,
+      "totalChecked": 437,
       "totalIzi": 169,
       "totalIiz": 1,
       "totalAi": 170,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 471,
-      "totalIzi": 139,
+      "totalChecked": 591,
+      "totalIzi": 217,
       "totalIiz": 1,
-      "totalAi": 140,
+      "totalAi": 218,
       "topLinks": [
         "https://iz.ru/2164114/uchenye-raskryli-sekret-ustoichivoi-uverennosti-v-sobstvennom-tele-izi",
         "https://iz.ru/2164545/uchenye-obiasnili-sviaz-raka-s-riskom-insulta-izi",
