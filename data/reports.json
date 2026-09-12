@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T19:34:00.160Z",
+  "generatedAt": "2026-09-12T22:29:42.084Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-08-30": {
-      "totalChecked": 297,
-      "totalIzi": 99,
-      "totalIiz": 1,
-      "totalAi": 100,
-      "topLinks": [
-        "https://iz.ru/2154135/ot-tvin-piksa-do-paddingtona-chto-smotret-oseniu-izi",
-        "https://iz.ru/2156286/uchenye-raskryli-mekhanizm-pamiati-kishechnika-posle-vospaleniia-izi",
-        "https://iz.ru/2156581/osen-mezhdu-stranitc-10-knig-v-kotorye-zakhochetsia-pogruzitsia-izi",
-        "https://iz.ru/2156635/2026-08-30/predrakovye-kletki-krovi-meniaiut-kostnyi-mozg-eshche-do-razvitiia-onkozabolevaniia-izi",
-        "https://iz.ru/2156918/narodnye-primety-na-30-avgusta-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2156970/uchenye-obiasnili-fenomen-ukhudsheniia-nastroeniia-iz-za-algoritmov-sotcialnykh-setei-izi",
-        "https://iz.ru/2157573/kapitan-kalmykaev-lichno-vozglavil-ataku-i-unichtozhil-dvukh-boevikov-vsu-izi",
-        "https://iz.ru/2157588/v-minpromtorge-nazvali-samye-otzyvaemye-marki-avtomobilei-v-rossii-izi",
-        "https://iz.ru/2157589/putin-pozdravil-rossiiskikh-shakhterov-s-professionalnym-prazdnikom-izi",
-        "https://iz.ru/2157590/mintrans-gotovit-pravila-legalizatcii-overbukinga-v-rossii-izi",
-        "https://iz.ru/2157594/putin-pozdravil-shakhterov-s-professionalnym-prazdnikom-izi",
-        "https://iz.ru/2157596/ekspert-predupredil-o-riske-prodovolstvennogo-krizisa-v-ssha-izi",
-        "https://iz.ru/2157597/barselona-obsuzhdaet-obmen-balde-na-dimarko-s-interom-izi",
-        "https://iz.ru/2157606/v-sotcfonde-nazvali-sposob-uvelichit-razmer-pensii-na-10-za-god-izi",
-        "https://iz.ru/2157607/britanskii-politicheskii-provokator-mailo-iannopulos-biografiia-izi",
-        "https://iz.ru/2157608/v-minprosveshcheniia-nazvali-primernuiu-datu-okonchaniia-uchebnogo-goda-v-2027-godu-izi",
-        "https://iz.ru/2157611/v-op-predupredili-rossiian-o-obmanakh-moshennikami-rossiian-s-tcifrovym-rublem-izi",
-        "https://iz.ru/2157630/nazvan-region-s-samoi-vysokoi-zarplatoi-u-shakhterov-izi",
-        "https://iz.ru/2157635/iurist-rasskazala-o-sluchaiakh-neobkhodimosti-platit-po-chuzhim-kreditam-izi",
-        "https://iz.ru/2157641/v-rossii-s-1-sentiabria-vvedut-goskontrol-za-chastiu-promyshlennoi-produktcii-izi"
-      ]
-    },
     "2026-08-31": {
       "totalChecked": 491,
       "totalIzi": 103,
@@ -179,13 +151,11 @@
       ]
     },
     "2026-09-05": {
-      "totalChecked": 321,
-      "totalIzi": 77,
+      "totalChecked": 303,
+      "totalIzi": 75,
       "totalIiz": 1,
-      "totalAi": 78,
+      "totalAi": 76,
       "topLinks": [
-        "https://iz.ru/2161929/turetckii-akter-serkhat-mustafa-kylych-naiden-mertvym-v-stambule-izi",
-        "https://iz.ru/2161936/aktrisa-mariia-aronova-raskryla-sekret-pokhudeniia-na-22-kg-izi",
         "https://iz.ru/2161986/2026-09-05/iran-prigrozil-ssha-novymi-udarami-v-sluchae-napadenii-na-iranskie-suda-izi",
         "https://iz.ru/2160180/narodnye-primety-na-5-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2161048/uchenye-obiasnili-rol-perekusov-v-ratcione-pitaniia-izi",
@@ -203,11 +173,13 @@
         "https://iz.ru/2161548/2026-09-05/politolog-mirshaimer-rasskazal-o-slozhnostiakh-nato-iz-za-ukrainy-izi",
         "https://iz.ru/2161553/putin-predlozhil-obedinit-programmy-patrioticheskogo-turizma-na-odnom-resurse-izi",
         "https://iz.ru/2161564/2026-09-05/sredniaia-zarplata-v-morskom-rybovodstve-v-rossii-prevysila-971-tys-rublei-izi",
-        "https://iz.ru/2161572/ministr-oborony-bolivii-soobshchil-o-58-postradavshikh-pri-vzryve-na-sklade-izi"
+        "https://iz.ru/2161572/ministr-oborony-bolivii-soobshchil-o-58-postradavshikh-pri-vzryve-na-sklade-izi",
+        "https://iz.ru/2161579/prozorov-zaiavil-o-publikatcii-gur-i-sbu-kompromata-drug-na-druga-izi",
+        "https://iz.ru/2161582/stomatolog-perechislil-osnovaniia-dlia-udaleniia-zuba-mudrosti-izi"
       ]
     },
     "2026-09-06": {
-      "totalChecked": 434,
+      "totalChecked": 433,
       "totalIzi": 169,
       "totalIiz": 1,
       "totalAi": 170,
@@ -235,7 +207,7 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 891,
+      "totalChecked": 890,
       "totalIzi": 237,
       "totalIiz": 1,
       "totalAi": 238,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 616,
-      "totalIzi": 228,
+      "totalChecked": 680,
+      "totalIzi": 258,
       "totalIiz": 1,
-      "totalAi": 229,
+      "totalAi": 259,
       "topLinks": [
         "https://iz.ru/2164114/uchenye-raskryli-sekret-ustoichivoi-uverennosti-v-sobstvennom-tele-izi",
         "https://iz.ru/2164545/uchenye-obiasnili-sviaz-raka-s-riskom-insulta-izi",
@@ -400,6 +372,16 @@
         "https://iz.ru/2165763/boikova-i-kozlovskii-stali-pervymi-v-korotkoi-programme-na-turnire-v-ssha-izi",
         "https://iz.ru/2165767/v-gd-rasskazali-o-vozmozhnosti-peredat-chast-pensii-po-nasledstvu-izi",
         "https://iz.ru/2165777/moshenniki-nachali-obmanyvat-rossiian-pod-vidom-teplosetei-izi"
+      ]
+    },
+    "2026-09-13": {
+      "totalChecked": 16,
+      "totalIzi": 1,
+      "totalIiz": 1,
+      "totalAi": 2,
+      "topLinks": [
+        "https://iz.ru/2165208/narodnye-primety-na-13-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2166131/riadovoi-goloshapov-lichno-unichtozhil-dvukh-boevikov-vsu-pri-shturme-opornogo-punkta-izi"
       ]
     }
   }
