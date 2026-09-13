@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T01:10:19.118Z",
+  "generatedAt": "2026-09-13T06:23:17.885Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,31 +179,31 @@
       ]
     },
     "2026-09-06": {
-      "totalChecked": 393,
-      "totalIzi": 160,
+      "totalChecked": 351,
+      "totalIzi": 136,
       "totalIiz": 1,
-      "totalAi": 161,
+      "totalAi": 137,
       "topLinks": [
-        "https://iz.ru/2162052/serzhant-baranov-otrazil-popytku-boevikov-vsu-vernut-utrachennye-pozitcii-izi",
-        "https://iz.ru/2162054/akademik-razveial-mif-o-sushchestvovanii-bezopasnoi-dozy-alkogolia-izi",
-        "https://iz.ru/2162055/filolog-rasskazala-o-dopustimosti-ispolzovaniia-srednego-roda-slova-kofe-izi",
-        "https://iz.ru/2162058/plennyi-soldat-vsu-rasskazal-o-narkotorgovle-v-uchebnoi-chasti-na-ukraine-izi",
-        "https://iz.ru/2162061/iurist-prizval-soobshchat-pravookhraniteliam-o-popytke-skloneniia-k-gosizmene-izi",
-        "https://iz.ru/2162076/prozorov-soobshchil-o-zaprete-briusselia-kritikovat-kievskii-rezhim-izi",
-        "https://iz.ru/2162077/v-suvenirnom-magazine-belogo-doma-ne-nashli-ostavlennuiu-uitkoffom-v-moskve-monetu-izi",
-        "https://iz.ru/2162078/v-egipte-vynesli-smertnye-prigovory-12-figurantam-dela-o-narkotikakh-izi",
-        "https://iz.ru/2162079/ukraina-profinansirovala-podgotovku-k-zime-lish-na-chetvert-izi",
-        "https://iz.ru/2162080/figuristy-boikova-i-kozlovskii-vyigrali-kinoshita-group-cup-v-tokio-izi",
-        "https://iz.ru/2162084/na-predpriiatii-v-riazanskoi-oblasti-proizoshlo-vozgoranie-iz-za-ataki-vsu-izi",
-        "https://iz.ru/2162085/putin-poobeshchal-rassmotret-lgoty-na-moshchnye-avtomobili-dlia-mnogodetnykh-semei-izi",
-        "https://iz.ru/2162086/rebenok-postradal-pri-atake-bpla-na-rostov-na-donu-izi",
-        "https://iz.ru/2162087/sily-pvo-unichtozhili-258-ukrainskikh-bpla-nad-regionami-rossii-za-noch-izi",
-        "https://iz.ru/2162088/2026-09-06/v-britanii-ukazali-na-osoznanie-zapadom-neizbezhnosti-porazheniia-ukrainy-izi",
-        "https://iz.ru/2162089/wsj-raskryla-istoriiu-pobega-rossiianki-ot-dzheffri-epshteina-izi",
-        "https://iz.ru/2162090/vsu-ustroili-perestrelku-s-pribyvshimi-na-rotatciiu-sosluzhivtcami-pod-sumami-izi",
-        "https://iz.ru/2162093/chislo-postradavshikh-pri-atake-vsu-na-rostov-vyroslo-do-trekh-izi",
-        "https://iz.ru/2162094/finskii-voenkor-sravnil-krym-s-kanarskimi-ostrovami-izi",
-        "https://iz.ru/2162095/2026-09-06/umer-osuzhdennyi-za-pedofiliiu-akter-kris-lengkhem-iz-seriala-v-gushche-sobytii-izi"
+        "https://iz.ru/2162103/anastasiia-volochkova-pokazala-firmennyi-shpagat-na-mototcikle-izi",
+        "https://iz.ru/2162106/akort-ukazala-na-rost-doli-otechestvennykh-ovoshchei-i-fruktov-v-reteile-izi",
+        "https://iz.ru/2162107/2026-09-06/aktrisa-natali-portman-rodila-tretego-rebenka-v-parizhe-izi",
+        "https://iz.ru/2162108/patriarkh-kirill-vstretil-moshchi-kniazia-dmitriia-donskogo-v-khrame-khrista-spasitelia-izi",
+        "https://iz.ru/2162109/v-germanii-razrabotali-plan-po-borbe-s-dronami-i-kiberatakami-izi",
+        "https://iz.ru/2162110/pod-rostovom-iz-za-padeniia-oblomkov-bpla-na-lokomotiv-zaderzhali-sem-poezdov-izi",
+        "https://iz.ru/2162111/2026-09-06/vsu-nachali-prizyvat-zhenshchin-na-pozitcii-pogranichnykh-otriadov-izi",
+        "https://iz.ru/2162114/chastitcu-moshchei-dmitriia-donskogo-privezli-v-glavnyi-khram-vs-rf-izi",
+        "https://iz.ru/2162116/figuristy-kaganovskaia-i-nekrasov-stali-vtorymi-na-turnire-v-tokio-izi",
+        "https://iz.ru/2162117/2026-09-06/riabkov-ne-iskliuchil-provedenie-trekhstoronnego-sammita-liderov-rossii-ssha-i-kitaia-izi",
+        "https://iz.ru/2162119/odin-chelovek-postradal-pri-atake-bespilotnikov-na-riazanskuiu-oblast-izi",
+        "https://iz.ru/2162120/zakharova-sravnila-trebovanie-tokio-ubrat-monument-s-prikazom-vetru-ne-dut-izi",
+        "https://iz.ru/2162121/nemetckii-politik-nazval-vyzov-poslov-rossii-v-es-aktciei-briusselia-dlia-eskalatcii-izi",
+        "https://iz.ru/2162122/akter-iz-sklifosovskogo-konstantin-sirotkin-skonchalsia-na-59-m-godu-zhizni-izi",
+        "https://iz.ru/2162123/2026-09-06/v-mvd-obiasnili-poriadok-vozvrata-voditelskikh-prav-posle-lisheniia-izi",
+        "https://iz.ru/2162126/sily-pvo-sbili-chetyre-upravliaemye-aviabomby-i-400-bespilotnikov-vsu-izi",
+        "https://iz.ru/2162127/vs-rf-udarili-po-transportnoi-infrastrukture-i-proizvodstvu-bpla-na-ukraine-izi",
+        "https://iz.ru/2162130/sovetnik-zelenskogo-rekomendoval-podumat-ob-evakuatcii-mirnykh-zhitelei-iz-kieva-izi",
+        "https://iz.ru/2162133/prichinoi-smerti-aktera-seriala-sklifosovskii-sirotkina-stal-otorvavshiisia-tromb-izi",
+        "https://iz.ru/2162134/peskov-otmetil-atmosferu-doveriia-na-vstrechakh-putina-s-delegatciei-ssha-izi"
       ]
     },
     "2026-09-07": {
@@ -375,11 +375,14 @@
       ]
     },
     "2026-09-13": {
-      "totalChecked": 73,
-      "totalIzi": 11,
+      "totalChecked": 210,
+      "totalIzi": 49,
       "totalIiz": 2,
-      "totalAi": 13,
+      "totalAi": 51,
       "topLinks": [
+        "https://iz.ru/2165126/uchenye-obiasnili-sviaz-sdvg-s-narusheniiami-raboty-kishechnika-izi",
+        "https://iz.ru/2165146/uchenye-ukazali-na-sviaz-fizicheskoi-aktivnosti-i-sokhraneniia-slukha-izi",
+        "https://iz.ru/2165186/issledovateli-raskryli-rol-gormonov-stressa-v-razvitii-ozhireniia-izi",
         "https://iz.ru/2165208/narodnye-primety-na-13-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166131/riadovoi-goloshapov-lichno-unichtozhil-dvukh-boevikov-vsu-pri-shturme-opornogo-punkta-izi",
         "https://iz.ru/2166137/zelenskii-zaiavil-o-nuzhde-v-100-120-raketakh-patriot-ezhemesiachno-zimoi-izi",
@@ -389,10 +392,14 @@
         "https://iz.ru/2166150/belousov-pozdravil-voennosluzhashchikh-s-dnem-tankista-izi",
         "https://iz.ru/2166153/vengriia-poprosila-vernut-podarennykh-karlu-iii-loshadei-izi",
         "https://iz.ru/2166157/putin-poprivetstvoval-gostei-festivalia-shkolnykh-khorov-poiut-deti-rossii-izi",
+        "https://iz.ru/2166165/v-gd-predlozili-besplatno-podklyucat-lgotnikov-k-internetu-v-castnyx-sektorax-izi",
         "https://iz.ru/2166169/v-gosdume-predlozhili-udvoit-doplatu-k-pensii-s-70-let-izi",
         "https://iz.ru/2166174/k-domu-kharris-v-malibu-vyzvali-politciiu-posle-proniknoveniia-neizvestnoi-zhenshchiny-izi",
-        "https://iz.ru/2165208/narodnye-primety-na-13-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2166131/riadovoi-goloshapov-lichno-unichtozhil-dvukh-boevikov-vsu-pri-shturme-opornogo-punkta-izi"
+        "https://iz.ru/2166185/onishchenko-nazval-usloviia-dlia-prodleniia-zhizni-do-100-let-izi",
+        "https://iz.ru/2166186/moshenniki-nachali-pugat-rossiian-proverkami-perevodov-cherez-sbp-izi",
+        "https://iz.ru/2166187/rybakina-vyigrala-us-open-i-stala-pervoi-raketkoi-mira-izi",
+        "https://iz.ru/2166190/smi-soobshchili-o-serii-zemletriasenii-v-kalifornii-izi",
+        "https://iz.ru/2166195/wsj-soobshchila-o-zhelanii-kanady-stat-assotciirovannym-chlenom-evrosoiuza-izi"
       ]
     }
   }
