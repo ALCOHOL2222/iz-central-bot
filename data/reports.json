@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:29:21.804Z",
+  "generatedAt": "2026-09-14T14:16:56.332Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,44 +179,39 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 712,
-      "totalIzi": 198,
+      "totalChecked": 524,
+      "totalIzi": 153,
       "totalIiz": 1,
-      "totalAi": 199,
+      "totalAi": 154,
       "topLinks": [
-        "https://iz.ru/2162504/fiziki-priblizilis-k-obnaruzheniiu-neobychnykh-kvazichastitc-izi",
-        "https://iz.ru/2162512/v-kieve-na-zimu-sozdadut-zapasy-vody-i-produktov-na-sluchai-chp-izi",
-        "https://iz.ru/2162520/ishchushchii-edu-medved-zabralsia-v-piatizvezdochnyi-otel-na-krasnoi-poliane-v-sochi-izi",
-        "https://iz.ru/2162524/posolstvo-rf-sviazalos-s-vlastiami-vetnama-posle-otmeny-imi-aviareisov-v-moskvu-izi",
-        "https://iz.ru/2162527/goldman-sachs-sprognoziroval-risk-uvelicheniia-tcen-na-neft-do-120-izi",
-        "https://iz.ru/2162530/vysokotochnye-kompleksy-predstaviat-na-vystavke-v-egipte-noveishuiu-sistemu-bizon-izi",
-        "https://iz.ru/2162534/peskov-peregovory-v-moskve-i-kieve-priblizili-mir-na-ukraine-izi",
-        "https://iz.ru/2162536/putin-prizval-svoevremenno-pomogat-postradavshim-ot-navodneniia-v-dagestane-liudiam-izi",
-        "https://iz.ru/2162545/iz-uchebnoi-programmy-russkikh-shkol-v-litve-iskliuchili-lomonosova-i-derzhavina-izi",
-        "https://iz.ru/2162551/euractiv-soobshchil-o-nevozmozhnosti-voenproma-es-obespechit-nuzhdy-ukrainy-izi",
-        "https://iz.ru/2162559/vsu-pri-okruzhenii-v-kharkovskoi-oblasti-poteriali-bolee-25-tys-soldat-izi",
-        "https://iz.ru/2162564/poslednii-reis-lokomotiva-khronologiia-tragedii-pod-iaroslavlem-k-15-letiiu-aviakatastrofy-izi",
-        "https://iz.ru/2162565/sud-arestoval-voditelia-gruzovika-po-delu-o-dtp-s-marshrutkoi-pod-novosibirskom-izi",
-        "https://iz.ru/2162567/uchenye-vyiavili-sposobnye-bystro-rasprostraniatsia-bakterii-kishechnika-izi",
-        "https://iz.ru/2162569/supermodel-natalia-vodianova-rodila-shestogo-rebenka-izi",
-        "https://iz.ru/2162571/v-mvd-predupredili-o-moshennicheskikh-skhemakh-s-nachisleniem-vyplat-izi",
-        "https://iz.ru/2162573/zhestoko-ubityi-synom-rob-rainer-posmertno-poluchil-premiiu-emmi-izi",
-        "https://iz.ru/2162574/nikitin-zaiavil-ob-interese-aviastroitelei-k-maloi-aviatcii-na-dalnem-vostoke-izi",
-        "https://iz.ru/2162576/kazakhstan-zanial-pervoe-mesto-v-medalnom-zachete-igr-kochevnikov-izi",
-        "https://iz.ru/2162582/putin-prisvoil-zheleznodorozhnoi-stantcii-groznyi-imia-akhmata-kadyrova-izi"
+        "https://iz.ru/2162780/abc-uznal-o-planakh-ssha-uregulirovat-konflikt-na-ukraine-do-zimy-2026-goda-izi",
+        "https://iz.ru/2162784/glava-minsporta-kazakhstana-podaril-kirgizskomu-kollege-luk-posle-spora-o-medaliakh-izi",
+        "https://iz.ru/2162789/chto-proizoshlo-za-den-7-sentiabria-glavnoe-izi",
+        "https://iz.ru/2162804/armiia-rossii-nanesla-aviaudar-po-mostu-v-kramatorske-izi",
+        "https://iz.ru/2162810/ochevidetc-skhoda-laviny-v-kbr-rasskazal-o-khoroshei-pogode-v-den-tragedii-izi",
+        "https://iz.ru/2162828/uitkoff-rasskazal-ob-uchastii-litc-iz-frg-frantcii-i-britanii-v-peregovorakh-v-kieve-izi",
+        "https://iz.ru/2162831/rossiiskii-pevetc-vania-dmitrienko-biografiia-izi",
+        "https://iz.ru/2162835/finansist-balynin-nazval-otpusk-v-pervuiu-polovinu-oseni-naibolee-vygoldnym-izi",
+        "https://iz.ru/2162836/rodstvenniki-propavshikh-v-volchanskom-kotle-boevikov-obvinili-v-etom-komandirov-vsu-izi",
+        "https://iz.ru/2162837/proizvodstvo-krepkogo-alkogolia-v-rossii-snizilos-na-109-s-nachala-goda-izi",
+        "https://iz.ru/2162840/rossiiskie-figuristy-vozglavili-spisok-zapasnykh-na-etapy-gran-pri-isu-izi",
+        "https://iz.ru/2162847/bloomberg-uznalo-o-pereezde-milliardera-krisa-rokosa-iz-velikobritanii-v-gretciiu-izi",
+        "https://iz.ru/2162849/na-ploshchadku-salona-v-egipet-pribyli-camolety-iak-130m-i-su-57-izi",
+        "https://iz.ru/2162852/tramp-opublikoval-kartu-s-desiatkami-stran-v-tcvetakh-flaga-ssha-izi",
+        "https://iz.ru/2162854/muzhchina-postradal-pri-atake-drona-vsu-na-mikroavtobus-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2162857/mertc-otkazalsia-otstupat-ni-na-millimetr-ot-svoego-antirossiiskogo-kursa-izi",
+        "https://iz.ru/2162858/v-latvii-zaiavili-o-planakh-vvesti-poshliny-v-300-na-zerno-iz-rossii-i-belorussii-izi",
+        "https://iz.ru/2162859/sily-pvo-za-den-sbili-32-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2162861/mirra-andreeva-vpervye-vyshla-v-chetvertfinal-us-open-izi",
+        "https://iz.ru/2162863/wsj-uznala-o-planakh-baidena-zapustit-svoi-memkoin-laptop-izi"
       ]
     },
     "2026-09-08": {
-      "totalChecked": 1012,
-      "totalIzi": 212,
-      "totalIiz": 2,
-      "totalAi": 214,
+      "totalChecked": 991,
+      "totalIzi": 208,
+      "totalIiz": 1,
+      "totalAi": 209,
       "topLinks": [
-        "https://iz.ru/2162521/vozrast-ne-prigovor-uchenye-obiasnili-rol-trenirovok-v-zdorovom-starenii-izi",
-        "https://iz.ru/2162558/bakterii-v-shkolnoi-pyli-sviazali-so-snizheniem-funktcii-legkikh-u-detei-izi",
-        "https://iz.ru/2162599/kod-lichnosti-chto-my-poluchaem-ot-roditelei-i-meniaem-sami-izi",
-        "https://iz.ru/2162652/narodnye-primety-na-8-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2162676/uchenye-opredelili-faktory-prochnosti-otnoshenii-s-pomoshchiu-matematiki-izi",
         "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi",
         "https://iz.ru/2162951/rubin-i-akhmat-sygrali-vnichiu-v-matche-rpl-v-kazani-izi",
         "https://iz.ru/2162955/strakhovye-pensii-po-starosti-budut-naznachat-avtomaticheski-izi",
@@ -231,7 +226,12 @@
         "https://iz.ru/2163026/voennyi-vrach-vs-rf-zaiavil-o-sereznykh-zabolevaniiakh-u-40-lichnogo-sostava-vsu-izi",
         "https://iz.ru/2163027/drapatyi-utiliziruet-soldat-vsu-v-donbasse-po-mneniiu-samikh-boevikov-vsu-izi",
         "https://iz.ru/2163031/zakharova-zaiavila-o-stavke-kieva-na-eksport-terrorizma-izi",
-        "https://iz.ru/2163059/miroshnik-obvinil-kiev-v-vyborochnom-podkhode-k-obmenu-plennymi-izi"
+        "https://iz.ru/2163059/miroshnik-obvinil-kiev-v-vyborochnom-podkhode-k-obmenu-plennymi-izi",
+        "https://iz.ru/2163067/vs-rf-porazili-dve-puskovye-ustanovki-bpla-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2163073/iz-muzeia-renuara-vo-frantcii-ukrali-chetyre-kartiny-izi",
+        "https://iz.ru/2163077/zakharova-ukazala-na-molchanie-zapadnykh-smi-posle-okhoty-kieva-na-zhurnalistov-izi",
+        "https://iz.ru/2163093/uchenye-predlozhili-otviazat-mirovoe-vremia-ot-vrashcheniia-zemli-izi",
+        "https://iz.ru/2163095/lavrov-pozhalel-britaniiu-iz-za-ee-obeshchanii-ukraine-izi"
       ]
     },
     "2026-09-09": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 235,
-      "totalIzi": 52,
+      "totalChecked": 667,
+      "totalIzi": 149,
       "totalIiz": 2,
-      "totalAi": 54,
+      "totalAi": 151,
       "topLinks": [
         "https://iz.ru/2165264/uchenye-sviazali-vozdeistvie-sveta-nochiu-s-izmeneniiami-struktury-i-raboty-serdtca-izi",
         "https://iz.ru/2165266/narodnye-primety-na-14-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
