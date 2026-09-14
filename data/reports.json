@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T14:16:56.332Z",
+  "generatedAt": "2026-09-14T19:33:36.804Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 524,
-      "totalIzi": 153,
+      "totalChecked": 457,
+      "totalIzi": 119,
       "totalIiz": 1,
-      "totalAi": 154,
+      "totalAi": 120,
       "topLinks": [
-        "https://iz.ru/2162780/abc-uznal-o-planakh-ssha-uregulirovat-konflikt-na-ukraine-do-zimy-2026-goda-izi",
-        "https://iz.ru/2162784/glava-minsporta-kazakhstana-podaril-kirgizskomu-kollege-luk-posle-spora-o-medaliakh-izi",
-        "https://iz.ru/2162789/chto-proizoshlo-za-den-7-sentiabria-glavnoe-izi",
-        "https://iz.ru/2162804/armiia-rossii-nanesla-aviaudar-po-mostu-v-kramatorske-izi",
-        "https://iz.ru/2162810/ochevidetc-skhoda-laviny-v-kbr-rasskazal-o-khoroshei-pogode-v-den-tragedii-izi",
-        "https://iz.ru/2162828/uitkoff-rasskazal-ob-uchastii-litc-iz-frg-frantcii-i-britanii-v-peregovorakh-v-kieve-izi",
-        "https://iz.ru/2162831/rossiiskii-pevetc-vania-dmitrienko-biografiia-izi",
-        "https://iz.ru/2162835/finansist-balynin-nazval-otpusk-v-pervuiu-polovinu-oseni-naibolee-vygoldnym-izi",
-        "https://iz.ru/2162836/rodstvenniki-propavshikh-v-volchanskom-kotle-boevikov-obvinili-v-etom-komandirov-vsu-izi",
-        "https://iz.ru/2162837/proizvodstvo-krepkogo-alkogolia-v-rossii-snizilos-na-109-s-nachala-goda-izi",
-        "https://iz.ru/2162840/rossiiskie-figuristy-vozglavili-spisok-zapasnykh-na-etapy-gran-pri-isu-izi",
-        "https://iz.ru/2162847/bloomberg-uznalo-o-pereezde-milliardera-krisa-rokosa-iz-velikobritanii-v-gretciiu-izi",
-        "https://iz.ru/2162849/na-ploshchadku-salona-v-egipet-pribyli-camolety-iak-130m-i-su-57-izi",
-        "https://iz.ru/2162852/tramp-opublikoval-kartu-s-desiatkami-stran-v-tcvetakh-flaga-ssha-izi",
-        "https://iz.ru/2162854/muzhchina-postradal-pri-atake-drona-vsu-na-mikroavtobus-v-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2162857/mertc-otkazalsia-otstupat-ni-na-millimetr-ot-svoego-antirossiiskogo-kursa-izi",
-        "https://iz.ru/2162858/v-latvii-zaiavili-o-planakh-vvesti-poshliny-v-300-na-zerno-iz-rossii-i-belorussii-izi",
-        "https://iz.ru/2162859/sily-pvo-za-den-sbili-32-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2162861/mirra-andreeva-vpervye-vyshla-v-chetvertfinal-us-open-izi",
-        "https://iz.ru/2162863/wsj-uznala-o-planakh-baidena-zapustit-svoi-memkoin-laptop-izi"
+        "https://iz.ru/2161196/narodnye-primety-na-7-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2161426/na-festivale-rossiia-budushchego-proidet-gonka-dronov-izi",
+        "https://iz.ru/2162301/v-es-300-tys-rabochikh-mest-okazalis-pod-ugrozoi-iz-za-kitaiskogo-importa-izi",
+        "https://iz.ru/2162322/khirurg-trynov-rasskazal-o-mifakh-pro-zhvachki-izi",
+        "https://iz.ru/2162323/vrach-predupredila-ob-opasnosti-samostoiatelnoi-otmeny-priema-lekarstv-izi",
+        "https://iz.ru/2162328/v-2027-godu-rossiiane-pri-piatidnevnoi-nedele-budut-rabotat-247-dnei-izi",
+        "https://iz.ru/2162330/gosdolg-ukrainy-vyros-na-1032-na-kazhdogo-zhitelia-za-iiul-izi",
+        "https://iz.ru/2162331/ekspert-perechislil-uvazhitelnye-prichiny-opozdaniia-na-rabotu-izi",
+        "https://iz.ru/2162332/kravtcov-ukazal-na-otdelenie-otcenok-za-izi",
+        "https://iz.ru/2162334/sredniaia-prodolzhitelnost-rabochego-dnia-v-rossii-snizilas-do-739-chasov-izi",
+        "https://iz.ru/2162335/bz-soobshchila-ob-isporchennom-vizitom-uitkoffa-i-kushnera-nastroenii-v-kieve-izi",
+        "https://iz.ru/2162337/pri-atake-bpla-na-sevastopol-pogibla-devochka-podrostok-izi",
+        "https://iz.ru/2162340/posolstvo-ssha-provedet-piatidnevnyi-seminar-v-bunkere-vo-lvove-izi",
+        "https://iz.ru/2162342/v-sotcsetiakh-raskritikovali-vneshnii-vid-ukrainskoi-delegatcii-na-peregovorakh-s-ssha-izi",
+        "https://iz.ru/2162344/kndr-vvela-v-sostav-vms-novyi-esminetc-kan-gon-klassa-chve-khen-izi",
+        "https://iz.ru/2162346/v-mid-rf-zaiavili-o-prodolzhenii-osushchestvleniia-postavok-gaza-v-evrosoiuz-izi",
+        "https://iz.ru/2162348/raschety-bpla-lis-unichtozhili-bespilotniki-vsu-v-kurskom-prigraniche-izi",
+        "https://iz.ru/2162350/biolog-safonov-sprognoziroval-prikhod-zolotoi-oseni-v-moskvu-v-kontce-sentiabria-izi",
+        "https://iz.ru/2162351/rosoboroneksport-zakliuchil-kontraktov-na-13-mlrd-za-polgoda-izi",
+        "https://iz.ru/2162353/v-rossii-k-kontcu-goda-razrabotaiut-edinuiu-sistemu-oplaty-truda-medikov-izi"
       ]
     },
     "2026-09-08": {
-      "totalChecked": 991,
-      "totalIzi": 208,
+      "totalChecked": 940,
+      "totalIzi": 206,
       "totalIiz": 1,
-      "totalAi": 209,
+      "totalAi": 207,
       "topLinks": [
-        "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi",
-        "https://iz.ru/2162951/rubin-i-akhmat-sygrali-vnichiu-v-matche-rpl-v-kazani-izi",
         "https://iz.ru/2162955/strakhovye-pensii-po-starosti-budut-naznachat-avtomaticheski-izi",
         "https://iz.ru/2162967/v-sk-rf-soobshchili-o-zaderzhanii-podozrevaemogo-v-pokushenii-na-ubiistvo-voennogo-izi",
         "https://iz.ru/2162998/pravila-vneseniia-nalichnykh-v-bankomaty-izmeniatsia-s-1-oktiabria-izi",
@@ -231,7 +229,9 @@
         "https://iz.ru/2163073/iz-muzeia-renuara-vo-frantcii-ukrali-chetyre-kartiny-izi",
         "https://iz.ru/2163077/zakharova-ukazala-na-molchanie-zapadnykh-smi-posle-okhoty-kieva-na-zhurnalistov-izi",
         "https://iz.ru/2163093/uchenye-predlozhili-otviazat-mirovoe-vremia-ot-vrashcheniia-zemli-izi",
-        "https://iz.ru/2163095/lavrov-pozhalel-britaniiu-iz-za-ee-obeshchanii-ukraine-izi"
+        "https://iz.ru/2163095/lavrov-pozhalel-britaniiu-iz-za-ee-obeshchanii-ukraine-izi",
+        "https://iz.ru/2163098/uchenye-obnaruzhili-v-mlechnom-puti-planety-zemnogo-tipa-izi",
+        "https://iz.ru/2163099/akter-geri-oldman-soobshchil-o-vybore-aktera-na-rol-dzheimsa-bonda-izi"
       ]
     },
     "2026-09-09": {
@@ -291,12 +291,11 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 1108,
-      "totalIzi": 224,
+      "totalChecked": 1107,
+      "totalIzi": 223,
       "totalIiz": 2,
-      "totalAi": 226,
+      "totalAi": 225,
       "topLinks": [
-        "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
         "https://iz.ru/2163932/bystree-ili-bolshe-uchenye-ukazali-na-sviaz-khodby-s-dolgoletiem-izi",
         "https://iz.ru/2163999/uchenye-ukazali-rol-muzyki-v-vosstanovlenii-posle-stressa-izi",
         "https://iz.ru/2164028/uchenye-obiasnili-sviaz-kofeina-s-kletochnymi-mekhanizmami-stareniia-izi",
@@ -315,7 +314,8 @@
         "https://iz.ru/2165003/bolee-450-molodykh-semei-v-pskovskoi-oblasti-poluchili-vyplaty-za-tretego-rebenka-izi",
         "https://iz.ru/2165013/moshenniki-nachali-vzlamyvat-akkaunty-uchitelei-dlia-obmana-roditelei-izi",
         "https://iz.ru/2165015/rossiiane-nazvali-zhelaemyi-razmer-minimalnoi-zarplaty-izi",
-        "https://iz.ru/2165017/nazvany-otrasli-s-samym-dlinnym-rabochim-dnem-v-pervom-polugodii-izi"
+        "https://iz.ru/2165017/nazvany-otrasli-s-samym-dlinnym-rabochim-dnem-v-pervom-polugodii-izi",
+        "https://iz.ru/2165019/v-gd-predlozhili-dat-pensioneram-pravo-srazu-sviazyvatsia-s-operatorom-pri-zvonke-izi"
       ]
     },
     "2026-09-12": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 667,
-      "totalIzi": 149,
+      "totalChecked": 862,
+      "totalIzi": 211,
       "totalIiz": 2,
-      "totalAi": 151,
+      "totalAi": 213,
       "topLinks": [
         "https://iz.ru/2165264/uchenye-sviazali-vozdeistvie-sveta-nochiu-s-izmeneniiami-struktury-i-raboty-serdtca-izi",
         "https://iz.ru/2165266/narodnye-primety-na-14-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
