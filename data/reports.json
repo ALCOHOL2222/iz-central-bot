@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:19:00.799Z",
+  "generatedAt": "2026-09-14T06:29:21.804Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,18 +179,11 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 756,
-      "totalIzi": 205,
+      "totalChecked": 712,
+      "totalIzi": 198,
       "totalIiz": 1,
-      "totalAi": 206,
+      "totalAi": 199,
       "topLinks": [
-        "https://iz.ru/2162440/uchenye-pokazali-udivitelnykh-obitatelei-glubin-karibskogo-moria-izi",
-        "https://iz.ru/2162441/serebrianyi-prizer-olimpiiskikh-igr-aleksandra-ignatova-trusova-biografiia-izi",
-        "https://iz.ru/2162446/advokat-zorin-predupredil-o-shtrafe-za-narushenie-pravil-khraneniia-solenii-izi",
-        "https://iz.ru/2162449/smi-rasskazali-o-vykhodke-ukrainskoi-delegatcii-na-peregovorakh-s-ssha-izi",
-        "https://iz.ru/2162451/issledovateli-prosledili-razvitie-samokontrolia-u-podrostkov-izi",
-        "https://iz.ru/2162466/astronomy-uznali-prichinu-neobychnoi-khrupkosti-asteroida-bennu-izi",
-        "https://iz.ru/2162474/uchenye-raskryli-ustroistvo-granitcy-iadra-i-mantii-zemli-izi",
         "https://iz.ru/2162504/fiziki-priblizilis-k-obnaruzheniiu-neobychnykh-kvazichastitc-izi",
         "https://iz.ru/2162512/v-kieve-na-zimu-sozdadut-zapasy-vody-i-produktov-na-sluchai-chp-izi",
         "https://iz.ru/2162520/ishchushchii-edu-medved-zabralsia-v-piatizvezdochnyi-otel-na-krasnoi-poliane-v-sochi-izi",
@@ -203,11 +196,18 @@
         "https://iz.ru/2162551/euractiv-soobshchil-o-nevozmozhnosti-voenproma-es-obespechit-nuzhdy-ukrainy-izi",
         "https://iz.ru/2162559/vsu-pri-okruzhenii-v-kharkovskoi-oblasti-poteriali-bolee-25-tys-soldat-izi",
         "https://iz.ru/2162564/poslednii-reis-lokomotiva-khronologiia-tragedii-pod-iaroslavlem-k-15-letiiu-aviakatastrofy-izi",
-        "https://iz.ru/2162565/sud-arestoval-voditelia-gruzovika-po-delu-o-dtp-s-marshrutkoi-pod-novosibirskom-izi"
+        "https://iz.ru/2162565/sud-arestoval-voditelia-gruzovika-po-delu-o-dtp-s-marshrutkoi-pod-novosibirskom-izi",
+        "https://iz.ru/2162567/uchenye-vyiavili-sposobnye-bystro-rasprostraniatsia-bakterii-kishechnika-izi",
+        "https://iz.ru/2162569/supermodel-natalia-vodianova-rodila-shestogo-rebenka-izi",
+        "https://iz.ru/2162571/v-mvd-predupredili-o-moshennicheskikh-skhemakh-s-nachisleniem-vyplat-izi",
+        "https://iz.ru/2162573/zhestoko-ubityi-synom-rob-rainer-posmertno-poluchil-premiiu-emmi-izi",
+        "https://iz.ru/2162574/nikitin-zaiavil-ob-interese-aviastroitelei-k-maloi-aviatcii-na-dalnem-vostoke-izi",
+        "https://iz.ru/2162576/kazakhstan-zanial-pervoe-mesto-v-medalnom-zachete-igr-kochevnikov-izi",
+        "https://iz.ru/2162582/putin-prisvoil-zheleznodorozhnoi-stantcii-groznyi-imia-akhmata-kadyrova-izi"
       ]
     },
     "2026-09-08": {
-      "totalChecked": 1017,
+      "totalChecked": 1012,
       "totalIzi": 212,
       "totalIiz": 2,
       "totalAi": 214,
@@ -375,13 +375,15 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 91,
-      "totalIzi": 14,
+      "totalChecked": 235,
+      "totalIzi": 52,
       "totalIiz": 2,
-      "totalAi": 16,
+      "totalAi": 54,
       "topLinks": [
         "https://iz.ru/2165264/uchenye-sviazali-vozdeistvie-sveta-nochiu-s-izmeneniiami-struktury-i-raboty-serdtca-izi",
         "https://iz.ru/2165266/narodnye-primety-na-14-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2165360/uchenye-peresmotreli-vozrast-poiavleniia-serdechnykh-zabolevanii-izi",
+        "https://iz.ru/2165536/uchenye-sviazali-sadovodstvo-s-dolgoletiem-i-zdorovem-mozga-izi",
         "https://iz.ru/2166437/krasnodar-sygral-vnichiu-s-akronom-v-matche-rpl-izi-izi",
         "https://iz.ru/2166442/ssha-vyvezli-diplomata-iz-britanii-posle-podozrenii-v-pedofilii-izi",
         "https://iz.ru/2166454/serzhant-maslov-uklonilsia-ot-drona-i-dostavil-gruz-na-peredovuiu-izi",
@@ -391,11 +393,13 @@
         "https://iz.ru/2166470/v-minpromtorge-rasskazali-o-rabote-shkol-vo-vremia-vyborov-izi",
         "https://iz.ru/2166474/lokomotiv-obygral-tcska-v-matche-reguliarnogo-chempionata-kkhl-izi",
         "https://iz.ru/2166483/chislo-pogibshikh-pri-avarii-v-indonezii-vyroslo-do-shesti-izi",
+        "https://iz.ru/2166495/ekipazhi-tof-proveli-patrioticheskuiu-aktciiu-v-khabarovskom-krae-izi",
+        "https://iz.ru/2166497/pensionerov-predupredili-o-skheme-moshennichestva-s-tcifrovymi-rubliami-izi",
         "https://iz.ru/2166498/v-latvii-zakroiut-zavod-elektroinstrumentov-rebir-iz-za-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2165266/narodnye-primety-na-14-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2166437/krasnodar-sygral-vnichiu-s-akronom-v-matche-rpl-izi-izi",
-        "https://iz.ru/2166442/ssha-vyvezli-diplomata-iz-britanii-posle-podozrenii-v-pedofilii-izi",
-        "https://iz.ru/2166460/v-gosdume-napomnili-o-besplatnoi-zamene-elektroschetchikov-izi"
+        "https://iz.ru/2166499/raschety-sau-msta-s-gruppirovki-voisk-tcentr-unichtozhili-pozitcii-vsu-izi",
+        "https://iz.ru/2166501/ekspert-sprognoziroval-snizhenie-stavok-po-vkladam-do-12-k-kontcu-goda-izi",
+        "https://iz.ru/2166503/tramp-dopustil-peredachu-ukraine-uproshchennykh-versii-sistem-patriot-izi",
+        "https://iz.ru/2166507/overchuk-zaiavil-ob-obsuzhdenii-rf-i-mongolii-razvitiia-tranzita-izi"
       ]
     }
   }
