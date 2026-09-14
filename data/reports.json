@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T22:35:15.839Z",
+  "generatedAt": "2026-09-14T01:19:00.799Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,16 +179,11 @@
       ]
     },
     "2026-09-07": {
-      "totalChecked": 805,
-      "totalIzi": 210,
+      "totalChecked": 756,
+      "totalIzi": 205,
       "totalIiz": 1,
-      "totalAi": 211,
+      "totalAi": 206,
       "topLinks": [
-        "https://iz.ru/2162382/v-finliandii-otmetili-ukhudshenie-otnosheniia-poliakov-k-ukraintcam-izi",
-        "https://iz.ru/2162396/vs-rf-udarili-po-pogruzochnomu-kompleksu-v-portu-izmail-izi",
-        "https://iz.ru/2162399/na-granitce-rossii-i-kndr-otkryli-avtomobilnyi-most-izi",
-        "https://iz.ru/2162416/televedushchaia-regina-todorenko-soobshchila-o-problemakh-s-kolenom-izi",
-        "https://iz.ru/2162424/v-udmurtii-dlia-otrazheniia-ataki-dronov-privlekli-aviatciiu-izi",
         "https://iz.ru/2162440/uchenye-pokazali-udivitelnykh-obitatelei-glubin-karibskogo-moria-izi",
         "https://iz.ru/2162441/serebrianyi-prizer-olimpiiskikh-igr-aleksandra-ignatova-trusova-biografiia-izi",
         "https://iz.ru/2162446/advokat-zorin-predupredil-o-shtrafe-za-narushenie-pravil-khraneniia-solenii-izi",
@@ -203,7 +198,12 @@
         "https://iz.ru/2162527/goldman-sachs-sprognoziroval-risk-uvelicheniia-tcen-na-neft-do-120-izi",
         "https://iz.ru/2162530/vysokotochnye-kompleksy-predstaviat-na-vystavke-v-egipte-noveishuiu-sistemu-bizon-izi",
         "https://iz.ru/2162534/peskov-peregovory-v-moskve-i-kieve-priblizili-mir-na-ukraine-izi",
-        "https://iz.ru/2162536/putin-prizval-svoevremenno-pomogat-postradavshim-ot-navodneniia-v-dagestane-liudiam-izi"
+        "https://iz.ru/2162536/putin-prizval-svoevremenno-pomogat-postradavshim-ot-navodneniia-v-dagestane-liudiam-izi",
+        "https://iz.ru/2162545/iz-uchebnoi-programmy-russkikh-shkol-v-litve-iskliuchili-lomonosova-i-derzhavina-izi",
+        "https://iz.ru/2162551/euractiv-soobshchil-o-nevozmozhnosti-voenproma-es-obespechit-nuzhdy-ukrainy-izi",
+        "https://iz.ru/2162559/vsu-pri-okruzhenii-v-kharkovskoi-oblasti-poteriali-bolee-25-tys-soldat-izi",
+        "https://iz.ru/2162564/poslednii-reis-lokomotiva-khronologiia-tragedii-pod-iaroslavlem-k-15-letiiu-aviakatastrofy-izi",
+        "https://iz.ru/2162565/sud-arestoval-voditelia-gruzovika-po-delu-o-dtp-s-marshrutkoi-pod-novosibirskom-izi"
       ]
     },
     "2026-09-08": {
@@ -375,11 +375,23 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 42,
-      "totalIzi": 3,
-      "totalIiz": 1,
-      "totalAi": 4,
+      "totalChecked": 91,
+      "totalIzi": 14,
+      "totalIiz": 2,
+      "totalAi": 16,
       "topLinks": [
+        "https://iz.ru/2165264/uchenye-sviazali-vozdeistvie-sveta-nochiu-s-izmeneniiami-struktury-i-raboty-serdtca-izi",
+        "https://iz.ru/2165266/narodnye-primety-na-14-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2166437/krasnodar-sygral-vnichiu-s-akronom-v-matche-rpl-izi-izi",
+        "https://iz.ru/2166442/ssha-vyvezli-diplomata-iz-britanii-posle-podozrenii-v-pedofilii-izi",
+        "https://iz.ru/2166454/serzhant-maslov-uklonilsia-ot-drona-i-dostavil-gruz-na-peredovuiu-izi",
+        "https://iz.ru/2166460/v-gosdume-napomnili-o-besplatnoi-zamene-elektroschetchikov-izi",
+        "https://iz.ru/2166464/bild-soobshchila-ob-utechke-sekretnykh-dannykh-ob-uiazvimosti-berlina-pered-bpla-izi",
+        "https://iz.ru/2166468/rossiiskie-legkoatlety-prizvali-oon-i-mok-otmenit-ogranicheniia-na-dopusk-izi",
+        "https://iz.ru/2166470/v-minpromtorge-rasskazali-o-rabote-shkol-vo-vremia-vyborov-izi",
+        "https://iz.ru/2166474/lokomotiv-obygral-tcska-v-matche-reguliarnogo-chempionata-kkhl-izi",
+        "https://iz.ru/2166483/chislo-pogibshikh-pri-avarii-v-indonezii-vyroslo-do-shesti-izi",
+        "https://iz.ru/2166498/v-latvii-zakroiut-zavod-elektroinstrumentov-rebir-iz-za-sanktcii-protiv-rossii-izi",
         "https://iz.ru/2165266/narodnye-primety-na-14-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166437/krasnodar-sygral-vnichiu-s-akronom-v-matche-rpl-izi-izi",
         "https://iz.ru/2166442/ssha-vyvezli-diplomata-iz-britanii-posle-podozrenii-v-pedofilii-izi",
