@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:22:24.530Z",
+  "generatedAt": "2026-09-15T21:36:28.378Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-09-02": {
-      "totalChecked": 535,
-      "totalIzi": 114,
-      "totalIiz": 1,
-      "totalAi": 115,
-      "topLinks": [
-        "https://iz.ru/2158763/narodnye-primety-na-1-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2158784/uchenye-nashli-prichinu-poteri-sposobnosti-pecheni-k-regeneratcii-izi",
-        "https://iz.ru/2158855/uchenye-sviazali-pozdnii-rezhim-sna-s-problemami-psikhicheskogo-zdorovia-izi",
-        "https://iz.ru/2158886/uchenye-vyiavili-polzu-medlennogo-bega-dlia-mozga-izi",
-        "https://iz.ru/2158911/uchenye-nashli-sviazannyi-s-razvitiem-unikalnykh-osobennostei-mozga-cheloveka-gen-izi",
-        "https://iz.ru/2159322/2026-09-02/rosselkhoznadzor-nachal-proverku-vaktciny-multikan-8-posle-gibeli-sobak-izi",
-        "https://iz.ru/2159327/2026-09-02/vseukrainskii-agrarnyi-sovet-predupredil-o-zakrytii-portov-do-dekabria-izi",
-        "https://iz.ru/2159338/putin-nazval-prichinu-otkaza-evropy-ot-rossiiskogo-gaza-izi",
-        "https://iz.ru/2159350/isu-lishil-figurista-kondratiuka-neitralnogo-statusa-izi",
-        "https://iz.ru/2159351/2026-09-02/iordaniia-otbila-ataku-13-ballisticheskikh-raket-izi",
-        "https://iz.ru/2159361/2026-09-02/samolet-pegasus-razvernulsia-po-puti-iz-antali-v-moskvu-izi",
-        "https://iz.ru/2159362/2026-09-02/v-odesse-progremela-seriia-vzryvov-na-fone-vozdushnoi-trevogi-izi",
-        "https://iz.ru/2159364/tramp-vydvinul-khung-kao-na-post-glavy-vms-ssha-izi",
-        "https://iz.ru/2159366/rostov-obygral-tcska-so-schetom-20-v-matche-kubka-rossii-izi",
-        "https://iz.ru/2159375/grushko-zaiavil-o-zhelanii-zapada-dobitsia-voennogo-prevoskhodstva-v-arktike-izi",
-        "https://iz.ru/2159382/kadastrovaia-stoimost-zemli-na-dalnem-vostoke-vyrosla-na-30-izi",
-        "https://iz.ru/2159389/kitaiskie-kompanii-narastili-perevozki-po-sevmorputi-v-evropu-izi",
-        "https://iz.ru/2159399/glava-minfina-ssha-zaiavil-o-vazhnosti-dialoga-s-rossiei-v-g20-izi",
-        "https://iz.ru/2159412/britanka-s-russkim-aktcentom-vyigrala-delo-o-diskriminatcii-i-poluchila-223-tys-izi",
-        "https://iz.ru/2159416/v-minprosveshcheniia-rf-napomnili-pravila-formirovaniia-shkolnogo-grafika-izi"
-      ]
-    },
     "2026-09-03": {
       "totalChecked": 611,
       "totalIzi": 89,
@@ -179,41 +151,39 @@
       ]
     },
     "2026-09-08": {
-      "totalChecked": 551,
-      "totalIzi": 120,
+      "totalChecked": 514,
+      "totalIzi": 106,
       "totalIiz": 1,
-      "totalAi": 121,
+      "totalAi": 107,
       "topLinks": [
-        "https://iz.ru/2163559/zritelnitca-rasskazala-o-popytkakh-vernut-dengi-za-otmenennyi-kontcert-repera-ak-47-izi",
-        "https://iz.ru/2163561/eksperty-dali-otcenku-obstanovke-v-volchanskom-kotle-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2163566/chastitcu-moshchei-dmitriia-donskogo-otpravili-na-liniiu-boevogo-soprikosnoveniia-izi",
-        "https://iz.ru/2163567/v-gosdume-napomnili-ob-usloviiakh-podachi-otopleniia-v-zhilye-doma-izi",
-        "https://iz.ru/2163568/vs-rossii-unichtozhili-v-dnr-dvukh-ukrainskikh-ofitcerov-politcii-osobogo-naznacheniia-izi",
-        "https://iz.ru/2163573/lavrov-zaiavil-ob-ozverelom-stremlenii-zapada-vernut-ukraine-granitcy-1991-goda-izi",
-        "https://iz.ru/2163574/eks-ministr-inostrannykh-del-germanii-berbok-zaiavila-ob-ukhode-iz-publichnoi-zhizni-izi",
-        "https://iz.ru/2163575/muzhchina-postradal-pri-atake-drona-vsu-na-mashinu-v-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2163585/umer-permskii-poet-i-avtor-sbornika-kniga-iz-telefona-stanislav-boguslavskii-izi",
-        "https://iz.ru/2163586/v-britanii-soobshchili-ob-otmene-soten-reisov-v-krupneishikh-aeroportakh-strany-izi",
-        "https://iz.ru/2163588/belousov-otmetil-aktivnoe-uchastie-rossii-v-formirovanii-bps-tadzhikistana-izi",
-        "https://iz.ru/2163589/rosgvardiia-oprovergla-soobshcheniia-o-smerti-boitcov-tcsn-vitiaz-pod-lavinoi-v-kbr-izi",
-        "https://iz.ru/2163610/v-podpole-soobshchili-o-nachale-vyvoza-dokumentov-iz-gosuchrezhdenii-izi",
-        "https://iz.ru/2163624/mbappe-zabil-71-gol-i-voshel-v-top-5-bombardirov-ligi-chempionov-izi",
         "https://iz.ru/2162521/vozrast-ne-prigovor-uchenye-obiasnili-rol-trenirovok-v-zdorovom-starenii-izi",
         "https://iz.ru/2162558/bakterii-v-shkolnoi-pyli-sviazali-so-snizheniem-funktcii-legkikh-u-detei-izi",
         "https://iz.ru/2162599/kod-lichnosti-chto-my-poluchaem-ot-roditelei-i-meniaem-sami-izi",
         "https://iz.ru/2162652/narodnye-primety-na-8-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2162676/uchenye-opredelili-faktory-prochnosti-otnoshenii-s-pomoshchiu-matematiki-izi",
-        "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi"
+        "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi",
+        "https://iz.ru/2162951/rubin-i-akhmat-sygrali-vnichiu-v-matche-rpl-v-kazani-izi",
+        "https://iz.ru/2162955/strakhovye-pensii-po-starosti-budut-naznachat-avtomaticheski-izi",
+        "https://iz.ru/2162967/v-sk-rf-soobshchili-o-zaderzhanii-podozrevaemogo-v-pokushenii-na-ubiistvo-voennogo-izi",
+        "https://iz.ru/2162998/pravila-vneseniia-nalichnykh-v-bankomaty-izmeniatsia-s-1-oktiabria-izi",
+        "https://iz.ru/2163003/zhiteli-svao-otpravili-s-nachala-goda-bolee-120-t-gumgruzov-v-zonu-svo-izi",
+        "https://iz.ru/2163004/v-germanii-nashli-puskovye-ustroistva-vblizi-lep-izi",
+        "https://iz.ru/2163014/v-rezultate-ataki-bpla-na-saratov-postradali-10-chelovek-izi",
+        "https://iz.ru/2163016/2026-09-08/dmitriev-nazval-predskazuemymi-chudesa-nemetckoi-pochty-na-golosovanii-v-saksonii-izi",
+        "https://iz.ru/2163021/reuters-soobshchil-o-prokhode-semi-sudov-cherez-ormuzskii-proliv-7-sentiabria-izi",
+        "https://iz.ru/2163022/v-rf-v-perechen-spetcsredstv-dlia-rabotnikov-pochty-vkliuchili-antidronovoe-oruzhie-izi",
+        "https://iz.ru/2163026/voennyi-vrach-vs-rf-zaiavil-o-sereznykh-zabolevaniiakh-u-40-lichnogo-sostava-vsu-izi",
+        "https://iz.ru/2163027/drapatyi-utiliziruet-soldat-vsu-v-donbasse-po-mneniiu-samikh-boevikov-vsu-izi",
+        "https://iz.ru/2163031/zakharova-zaiavila-o-stavke-kieva-na-eksport-terrorizma-izi",
+        "https://iz.ru/2163059/miroshnik-obvinil-kiev-v-vyborochnom-podkhode-k-obmenu-plennymi-izi"
       ]
     },
     "2026-09-09": {
-      "totalChecked": 925,
-      "totalIzi": 199,
+      "totalChecked": 896,
+      "totalIzi": 197,
       "totalIiz": 2,
-      "totalAi": 201,
+      "totalAi": 199,
       "topLinks": [
-        "https://iz.ru/2163612/serzhant-vermenskii-vynes-ranenogo-sosluzhivtca-iz-pod-ognia-vsu-izi",
-        "https://iz.ru/2163640/real-oderzhal-pobedu-nad-interom-v-pervom-ture-ligi-chempionov-izi",
         "https://iz.ru/2163646/v-rusprodsoiuze-nazvali-samyi-podeshevevshii-v-avguste-produkt-izi",
         "https://iz.ru/2163647/chislo-rossiian-s-zarplatoi-vyshe-100-tys-rublei-vozroslo-na-36-izi",
         "https://iz.ru/2163655/sozdateli-seriala-iuzhnyi-park-pereimenovali-ego-v-iuzhnuiu-ameriku-izi",
@@ -231,7 +201,9 @@
         "https://iz.ru/2163711/v-moskve-rabotaet-19-sportivnykh-ploshchadok-dlia-zaniatii-sovremennym-piatiborem-izi",
         "https://iz.ru/2163714/openai-obiavila-o-reshenii-ee-modeliu-ii-odnoi-iz-semi-zadach-tysiacheletiia-izi",
         "https://iz.ru/2163726/niderlandy-vydeliat-eshche-eu250-mln-na-bpla-dlia-ukrainy-izi",
-        "https://iz.ru/2163736/zhitel-kuzbassa-vyzhil-posle-udara-tokom-v-10-tys-volt-izi"
+        "https://iz.ru/2163736/zhitel-kuzbassa-vyzhil-posle-udara-tokom-v-10-tys-volt-izi",
+        "https://iz.ru/2163742/vs-rossii-porazili-chetyre-rezervuara-s-gsm-v-portu-nikolaev-izi",
+        "https://iz.ru/2163743/politico-zaiavila-o-vozmozhnoi-negotovnosti-fon-der-liaien-k-ekonomicheskomu-krizisu-izi"
       ]
     },
     "2026-09-10": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 848,
-      "totalIzi": 200,
+      "totalChecked": 890,
+      "totalIzi": 216,
       "totalIiz": 2,
-      "totalAi": 202,
+      "totalAi": 218,
       "topLinks": [
         "https://iz.ru/2166699/narodnye-primety-na-15-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166811/uchenye-ukazali-na-sposobnost-zombi-kletok-podderzhivat-vospalenie-izi",
@@ -400,6 +372,15 @@
         "https://iz.ru/2167119/vsu-iz-za-poter-bronetekhniki-nachali-ispolzovat-grazhdanskie-mashiny-izi",
         "https://iz.ru/2167122/demokraty-predlozhili-vydelit-kievu-15-mlrd-v-ramkakh-adskikh-sanktcii-protiv-rf-izi",
         "https://iz.ru/2167123/armiia-rossii-predotvratila-kontrataku-vsu-s-tankami-v-kharkovskoi-oblasti-izi"
+      ]
+    },
+    "2026-09-16": {
+      "totalChecked": 24,
+      "totalIzi": 0,
+      "totalIiz": 1,
+      "totalAi": 1,
+      "topLinks": [
+        "https://iz.ru/2167353/narodnye-primety-na-16-sentiabria-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
   }
