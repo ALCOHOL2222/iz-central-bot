@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:45:10.157Z",
+  "generatedAt": "2026-09-15T18:22:24.530Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-08": {
-      "totalChecked": 639,
-      "totalIzi": 148,
+      "totalChecked": 551,
+      "totalIzi": 120,
       "totalIiz": 1,
-      "totalAi": 149,
+      "totalAi": 121,
       "topLinks": [
-        "https://iz.ru/2163377/v-britanii-uvolili-uchitelia-iz-za-raskryvsheisia-istorii-ego-poiska-na-youtube-izi",
-        "https://iz.ru/2163386/v-ufe-babushka-spasla-troikh-vnukov-iz-goriashchego-doma-cherez-okno-izi",
-        "https://iz.ru/2163391/zakharova-nazval-politicheski-angazhirovannym-doklad-glavy-magate-po-zaes-izi",
-        "https://iz.ru/2163402/iampolskaia-rasskazala-o-znachenii-poeta-gamzatova-dlia-dnia-iazykov-narodov-rossii-izi",
-        "https://iz.ru/2163417/putin-obsudil-s-trampom-vizity-uitkoffa-i-kushnera-v-moskvu-i-kiev-izi",
-        "https://iz.ru/2163419/ushakov-zaiavil-ob-otsutstvii-u-rossii-agressivnykh-planov-v-otnoshenii-evropy-izi",
-        "https://iz.ru/2163422/ushakov-ukazal-na-interes-trampa-v-proryve-po-ukraine-v-srok-ego-prezidentstva-izi",
-        "https://iz.ru/2163427/tramp-ukazal-putinu-na-kolossalnye-vygody-pri-vosstanovlenii-torgovli-rf-i-ssha-izi",
-        "https://iz.ru/2163437/2026-09-08/v-ssha-uznali-o-sokrytii-vlastiami-niu-jorka-posledstvii-teraktov-11-sentiabria-izi",
-        "https://iz.ru/2163455/muzykoved-nataliia-petrova-umerla-v-sankt-peterburge-v-vozraste-94-let-izi",
-        "https://iz.ru/2163464/bloomberg-uznalo-o-planakh-evropy-kupit-vsu-rakety-dlia-patriot-k-zime-2026-goda-izi",
-        "https://iz.ru/2163466/uchenye-obiasnili-sviaz-potootdeleniia-s-sostoianiem-zdorovia-izi",
-        "https://iz.ru/2163475/messi-nominirovali-na-premiiu-zolotoi-miach-v-17-i-raz-v-karere-izi",
-        "https://iz.ru/2163478/naidennyi-v-reke-nakonechnik-ordynskogo-kopia-vosstanovit-detali-kulikovskoi-bitvy-izi",
-        "https://iz.ru/2163479/ushakov-rasskazal-o-razgovore-putina-s-trampom-glavnoe-izi",
-        "https://iz.ru/2163482/lancet-podschital-chislo-smertei-iz-za-passivnogo-kureniia-v-2023-godu-izi",
-        "https://iz.ru/2163484/na-ukraine-rasskazali-o-khishcheniiakh-lvovskimi-moshennikami-deneg-u-114-evropeitcev-izi",
-        "https://iz.ru/2163496/politciia-ustanovila-lichnosti-pokhititelei-kartin-iz-muzeia-renuara-vo-frantcii-izi",
-        "https://iz.ru/2163504/chto-proizoshlo-za-den-8-sentiabria-glavnoe-izi",
-        "https://iz.ru/2163510/gibel-alpinistov-v-kabardino-balkarii-stala-samoi-massovoi-v-rf-za-25-let-izi"
+        "https://iz.ru/2163559/zritelnitca-rasskazala-o-popytkakh-vernut-dengi-za-otmenennyi-kontcert-repera-ak-47-izi",
+        "https://iz.ru/2163561/eksperty-dali-otcenku-obstanovke-v-volchanskom-kotle-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2163566/chastitcu-moshchei-dmitriia-donskogo-otpravili-na-liniiu-boevogo-soprikosnoveniia-izi",
+        "https://iz.ru/2163567/v-gosdume-napomnili-ob-usloviiakh-podachi-otopleniia-v-zhilye-doma-izi",
+        "https://iz.ru/2163568/vs-rossii-unichtozhili-v-dnr-dvukh-ukrainskikh-ofitcerov-politcii-osobogo-naznacheniia-izi",
+        "https://iz.ru/2163573/lavrov-zaiavil-ob-ozverelom-stremlenii-zapada-vernut-ukraine-granitcy-1991-goda-izi",
+        "https://iz.ru/2163574/eks-ministr-inostrannykh-del-germanii-berbok-zaiavila-ob-ukhode-iz-publichnoi-zhizni-izi",
+        "https://iz.ru/2163575/muzhchina-postradal-pri-atake-drona-vsu-na-mashinu-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2163585/umer-permskii-poet-i-avtor-sbornika-kniga-iz-telefona-stanislav-boguslavskii-izi",
+        "https://iz.ru/2163586/v-britanii-soobshchili-ob-otmene-soten-reisov-v-krupneishikh-aeroportakh-strany-izi",
+        "https://iz.ru/2163588/belousov-otmetil-aktivnoe-uchastie-rossii-v-formirovanii-bps-tadzhikistana-izi",
+        "https://iz.ru/2163589/rosgvardiia-oprovergla-soobshcheniia-o-smerti-boitcov-tcsn-vitiaz-pod-lavinoi-v-kbr-izi",
+        "https://iz.ru/2163610/v-podpole-soobshchili-o-nachale-vyvoza-dokumentov-iz-gosuchrezhdenii-izi",
+        "https://iz.ru/2163624/mbappe-zabil-71-gol-i-voshel-v-top-5-bombardirov-ligi-chempionov-izi",
+        "https://iz.ru/2162521/vozrast-ne-prigovor-uchenye-obiasnili-rol-trenirovok-v-zdorovom-starenii-izi",
+        "https://iz.ru/2162558/bakterii-v-shkolnoi-pyli-sviazali-so-snizheniem-funktcii-legkikh-u-detei-izi",
+        "https://iz.ru/2162599/kod-lichnosti-chto-my-poluchaem-ot-roditelei-i-meniaem-sami-izi",
+        "https://iz.ru/2162652/narodnye-primety-na-8-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2162676/uchenye-opredelili-faktory-prochnosti-otnoshenii-s-pomoshchiu-matematiki-izi",
+        "https://iz.ru/2162929/debiutnyi-gol-komuta-prines-spartaku-pobedu-v-matche-protiv-tcska-izi"
       ]
     },
     "2026-09-09": {
-      "totalChecked": 938,
+      "totalChecked": 925,
       "totalIzi": 199,
-      "totalIiz": 3,
-      "totalAi": 202,
+      "totalIiz": 2,
+      "totalAi": 201,
       "topLinks": [
-        "https://iz.ru/2163425/narodnye-primety-na-9-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2163612/serzhant-vermenskii-vynes-ranenogo-sosluzhivtca-iz-pod-ognia-vsu-izi",
         "https://iz.ru/2163640/real-oderzhal-pobedu-nad-interom-v-pervom-ture-ligi-chempionov-izi",
         "https://iz.ru/2163646/v-rusprodsoiuze-nazvali-samyi-podeshevevshii-v-avguste-produkt-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2163707/v-gosdume-soobshchili-ob-osennei-indeksatcii-okladov-voennykh-i-silovikov-na-4-izi",
         "https://iz.ru/2163711/v-moskve-rabotaet-19-sportivnykh-ploshchadok-dlia-zaniatii-sovremennym-piatiborem-izi",
         "https://iz.ru/2163714/openai-obiavila-o-reshenii-ee-modeliu-ii-odnoi-iz-semi-zadach-tysiacheletiia-izi",
-        "https://iz.ru/2163726/niderlandy-vydeliat-eshche-eu250-mln-na-bpla-dlia-ukrainy-izi"
+        "https://iz.ru/2163726/niderlandy-vydeliat-eshche-eu250-mln-na-bpla-dlia-ukrainy-izi",
+        "https://iz.ru/2163736/zhitel-kuzbassa-vyzhil-posle-udara-tokom-v-10-tys-volt-izi"
       ]
     },
     "2026-09-10": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 499,
-      "totalIzi": 101,
+      "totalChecked": 848,
+      "totalIzi": 200,
       "totalIiz": 2,
-      "totalAi": 103,
+      "totalAi": 202,
       "topLinks": [
         "https://iz.ru/2166699/narodnye-primety-na-15-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166811/uchenye-ukazali-na-sposobnost-zombi-kletok-podderzhivat-vospalenie-izi",
