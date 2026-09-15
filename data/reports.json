@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:57:11.459Z",
+  "generatedAt": "2026-09-15T13:45:10.157Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-09-08": {
-      "totalChecked": 797,
-      "totalIzi": 185,
+      "totalChecked": 639,
+      "totalIzi": 148,
       "totalIiz": 1,
-      "totalAi": 186,
+      "totalAi": 149,
       "topLinks": [
-        "https://iz.ru/2163134/uchenye-vyiavili-razlichiia-v-mikrobiome-tonkoi-kishki-zhenshchin-i-muzhchin-izi",
-        "https://iz.ru/2163147/obokravshie-muzei-renuara-vo-frantcii-vyronili-dve-kartiny-pri-pobege-izi",
-        "https://iz.ru/2163149/lavrov-rasskazal-o-suti-obsuzhdeniia-s-emissarami-ssha-v-moskve-izi",
-        "https://iz.ru/2163157/iskali-med-nashli-dinozavra-chto-obnaruzhili-na-glubine-473-m-izi",
-        "https://iz.ru/2163165/sbornaia-rossii-po-futbolu-sygraet-protiv-komand-namibii-i-nigerii-v-oktiabre-izi",
-        "https://iz.ru/2163176/putin-nazval-iazyki-i-traditcii-narodov-rossii-ee-bogatstvom-izi",
-        "https://iz.ru/2163188/v-kremle-ukazali-na-kazhdodnevnoe-ukhudshenie-polozheniia-kieva-izi",
-        "https://iz.ru/2163189/peskov-zaiavil-ob-otkrytosti-rossii-k-dialogu-s-norvegiei-po-bezopasnosti-na-more-izi",
-        "https://iz.ru/2163190/vsu-atakovali-dronom-s-opticheskim-pritcelom-khram-v-energodare-izi",
-        "https://iz.ru/2163198/astronomy-iki-ran-rasskazali-o-nachale-pervoi-magnitnoi-buri-oseni-izi",
-        "https://iz.ru/2163199/mikhalkov-zaiavil-ob-otsutstvii-poter-kultury-posle-otezda-artistov-iz-rossii-izi",
-        "https://iz.ru/2163209/v-mid-rossii-otmetili-pagubnye-posledstviia-ot-neokolonialnogo-revanshizma-izi",
-        "https://iz.ru/2163213/peterburgskii-alpinist-albert-izotov-pogib-pod-lavinoi-v-kabardino-balkarii-izi",
-        "https://iz.ru/2163216/v-respublike-altai-ubili-55-medvedei-iz-za-rezhima-chs-izi",
-        "https://iz.ru/2163218/v-evrope-predupredili-o-riske-poteri-avtoproma-iz-za-konkurentcii-s-kitaem-izi",
-        "https://iz.ru/2163220/zhenshchina-postradala-pri-atake-vsu-na-pliazhe-v-sevastopole-izi",
-        "https://iz.ru/2163224/putin-vspomnil-o-svoikh-korniakh-na-vstreche-s-vrio-glavy-tverskoi-oblasti-izi",
-        "https://iz.ru/2163228/peskov-zaiavil-ob-otsutstvii-u-rossii-tceli-otkazatsia-ot-dollara-izi",
-        "https://iz.ru/2163229/v-edinoi-rossii-predlozhili-otmenit-obiazatelnyi-uchet-domashnikh-kur-izi",
-        "https://iz.ru/2163231/v-rossii-upali-tceny-na-morkov-luk-kapustu-sveklu-i-kartofel-izi"
+        "https://iz.ru/2163377/v-britanii-uvolili-uchitelia-iz-za-raskryvsheisia-istorii-ego-poiska-na-youtube-izi",
+        "https://iz.ru/2163386/v-ufe-babushka-spasla-troikh-vnukov-iz-goriashchego-doma-cherez-okno-izi",
+        "https://iz.ru/2163391/zakharova-nazval-politicheski-angazhirovannym-doklad-glavy-magate-po-zaes-izi",
+        "https://iz.ru/2163402/iampolskaia-rasskazala-o-znachenii-poeta-gamzatova-dlia-dnia-iazykov-narodov-rossii-izi",
+        "https://iz.ru/2163417/putin-obsudil-s-trampom-vizity-uitkoffa-i-kushnera-v-moskvu-i-kiev-izi",
+        "https://iz.ru/2163419/ushakov-zaiavil-ob-otsutstvii-u-rossii-agressivnykh-planov-v-otnoshenii-evropy-izi",
+        "https://iz.ru/2163422/ushakov-ukazal-na-interes-trampa-v-proryve-po-ukraine-v-srok-ego-prezidentstva-izi",
+        "https://iz.ru/2163427/tramp-ukazal-putinu-na-kolossalnye-vygody-pri-vosstanovlenii-torgovli-rf-i-ssha-izi",
+        "https://iz.ru/2163437/2026-09-08/v-ssha-uznali-o-sokrytii-vlastiami-niu-jorka-posledstvii-teraktov-11-sentiabria-izi",
+        "https://iz.ru/2163455/muzykoved-nataliia-petrova-umerla-v-sankt-peterburge-v-vozraste-94-let-izi",
+        "https://iz.ru/2163464/bloomberg-uznalo-o-planakh-evropy-kupit-vsu-rakety-dlia-patriot-k-zime-2026-goda-izi",
+        "https://iz.ru/2163466/uchenye-obiasnili-sviaz-potootdeleniia-s-sostoianiem-zdorovia-izi",
+        "https://iz.ru/2163475/messi-nominirovali-na-premiiu-zolotoi-miach-v-17-i-raz-v-karere-izi",
+        "https://iz.ru/2163478/naidennyi-v-reke-nakonechnik-ordynskogo-kopia-vosstanovit-detali-kulikovskoi-bitvy-izi",
+        "https://iz.ru/2163479/ushakov-rasskazal-o-razgovore-putina-s-trampom-glavnoe-izi",
+        "https://iz.ru/2163482/lancet-podschital-chislo-smertei-iz-za-passivnogo-kureniia-v-2023-godu-izi",
+        "https://iz.ru/2163484/na-ukraine-rasskazali-o-khishcheniiakh-lvovskimi-moshennikami-deneg-u-114-evropeitcev-izi",
+        "https://iz.ru/2163496/politciia-ustanovila-lichnosti-pokhititelei-kartin-iz-muzeia-renuara-vo-frantcii-izi",
+        "https://iz.ru/2163504/chto-proizoshlo-za-den-8-sentiabria-glavnoe-izi",
+        "https://iz.ru/2163510/gibel-alpinistov-v-kabardino-balkarii-stala-samoi-massovoi-v-rf-za-25-let-izi"
       ]
     },
     "2026-09-09": {
-      "totalChecked": 952,
-      "totalIzi": 201,
+      "totalChecked": 938,
+      "totalIzi": 199,
       "totalIiz": 3,
-      "totalAi": 204,
+      "totalAi": 202,
       "topLinks": [
-        "https://iz.ru/2163173/uchenye-razveiali-mif-o-rasstroistvakh-pishchevogo-povedeniia-izi",
-        "https://iz.ru/2163244/uchenye-obiasnili-sviaz-nizkogo-urovnia-gemoglobina-s-riskom-smerti-izi",
         "https://iz.ru/2163425/narodnye-primety-na-9-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2163612/serzhant-vermenskii-vynes-ranenogo-sosluzhivtca-iz-pod-ognia-vsu-izi",
         "https://iz.ru/2163640/real-oderzhal-pobedu-nad-interom-v-pervom-ture-ligi-chempionov-izi",
@@ -231,18 +229,17 @@
         "https://iz.ru/2163696/ekspert-rasskazal-o-povyshenii-stavok-po-kratkosrochnym-vkladam-iz-za-ottoka-sredstv-izi",
         "https://iz.ru/2163706/v-izraile-zaiavili-chto-zakroiut-britanskoe-konsulstvo-v-otvet-na-sanktcii-londona-izi",
         "https://iz.ru/2163707/v-gosdume-soobshchili-ob-osennei-indeksatcii-okladov-voennykh-i-silovikov-na-4-izi",
-        "https://iz.ru/2163711/v-moskve-rabotaet-19-sportivnykh-ploshchadok-dlia-zaniatii-sovremennym-piatiborem-izi"
+        "https://iz.ru/2163711/v-moskve-rabotaet-19-sportivnykh-ploshchadok-dlia-zaniatii-sovremennym-piatiborem-izi",
+        "https://iz.ru/2163714/openai-obiavila-o-reshenii-ee-modeliu-ii-odnoi-iz-semi-zadach-tysiacheletiia-izi",
+        "https://iz.ru/2163726/niderlandy-vydeliat-eshche-eu250-mln-na-bpla-dlia-ukrainy-izi"
       ]
     },
     "2026-09-10": {
-      "totalChecked": 956,
-      "totalIzi": 180,
+      "totalChecked": 953,
+      "totalIzi": 177,
       "totalIiz": 2,
-      "totalAi": 182,
+      "totalAi": 179,
       "topLinks": [
-        "https://iz.ru/2163275/uchenye-obiasnili-prichiny-dnevnoi-sonlivosti-izi",
-        "https://iz.ru/2163318/uchenye-raskryli-rol-glubokogo-sna-v-borbe-so-stressom-izi",
-        "https://iz.ru/2163375/uchenye-peresmotreli-prichiny-razvitiia-bolezni-altcgeimera-izi",
         "https://iz.ru/2163836/biznes-protiv-braka-chem-nalogovye-proverki-groziat-semiam-predprinimatelei-izi",
         "https://iz.ru/2163977/uchenye-sviazali-zdorovyi-obraz-zhizni-s-schastem-i-dolgoletiem-izi",
         "https://iz.ru/2164071/narodnye-primety-na-10-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,11 +256,14 @@
         "https://iz.ru/2164335/v-gretcii-zhenshchina-rodila-rebenka-iz-khranivshegosia-22-goda-v-zamorozke-embriona-izi",
         "https://iz.ru/2164348/rossiianam-nazvali-chislo-pensionnykh-ballov-pri-srednei-zarplate-izi",
         "https://iz.ru/2164354/nazvany-11-sfer-s-dokhodom-vyshe-500-tys-rublei-v-rossii-izi",
-        "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi"
+        "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi",
+        "https://iz.ru/2164366/onishchenko-prizval-ne-provodit-v-shkolakh-kontrolnye-raboty-po-chetvergam-izi",
+        "https://iz.ru/2164370/ekspert-ukazal-na-ugrozu-konflikta-rf-i-britanii-iz-za-podgotovki-ukrainoi-terakta-izi",
+        "https://iz.ru/2164391/eksperty-perezvoni-sam-dali-sovety-po-nastroike-tekhniki-dlia-bezopasnoi-raboty-izi"
       ]
     },
     "2026-09-11": {
-      "totalChecked": 1107,
+      "totalChecked": 1106,
       "totalIzi": 223,
       "totalIiz": 2,
       "totalAi": 225,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-09-13": {
-      "totalChecked": 581,
+      "totalChecked": 580,
       "totalIzi": 192,
       "totalIiz": 2,
       "totalAi": 194,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 264,
-      "totalIzi": 41,
+      "totalChecked": 499,
+      "totalIzi": 101,
       "totalIiz": 2,
-      "totalAi": 43,
+      "totalAi": 103,
       "topLinks": [
         "https://iz.ru/2166699/narodnye-primety-na-15-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166811/uchenye-ukazali-na-sposobnost-zombi-kletok-podderzhivat-vospalenie-izi",
