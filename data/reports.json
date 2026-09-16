@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:36:28.378Z",
+  "generatedAt": "2026-09-16T00:33:42.538Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,17 +179,11 @@
       ]
     },
     "2026-09-09": {
-      "totalChecked": 896,
-      "totalIzi": 197,
+      "totalChecked": 872,
+      "totalIzi": 191,
       "totalIiz": 2,
-      "totalAi": 199,
+      "totalAi": 193,
       "topLinks": [
-        "https://iz.ru/2163646/v-rusprodsoiuze-nazvali-samyi-podeshevevshii-v-avguste-produkt-izi",
-        "https://iz.ru/2163647/chislo-rossiian-s-zarplatoi-vyshe-100-tys-rublei-vozroslo-na-36-izi",
-        "https://iz.ru/2163655/sozdateli-seriala-iuzhnyi-park-pereimenovali-ego-v-iuzhnuiu-ameriku-izi",
-        "https://iz.ru/2163661/rubio-na-peregovorakh-v-moskve-i-kieve-obsuzhdalis-novye-idei-po-uregulirovaniiu-izi",
-        "https://iz.ru/2163664/ekspert-rasskazal-o-skheme-moshennikov-s-podmenoi-rekvizitov-detskikh-kruzhkov-izi",
-        "https://iz.ru/2163670/v-minprosveshcheniia-nazvali-maksimalnuiu-prodolzhitelnost-shkolnykh-urokov-izi",
         "https://iz.ru/2163674/real-oderzhal-pobedu-nad-interom-v-pervom-matche-obshchego-etapa-ligi-chempionov-izi",
         "https://iz.ru/2163676/v-minpromtorge-rasskazali-o-planakh-po-vosstanovleniiu-skladov-posle-atak-vsu-izi",
         "https://iz.ru/2163680/rossiian-zhdet-korotkaia-rabochaia-nedelia-v-noiabre-izi",
@@ -203,7 +197,13 @@
         "https://iz.ru/2163726/niderlandy-vydeliat-eshche-eu250-mln-na-bpla-dlia-ukrainy-izi",
         "https://iz.ru/2163736/zhitel-kuzbassa-vyzhil-posle-udara-tokom-v-10-tys-volt-izi",
         "https://iz.ru/2163742/vs-rossii-porazili-chetyre-rezervuara-s-gsm-v-portu-nikolaev-izi",
-        "https://iz.ru/2163743/politico-zaiavila-o-vozmozhnoi-negotovnosti-fon-der-liaien-k-ekonomicheskomu-krizisu-izi"
+        "https://iz.ru/2163743/politico-zaiavila-o-vozmozhnoi-negotovnosti-fon-der-liaien-k-ekonomicheskomu-krizisu-izi",
+        "https://iz.ru/2163746/bessent-sravnil-ukrainu-s-proigravshei-vo-vtoroi-mirovoi-voine-germaniei-izi",
+        "https://iz.ru/2163751/shkolnika-umer-na-uroke-fizkultury-v-nizhegorodskoi-oblasti-izi",
+        "https://iz.ru/2163770/lider-adg-khrupalla-vystupil-protiv-postavok-ukraine-dronov-dlia-udarov-po-rf-izi",
+        "https://iz.ru/2163775/zakharova-nazvala-tceliu-vozdushnogo-shantazha-zelenskogo-blokadu-rossii-izi",
+        "https://iz.ru/2163783/v-spiskakh-propavshikh-posle-navodneniia-v-nepale-nakhodiatsia-11-rossiian-izi",
+        "https://iz.ru/2163789/vyshel-pervyi-treiler-filma-ob-openai-s-iuroi-borisovim-i-endriu-garfildom-izi"
       ]
     },
     "2026-09-10": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 890,
-      "totalIzi": 216,
+      "totalChecked": 923,
+      "totalIzi": 230,
       "totalIiz": 2,
-      "totalAi": 218,
+      "totalAi": 232,
       "topLinks": [
         "https://iz.ru/2166699/narodnye-primety-na-15-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166811/uchenye-ukazali-na-sposobnost-zombi-kletok-podderzhivat-vospalenie-izi",
@@ -375,11 +375,14 @@
       ]
     },
     "2026-09-16": {
-      "totalChecked": 24,
-      "totalIzi": 0,
-      "totalIiz": 1,
-      "totalAi": 1,
+      "totalChecked": 83,
+      "totalIzi": 2,
+      "totalIiz": 2,
+      "totalAi": 4,
       "topLinks": [
+        "https://iz.ru/2167353/narodnye-primety-na-16-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2167708/finliandiia-obiavila-o-34-m-pakete-pomoshchi-ukraine-na-eu290-mln-izi",
+        "https://iz.ru/2167711/fsin-sozdast-sem-novykh-uchrezhdenii-obedinennogo-tipa-do-2035-goda-izi",
         "https://iz.ru/2167353/narodnye-primety-na-16-sentiabria-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
