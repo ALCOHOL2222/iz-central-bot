@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:12:21.420Z",
+  "generatedAt": "2026-09-16T11:48:30.038Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-09": {
-      "totalChecked": 809,
-      "totalIzi": 179,
+      "totalChecked": 674,
+      "totalIzi": 152,
       "totalIiz": 2,
-      "totalAi": 181,
+      "totalAi": 154,
       "topLinks": [
-        "https://iz.ru/2163742/vs-rossii-porazili-chetyre-rezervuara-s-gsm-v-portu-nikolaev-izi",
-        "https://iz.ru/2163743/politico-zaiavila-o-vozmozhnoi-negotovnosti-fon-der-liaien-k-ekonomicheskomu-krizisu-izi",
-        "https://iz.ru/2163746/bessent-sravnil-ukrainu-s-proigravshei-vo-vtoroi-mirovoi-voine-germaniei-izi",
-        "https://iz.ru/2163751/shkolnika-umer-na-uroke-fizkultury-v-nizhegorodskoi-oblasti-izi",
-        "https://iz.ru/2163770/lider-adg-khrupalla-vystupil-protiv-postavok-ukraine-dronov-dlia-udarov-po-rf-izi",
-        "https://iz.ru/2163775/zakharova-nazvala-tceliu-vozdushnogo-shantazha-zelenskogo-blokadu-rossii-izi",
-        "https://iz.ru/2163783/v-spiskakh-propavshikh-posle-navodneniia-v-nepale-nakhodiatsia-11-rossiian-izi",
-        "https://iz.ru/2163789/vyshel-pervyi-treiler-filma-ob-openai-s-iuroi-borisovim-i-endriu-garfildom-izi",
-        "https://iz.ru/2163791/alkaras-proigral-sheltonu-v-samom-pozdnem-matche-us-open-v-istorii-izi",
-        "https://iz.ru/2163793/goriachie-napitki-sviazali-s-povyshennym-riskom-raka-pishchevoda-izi",
-        "https://iz.ru/2163795/sud-prigovoril-zhitelia-mariupolia-k-25-godam-kolonii-za-sodeistvie-terrorizmu-izi",
-        "https://iz.ru/2163802/zakharova-napomnila-o-liubimoi-igrushke-zelenskogo-v-detstve-izi",
-        "https://iz.ru/2163809/obviniaemogo-v-podryve-mashiny-v-podmoskove-prigovorili-k-12-godam-kolonii-izi",
-        "https://iz.ru/2163838/v-minobrnauki-dopustili-izmenenie-pravil-priema-abiturientov-v-vuzy-izi",
-        "https://iz.ru/2163839/rossiiskii-figurist-dikidzhi-poluchil-priglashenie-na-gran-pri-v-kitae-izi",
-        "https://iz.ru/2163846/narodnyi-front-zapustil-virtualnogo-mobilnogo-operatora-vse-dlia-pobedy-izi",
-        "https://iz.ru/2163847/v-moskve-vnedrili-ii-pomoshchnika-dlia-uchastkovykh-vrachei-izi",
-        "https://iz.ru/2163872/uchenye-proverili-glavnuiu-teoriiu-o-temnoi-energii-izi",
-        "https://iz.ru/2163875/v-gruzii-ukazali-na-odobrenie-es-popytok-perevorota-v-strane-izi",
-        "https://iz.ru/2163881/tcik-rossii-likvidiroval-izbiratelnyi-uchastok-v-bonne-iz-za-deistvii-germanii-izi"
+        "https://iz.ru/2163926/zakharova-prizvala-iaponiiu-ne-otkryvat-rot-po-povodu-monumenta-v-khabarovske-izi",
+        "https://iz.ru/2163933/zakharova-zaiavila-ob-otsutstvii-u-rossii-doveriia-k-dogovorennostiam-s-zapadom-izi",
+        "https://iz.ru/2163937/iran-nachal-vvodit-zapretnuiu-dlia-sudokhodstva-zonu-u-ormuzskogo-proliva-izi",
+        "https://iz.ru/2163949/pravitelstvo-spishet-1-mlrd-rublei-zadolzhennosti-kurganskoi-oblasti-i-eao-izi",
+        "https://iz.ru/2163955/vrachi-rasskazali-o-neochevidnykh-priznakakh-bronkhialnoi-astmy-izi",
+        "https://iz.ru/2163962/sud-v-moskve-zaochno-arestoval-budanova-po-delu-o-zapreshchennykh-metodakh-voiny-izi",
+        "https://iz.ru/2163980/ushakov-nazval-abu-dabi-prioritetnoi-ploshchadkoi-dlia-vstrechi-po-ukraine-izi",
+        "https://iz.ru/2163981/zakharova-rasskazala-o-teme-svoei-diplomnoi-raboty-v-studencheskie-gody-izi",
+        "https://iz.ru/2163985/ushakov-predlozhil-ssha-prekratit-pomoshch-ukraine-dlia-skoreishego-mira-izi",
+        "https://iz.ru/2163990/spiker-parlamenta-gruzii-zaiavil-o-nezainteresovannosti-v-eskalatcii-s-rossiei-izi",
+        "https://iz.ru/2163991/putin-vstretil-prezidenta-vetnama-lama-v-rossii-izi",
+        "https://iz.ru/2163992/2026-09-09/v-rf-zafiksirovali-rost-problem-slukha-u-molodykh-liudei-iz-za-naushnikov-izi",
+        "https://iz.ru/2163998/putin-zaiavil-o-druzhbe-rossii-i-vetnama-so-vremen-borby-khanoia-za-suverenitet-izi",
+        "https://iz.ru/2164007/uchenye-otcenili-rol-rastenii-v-zamedlenii-rosta-zasushlivykh-zon-izi",
+        "https://iz.ru/2164008/v-kremle-dopustili-vozmozhnost-kontaktov-putina-i-trampa-na-sammite-ates-izi",
+        "https://iz.ru/2164013/peskov-soobshchil-ob-otsutstvii-srokov-vizita-pashiniana-v-rossiiu-izi",
+        "https://iz.ru/2164016/sud-prigovoril-generala-kuznetcova-k-12-godam-kolonii-strogogo-rezhima-za-vziatku-izi",
+        "https://iz.ru/2164032/vfla-priostanovila-chlenstvo-mordovskoi-federatcii-iz-za-raboty-trenera-chegina-izi",
+        "https://iz.ru/2164040/vovan-i-leksus-napisali-evraziiskii-diktant-po-tcifrovoi-bezopasnosti-izi",
+        "https://iz.ru/2164050/gendirektora-krymenergo-uvolili-posle-zhalob-na-narusheniia-v-rabote-izi"
       ]
     },
     "2026-09-10": {
-      "totalChecked": 951,
-      "totalIzi": 177,
+      "totalChecked": 943,
+      "totalIzi": 176,
       "totalIiz": 2,
-      "totalAi": 179,
+      "totalAi": 178,
       "topLinks": [
-        "https://iz.ru/2163836/biznes-protiv-braka-chem-nalogovye-proverki-groziat-semiam-predprinimatelei-izi",
         "https://iz.ru/2163977/uchenye-sviazali-zdorovyi-obraz-zhizni-s-schastem-i-dolgoletiem-izi",
         "https://iz.ru/2164071/narodnye-primety-na-10-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2164152/2026-09-10/v-kprf-predlozhili-ne-otmeniat-registratciiu-kandidatov-za-administrativnye-narusheniia-izi",
@@ -231,11 +230,12 @@
         "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi",
         "https://iz.ru/2164366/onishchenko-prizval-ne-provodit-v-shkolakh-kontrolnye-raboty-po-chetvergam-izi",
         "https://iz.ru/2164370/ekspert-ukazal-na-ugrozu-konflikta-rf-i-britanii-iz-za-podgotovki-ukrainoi-terakta-izi",
-        "https://iz.ru/2164391/eksperty-perezvoni-sam-dali-sovety-po-nastroike-tekhniki-dlia-bezopasnoi-raboty-izi"
+        "https://iz.ru/2164391/eksperty-perezvoni-sam-dali-sovety-po-nastroike-tekhniki-dlia-bezopasnoi-raboty-izi",
+        "https://iz.ru/2164397/vulkanolog-predupredila-ob-ugroze-razrushitelnykh-selei-u-reinira-izi"
       ]
     },
     "2026-09-11": {
-      "totalChecked": 1106,
+      "totalChecked": 1103,
       "totalIzi": 223,
       "totalIiz": 2,
       "totalAi": 225,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 902,
+      "totalChecked": 901,
       "totalIzi": 222,
       "totalIiz": 2,
       "totalAi": 224,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-16": {
-      "totalChecked": 236,
-      "totalIzi": 52,
+      "totalChecked": 474,
+      "totalIzi": 88,
       "totalIiz": 2,
-      "totalAi": 54,
+      "totalAi": 90,
       "topLinks": [
         "https://iz.ru/2167217/uchenye-obnaruzhili-sviaz-mezhdu-defitcitom-vitamina-d-i-boliu-izi",
         "https://iz.ru/2167253/uchenye-obnaruzhili-skrytuiu-prichinu-povyshennogo-krovianogo-davleniia-izi",
