@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:33:42.538Z",
+  "generatedAt": "2026-09-16T06:12:21.420Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,23 +179,11 @@
       ]
     },
     "2026-09-09": {
-      "totalChecked": 872,
-      "totalIzi": 191,
+      "totalChecked": 809,
+      "totalIzi": 179,
       "totalIiz": 2,
-      "totalAi": 193,
+      "totalAi": 181,
       "topLinks": [
-        "https://iz.ru/2163674/real-oderzhal-pobedu-nad-interom-v-pervom-matche-obshchego-etapa-ligi-chempionov-izi",
-        "https://iz.ru/2163676/v-minpromtorge-rasskazali-o-planakh-po-vosstanovleniiu-skladov-posle-atak-vsu-izi",
-        "https://iz.ru/2163680/rossiian-zhdet-korotkaia-rabochaia-nedelia-v-noiabre-izi",
-        "https://iz.ru/2163682/zakharova-zaiavila-o-perekhode-zapadnykh-poslov-v-oppozitciiu-posle-raboty-v-rf-izi",
-        "https://iz.ru/2163690/v-rospotrebnadzore-nazvali-sroki-nachala-rosta-zabolevaemosti-orvi-v-rossii-izi",
-        "https://iz.ru/2163696/ekspert-rasskazal-o-povyshenii-stavok-po-kratkosrochnym-vkladam-iz-za-ottoka-sredstv-izi",
-        "https://iz.ru/2163706/v-izraile-zaiavili-chto-zakroiut-britanskoe-konsulstvo-v-otvet-na-sanktcii-londona-izi",
-        "https://iz.ru/2163707/v-gosdume-soobshchili-ob-osennei-indeksatcii-okladov-voennykh-i-silovikov-na-4-izi",
-        "https://iz.ru/2163711/v-moskve-rabotaet-19-sportivnykh-ploshchadok-dlia-zaniatii-sovremennym-piatiborem-izi",
-        "https://iz.ru/2163714/openai-obiavila-o-reshenii-ee-modeliu-ii-odnoi-iz-semi-zadach-tysiacheletiia-izi",
-        "https://iz.ru/2163726/niderlandy-vydeliat-eshche-eu250-mln-na-bpla-dlia-ukrainy-izi",
-        "https://iz.ru/2163736/zhitel-kuzbassa-vyzhil-posle-udara-tokom-v-10-tys-volt-izi",
         "https://iz.ru/2163742/vs-rossii-porazili-chetyre-rezervuara-s-gsm-v-portu-nikolaev-izi",
         "https://iz.ru/2163743/politico-zaiavila-o-vozmozhnoi-negotovnosti-fon-der-liaien-k-ekonomicheskomu-krizisu-izi",
         "https://iz.ru/2163746/bessent-sravnil-ukrainu-s-proigravshei-vo-vtoroi-mirovoi-voine-germaniei-izi",
@@ -203,11 +191,23 @@
         "https://iz.ru/2163770/lider-adg-khrupalla-vystupil-protiv-postavok-ukraine-dronov-dlia-udarov-po-rf-izi",
         "https://iz.ru/2163775/zakharova-nazvala-tceliu-vozdushnogo-shantazha-zelenskogo-blokadu-rossii-izi",
         "https://iz.ru/2163783/v-spiskakh-propavshikh-posle-navodneniia-v-nepale-nakhodiatsia-11-rossiian-izi",
-        "https://iz.ru/2163789/vyshel-pervyi-treiler-filma-ob-openai-s-iuroi-borisovim-i-endriu-garfildom-izi"
+        "https://iz.ru/2163789/vyshel-pervyi-treiler-filma-ob-openai-s-iuroi-borisovim-i-endriu-garfildom-izi",
+        "https://iz.ru/2163791/alkaras-proigral-sheltonu-v-samom-pozdnem-matche-us-open-v-istorii-izi",
+        "https://iz.ru/2163793/goriachie-napitki-sviazali-s-povyshennym-riskom-raka-pishchevoda-izi",
+        "https://iz.ru/2163795/sud-prigovoril-zhitelia-mariupolia-k-25-godam-kolonii-za-sodeistvie-terrorizmu-izi",
+        "https://iz.ru/2163802/zakharova-napomnila-o-liubimoi-igrushke-zelenskogo-v-detstve-izi",
+        "https://iz.ru/2163809/obviniaemogo-v-podryve-mashiny-v-podmoskove-prigovorili-k-12-godam-kolonii-izi",
+        "https://iz.ru/2163838/v-minobrnauki-dopustili-izmenenie-pravil-priema-abiturientov-v-vuzy-izi",
+        "https://iz.ru/2163839/rossiiskii-figurist-dikidzhi-poluchil-priglashenie-na-gran-pri-v-kitae-izi",
+        "https://iz.ru/2163846/narodnyi-front-zapustil-virtualnogo-mobilnogo-operatora-vse-dlia-pobedy-izi",
+        "https://iz.ru/2163847/v-moskve-vnedrili-ii-pomoshchnika-dlia-uchastkovykh-vrachei-izi",
+        "https://iz.ru/2163872/uchenye-proverili-glavnuiu-teoriiu-o-temnoi-energii-izi",
+        "https://iz.ru/2163875/v-gruzii-ukazali-na-odobrenie-es-popytok-perevorota-v-strane-izi",
+        "https://iz.ru/2163881/tcik-rossii-likvidiroval-izbiratelnyi-uchastok-v-bonne-iz-za-deistvii-germanii-izi"
       ]
     },
     "2026-09-10": {
-      "totalChecked": 953,
+      "totalChecked": 951,
       "totalIzi": 177,
       "totalIiz": 2,
       "totalAi": 179,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 923,
+      "totalChecked": 924,
       "totalIzi": 230,
       "totalIiz": 2,
       "totalAi": 232,
@@ -375,15 +375,31 @@
       ]
     },
     "2026-09-16": {
-      "totalChecked": 83,
-      "totalIzi": 2,
+      "totalChecked": 236,
+      "totalIzi": 52,
       "totalIiz": 2,
-      "totalAi": 4,
+      "totalAi": 54,
       "topLinks": [
+        "https://iz.ru/2167217/uchenye-obnaruzhili-sviaz-mezhdu-defitcitom-vitamina-d-i-boliu-izi",
+        "https://iz.ru/2167253/uchenye-obnaruzhili-skrytuiu-prichinu-povyshennogo-krovianogo-davleniia-izi",
+        "https://iz.ru/2167319/uchenye-obiasnili-rost-chisla-sluchaev-diagnostiki-raka-u-molodezhi-izi",
         "https://iz.ru/2167353/narodnye-primety-na-16-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2167357/uchenye-proverili-metody-profilaktiki-artrita-kolena-izi",
+        "https://iz.ru/2167361/2026-09-16/v-rptc-obiasnili-pravila-pokloneniia-sviatyniam-v-period-mesiachnykh-izi",
+        "https://iz.ru/2167401/v-gorlovke-zaderzhali-podozrevaemogo-v-podgotovke-podryva-voennogo-avtomobilia-izi",
+        "https://iz.ru/2167440/2026-09-16/sotcseti-ukhudshili-pokazateli-psikhicheskogo-zdorovia-podrostkov-izi",
+        "https://iz.ru/2167466/2026-09-16/ekspert-rasskazal-o-nekhvatke-kadrov-na-avtomatizirovannykh-zavodakh-izi",
         "https://iz.ru/2167708/finliandiia-obiavila-o-34-m-pakete-pomoshchi-ukraine-na-eu290-mln-izi",
         "https://iz.ru/2167711/fsin-sozdast-sem-novykh-uchrezhdenii-obedinennogo-tipa-do-2035-goda-izi",
-        "https://iz.ru/2167353/narodnye-primety-na-16-sentiabria-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2167719/tcakhal-soobshchil-o-likvidatcii-komandira-brigady-khamas-v-sektore-gaza-izi",
+        "https://iz.ru/2167722/kim-kardashian-poluchila-eu1-v-kachestve-kompensatcii-za-ograblenie-v-parizhe-izi",
+        "https://iz.ru/2167723/press-tv-soobshchil-o-zaderzhanii-iranskoi-zhurnalistki-na-zapadnom-beregu-izi",
+        "https://iz.ru/2167725/2026-09-16/palata-predstavitelei-ssha-ne-podderzhala-rezoliutciiu-ob-impichmente-trampa-izi",
+        "https://iz.ru/2167730/v-fipi-nazvali-chastye-orfograficheskie-oshibki-uchastnikov-ege-2026-izi",
+        "https://iz.ru/2167731/cbs-pokazal-kadry-povrezhdenii-voennykh-baz-ssha-posle-udarov-irana-izi",
+        "https://iz.ru/2167739/ekspert-napomnil-o-prave-na-povyshenie-pensii-chetyre-raza-v-god-dlia-letchikov-izi",
+        "https://iz.ru/2167740/glava-minpromtorga-alikhanov-priobrel-rossiiskii-elektromobil-atom-izi",
+        "https://iz.ru/2167742/v-litve-zaiavili-ob-otsutstvii-dannykh-o-podgotovke-ataki-rf-na-pribaltiku-izi"
       ]
     }
   }
