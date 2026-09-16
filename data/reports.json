@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T17:11:56.500Z",
+  "generatedAt": "2026-09-16T20:19:10.202Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-09": {
-      "totalChecked": 566,
-      "totalIzi": 128,
+      "totalChecked": 512,
+      "totalIzi": 108,
       "totalIiz": 2,
-      "totalAi": 130,
+      "totalAi": 110,
       "topLinks": [
-        "https://iz.ru/2164097/uchenye-rasskazali-o-vliianii-griaznogo-vozdukha-na-rabotu-serdtca-izi",
-        "https://iz.ru/2164100/aviakompaniia-air-arabia-otmenila-reisy-v-rossiiu-na-oktiabr-i-dekabr-izi",
-        "https://iz.ru/2164108/uchenye-vyiavili-sviaz-ogranicheniia-kalorii-s-mutatciiami-dnk-izi",
-        "https://iz.ru/2164109/onishchenko-predupredil-o-rasprostranenii-lekarstvenno-ustoichivogo-tuberkuleza-v-rf-izi",
-        "https://iz.ru/2164113/putin-otmetil-vzaimnyi-uchet-interesov-v-otnosheniiakh-rossii-i-vetnama-izi",
-        "https://iz.ru/2164115/putin-zaiavil-o-zainteresovannosti-rf-v-rasshirenii-energotranzita-cherez-vetnam-izi",
-        "https://iz.ru/2164120/putin-otmetil-populiarnost-vetnama-u-rossiiskikh-turistov-izi",
-        "https://iz.ru/2164121/prezident-vetnama-priglasil-putina-na-sammit-ates-v-2027-godu-izi",
-        "https://iz.ru/2164138/edinaia-rossiia-vystupaet-za-rasshirenie-dostupnosti-redkikh-lekarstv-izi",
-        "https://iz.ru/2164150/rf-i-vetnam-dogovorilis-o-sotrudnichestve-bez-ushcherba-dlia-tretikh-stran-izi",
-        "https://iz.ru/2164161/na-neskolkikh-ulitcakh-gelendzhika-vveli-rezhim-chs-iz-za-ataki-vsu-izi",
-        "https://iz.ru/2164166/chto-proizoshlo-za-den-9-sentiabria-glavnoe-izi",
-        "https://iz.ru/2164167/armiia-rossii-porazila-logisticheskii-tcentr-deleveri-v-nikolaeve-izi",
-        "https://iz.ru/2164168/air-arabia-planiruet-vozobnovit-polety-v-moskvu-v-oktiabre-izi",
-        "https://iz.ru/2164174/futbolist-oleinikov-stal-igrokom-v-tcska-posle-sryva-transfera-v-rubin-izi",
-        "https://iz.ru/2164183/v-brianskoi-oblasti-sem-chelovek-postradali-pri-atake-dronov-vsu-izi",
-        "https://iz.ru/2164190/armiia-rossii-unichtozhila-mig-29-vs-ukrainy-na-aerodrome-v-kievskoi-oblasti-izi",
-        "https://iz.ru/2164193/sily-pvo-za-den-sbili-108-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2164194/v-belom-dome-oprovergli-slukhi-ob-izmenenii-sostava-peregovorshchikov-ssha-po-ukraine-izi",
-        "https://iz.ru/2164202/zakharova-prizvala-uekhavshikh-v-nachale-svo-rossiian-vozvrashchatsia-s-pokaianiem-izi"
+        "https://iz.ru/2164203/medvedev-ukazal-na-popytki-reanimirovat-konflikt-na-ukraine-v-budushchem-izi",
+        "https://iz.ru/2164214/tennisistka-rybakina-vyshla-v-polufinal-us-open-i-vpervye-vozglavit-reiting-wta-izi",
+        "https://iz.ru/2164218/mertc-otmenil-razgovor-s-trampom-posle-ego-publikatcii-s-pozdravleniiami-adg-izi",
+        "https://iz.ru/2164223/v-gosdume-oprovergli-neobkhodimost-mobilizatcii-v-rossii-izi",
+        "https://iz.ru/2164225/vks-rossii-nanesli-udar-po-punktu-dislokatcii-vsu-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2164236/kirkorov-prishel-na-otkrytie-pamiatnika-roditeliam-vmeste-s-vozliublennoi-izi",
+        "https://iz.ru/2164253/mintrans-rf-napravil-vetnamu-predlozheniia-po-mokromu-lizingu-samoletov-izi",
+        "https://iz.ru/2163083/uchenye-obiasnili-prichiny-iskliuchenii-zhenshchin-iz-nauchnykh-issledovanii-izi",
+        "https://iz.ru/2163107/samyi-strogii-den-chto-nelzia-delat-veruiushchim-na-useknovenie-glavy-ioanna-predtechi-iiz",
+        "https://iz.ru/2163173/uchenye-razveiali-mif-o-rasstroistvakh-pishchevogo-povedeniia-izi",
+        "https://iz.ru/2163244/uchenye-obiasnili-sviaz-nizkogo-urovnia-gemoglobina-s-riskom-smerti-izi",
+        "https://iz.ru/2163425/narodnye-primety-na-9-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2163612/serzhant-vermenskii-vynes-ranenogo-sosluzhivtca-iz-pod-ognia-vsu-izi",
+        "https://iz.ru/2163640/real-oderzhal-pobedu-nad-interom-v-pervom-ture-ligi-chempionov-izi",
+        "https://iz.ru/2163646/v-rusprodsoiuze-nazvali-samyi-podeshevevshii-v-avguste-produkt-izi",
+        "https://iz.ru/2163647/chislo-rossiian-s-zarplatoi-vyshe-100-tys-rublei-vozroslo-na-36-izi",
+        "https://iz.ru/2163655/sozdateli-seriala-iuzhnyi-park-pereimenovali-ego-v-iuzhnuiu-ameriku-izi",
+        "https://iz.ru/2163661/rubio-na-peregovorakh-v-moskve-i-kieve-obsuzhdalis-novye-idei-po-uregulirovaniiu-izi",
+        "https://iz.ru/2163664/ekspert-rasskazal-o-skheme-moshennikov-s-podmenoi-rekvizitov-detskikh-kruzhkov-izi",
+        "https://iz.ru/2163670/v-minprosveshcheniia-nazvali-maksimalnuiu-prodolzhitelnost-shkolnykh-urokov-izi"
       ]
     },
     "2026-09-10": {
-      "totalChecked": 927,
-      "totalIzi": 175,
+      "totalChecked": 916,
+      "totalIzi": 174,
       "totalIiz": 1,
-      "totalAi": 176,
+      "totalAi": 175,
       "topLinks": [
-        "https://iz.ru/2164152/2026-09-10/v-kprf-predlozhili-ne-otmeniat-registratciiu-kandidatov-za-administrativnye-narusheniia-izi",
         "https://iz.ru/2164308/dolina-otcenila-reshenie-suda-o-vzyskanii-s-moshennikov-114-mln-izi",
         "https://iz.ru/2164315/andreeva-ustupila-gauff-i-ne-vyshla-v-polufinal-us-open-izi",
         "https://iz.ru/2164318/minprosveshcheniia-sinkhronizirovalo-programmy-po-fizike-i-khimii-s-ege-i-oge-izi",
@@ -231,11 +230,12 @@
         "https://iz.ru/2164391/eksperty-perezvoni-sam-dali-sovety-po-nastroike-tekhniki-dlia-bezopasnoi-raboty-izi",
         "https://iz.ru/2164397/vulkanolog-predupredila-ob-ugroze-razrushitelnykh-selei-u-reinira-izi",
         "https://iz.ru/2164398/predpolagaemogo-ubiitcu-dotcenta-mgu-kamenevoi-obiavili-v-rozysk-izi",
-        "https://iz.ru/2164399/oak-podpisala-soglasheniia-na-postavku-105-samoletov-il-114-300-v-indiiu-izi"
+        "https://iz.ru/2164399/oak-podpisala-soglasheniia-na-postavku-105-samoletov-il-114-300-v-indiiu-izi",
+        "https://iz.ru/2164401/zakharova-zaiavila-ob-otsutstvii-opravdaniia-ignoriruiushchim-prestupleniia-kieva-izi"
       ]
     },
     "2026-09-11": {
-      "totalChecked": 1099,
+      "totalChecked": 1097,
       "totalIzi": 220,
       "totalIiz": 2,
       "totalAi": 222,
@@ -263,12 +263,11 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 679,
-      "totalIzi": 258,
+      "totalChecked": 678,
+      "totalIzi": 257,
       "totalIiz": 1,
-      "totalAi": 259,
+      "totalAi": 258,
       "topLinks": [
-        "https://iz.ru/2164114/uchenye-raskryli-sekret-ustoichivoi-uverennosti-v-sobstvennom-tele-izi",
         "https://iz.ru/2164545/uchenye-obiasnili-sviaz-raka-s-riskom-insulta-izi",
         "https://iz.ru/2164661/uchenye-proverili-vliianie-rozovogo-shuma-na-zashchitnye-protcessy-mozga-izi",
         "https://iz.ru/2164802/uchenye-izmenili-vzgliad-na-polzu-vysokogo-potrebleniia-belka-izi",
@@ -287,7 +286,8 @@
         "https://iz.ru/2165760/v-dokumentakh-ukrainskoi-politcii-nashli-dannye-o-samoubiistvakh-v-riadakh-vsu-izi",
         "https://iz.ru/2165763/boikova-i-kozlovskii-stali-pervymi-v-korotkoi-programme-na-turnire-v-ssha-izi",
         "https://iz.ru/2165767/v-gd-rasskazali-o-vozmozhnosti-peredat-chast-pensii-po-nasledstvu-izi",
-        "https://iz.ru/2165777/moshenniki-nachali-obmanyvat-rossiian-pod-vidom-teplosetei-izi"
+        "https://iz.ru/2165777/moshenniki-nachali-obmanyvat-rossiian-pod-vidom-teplosetei-izi",
+        "https://iz.ru/2165783/ekspert-rasskazal-o-vygodnom-sposobe-oformleniia-otpuska-po-ukhodu-za-rebenkom-izi"
       ]
     },
     "2026-09-13": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-16": {
-      "totalChecked": 749,
-      "totalIzi": 150,
+      "totalChecked": 903,
+      "totalIzi": 195,
       "totalIiz": 2,
-      "totalAi": 152,
+      "totalAi": 197,
       "topLinks": [
         "https://iz.ru/2167217/uchenye-obnaruzhili-sviaz-mezhdu-defitcitom-vitamina-d-i-boliu-izi",
         "https://iz.ru/2167253/uchenye-obnaruzhili-skrytuiu-prichinu-povyshennogo-krovianogo-davleniia-izi",
