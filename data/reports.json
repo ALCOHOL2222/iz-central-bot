@@ -1,43 +1,15 @@
 {
-  "generatedAt": "2026-09-17T18:26:27.817Z",
+  "generatedAt": "2026-09-17T21:37:04.188Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 65,
-    "failedFetches": 1,
+    "fetchedUrlSets": 66,
+    "failedFetches": 0,
     "childLocs": 66,
     "visitedCount": 67
   },
   "days": {
-    "2026-09-04": {
-      "totalChecked": 463,
-      "totalIzi": 101,
-      "totalIiz": 1,
-      "totalAi": 102,
-      "topLinks": [
-        "https://iz.ru/2064501/istoriia-liubvi-lizy-moriak-i-sarika-andreasiana-izi",
-        "https://iz.ru/2159492/narodnye-primety-na-4-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2159666/uchenye-obiasnili-rol-obkhvata-talii-pri-otcenke-ozhireniia-izi",
-        "https://iz.ru/2159773/uchenye-vyiasnili-vliianie-pozitivnogo-myshleniia-na-zdorove-serdtca-izi",
-        "https://iz.ru/2159813/uchenye-raskryli-mekhanizm-razryva-mezhdu-mysliami-i-deistviiami-pri-okr-izi",
-        "https://iz.ru/2160878/2026-09-04/madiar-zaiavil-o-prodolzhenii-predostavleniia-statusa-bezhentcev-dlia-ukraintcev-izi",
-        "https://iz.ru/2160884/medvedev-predupredil-o-posledstviiakh-dlia-ekonomiki-germanii-ot-antirossiiskoi-politiki-izi",
-        "https://iz.ru/2160887/polsha-vvela-ogranicheniia-na-polety-v-vostochnoi-chasti-strany-izi",
-        "https://iz.ru/2160889/2026-09-04/ekspert-otcenil-vozmozhnyi-srednii-razmer-pensii-po-starosti-v-2027-godu-izi",
-        "https://iz.ru/2160895/2026-09-04/v-mid-rf-zaiavili-o-zhelanii-nekotorykh-stran-es-razreshit-postavki-gaza-iz-rf-izi",
-        "https://iz.ru/2160902/podozritelnyi-predmet-nashli-u-podstantcii-v-nemetckom-dormagene-izi",
-        "https://iz.ru/2160925/v-tciurikhe-nazvali-laureatov-shnobelevskoi-premii-2026-goda-izi",
-        "https://iz.ru/2160930/pentagon-nachal-rassledovanie-gibeli-voennykh-v-ssha-ot-vaktcin-covid-19-izi",
-        "https://iz.ru/2160934/pashinian-nazval-vernym-resheniem-priniatie-zakona-o-vstuplenii-armenii-v-es-izi",
-        "https://iz.ru/2160936/2026-09-04/nazvana-sfera-deiatelnosti-s-samymi-vysokimi-zarplatami-v-rossii-izi",
-        "https://iz.ru/2160951/glava-aeroflota-oboznachil-vozmozhnye-sroki-poiavleniia-interneta-na-samoletakh-rf-izi",
-        "https://iz.ru/2160955/kobiakov-ukazal-na-vysokuiu-tcenu-rusofobii-v-mire-izi",
-        "https://iz.ru/2160958/putin-otmetil-razvitie-strategicheskogo-partnerstva-s-knr-po-voskhodiashchei-izi",
-        "https://iz.ru/2160961/sily-pvo-za-noch-sbili-490-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2160962/vs-rossii-pristupili-k-zachistke-volchanskogo-kotla-v-kharkovskoi-oblasti-izi"
-      ]
-    },
     "2026-09-05": {
       "totalChecked": 286,
       "totalIzi": 74,
@@ -179,13 +151,11 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 547,
-      "totalIzi": 99,
+      "totalChecked": 526,
+      "totalIzi": 97,
       "totalIiz": 1,
-      "totalAi": 100,
+      "totalAi": 98,
       "topLinks": [
-        "https://iz.ru/2164807/v-belgorodskoi-oblasti-odin-chelovek-pogib-i-shestero-postradali-pri-atakakh-vsu-izi",
-        "https://iz.ru/2164817/iaponiia-pozhalovalas-na-kartu-mira-v-oon-iz-za-oboznacheniia-kuril-izi",
         "https://iz.ru/2164853/vengriia-potrebovala-ot-es-kompensatcii-za-otkaz-ot-nefti-i-gaza-iz-rf-izi",
         "https://iz.ru/2164868/sily-pvo-za-den-sbili-97-bespilotnikov-vsu-nad-regionami-rossii-izi",
         "https://iz.ru/2164870/zdanie-genkonsulstva-ukrainy-v-diusseldorfe-otcepili-iz-za-politceiskoi-operatcii-izi",
@@ -203,11 +173,13 @@
         "https://iz.ru/2164308/dolina-otcenila-reshenie-suda-o-vzyskanii-s-moshennikov-114-mln-izi",
         "https://iz.ru/2164315/andreeva-ustupila-gauff-i-ne-vyshla-v-polufinal-us-open-izi",
         "https://iz.ru/2164318/minprosveshcheniia-sinkhronizirovalo-programmy-po-fizike-i-khimii-s-ege-i-oge-izi",
-        "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi"
+        "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
+        "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
+        "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi"
       ]
     },
     "2026-09-11": {
-      "totalChecked": 1072,
+      "totalChecked": 1067,
       "totalIzi": 217,
       "totalIiz": 1,
       "totalAi": 218,
@@ -235,12 +207,11 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 671,
-      "totalIzi": 255,
+      "totalChecked": 670,
+      "totalIzi": 254,
       "totalIiz": 1,
-      "totalAi": 256,
+      "totalAi": 255,
       "topLinks": [
-        "https://iz.ru/2164802/uchenye-izmenili-vzgliad-na-polzu-vysokogo-potrebleniia-belka-izi",
         "https://iz.ru/2165210/2026-09-12/ekspert-rasskazal-o-vliianii-avtomatizatcii-proizvodstva-na-tceny-izi",
         "https://iz.ru/2165621/glavnye-intrigi-8-go-tura-rpl-anons-glavnykh-matchei-uikenda-izi",
         "https://iz.ru/2165706/putin-na-sammite-briks-v-niu-deli-sdelal-riad-zaiavlenii-glavnoe-izi",
@@ -259,7 +230,8 @@
         "https://iz.ru/2165777/moshenniki-nachali-obmanyvat-rossiian-pod-vidom-teplosetei-izi",
         "https://iz.ru/2165783/ekspert-rasskazal-o-vygodnom-sposobe-oformleniia-otpuska-po-ukhodu-za-rebenkom-izi",
         "https://iz.ru/2165784/smi-soobshchili-o-krupneishem-v-istorii-britanii-pozhertvovanii-partii-reform-uk-izi",
-        "https://iz.ru/2165787/moshenniki-nachali-ispolzovat-ii-dlia-sozdaniia-feikovykh-komprometiruiushchikh-materialov-izi"
+        "https://iz.ru/2165787/moshenniki-nachali-ispolzovat-ii-dlia-sozdaniia-feikovykh-komprometiruiushchikh-materialov-izi",
+        "https://iz.ru/2165791/v-finliandii-zaiavili-o-sniatii-otvetstvennosti-za-tranzit-iadernogo-oruzhiia-nato-izi"
       ]
     },
     "2026-09-13": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-09-17": {
-      "totalChecked": 794,
-      "totalIzi": 181,
+      "totalChecked": 896,
+      "totalIzi": 198,
       "totalIiz": 2,
-      "totalAi": 183,
+      "totalAi": 200,
       "topLinks": [
         "https://iz.ru/2167438/uchenye-nashli-prichinu-nekotorykh-porokov-serdtca-izi",
         "https://iz.ru/2167489/uchenye-uznali-o-vliianii-raiona-prozhivaniia-na-zdorove-mozga-izi",
@@ -401,6 +373,13 @@
         "https://iz.ru/2168401/lantratova-rasskazala-o-sotcvyplatakh-na-otkrytie-svoego-dela-izi",
         "https://iz.ru/2168405/v-ator-nazvali-sluchai-dlia-polnogo-vozvrata-deneg-za-zarubezhnyi-tur-izi"
       ]
+    },
+    "2026-09-18": {
+      "totalChecked": 0,
+      "totalIzi": 0,
+      "totalIiz": 0,
+      "totalAi": 0,
+      "topLinks": []
     }
   }
 }
