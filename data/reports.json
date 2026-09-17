@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:07:30.823Z",
+  "generatedAt": "2026-09-17T01:36:45.690Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-09-09": {
-      "totalChecked": 484,
+      "totalChecked": 479,
       "totalIzi": 101,
       "totalIiz": 2,
       "totalAi": 103,
@@ -179,7 +179,7 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 905,
+      "totalChecked": 887,
       "totalIzi": 174,
       "totalIiz": 1,
       "totalAi": 175,
@@ -375,13 +375,16 @@
       ]
     },
     "2026-09-17": {
-      "totalChecked": 65,
-      "totalIzi": 3,
+      "totalChecked": 88,
+      "totalIzi": 6,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 8,
       "topLinks": [
         "https://iz.ru/2168048/narodnye-primety-na-17-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2168261/ldpr-prizvala-zapretit-spisanie-pensii-i-zhilishchnykh-vyplat-silovikov-za-dolgi-izi",
         "https://iz.ru/2168340/le-monde-soobshchila-o-nekhvatke-raket-dlia-f-16-na-ukraine-izi",
+        "https://iz.ru/2168364/2026-09-17/shvab-rasskazal-prankeram-o-zhelanii-zapada-videt-koreiskii-stcenarii-na-ukraine-izi",
+        "https://iz.ru/2168366/politico-uznala-o-trevoge-v-nato-iz-za-novoi-initciativy-fon-der-liaien-izi",
         "https://iz.ru/2168048/narodnye-primety-na-17-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2168261/ldpr-prizvala-zapretit-spisanie-pensii-i-zhilishchnykh-vyplat-silovikov-za-dolgi-izi",
         "https://iz.ru/2168340/le-monde-soobshchila-o-nekhvatke-raket-dlia-f-16-na-ukraine-izi"
