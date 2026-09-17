@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:36:45.690Z",
+  "generatedAt": "2026-09-17T07:52:28.067Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,31 +179,31 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 887,
-      "totalIzi": 174,
+      "totalChecked": 786,
+      "totalIzi": 150,
       "totalIiz": 1,
-      "totalAi": 175,
+      "totalAi": 151,
       "topLinks": [
-        "https://iz.ru/2164308/dolina-otcenila-reshenie-suda-o-vzyskanii-s-moshennikov-114-mln-izi",
-        "https://iz.ru/2164315/andreeva-ustupila-gauff-i-ne-vyshla-v-polufinal-us-open-izi",
-        "https://iz.ru/2164318/minprosveshcheniia-sinkhronizirovalo-programmy-po-fizike-i-khimii-s-ege-i-oge-izi",
-        "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
-        "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
-        "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi",
-        "https://iz.ru/2164331/fsb-zaderzhala-agenta-sbu-iz-okhrany-posolstva-velikobritanii-v-moskve-izi",
-        "https://iz.ru/2164333/otriad-severnogo-flota-voshel-v-akvatoriiu-moria-laptevykh-izi",
-        "https://iz.ru/2164334/nazvany-regiony-s-ustanovlennoi-vyplatoi-za-tretego-rebenka-izi",
-        "https://iz.ru/2164335/v-gretcii-zhenshchina-rodila-rebenka-iz-khranivshegosia-22-goda-v-zamorozke-embriona-izi",
-        "https://iz.ru/2164348/rossiianam-nazvali-chislo-pensionnykh-ballov-pri-srednei-zarplate-izi",
-        "https://iz.ru/2164354/nazvany-11-sfer-s-dokhodom-vyshe-500-tys-rublei-v-rossii-izi",
-        "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi",
-        "https://iz.ru/2164366/onishchenko-prizval-ne-provodit-v-shkolakh-kontrolnye-raboty-po-chetvergam-izi",
-        "https://iz.ru/2164370/ekspert-ukazal-na-ugrozu-konflikta-rf-i-britanii-iz-za-podgotovki-ukrainoi-terakta-izi",
-        "https://iz.ru/2164391/eksperty-perezvoni-sam-dali-sovety-po-nastroike-tekhniki-dlia-bezopasnoi-raboty-izi",
-        "https://iz.ru/2164397/vulkanolog-predupredila-ob-ugroze-razrushitelnykh-selei-u-reinira-izi",
-        "https://iz.ru/2164398/predpolagaemogo-ubiitcu-dotcenta-mgu-kamenevoi-obiavili-v-rozysk-izi",
-        "https://iz.ru/2164399/oak-podpisala-soglasheniia-na-postavku-105-samoletov-il-114-300-v-indiiu-izi",
-        "https://iz.ru/2164401/zakharova-zaiavila-ob-otsutstvii-opravdaniia-ignoriruiushchim-prestupleniia-kieva-izi"
+        "https://iz.ru/2164425/v-moldavii-zaiavili-ob-otsutstvii-ugrozy-dlia-samoleta-zelenskogo-izi",
+        "https://iz.ru/2164428/putin-poruchil-mvd-organizovat-podgotovku-trudovykh-migrantov-k-zhizni-v-rf-izi",
+        "https://iz.ru/2164431/aleksandr-fokin-naznachen-ispolniaiushchim-obiazannosti-rektora-gitisa-izi",
+        "https://iz.ru/2164433/isu-otklonil-apelliatcii-valievoi-i-kondratiuka-na-otzyv-neitralnogo-statusa-izi",
+        "https://iz.ru/2164437/patrushev-zaiavil-ob-otsutstvii-edinstva-v-ssha-po-voprosu-uregulirovaniia-na-ukraine-izi",
+        "https://iz.ru/2164448/rossiiskaia-figuristka-kamila-valieva-biografiia-izi",
+        "https://iz.ru/2164457/kardiolog-rasskazal-o-vliianii-khronicheskogo-stressa-na-serdtce-izi",
+        "https://iz.ru/2164471/fsb-presekla-podgotovku-terakta-protiv-posla-britanii-chto-izvestno-izi",
+        "https://iz.ru/2164475/rossiiskie-voiska-osvobodili-zarubinku-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2164504/uchenye-nazvali-novyi-rod-nasekomykh-v-chest-teilor-svift-izi",
+        "https://iz.ru/2164514/degtiarev-zaiavil-o-namerenii-figuristov-osporit-otkaz-v-neitralnom-statuse-v-cas-izi",
+        "https://iz.ru/2164519/uchenye-nashli-sposob-obnaruzhit-chernye-dyry-pervykh-zvezd-izi",
+        "https://iz.ru/2164521/ft-uznala-o-vedenii-nabu-bolee-60-rassledovanii-protiv-ukrainskikh-deputatov-izi",
+        "https://iz.ru/2164528/v-ofise-zelenskogo-zaiavili-o-strakhe-ukraintcev-govorit-na-rodnom-iazyke-v-polshe-izi",
+        "https://iz.ru/2164530/po-delu-o-khishchenii-na-postavkakh-tushenki-na-svo-proshli-obyski-u-svidetelei-izi",
+        "https://iz.ru/2164534/svr-evrokomissiia-privetstvovala-diskussii-o-mobilizatcii-zhenshchin-v-riady-vsu-izi",
+        "https://iz.ru/2164540/posolstvo-rf-predlozhilo-vengrii-poluchat-gaz-s-aromatom-demokratii-iz-latvii-izi",
+        "https://iz.ru/2164550/ldpr-predlozhila-prodlit-rabotu-detsadov-do-2000-izi",
+        "https://iz.ru/2164551/dva-medika-postradali-pri-atake-vsu-na-skoruiu-v-energodare-izi",
+        "https://iz.ru/2164558/adam-kadyrov-poiavilsia-na-publike-s-pogonami-leitenanta-politcii-izi"
       ]
     },
     "2026-09-11": {
@@ -375,19 +375,31 @@
       ]
     },
     "2026-09-17": {
-      "totalChecked": 88,
-      "totalIzi": 6,
+      "totalChecked": 278,
+      "totalIzi": 65,
       "totalIiz": 2,
-      "totalAi": 8,
+      "totalAi": 67,
       "topLinks": [
+        "https://iz.ru/2167438/uchenye-nashli-prichinu-nekotorykh-porokov-serdtca-izi",
+        "https://iz.ru/2167489/uchenye-uznali-o-vliianii-raiona-prozhivaniia-na-zdorove-mozga-izi",
+        "https://iz.ru/2167531/uchenye-rasskazali-ob-izmeneniiakh-v-mozge-u-liudei-starshe-50-let-izi",
+        "https://iz.ru/2167850/uchenye-raskryli-prichiny-usileniia-kashlia-pri-sukhom-vozdukhe-izi",
+        "https://iz.ru/2167881/uchenye-nazvali-poleznoe-dlia-serdtca-kolichestvo-tcelnogo-zerna-izi",
         "https://iz.ru/2168048/narodnye-primety-na-17-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2168261/ldpr-prizvala-zapretit-spisanie-pensii-i-zhilishchnykh-vyplat-silovikov-za-dolgi-izi",
         "https://iz.ru/2168340/le-monde-soobshchila-o-nekhvatke-raket-dlia-f-16-na-ukraine-izi",
         "https://iz.ru/2168364/2026-09-17/shvab-rasskazal-prankeram-o-zhelanii-zapada-videt-koreiskii-stcenarii-na-ukraine-izi",
         "https://iz.ru/2168366/politico-uznala-o-trevoge-v-nato-iz-za-novoi-initciativy-fon-der-liaien-izi",
-        "https://iz.ru/2168048/narodnye-primety-na-17-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2168261/ldpr-prizvala-zapretit-spisanie-pensii-i-zhilishchnykh-vyplat-silovikov-za-dolgi-izi",
-        "https://iz.ru/2168340/le-monde-soobshchila-o-nekhvatke-raket-dlia-f-16-na-ukraine-izi"
+        "https://iz.ru/2168373/ferstappen-pobedil-100-sopernikov-v-kartingovoi-gonke-na-silverstoune-izi",
+        "https://iz.ru/2168374/na-lune-obnaruzhili-krupneishii-sovremennyi-udarnyi-krater-diametrom-222-m-izi",
+        "https://iz.ru/2168375/piat-chelovek-pogibli-pri-kruzhenii-samoleta-cessna-t206-v-kolumbii-izi",
+        "https://iz.ru/2168378/v-bazu-mirotvortca-vnesen-polskii-deputat-matetckii-izi",
+        "https://iz.ru/2168379/2026-09-17/v-iaroslavle-perekryli-dvizhenie-transporta-v-storonu-moskvy-izi",
+        "https://iz.ru/2168380/2026-09-17/bolee-115-tys-zhitelei-kamchatki-dosrochno-progolosovali-na-vyborakh-izi",
+        "https://iz.ru/2168383/forbes-ukazal-na-snizhenie-doli-metallurgii-v-vvp-ukrainy-pochti-do-nulia-izi",
+        "https://iz.ru/2168397/matematik-otvetila-na-vopros-o-sposobnosti-ii-ukazat-na-vyigryshnyi-lotereinyi-bilet-izi",
+        "https://iz.ru/2168401/lantratova-rasskazala-o-sotcvyplatakh-na-otkrytie-svoego-dela-izi",
+        "https://iz.ru/2168405/v-ator-nazvali-sluchai-dlia-polnogo-vozvrata-deneg-za-zarubezhnyi-tur-izi"
       ]
     }
   }
