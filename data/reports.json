@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:07:18.087Z",
+  "generatedAt": "2026-09-18T11:30:57.833Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,35 +179,35 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 968,
-      "totalIzi": 198,
+      "totalChecked": 878,
+      "totalIzi": 180,
       "totalIiz": 1,
-      "totalAi": 199,
+      "totalAi": 181,
       "topLinks": [
-        "https://iz.ru/2165041/na-iuge-volgograda-posle-raketnoi-ataki-oblomki-upali-na-territorii-predpriiatiia-izi",
-        "https://iz.ru/2165044/posol-pakistana-zaiavil-o-prorabotke-priamykh-reisov-s-rossiei-izi",
-        "https://iz.ru/2165045/prezident-argentiny-otmenil-vizit-v-london-iz-za-spora-o-malvinskikh-ostrovakh-izi",
-        "https://iz.ru/2165046/v-gosdume-vystupili-s-predlozheniem-sokratit-rabochuiu-nedeliu-dlia-roditelei-izi",
-        "https://iz.ru/2165049/rebenok-pogib-v-rezultate-dtp-s-pozhiloi-voditelnitcei-v-angarske-izi",
-        "https://iz.ru/2165050/v-germanii-nazvali-vystuplenie-mertca-v-bundestage-provalom-dlia-khds-izi",
-        "https://iz.ru/2165051/posol-pakistana-zaiavil-o-populiarnosti-putina-sredi-zhitelei-strany-izi",
-        "https://iz.ru/2165052/epidemiologicheskoe-rassledovanie-otravleniia-nachal-rospotrebnadzor-v-shkole-kubani-izi",
-        "https://iz.ru/2165055/byvshii-prokuror-po-delu-o-zagovore-protiv-trampa-ushel-v-otstavku-izi",
-        "https://iz.ru/2165058/mosbilet-priglashaet-v-tcaritcyno-uvidet-iskusstvo-bez-akademicheskikh-pravil-izi",
-        "https://iz.ru/2165060/v-moskve-zavershen-pervyi-etap-restavratcii-khrama-voskreseniia-slovushchego-izi",
-        "https://iz.ru/2165072/lavrov-rasskazal-o-pervykh-emotciiakh-pri-terakte-11-sentiabria-izi",
-        "https://iz.ru/2165082/amerikantcy-vpervye-zaniali-pervye-10-mest-v-reitinge-milliarderov-izi",
-        "https://iz.ru/2165084/v-germanii-dopustili-raspad-nato-iz-za-konflikta-evropy-i-ssha-izi",
-        "https://iz.ru/2165089/v-dzerzhinske-oblomki-bpla-povredili-mnogokvartirnye-i-chastnye-doma-izi",
-        "https://iz.ru/2165113/ploshchad-pozhara-v-zapovednike-utrish-v-anape-vyrosla-do-45-ga-izi",
-        "https://iz.ru/2165121/v-kazakhstane-oprovergli-podachu-zaiavki-na-evrovidenie-2027-izi",
-        "https://iz.ru/2165124/bespilotnik-popal-v-zdanie-territorialnogo-izbirkoma-v-samarskoi-oblasti-izi",
         "https://iz.ru/2165142/dva-promyshlennykh-obekta-atakovali-bpla-na-severe-permskogo-kraia-izi",
-        "https://iz.ru/2165148/v-chuvashii-vozobnovili-proverku-posle-travmirovaniia-podrostkov-patronom-izi"
+        "https://iz.ru/2165148/v-chuvashii-vozobnovili-proverku-posle-travmirovaniia-podrostkov-patronom-izi",
+        "https://iz.ru/2165153/armiia-rossii-sbila-bolee-56-tys-bespilotnikov-vsu-za-nedeliu-izi",
+        "https://iz.ru/2165157/sestry-ouens-vernulis-stoit-li-smotret-prakticheskuiu-magiiu-2-izi",
+        "https://iz.ru/2165163/tcik-rf-priglasila-dlia-nabliudeniia-na-vyborakh-12-mezhdunarodnykh-missii-izi",
+        "https://iz.ru/2165184/2026-09-11/rostekh-sozdal-neustarevaiushchii-antidronovyi-kompleks-zhnetc-izi",
+        "https://iz.ru/2165202/putin-i-modi-proveli-vstrechu-na-poliakh-sammita-briks-v-indii-izi",
+        "https://iz.ru/2165206/anthropic-zakryla-uchenym-dostup-k-claude-iz-za-riska-sozdaniia-biooruzhiia-izi",
+        "https://iz.ru/2165215/uchenye-uznali-o-sposobnosti-serdtca-vosstanavlivat-myshechnuiu-tkan-posle-infarkta-izi",
+        "https://iz.ru/2165221/v-germanii-otcenili-raskhody-iz-za-prekrashcheniia-postavok-gaza-iz-rf-v-eu50-mlrd-izi",
+        "https://iz.ru/2165222/v-tcb-ukazali-na-umerennye-tempy-rosta-ekonomiki-rossii-v-iii-kvartale-2026-goda-izi",
+        "https://iz.ru/2165230/uchenye-rasskazali-o-riskakh-chastogo-narashchivaniia-resnitc-izi",
+        "https://iz.ru/2165236/v-feor-obiasnili-razlichiia-mezhdu-khalialnym-i-koshernym-miasom-izi",
+        "https://iz.ru/2165243/ploshchad-pozhara-v-zapovednike-utrish-v-anape-vyrosla-do-9-ga-izi",
+        "https://iz.ru/2165245/svyshe-40-vozvedennykh-migrantami-postroek-i-vosem-avto-sgoreli-v-seute-izi",
+        "https://iz.ru/2165251/belyi-dom-pokazal-fotootchet-o-zakulise-poezdki-uitkoffa-v-moskvu-i-kiev-izi",
+        "https://iz.ru/2165253/uchenye-vyiavili-novuiu-nasledstvennuiu-bolezn-setchatki-izi",
+        "https://iz.ru/2165257/vuchich-reshil-podat-v-otstavku-25-ili-26-sentiabria-po-vozvrashchenii-iz-ssha-izi",
+        "https://iz.ru/2165280/likhachev-zaiavil-o-kontrole-nad-situatciei-na-zaporozhskoi-aes-izi",
+        "https://iz.ru/2165281/inoagent-dugarov-zaochno-prigovoren-k-18-godam-lisheniia-svobody-za-terrorizm-izi"
       ]
     },
     "2026-09-12": {
-      "totalChecked": 670,
+      "totalChecked": 668,
       "totalIzi": 254,
       "totalIiz": 1,
       "totalAi": 255,
@@ -235,12 +235,11 @@
       ]
     },
     "2026-09-13": {
-      "totalChecked": 575,
-      "totalIzi": 192,
+      "totalChecked": 572,
+      "totalIzi": 191,
       "totalIiz": 2,
-      "totalAi": 194,
+      "totalAi": 193,
       "topLinks": [
-        "https://iz.ru/2165126/uchenye-obiasnili-sviaz-sdvg-s-narusheniiami-raboty-kishechnika-izi",
         "https://iz.ru/2165146/uchenye-ukazali-na-sviaz-fizicheskoi-aktivnosti-i-sokhraneniia-slukha-izi",
         "https://iz.ru/2165186/issledovateli-raskryli-rol-gormonov-stressa-v-razvitii-ozhireniia-izi",
         "https://iz.ru/2165208/narodnye-primety-na-13-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,11 +258,12 @@
         "https://iz.ru/2166186/moshenniki-nachali-pugat-rossiian-proverkami-perevodov-cherez-sbp-izi",
         "https://iz.ru/2166187/rybakina-vyigrala-us-open-i-stala-pervoi-raketkoi-mira-izi",
         "https://iz.ru/2166190/smi-soobshchili-o-serii-zemletriasenii-v-kalifornii-izi",
-        "https://iz.ru/2166192/psikholog-rasskazala-o-vliianii-shokolada-na-nastroenie-i-rabotu-mozga-izi"
+        "https://iz.ru/2166192/psikholog-rasskazala-o-vliianii-shokolada-na-nastroenie-i-rabotu-mozga-izi",
+        "https://iz.ru/2166193/narkolog-nazvala-skrytuiu-prichinu-nabora-vesa-iz-za-alkogolia-izi"
       ]
     },
     "2026-09-14": {
-      "totalChecked": 900,
+      "totalChecked": 898,
       "totalIzi": 222,
       "totalIiz": 2,
       "totalAi": 224,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 923,
+      "totalChecked": 922,
       "totalIzi": 230,
       "totalIiz": 2,
       "totalAi": 232,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-18": {
-      "totalChecked": 219,
-      "totalIzi": 48,
+      "totalChecked": 484,
+      "totalIzi": 96,
       "totalIiz": 4,
-      "totalAi": 52,
+      "totalAi": 100,
       "topLinks": [
         "https://iz.ru/2166774/rozhdestvo-bogoroditcy-2026-kakie-zaprety-vazhno-sobliudat-v-velikii-prazdnik-iiz",
         "https://iz.ru/2167856/uchenye-sviazali-ultraobrabotannye-produkty-s-nakopleniem-zhira-v-myshtcakh-izi",
