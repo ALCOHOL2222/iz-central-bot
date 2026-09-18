@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:30:57.833Z",
+  "generatedAt": "2026-09-18T16:36:51.915Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 878,
-      "totalIzi": 180,
+      "totalChecked": 730,
+      "totalIzi": 153,
       "totalIiz": 1,
-      "totalAi": 181,
+      "totalAi": 154,
       "topLinks": [
-        "https://iz.ru/2165142/dva-promyshlennykh-obekta-atakovali-bpla-na-severe-permskogo-kraia-izi",
-        "https://iz.ru/2165148/v-chuvashii-vozobnovili-proverku-posle-travmirovaniia-podrostkov-patronom-izi",
-        "https://iz.ru/2165153/armiia-rossii-sbila-bolee-56-tys-bespilotnikov-vsu-za-nedeliu-izi",
-        "https://iz.ru/2165157/sestry-ouens-vernulis-stoit-li-smotret-prakticheskuiu-magiiu-2-izi",
-        "https://iz.ru/2165163/tcik-rf-priglasila-dlia-nabliudeniia-na-vyborakh-12-mezhdunarodnykh-missii-izi",
-        "https://iz.ru/2165184/2026-09-11/rostekh-sozdal-neustarevaiushchii-antidronovyi-kompleks-zhnetc-izi",
-        "https://iz.ru/2165202/putin-i-modi-proveli-vstrechu-na-poliakh-sammita-briks-v-indii-izi",
-        "https://iz.ru/2165206/anthropic-zakryla-uchenym-dostup-k-claude-iz-za-riska-sozdaniia-biooruzhiia-izi",
-        "https://iz.ru/2165215/uchenye-uznali-o-sposobnosti-serdtca-vosstanavlivat-myshechnuiu-tkan-posle-infarkta-izi",
-        "https://iz.ru/2165221/v-germanii-otcenili-raskhody-iz-za-prekrashcheniia-postavok-gaza-iz-rf-v-eu50-mlrd-izi",
-        "https://iz.ru/2165222/v-tcb-ukazali-na-umerennye-tempy-rosta-ekonomiki-rossii-v-iii-kvartale-2026-goda-izi",
-        "https://iz.ru/2165230/uchenye-rasskazali-o-riskakh-chastogo-narashchivaniia-resnitc-izi",
-        "https://iz.ru/2165236/v-feor-obiasnili-razlichiia-mezhdu-khalialnym-i-koshernym-miasom-izi",
-        "https://iz.ru/2165243/ploshchad-pozhara-v-zapovednike-utrish-v-anape-vyrosla-do-9-ga-izi",
-        "https://iz.ru/2165245/svyshe-40-vozvedennykh-migrantami-postroek-i-vosem-avto-sgoreli-v-seute-izi",
-        "https://iz.ru/2165251/belyi-dom-pokazal-fotootchet-o-zakulise-poezdki-uitkoffa-v-moskvu-i-kiev-izi",
-        "https://iz.ru/2165253/uchenye-vyiavili-novuiu-nasledstvennuiu-bolezn-setchatki-izi",
-        "https://iz.ru/2165257/vuchich-reshil-podat-v-otstavku-25-ili-26-sentiabria-po-vozvrashchenii-iz-ssha-izi",
-        "https://iz.ru/2165280/likhachev-zaiavil-o-kontrole-nad-situatciei-na-zaporozhskoi-aes-izi",
-        "https://iz.ru/2165281/inoagent-dugarov-zaochno-prigovoren-k-18-godam-lisheniia-svobody-za-terrorizm-izi"
+        "https://iz.ru/2165348/nabiullina-nazvala-poka-neznachitelnym-vliianie-atak-bpla-na-logistiku-rossii-izi",
+        "https://iz.ru/2165351/pitanie-po-chasam-pomoglo-snizit-sakhar-pri-diabete-pervogo-tipa-izi",
+        "https://iz.ru/2165356/pugacheva-vpervye-priletela-v-turtciiu-izi",
+        "https://iz.ru/2165368/na-novoi-trasse-f1-v-madride-proizoshla-avariia-s-vozgoraniem-bolida-izi",
+        "https://iz.ru/2165369/strany-es-usilili-davlenie-na-belgiiu-iz-za-zamorozhennykh-aktivov-rossii-izi",
+        "https://iz.ru/2165374/kanada-poobeshchala-peredavat-ukraine-kazhdyi-tretii-iz-millionov-dronov-izi",
+        "https://iz.ru/2165379/rossiia-zanimaet-shestoe-mesto-v-mire-po-zapasam-zolota-v-rezervakh-izi",
+        "https://iz.ru/2165382/2026-09-11/v-er-vystupili-za-lgotnye-poezdki-na-taksi-dlia-mnogodetnykh-po-vsei-strane-izi",
+        "https://iz.ru/2165407/putin-ukazal-na-gotovnost-rossii-k-sotrudnichestvu-so-vsem-mirom-izi",
+        "https://iz.ru/2165410/kongressvumen-luna-zaiavila-o-podderzhanii-rf-i-ssha-diplomaticheskikh-kontaktov-izi",
+        "https://iz.ru/2165424/nabiullina-obiasnila-otkaz-tcb-ot-snizheniia-stavki-glavnoe-izi",
+        "https://iz.ru/2165433/putin-zapad-pytaetsia-liubymi-putiami-vernut-utrachennoe-liderstvo-izi",
+        "https://iz.ru/2165453/putin-initciatory-antirossiiskikh-sanktcii-stolknulis-s-ekonomicheskim-spadom-izi",
+        "https://iz.ru/2165467/glava-fsin-nazval-chislo-inostrantcev-v-ispravitelnykh-uchrezhdeniiakh-v-rossii-izi",
+        "https://iz.ru/2165472/nabiullina-rost-tcen-v-rossii-uskorilsia-iz-za-razovykh-faktorov-izi",
+        "https://iz.ru/2165485/nabiullina-v-rossii-otkryli-87-tys-schetov-tcifrovogo-rublia-za-desiat-dnei-izi",
+        "https://iz.ru/2165493/ushakov-nazval-uslovie-dlia-vstrechi-putina-i-trampa-v-kitae-izi",
+        "https://iz.ru/2165507/printcessa-norvegii-astrid-mod-ingeborg-biografiia-izi",
+        "https://iz.ru/2165524/riad-mirovykh-uchenykh-sochli-opaseniia-naschet-ii-silno-preuvelichennymi-izi",
+        "https://iz.ru/2165527/v-edinoi-rossii-vystupili-za-razvitie-podkhodov-k-vozvedeniiu-sotcobektov-izi"
       ]
     },
     "2026-09-12": {
-      "totalChecked": 668,
-      "totalIzi": 254,
+      "totalChecked": 662,
+      "totalIzi": 253,
       "totalIiz": 1,
-      "totalAi": 255,
+      "totalAi": 254,
       "topLinks": [
-        "https://iz.ru/2165210/2026-09-12/ekspert-rasskazal-o-vliianii-avtomatizatcii-proizvodstva-na-tceny-izi",
         "https://iz.ru/2165621/glavnye-intrigi-8-go-tura-rpl-anons-glavnykh-matchei-uikenda-izi",
         "https://iz.ru/2165706/putin-na-sammite-briks-v-niu-deli-sdelal-riad-zaiavlenii-glavnoe-izi",
         "https://iz.ru/2165713/na-ukraine-obrazovalsia-defitcit-raket-dlia-f-16-iz-za-otrazheniia-geranei-vs-rf-izi",
@@ -231,18 +230,16 @@
         "https://iz.ru/2165783/ekspert-rasskazal-o-vygodnom-sposobe-oformleniia-otpuska-po-ukhodu-za-rebenkom-izi",
         "https://iz.ru/2165784/smi-soobshchili-o-krupneishem-v-istorii-britanii-pozhertvovanii-partii-reform-uk-izi",
         "https://iz.ru/2165787/moshenniki-nachali-ispolzovat-ii-dlia-sozdaniia-feikovykh-komprometiruiushchikh-materialov-izi",
-        "https://iz.ru/2165791/v-finliandii-zaiavili-o-sniatii-otvetstvennosti-za-tranzit-iadernogo-oruzhiia-nato-izi"
+        "https://iz.ru/2165791/v-finliandii-zaiavili-o-sniatii-otvetstvennosti-za-tranzit-iadernogo-oruzhiia-nato-izi",
+        "https://iz.ru/2165792/amerikanskii-tennisist-shelton-obygral-tiafoa-i-vyshel-v-final-us-open-izi"
       ]
     },
     "2026-09-13": {
-      "totalChecked": 572,
-      "totalIzi": 191,
-      "totalIiz": 2,
-      "totalAi": 193,
+      "totalChecked": 567,
+      "totalIzi": 189,
+      "totalIiz": 1,
+      "totalAi": 190,
       "topLinks": [
-        "https://iz.ru/2165146/uchenye-ukazali-na-sviaz-fizicheskoi-aktivnosti-i-sokhraneniia-slukha-izi",
-        "https://iz.ru/2165186/issledovateli-raskryli-rol-gormonov-stressa-v-razvitii-ozhireniia-izi",
-        "https://iz.ru/2165208/narodnye-primety-na-13-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166131/riadovoi-goloshapov-lichno-unichtozhil-dvukh-boevikov-vsu-pri-shturme-opornogo-punkta-izi",
         "https://iz.ru/2166137/zelenskii-zaiavil-o-nuzhde-v-100-120-raketakh-patriot-ezhemesiachno-zimoi-izi",
         "https://iz.ru/2166139/kinooperator-boris-timkovskii-biografiia-izi",
@@ -259,17 +256,18 @@
         "https://iz.ru/2166187/rybakina-vyigrala-us-open-i-stala-pervoi-raketkoi-mira-izi",
         "https://iz.ru/2166190/smi-soobshchili-o-serii-zemletriasenii-v-kalifornii-izi",
         "https://iz.ru/2166192/psikholog-rasskazala-o-vliianii-shokolada-na-nastroenie-i-rabotu-mozga-izi",
-        "https://iz.ru/2166193/narkolog-nazvala-skrytuiu-prichinu-nabora-vesa-iz-za-alkogolia-izi"
+        "https://iz.ru/2166193/narkolog-nazvala-skrytuiu-prichinu-nabora-vesa-iz-za-alkogolia-izi",
+        "https://iz.ru/2166195/wsj-soobshchila-o-zhelanii-kanady-stat-assotciirovannym-chlenom-evrosoiuza-izi",
+        "https://iz.ru/2166197/odin-chelovek-pogib-i-bolee-30-propali-bez-vesti-pri-krushenii-paroma-u-vanuatu-izi",
+        "https://iz.ru/2166198/chto-proizoshlo-za-noch-13-sentiabria-glavnoe-izi"
       ]
     },
     "2026-09-14": {
-      "totalChecked": 898,
-      "totalIzi": 222,
-      "totalIiz": 2,
-      "totalAi": 224,
+      "totalChecked": 892,
+      "totalIzi": 221,
+      "totalIiz": 1,
+      "totalAi": 222,
       "topLinks": [
-        "https://iz.ru/2165264/uchenye-sviazali-vozdeistvie-sveta-nochiu-s-izmeneniiami-struktury-i-raboty-serdtca-izi",
-        "https://iz.ru/2165266/narodnye-primety-na-14-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2165360/uchenye-peresmotreli-vozrast-poiavleniia-serdechnykh-zabolevanii-izi",
         "https://iz.ru/2165536/uchenye-sviazali-sadovodstvo-s-dolgoletiem-i-zdorovem-mozga-izi",
         "https://iz.ru/2166437/krasnodar-sygral-vnichiu-s-akronom-v-matche-rpl-izi-izi",
@@ -287,7 +285,9 @@
         "https://iz.ru/2166499/raschety-sau-msta-s-gruppirovki-voisk-tcentr-unichtozhili-pozitcii-vsu-izi",
         "https://iz.ru/2166501/ekspert-sprognoziroval-snizhenie-stavok-po-vkladam-do-12-k-kontcu-goda-izi",
         "https://iz.ru/2166503/tramp-dopustil-peredachu-ukraine-uproshchennykh-versii-sistem-patriot-izi",
-        "https://iz.ru/2166507/overchuk-zaiavil-ob-obsuzhdenii-rf-i-mongolii-razvitiia-tranzita-izi"
+        "https://iz.ru/2166507/overchuk-zaiavil-ob-obsuzhdenii-rf-i-mongolii-razvitiia-tranzita-izi",
+        "https://iz.ru/2166510/rospotrebnadzor-soobshchil-ob-usilenii-sanitarnogo-kontrolia-na-granitcakh-iz-za-eboly-izi",
+        "https://iz.ru/2166511/na-zaes-nazvali-tcelesoobraznym-prisutstvie-ekspertov-magate-izi"
       ]
     },
     "2026-09-15": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-18": {
-      "totalChecked": 484,
-      "totalIzi": 96,
-      "totalIiz": 4,
-      "totalAi": 100,
+      "totalChecked": 761,
+      "totalIzi": 171,
+      "totalIiz": 6,
+      "totalAi": 177,
       "topLinks": [
         "https://iz.ru/2166774/rozhdestvo-bogoroditcy-2026-kakie-zaprety-vazhno-sobliudat-v-velikii-prazdnik-iiz",
         "https://iz.ru/2167856/uchenye-sviazali-ultraobrabotannye-produkty-s-nakopleniem-zhira-v-myshtcakh-izi",
