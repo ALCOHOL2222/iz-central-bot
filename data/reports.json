@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:37:04.188Z",
+  "generatedAt": "2026-09-18T00:31:04.105Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-09-10": {
-      "totalChecked": 526,
-      "totalIzi": 97,
+      "totalChecked": 481,
+      "totalIzi": 90,
       "totalIiz": 1,
-      "totalAi": 98,
+      "totalAi": 91,
       "topLinks": [
-        "https://iz.ru/2164853/vengriia-potrebovala-ot-es-kompensatcii-za-otkaz-ot-nefti-i-gaza-iz-rf-izi",
-        "https://iz.ru/2164868/sily-pvo-za-den-sbili-97-bespilotnikov-vsu-nad-regionami-rossii-izi",
-        "https://iz.ru/2164870/zdanie-genkonsulstva-ukrainy-v-diusseldorfe-otcepili-iz-za-politceiskoi-operatcii-izi",
-        "https://iz.ru/2164900/v-shesti-regionakh-sfo-vveli-rezhim-povyshennoi-gotovnosti-iz-za-medvedei-izi",
-        "https://iz.ru/2164939/v-germanii-proizoshlo-zemletriasenie-magnitudoi-35-izi",
-        "https://iz.ru/2164947/stala-izvestna-skhema-moshennikov-s-rassylkoi-pisem-na-predzakazy-iphone-18-izi",
-        "https://iz.ru/2164950/na-kubani-vozbudili-ugolovnoe-delo-posle-massovogo-otravleniia-shkolnikov-izi",
         "https://iz.ru/2163275/uchenye-obiasnili-prichiny-dnevnoi-sonlivosti-izi",
         "https://iz.ru/2163318/uchenye-raskryli-rol-glubokogo-sna-v-borbe-so-stressom-izi",
         "https://iz.ru/2163375/uchenye-peresmotreli-prichiny-razvitiia-bolezni-altcgeimera-izi",
@@ -175,11 +168,18 @@
         "https://iz.ru/2164318/minprosveshcheniia-sinkhronizirovalo-programmy-po-fizike-i-khimii-s-ege-i-oge-izi",
         "https://iz.ru/2164324/minekonomrazvitiia-otcenilo-vozmozhnost-uvelicheniia-turpotoka-mezhdu-rf-i-vetnamom-izi",
         "https://iz.ru/2164328/reuters-uznalo-o-novykh-sluchaiakh-nesanktcionirovannoi-aktivnosti-ii-agentov-openai-izi",
-        "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi"
+        "https://iz.ru/2164330/karen-khachanov-vyshel-v-polufinal-us-open-izi",
+        "https://iz.ru/2164331/fsb-zaderzhala-agenta-sbu-iz-okhrany-posolstva-velikobritanii-v-moskve-izi",
+        "https://iz.ru/2164333/otriad-severnogo-flota-voshel-v-akvatoriiu-moria-laptevykh-izi",
+        "https://iz.ru/2164334/nazvany-regiony-s-ustanovlennoi-vyplatoi-za-tretego-rebenka-izi",
+        "https://iz.ru/2164335/v-gretcii-zhenshchina-rodila-rebenka-iz-khranivshegosia-22-goda-v-zamorozke-embriona-izi",
+        "https://iz.ru/2164348/rossiianam-nazvali-chislo-pensionnykh-ballov-pri-srednei-zarplate-izi",
+        "https://iz.ru/2164354/nazvany-11-sfer-s-dokhodom-vyshe-500-tys-rublei-v-rossii-izi",
+        "https://iz.ru/2164360/v-dagestane-uchastnik-terroristicheskogo-soobshchestva-poluchil-15-let-lisheniia-svobody-izi"
       ]
     },
     "2026-09-11": {
-      "totalChecked": 1067,
+      "totalChecked": 1033,
       "totalIzi": 217,
       "totalIiz": 1,
       "totalAi": 218,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-09-17": {
-      "totalChecked": 896,
-      "totalIzi": 198,
+      "totalChecked": 943,
+      "totalIzi": 206,
       "totalIiz": 2,
-      "totalAi": 200,
+      "totalAi": 208,
       "topLinks": [
         "https://iz.ru/2167438/uchenye-nashli-prichinu-nekotorykh-porokov-serdtca-izi",
         "https://iz.ru/2167489/uchenye-uznali-o-vliianii-raiona-prozhivaniia-na-zdorove-mozga-izi",
@@ -375,11 +375,23 @@
       ]
     },
     "2026-09-18": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 112,
+      "totalIzi": 7,
+      "totalIiz": 4,
+      "totalAi": 11,
+      "topLinks": [
+        "https://iz.ru/2166774/rozhdestvo-bogoroditcy-2026-kakie-zaprety-vazhno-sobliudat-v-velikii-prazdnik-iiz",
+        "https://iz.ru/2168671/narodnye-primety-na-18-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2168952/efreitor-gerasimovich-vynes-dvukh-ranenykh-tovarishchei-s-polia-boia-izi",
+        "https://iz.ru/2169001/tusk-zaiavil-o-rekordnykh-poteriakh-vsu-v-27-tys-chelovek-v-mesiatc-izi",
+        "https://iz.ru/2169003/2026-09-18/semero-voennykh-postradali-pri-vzryve-na-poligone-v-shvetcii-izi",
+        "https://iz.ru/2169005/sud-v-peterburge-arestoval-blogera-radu-russkikh-na-sutki-izi",
+        "https://iz.ru/2169007/izbirkomy-chukotki-preodoleli-bolee-27-tys-km-v-khode-dosrochnogo-golosovaniia-izi",
+        "https://iz.ru/2169011/glava-chukotki-kuznetcov-progolosoval-odnim-iz-pervykh-sredi-gubernatorov-izi",
+        "https://iz.ru/2166774/rozhdestvo-bogoroditcy-2026-kakie-zaprety-vazhno-sobliudat-v-velikii-prazdnik-iiz",
+        "https://iz.ru/2168671/narodnye-primety-na-18-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2168952/efreitor-gerasimovich-vynes-dvukh-ranenykh-tovarishchei-s-polia-boia-izi"
+      ]
     }
   }
 }
