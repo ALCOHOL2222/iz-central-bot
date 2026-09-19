@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:53:12.958Z",
+  "generatedAt": "2026-09-19T23:18:35.252Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-09-06": {
-      "totalChecked": 231,
-      "totalIzi": 86,
-      "totalIiz": 1,
-      "totalAi": 87,
-      "topLinks": [
-        "https://iz.ru/2161144/narodnye-primety-na-6-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2161214/uchenye-ukazali-na-rol-khodby-pri-astme-izi",
-        "https://iz.ru/2161290/uchenye-obiasnili-polzu-umerennogo-stressa-dlia-kletok-organizma-izi",
-        "https://iz.ru/2161393/uchenye-nauchilis-otlichat-sindrom-razbitogo-serdtca-ot-infarkta-po-analizu-krovi-izi",
-        "https://iz.ru/2161990/vs-rf-porazili-zavod-boepripasov-blek-ammo-i-sudno-s-imushchestvom-dlia-vsu-izi",
-        "https://iz.ru/2162014/2026-09-06/takaiti-potrebovala-demontirovat-memorial-pobedy-nad-iaponiei-v-khabarovske-izi",
-        "https://iz.ru/2162018/umer-sygravshii-v-filme-bunker-nemetckii-akter-mikhael-mendl-izi",
-        "https://iz.ru/2162021/2026-09-06/analitik-merkuris-ne-iskliuchil-pobeg-zelenskogo-na-zapad-s-chemodanami-deneg-izi",
-        "https://iz.ru/2162023/aramilev-soobshchil-o-redkikh-dolgozhiteliakh-sredi-amurskikh-tigrov-v-primore-izi",
-        "https://iz.ru/2162025/samolet-uitkoffa-i-kushnera-prizemlilsia-v-polshe-izi",
-        "https://iz.ru/2162026/ekspert-po-zhkkh-nazval-sposoby-pozhalovatsia-na-shumnykh-sosedei-izi",
-        "https://iz.ru/2162031/chirkov-soobshchil-o-planakh-naznachat-pensii-po-starosti-bez-zaiavleniia-izi",
-        "https://iz.ru/2162032/khanter-baiden-dopustil-uchastie-v-vyborakh-i-nazval-svoi-vozmozhnyi-elektorat-izi",
-        "https://iz.ru/2162052/serzhant-baranov-otrazil-popytku-boevikov-vsu-vernut-utrachennye-pozitcii-izi",
-        "https://iz.ru/2162054/akademik-razveial-mif-o-sushchestvovanii-bezopasnoi-dozy-alkogolia-izi",
-        "https://iz.ru/2162055/filolog-rasskazala-o-dopustimosti-ispolzovaniia-srednego-roda-slova-kofe-izi",
-        "https://iz.ru/2162058/plennyi-soldat-vsu-rasskazal-o-narkotorgovle-v-uchebnoi-chasti-na-ukraine-izi",
-        "https://iz.ru/2162061/iurist-prizval-soobshchat-pravookhraniteliam-o-popytke-skloneniia-k-gosizmene-izi",
-        "https://iz.ru/2162076/prozorov-soobshchil-o-zaprete-briusselia-kritikovat-kievskii-rezhim-izi",
-        "https://iz.ru/2162077/v-suvenirnom-magazine-belogo-doma-ne-nashli-ostavlennuiu-uitkoffom-v-moskve-monetu-izi"
-      ]
-    },
     "2026-09-07": {
       "totalChecked": 457,
       "totalIzi": 119,
@@ -179,35 +151,35 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 466,
-      "totalIzi": 198,
+      "totalChecked": 435,
+      "totalIzi": 184,
       "totalIiz": 1,
-      "totalAi": 199,
+      "totalAi": 185,
       "topLinks": [
-        "https://iz.ru/2165961/na-ukraine-otmenili-poezda-do-goroda-sumy-izi",
-        "https://iz.ru/2165963/putin-i-lidery-briks-vmeste-posadili-derevo-banian-v-niu-deli-izi",
-        "https://iz.ru/2165964/v-minselkhoze-rf-soobshchili-ob-otsutstvii-problem-s-eksportom-rossiiskogo-zerna-izi",
-        "https://iz.ru/2165970/v-italii-ukazali-na-istinnoe-polozhenie-zapada-posle-slov-putina-na-sammite-briks-izi",
-        "https://iz.ru/2165971/putin-vstretilsia-s-premerom-efiopii-na-sammite-briks-v-niu-deli-izi",
-        "https://iz.ru/2165976/khachanov-raskritikoval-zvereva-posle-polufinala-us-open-izi",
-        "https://iz.ru/2165979/chislo-postradavshikh-pri-dtp-s-reisovym-avtobusom-v-permskom-krae-vyroslo-do-20-izi",
-        "https://iz.ru/2165980/bloomberg-rasskazalo-o-sindrome-vnezapnogo-obogashcheniia-u-osnovatelei-startapov-izi",
-        "https://iz.ru/2165986/peskov-zaiavil-ob-otsutstvii-initciativ-o-peregovorakh-s-rossiei-so-storony-evropy-izi",
-        "https://iz.ru/2165989/antonelli-stal-luchshim-v-tretei-praktike-gran-pri-ispanii-formuly-1-izi",
-        "https://iz.ru/2165993/v-sankt-peterburge-proshel-krestnyi-khod-s-chastitcei-moshchei-dmitriia-donskogo-izi",
-        "https://iz.ru/2165994/khemilton-vrezalsia-v-stenu-v-tretei-praktike-gran-pri-ispanii-izi",
-        "https://iz.ru/2165998/putin-nazval-oae-odnoi-iz-samykh-blizkikh-rossii-stran-blizhnego-vostoka-izi",
-        "https://iz.ru/2166009/rosaviatciia-klassifitcirovala-padenie-samoleta-v-tatarstane-kak-katastrofu-izi",
         "https://iz.ru/2166013/lavrov-iskliuchil-ostanovku-svo-na-vremia-peregovorov-s-ukrainoi-izi",
         "https://iz.ru/2166017/fakel-i-baltika-sygrali-vnichiu-v-matche-vosmogo-tura-rpl-izi",
         "https://iz.ru/2166021/putin-otmetil-rost-avtoriteta-i-vliianiia-briks-v-mire-izi",
         "https://iz.ru/2166023/lavrov-nazval-priglashenie-zelenskogo-v-moskvu-ogromnym-zhestom-dobroi-voli-izi",
         "https://iz.ru/2166024/v-taganroge-pri-atake-vsu-povrezhdeny-16-kommercheskikh-zdanii-i-piat-mashin-izi",
-        "https://iz.ru/2166025/wsj-uznala-ob-ispolzovanii-iranom-razveddannykh-kitaia-dlia-udara-po-baze-ssha-izi"
+        "https://iz.ru/2166025/wsj-uznala-ob-ispolzovanii-iranom-razveddannykh-kitaia-dlia-udara-po-baze-ssha-izi",
+        "https://iz.ru/2166026/kontrol-nad-veselym-sozdal-usloviia-dlia-nastupleniia-na-dobropolskom-napravlenii-izi",
+        "https://iz.ru/2166027/premer-ministr-efiopii-poshutil-o-molozhavosti-lavrova-izi",
+        "https://iz.ru/2166029/putin-i-si-tczinpin-poprivetstvovali-drug-druga-na-sammite-briks-v-indii-izi",
+        "https://iz.ru/2166030/dmitriev-nazval-trampa-nedostaiushchim-uchastnikom-briks-izi",
+        "https://iz.ru/2166032/dmitriev-rasskazal-o-variantakh-provedeniia-biznes-foruma-rossiia-ssha-germaniia-izi",
+        "https://iz.ru/2166035/tramp-zaiavil-o-zhelanii-uvidet-obedinenie-irlandii-izi",
+        "https://iz.ru/2166039/mirnyi-zhitel-pogib-v-rezultate-ataki-vsu-v-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2166040/dmitriev-otmetil-interes-nemetckogo-biznesa-k-forumu-rossii-ssha-i-germanii-izi",
+        "https://iz.ru/2166041/peskov-zaiavil-o-vozvrashchenii-evropy-k-kholodnoi-voine-s-rossiei-izi",
+        "https://iz.ru/2166043/v-mid-slovakii-zaiavili-o-zhelanii-vosstanovit-kommunikatcionnye-kanaly-s-rf-izi",
+        "https://iz.ru/2166044/vs-rf-porazili-metallokombinat-v-krivom-roge-izi",
+        "https://iz.ru/2166045/v-erevane-dopustili-peresmotr-arendnoi-platy-za-bazu-rf-iz-za-tcen-na-gaz-izi",
+        "https://iz.ru/2166046/futbolku-eks-vrataria-perkhuna-podniali-pod-svody-domashnego-stadiona-tcska-izi",
+        "https://iz.ru/2166047/uralvagonzavod-peredal-vs-rf-novye-tanki-t-90m-i-t-72b3m-s-usilennoi-zashchitoi-izi"
       ]
     },
     "2026-09-13": {
-      "totalChecked": 556,
+      "totalChecked": 553,
       "totalIzi": 189,
       "totalIiz": 1,
       "totalAi": 190,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 588,
-      "totalIzi": 196,
+      "totalChecked": 636,
+      "totalIzi": 208,
       "totalIiz": 2,
-      "totalAi": 198,
+      "totalAi": 210,
       "topLinks": [
         "https://iz.ru/2168117/uchenye-vyiavili-rol-tcelnozernovykh-produktov-v-zdorove-serdtca-izi",
         "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi",
@@ -400,6 +372,23 @@
         "https://iz.ru/2169731/rossiianin-umer-iz-za-utechki-khladagenta-na-sudne-v-portu-pusana-izi",
         "https://iz.ru/2169732/ssha-odobrili-vozmozhnuiu-prodazhu-ukraine-sredstv-pvo-na-268-mlrd-izi",
         "https://iz.ru/2169734/2026-09-19/putin-zaiavil-o-gotovnosti-rossii-vosstanovit-otnosheniia-s-evropoi-izi"
+      ]
+    },
+    "2026-09-20": {
+      "totalChecked": 59,
+      "totalIzi": 8,
+      "totalIiz": 1,
+      "totalAi": 9,
+      "topLinks": [
+        "https://iz.ru/2170109/mladshii-serzhant-stoianov-likvidiroval-diversionnuiu-gruppu-vsu-izi",
+        "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi",
+        "https://iz.ru/2170121/2026-09-20/v-tcik-rf-nazvali-sroki-poiavleniia-pervykh-rezultatov-vyborov-v-gosdumu-izi",
+        "https://iz.ru/https://iz.ru/node/2160198-iiz",
+        "https://iz.ru/2170109/mladshii-serzhant-stoianov-likvidiroval-diversionnuiu-gruppu-vsu-izi",
+        "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi",
+        "https://iz.ru/2170121/2026-09-20/v-tcik-rf-nazvali-sroki-poiavleniia-pervykh-rezultatov-vyborov-v-gosdumu-izi",
+        "https://iz.ru/2170125/figurist-kondratiuk-vyskazalsia-ob-otzyve-neitralnogo-statusa-izi",
+        "https://iz.ru/2170130/2026-09-20/iran-vydvinul-ssha-sem-uslovii-dlia-nachala-peregovorov-izi"
       ]
     }
   }
