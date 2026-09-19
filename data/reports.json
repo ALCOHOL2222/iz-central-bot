@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:22:15.687Z",
+  "generatedAt": "2026-09-19T06:05:12.959Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,40 +151,39 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 632,
-      "totalIzi": 131,
+      "totalChecked": 583,
+      "totalIzi": 114,
       "totalIiz": 1,
-      "totalAi": 132,
+      "totalAi": 115,
       "topLinks": [
-        "https://iz.ru/2165567/v-krymu-zaderzhali-brata-s-sestroi-po-podozreniiu-v-gosizmene-izi",
-        "https://iz.ru/2165581/putin-ukazal-na-svoevremennuiu-realizatciiu-sovmestnykh-proektov-rf-i-egipta-izi",
-        "https://iz.ru/2165583/chto-proizoshlo-za-den-11-sentiabria-glavnoe-izi",
-        "https://iz.ru/2165590/v-mid-rf-vyrazili-obespokoennost-rezkoi-degradatciei-obstanovki-v-jemene-izi",
-        "https://iz.ru/2165618/ushakov-nazval-chepukhoi-trebovanie-iaponii-izmenit-kartu-mira-oon-izi",
-        "https://iz.ru/2165625/lukashenko-nazval-vozvrat-deneg-usloviem-dlia-novykh-dogovorennostei-s-ssha-izi",
-        "https://iz.ru/2165631/chislo-pogibshikh-v-dtp-s-lesovozom-i-avtobusom-pod-arkhangelskom-vyroslo-do-12-izi",
-        "https://iz.ru/2165638/v-krasnoiarskom-krae-vveli-voznagrazhdenie-za-dobychu-medvedia-izi",
-        "https://iz.ru/2165640/rossiia-i-iuar-zanialis-podgotovkoi-pervoi-zhenshchiny-kosmonavta-iz-afriki-izi",
-        "https://iz.ru/2165641/gref-zaiavil-ob-ogromnykh-perspektivakh-mezhdunarodnykh-raschetov-v-tcifrovykh-valiutakh-izi",
-        "https://iz.ru/2165645/v-mvd-predlozhili-oblegchit-registratciiu-avto-vladeltcam-iz-novykh-regionov-izi",
-        "https://iz.ru/2165646/dmitriev-zaiavil-o-12-kratnoi-raznitce-tcen-na-gaz-v-es-i-ssha-izi",
-        "https://iz.ru/2165647/poiavilis-kadry-s-mesta-smertelnogo-dtp-pod-arkhangelskom-izi",
-        "https://iz.ru/2165648/samolet-s-endriu-garfildom-sovershil-avariinuiu-posadku-v-niu-meksiko-izi",
-        "https://iz.ru/2165650/ushakov-ukazal-na-pogruzhennost-modi-v-detali-proiskhodiashchego-na-ukraine-izi",
-        "https://iz.ru/2165651/figuristy-boikova-i-kozlovskii-poluchili-priglashenie-na-etap-gran-pri-v-finliandii-izi",
-        "https://iz.ru/2165652/ploshchad-pozhara-v-zapovednike-utrish-pod-anapoi-vyrosla-do-10-ga-izi",
         "https://iz.ru/2165663/dtp-s-avtobusom-i-lesovozom-v-arkhangelskoi-oblasti-chto-izvestno-izi",
         "https://iz.ru/2165681/sud-v-turtcii-prigovoril-eks-mera-stambula-imamoglu-k-dvum-godam-tiurmy-izi",
-        "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi"
+        "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
+        "https://iz.ru/2163932/bystree-ili-bolshe-uchenye-ukazali-na-sviaz-khodby-s-dolgoletiem-izi",
+        "https://iz.ru/2163999/uchenye-ukazali-rol-muzyki-v-vosstanovlenii-posle-stressa-izi",
+        "https://iz.ru/2164028/uchenye-obiasnili-sviaz-kofeina-s-kletochnymi-mekhanizmami-stareniia-izi",
+        "https://iz.ru/2164480/uchenye-nashli-sviaz-detskoi-travmy-i-narushenii-moralnogo-povedeniia-izi",
+        "https://iz.ru/2164602/2026-09-11/v-rptc-otcenili-dopustimost-provedeniia-abortov-u-zhivotnykh-izi",
+        "https://iz.ru/2164726/narodnye-primety-na-11-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2164771/2026-09-11/nevrolog-rasskazala-o-vliianii-ambidekstrii-na-rabotu-mozga-izi",
+        "https://iz.ru/2164970/manchester-iunaited-razgromil-sabakh-v-matche-obshchego-etapa-ligi-chempionov-izi",
+        "https://iz.ru/2164972/spartak-obygral-ska-so-schetom-31-v-matche-chempionata-kkhl-izi",
+        "https://iz.ru/2164975/evropa-ne-smozhet-polnostiu-pokryt-finansovye-zaprosy-ukrainy-v-2026-godu-izi",
+        "https://iz.ru/2164983/v-finliandii-raskritikovali-zaiavlenie-riutte-o-iakoby-prevoskhodstve-nato-nad-rossiei-izi",
+        "https://iz.ru/2164992/v-rossii-vyiavili-sferu-so-srednei-zarplatoi-vyshe-1-mln-rublei-izi",
+        "https://iz.ru/2164994/senator-ssha-nachal-rassledovanie-protiv-openai-iz-za-ii-izi",
+        "https://iz.ru/2164996/chechnia-vozglavila-reiting-regionov-rossii-s-samym-nizkim-potrebleniem-alkogolia-izi",
+        "https://iz.ru/2164998/v-minprosveshcheniia-rasskazali-o-novom-standarte-dlia-starshikh-klassov-s-2027-goda-izi",
+        "https://iz.ru/2165003/bolee-450-molodykh-semei-v-pskovskoi-oblasti-poluchili-vyplaty-za-tretego-rebenka-izi",
+        "https://iz.ru/2165013/moshenniki-nachali-vzlamyvat-akkaunty-uchitelei-dlia-obmana-roditelei-izi"
       ]
     },
     "2026-09-12": {
-      "totalChecked": 653,
-      "totalIzi": 253,
+      "totalChecked": 650,
+      "totalIzi": 252,
       "totalIiz": 1,
-      "totalAi": 254,
+      "totalAi": 253,
       "topLinks": [
-        "https://iz.ru/2165621/glavnye-intrigi-8-go-tura-rpl-anons-glavnykh-matchei-uikenda-izi",
         "https://iz.ru/2165706/putin-na-sammite-briks-v-niu-deli-sdelal-riad-zaiavlenii-glavnoe-izi",
         "https://iz.ru/2165713/na-ukraine-obrazovalsia-defitcit-raket-dlia-f-16-iz-za-otrazheniia-geranei-vs-rf-izi",
         "https://iz.ru/2165721/v-gfcn-nazvali-feik-o-mobilizatcii-popytkoi-sozdat-napriazhenie-pered-vyborami-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2165784/smi-soobshchili-o-krupneishem-v-istorii-britanii-pozhertvovanii-partii-reform-uk-izi",
         "https://iz.ru/2165787/moshenniki-nachali-ispolzovat-ii-dlia-sozdaniia-feikovykh-komprometiruiushchikh-materialov-izi",
         "https://iz.ru/2165791/v-finliandii-zaiavili-o-sniatii-otvetstvennosti-za-tranzit-iadernogo-oruzhiia-nato-izi",
-        "https://iz.ru/2165792/amerikanskii-tennisist-shelton-obygral-tiafoa-i-vyshel-v-final-us-open-izi"
+        "https://iz.ru/2165792/amerikanskii-tennisist-shelton-obygral-tiafoa-i-vyshel-v-final-us-open-izi",
+        "https://iz.ru/2165793/repera-lil-durk-opravdali-po-delu-o-zakaznom-ubiistve-izi"
       ]
     },
     "2026-09-13": {
-      "totalChecked": 559,
+      "totalChecked": 557,
       "totalIzi": 189,
       "totalIiz": 1,
       "totalAi": 190,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 883,
+      "totalChecked": 882,
       "totalIzi": 219,
       "totalIiz": 1,
       "totalAi": 220,
@@ -375,20 +375,31 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 72,
-      "totalIzi": 7,
+      "totalChecked": 162,
+      "totalIzi": 37,
       "totalIiz": 2,
-      "totalAi": 9,
+      "totalAi": 39,
       "topLinks": [
+        "https://iz.ru/2168117/uchenye-vyiavili-rol-tcelnozernovykh-produktov-v-zdorove-serdtca-izi",
+        "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi",
+        "https://iz.ru/2168792/uchenye-obiasnili-ukhudshenie-pamiati-pri-beremennosti-izi",
+        "https://iz.ru/2168821/uchenye-izuchili-svoistva-chernogo-i-zelenogo-risa-izi",
+        "https://iz.ru/2169181/2026-09-19/bez-pasporta-za-granitcei-chto-delat-rossiianinu-pri-utrate-dokumentov-v-oae-izi",
+        "https://iz.ru/2169336/uchenye-rasskazali-o-roli-zhestov-v-ponimanii-grammatiki-izi",
         "https://iz.ru/2169345/narodnye-primety-na-19-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2169659/tramp-zaiavil-o-soglashenii-ssha-i-danii-po-bezopasnosti-grenlandii-izi",
         "https://iz.ru/2169670/ssha-daniia-i-grenlandiia-podpishut-soglashenie-o-bezopasnosti-na-ga-oon-izi",
         "https://iz.ru/2169671/rubio-obiasnil-sdelku-po-grenlandii-nekhvatkoi-sredstv-u-danii-na-zashchitu-ostrova-izi",
         "https://iz.ru/2169672/litva-podgotovila-plan-evakuatcii-zhitelei-vilniusa-v-polshu-na-sluchai-konflikta-izi",
-        "https://iz.ru/2169345/narodnye-primety-na-19-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2169659/tramp-zaiavil-o-soglashenii-ssha-i-danii-po-bezopasnosti-grenlandii-izi",
-        "https://iz.ru/2169670/ssha-daniia-i-grenlandiia-podpishut-soglashenie-o-bezopasnosti-na-ga-oon-izi",
-        "https://iz.ru/2169671/rubio-obiasnil-sdelku-po-grenlandii-nekhvatkoi-sredstv-u-danii-na-zashchitu-ostrova-izi"
+        "https://iz.ru/2169681/dmitriev-nazval-bi-bi-si-podryvaiushchei-zapadnuiu-tcivilizatciiu-izi",
+        "https://iz.ru/2169682/vrach-protezist-rasskazal-o-vozvrashchenii-k-sportu-posle-amputatcii-izi",
+        "https://iz.ru/2169694/syn-trampa-vernul-rossiiskomu-biznesmenu-dengi-za-svoiu-svadbu-izi",
+        "https://iz.ru/2169703/2026-09-19/zakharova-nazvala-ukrainskuiu-temu-odnoi-iz-kliuchevykh-dlia-peregovorov-lavrova-v-oon-izi",
+        "https://iz.ru/2169714/shaman-i-mizulina-progolosovali-na-vyborakh-v-gosdumu-izi",
+        "https://iz.ru/2169729/2026-09-19/v-semi-gorodakh-kitaia-nachalos-dosrochnoe-golosovanie-na-vyborakh-v-gosdumu-izi",
+        "https://iz.ru/2169731/rossiianin-umer-iz-za-utechki-khladagenta-na-sudne-v-portu-pusana-izi",
+        "https://iz.ru/2169732/ssha-odobrili-vozmozhnuiu-prodazhu-ukraine-sredstv-pvo-na-268-mlrd-izi",
+        "https://iz.ru/2169734/2026-09-19/putin-zaiavil-o-gotovnosti-rossii-vosstanovit-otnosheniia-s-evropoi-izi"
       ]
     }
   }
