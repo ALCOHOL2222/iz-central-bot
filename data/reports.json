@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T14:36:45.079Z",
+  "generatedAt": "2026-09-19T18:12:38.146Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,23 +179,11 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 546,
-      "totalIzi": 217,
+      "totalChecked": 491,
+      "totalIzi": 205,
       "totalIiz": 1,
-      "totalAi": 218,
+      "totalAi": 206,
       "topLinks": [
-        "https://iz.ru/2165843/putin-otmetil-iskliuchitelnuiu-rol-tuly-v-ukreplenii-gosudarstvennosti-rossii-izi",
-        "https://iz.ru/2165846/konditery-sdelali-shokoladnykh-matreshek-dlia-putina-i-chlenov-delegatcii-rf-na-briks-izi",
-        "https://iz.ru/2165859/pri-padenii-oblomkov-bpla-v-taganroge-zagorelis-chetyre-kommercheskikh-obekta-izi",
-        "https://iz.ru/2165867/toliatti-v-samarskoi-oblasti-podvergsia-massirovannoi-bespilotnoi-atake-izi",
-        "https://iz.ru/2165870/nigeriiskaia-aktrisa-nimmi-ferrari-umerla-v-vozraste-26-let-izi",
-        "https://iz.ru/2165875/sostoianie-bolshinstva-postradavshikh-v-dtp-pod-arkhangelskom-udalos-stabilizirovat-izi",
-        "https://iz.ru/2165879/v-partii-mertca-prigrozili-adg-nikogda-ne-primeniavsheisia-statei-konstitutcii-izi",
-        "https://iz.ru/2165880/umerla-samaia-krasivaia-iz-byvshikh-vozliublennykh-korolia-karla-iii-davina-morli-izi",
-        "https://iz.ru/2165886/spartak-zaiavil-o-planakh-ustanovit-pamiatnik-simonianu-u-stadiona-lukoil-arena-izi",
-        "https://iz.ru/2165899/sinoptik-sprognoziroval-anomalno-tepluiu-zimu-v-rossii-iz-za-el-nino-izi",
-        "https://iz.ru/2165904/na-ukraine-ulichili-zelenskogo-v-vizite-vragam-trampa-posle-vstrechi-s-uitkoffom-izi",
-        "https://iz.ru/2165915/v-finliandii-ukazali-na-neizmennyi-optimizm-krymchan-v-slozhnykh-iz-za-vsu-usloviiakh-izi",
         "https://iz.ru/2165938/vodorodnyi-aurus-pokazali-na-mezhdunarodnom-festivale-molodezhi-v-ekaterinburge-izi",
         "https://iz.ru/2165944/putin-briks-utverdilsia-sredi-kliuchevykh-tcentrov-globalnogo-upravleniia-izi",
         "https://iz.ru/2165946/sk-vozbudil-ugolovnoe-delo-posle-krusheniia-legkomotornogo-samoleta-v-tatarstane-izi",
@@ -203,11 +191,23 @@
         "https://iz.ru/2165951/peskov-zaiavil-o-ponimanii-stranami-briks-oshibok-evropeiskikh-vlastei-izi",
         "https://iz.ru/2165955/bfmtv-uznal-o-versii-zlonamerennogo-deianiia-pri-skhode-poezda-s-relsov-vo-frantcii-izi",
         "https://iz.ru/2165959/zhitelnitcu-tatarstana-oshtrafovali-za-oskorblenie-glavy-snt-v-chate-izi",
-        "https://iz.ru/2165961/na-ukraine-otmenili-poezda-do-goroda-sumy-izi"
+        "https://iz.ru/2165961/na-ukraine-otmenili-poezda-do-goroda-sumy-izi",
+        "https://iz.ru/2165963/putin-i-lidery-briks-vmeste-posadili-derevo-banian-v-niu-deli-izi",
+        "https://iz.ru/2165964/v-minselkhoze-rf-soobshchili-ob-otsutstvii-problem-s-eksportom-rossiiskogo-zerna-izi",
+        "https://iz.ru/2165970/v-italii-ukazali-na-istinnoe-polozhenie-zapada-posle-slov-putina-na-sammite-briks-izi",
+        "https://iz.ru/2165971/putin-vstretilsia-s-premerom-efiopii-na-sammite-briks-v-niu-deli-izi",
+        "https://iz.ru/2165976/khachanov-raskritikoval-zvereva-posle-polufinala-us-open-izi",
+        "https://iz.ru/2165979/chislo-postradavshikh-pri-dtp-s-reisovym-avtobusom-v-permskom-krae-vyroslo-do-20-izi",
+        "https://iz.ru/2165980/bloomberg-rasskazalo-o-sindrome-vnezapnogo-obogashcheniia-u-osnovatelei-startapov-izi",
+        "https://iz.ru/2165986/peskov-zaiavil-ob-otsutstvii-initciativ-o-peregovorakh-s-rossiei-so-storony-evropy-izi",
+        "https://iz.ru/2165989/antonelli-stal-luchshim-v-tretei-praktike-gran-pri-ispanii-formuly-1-izi",
+        "https://iz.ru/2165993/v-sankt-peterburge-proshel-krestnyi-khod-s-chastitcei-moshchei-dmitriia-donskogo-izi",
+        "https://iz.ru/2165994/khemilton-vrezalsia-v-stenu-v-tretei-praktike-gran-pri-ispanii-izi",
+        "https://iz.ru/2165998/putin-nazval-oae-odnoi-iz-samykh-blizkikh-rossii-stran-blizhnego-vostoka-izi"
       ]
     },
     "2026-09-13": {
-      "totalChecked": 557,
+      "totalChecked": 556,
       "totalIzi": 189,
       "totalIiz": 1,
       "totalAi": 190,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 881,
+      "totalChecked": 880,
       "totalIzi": 219,
       "totalIiz": 1,
       "totalAi": 220,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 394,
-      "totalIzi": 133,
+      "totalChecked": 526,
+      "totalIzi": 177,
       "totalIiz": 2,
-      "totalAi": 135,
+      "totalAi": 179,
       "topLinks": [
         "https://iz.ru/2168117/uchenye-vyiavili-rol-tcelnozernovykh-produktov-v-zdorove-serdtca-izi",
         "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi",
