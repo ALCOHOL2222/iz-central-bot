@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T06:05:12.959Z",
+  "generatedAt": "2026-09-19T11:13:02.941Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-09-11": {
-      "totalChecked": 583,
-      "totalIzi": 114,
+      "totalChecked": 556,
+      "totalIzi": 112,
       "totalIiz": 1,
-      "totalAi": 115,
+      "totalAi": 113,
       "topLinks": [
-        "https://iz.ru/2165663/dtp-s-avtobusom-i-lesovozom-v-arkhangelskoi-oblasti-chto-izvestno-izi",
-        "https://iz.ru/2165681/sud-v-turtcii-prigovoril-eks-mera-stambula-imamoglu-k-dvum-godam-tiurmy-izi",
         "https://iz.ru/2162838/chuzhaia-bol-kak-tania-khed-stala-litcom-vyzhivshikh-11-sentiabria-khotia-ee-ne-bylo-v-bashniakh-izi",
         "https://iz.ru/2163932/bystree-ili-bolshe-uchenye-ukazali-na-sviaz-khodby-s-dolgoletiem-izi",
         "https://iz.ru/2163999/uchenye-ukazali-rol-muzyki-v-vosstanovlenii-posle-stressa-izi",
@@ -175,18 +173,17 @@
         "https://iz.ru/2164996/chechnia-vozglavila-reiting-regionov-rossii-s-samym-nizkim-potrebleniem-alkogolia-izi",
         "https://iz.ru/2164998/v-minprosveshcheniia-rasskazali-o-novom-standarte-dlia-starshikh-klassov-s-2027-goda-izi",
         "https://iz.ru/2165003/bolee-450-molodykh-semei-v-pskovskoi-oblasti-poluchili-vyplaty-za-tretego-rebenka-izi",
-        "https://iz.ru/2165013/moshenniki-nachali-vzlamyvat-akkaunty-uchitelei-dlia-obmana-roditelei-izi"
+        "https://iz.ru/2165013/moshenniki-nachali-vzlamyvat-akkaunty-uchitelei-dlia-obmana-roditelei-izi",
+        "https://iz.ru/2165015/rossiiane-nazvali-zhelaemyi-razmer-minimalnoi-zarplaty-izi",
+        "https://iz.ru/2165017/nazvany-otrasli-s-samym-dlinnym-rabochim-dnem-v-pervom-polugodii-izi"
       ]
     },
     "2026-09-12": {
-      "totalChecked": 650,
-      "totalIzi": 252,
+      "totalChecked": 624,
+      "totalIzi": 249,
       "totalIiz": 1,
-      "totalAi": 253,
+      "totalAi": 250,
       "topLinks": [
-        "https://iz.ru/2165706/putin-na-sammite-briks-v-niu-deli-sdelal-riad-zaiavlenii-glavnoe-izi",
-        "https://iz.ru/2165713/na-ukraine-obrazovalsia-defitcit-raket-dlia-f-16-iz-za-otrazheniia-geranei-vs-rf-izi",
-        "https://iz.ru/2165721/v-gfcn-nazvali-feik-o-mobilizatcii-popytkoi-sozdat-napriazhenie-pered-vyborami-izi",
         "https://iz.ru/2165727/rossiiskii-tennisist-khachanov-proigral-zverevu-v-polufinale-us-open-izi",
         "https://iz.ru/2165728/byvshim-plennym-boevikam-vsu-nachali-prikhodit-povestki-v-ttck-izi",
         "https://iz.ru/2165735/moshenniki-nachali-pugat-poterei-deneg-bez-konvertatcii-sredstv-v-tcifrovoi-rubl-izi",
@@ -203,7 +200,10 @@
         "https://iz.ru/2165787/moshenniki-nachali-ispolzovat-ii-dlia-sozdaniia-feikovykh-komprometiruiushchikh-materialov-izi",
         "https://iz.ru/2165791/v-finliandii-zaiavili-o-sniatii-otvetstvennosti-za-tranzit-iadernogo-oruzhiia-nato-izi",
         "https://iz.ru/2165792/amerikanskii-tennisist-shelton-obygral-tiafoa-i-vyshel-v-final-us-open-izi",
-        "https://iz.ru/2165793/repera-lil-durk-opravdali-po-delu-o-zakaznom-ubiistve-izi"
+        "https://iz.ru/2165793/repera-lil-durk-opravdali-po-delu-o-zakaznom-ubiistve-izi",
+        "https://iz.ru/2165798/v-meksikanskom-zalive-proizoshla-utechka-nefti-izi",
+        "https://iz.ru/2165799/v-gosdume-predlozhili-obiazat-zastroishchikov-otdavat-5-kvartir-pod-naemnye-doma-izi",
+        "https://iz.ru/2165801/iurist-nazvala-sposob-vernut-do-260-tys-rublei-pri-pokupke-kvartiry-izi"
       ]
     },
     "2026-09-13": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 882,
+      "totalChecked": 881,
       "totalIzi": 219,
       "totalIiz": 1,
       "totalAi": 220,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 162,
-      "totalIzi": 37,
+      "totalChecked": 316,
+      "totalIzi": 106,
       "totalIiz": 2,
-      "totalAi": 39,
+      "totalAi": 108,
       "topLinks": [
         "https://iz.ru/2168117/uchenye-vyiavili-rol-tcelnozernovykh-produktov-v-zdorove-serdtca-izi",
         "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi",
