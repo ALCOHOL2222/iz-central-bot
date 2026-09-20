@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T23:18:35.252Z",
+  "generatedAt": "2026-09-20T01:21:29.152Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,23 +151,11 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 435,
-      "totalIzi": 184,
+      "totalChecked": 419,
+      "totalIzi": 172,
       "totalIiz": 1,
-      "totalAi": 185,
+      "totalAi": 173,
       "topLinks": [
-        "https://iz.ru/2166013/lavrov-iskliuchil-ostanovku-svo-na-vremia-peregovorov-s-ukrainoi-izi",
-        "https://iz.ru/2166017/fakel-i-baltika-sygrali-vnichiu-v-matche-vosmogo-tura-rpl-izi",
-        "https://iz.ru/2166021/putin-otmetil-rost-avtoriteta-i-vliianiia-briks-v-mire-izi",
-        "https://iz.ru/2166023/lavrov-nazval-priglashenie-zelenskogo-v-moskvu-ogromnym-zhestom-dobroi-voli-izi",
-        "https://iz.ru/2166024/v-taganroge-pri-atake-vsu-povrezhdeny-16-kommercheskikh-zdanii-i-piat-mashin-izi",
-        "https://iz.ru/2166025/wsj-uznala-ob-ispolzovanii-iranom-razveddannykh-kitaia-dlia-udara-po-baze-ssha-izi",
-        "https://iz.ru/2166026/kontrol-nad-veselym-sozdal-usloviia-dlia-nastupleniia-na-dobropolskom-napravlenii-izi",
-        "https://iz.ru/2166027/premer-ministr-efiopii-poshutil-o-molozhavosti-lavrova-izi",
-        "https://iz.ru/2166029/putin-i-si-tczinpin-poprivetstvovali-drug-druga-na-sammite-briks-v-indii-izi",
-        "https://iz.ru/2166030/dmitriev-nazval-trampa-nedostaiushchim-uchastnikom-briks-izi",
-        "https://iz.ru/2166032/dmitriev-rasskazal-o-variantakh-provedeniia-biznes-foruma-rossiia-ssha-germaniia-izi",
-        "https://iz.ru/2166035/tramp-zaiavil-o-zhelanii-uvidet-obedinenie-irlandii-izi",
         "https://iz.ru/2166039/mirnyi-zhitel-pogib-v-rezultate-ataki-vsu-v-belgorodskoi-oblasti-izi",
         "https://iz.ru/2166040/dmitriev-otmetil-interes-nemetckogo-biznesa-k-forumu-rossii-ssha-i-germanii-izi",
         "https://iz.ru/2166041/peskov-zaiavil-o-vozvrashchenii-evropy-k-kholodnoi-voine-s-rossiei-izi",
@@ -175,7 +163,19 @@
         "https://iz.ru/2166044/vs-rf-porazili-metallokombinat-v-krivom-roge-izi",
         "https://iz.ru/2166045/v-erevane-dopustili-peresmotr-arendnoi-platy-za-bazu-rf-iz-za-tcen-na-gaz-izi",
         "https://iz.ru/2166046/futbolku-eks-vrataria-perkhuna-podniali-pod-svody-domashnego-stadiona-tcska-izi",
-        "https://iz.ru/2166047/uralvagonzavod-peredal-vs-rf-novye-tanki-t-90m-i-t-72b3m-s-usilennoi-zashchitoi-izi"
+        "https://iz.ru/2166047/uralvagonzavod-peredal-vs-rf-novye-tanki-t-90m-i-t-72b3m-s-usilennoi-zashchitoi-izi",
+        "https://iz.ru/2166050/putin-rf-pridaet-vazhnoe-znachenie-sokhraneniiu-tcentralnoi-roli-oon-izi",
+        "https://iz.ru/2166051/putin-zavershil-peregovory-v-indii-vstrechei-s-naslednym-printcem-abu-dabi-izi",
+        "https://iz.ru/2166054/peskov-rasskazal-o-prichine-otkaza-rossii-ot-dollara-v-torgovle-s-briks-izi",
+        "https://iz.ru/2166057/chto-proizoshlo-za-den-12-sentiabria-glavnoe-izi",
+        "https://iz.ru/2166058/ushel-iz-zhizni-zasluzhennyi-artist-rossii-sergei-belskii-izi",
+        "https://iz.ru/2166063/chislo-postradavshikh-v-dtp-s-avtobusom-v-permskom-krae-uvelichilos-do-22-izi",
+        "https://iz.ru/2166066/armiia-rossii-porazila-sukhogruz-s-voennymi-gruzami-v-portu-odessy-izi",
+        "https://iz.ru/2166070/taker-karlson-nazval-prichiny-vozmushcheniia-putinym-na-zapade-izi",
+        "https://iz.ru/2166071/zasluzhennyi-artist-rossii-sergei-belskii-biografiia-izi",
+        "https://iz.ru/2166072/spartak-stanovil-rekord-kkhl-po-samym-bystrym-trem-zabitym-shaibam-izi",
+        "https://iz.ru/2166073/pilot-mclaren-lando-norris-vyigral-kvalifikatciiu-gran-pri-ispanii-izi",
+        "https://iz.ru/2166075/cnn-uznal-o-rabote-instruktorov-ukrainy-s-boevikami-v-sudane-i-mali-izi"
       ]
     },
     "2026-09-13": {
@@ -375,14 +375,19 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 59,
-      "totalIzi": 8,
+      "totalChecked": 75,
+      "totalIzi": 13,
       "totalIiz": 1,
-      "totalAi": 9,
+      "totalAi": 14,
       "topLinks": [
         "https://iz.ru/2170109/mladshii-serzhant-stoianov-likvidiroval-diversionnuiu-gruppu-vsu-izi",
         "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi",
         "https://iz.ru/2170121/2026-09-20/v-tcik-rf-nazvali-sroki-poiavleniia-pervykh-rezultatov-vyborov-v-gosdumu-izi",
+        "https://iz.ru/2170125/figurist-kondratiuk-vyskazalsia-ob-otzyve-neitralnogo-statusa-izi",
+        "https://iz.ru/2170130/2026-09-20/iran-vydvinul-ssha-sem-uslovii-dlia-nachala-peregovorov-izi",
+        "https://iz.ru/2170132/glava-mid-turtcii-zaiavil-o-prevrashchenii-izrailia-v-ugrozu-i-mezhdunarodnuiu-problemu-izi",
+        "https://iz.ru/2170134/turtciia-napravila-rossii-i-ukraine-predlozhenie-po-vyvozu-zerna-iz-chernogo-moria-izi",
+        "https://iz.ru/2170140/rossiiane-poluchat-sem-korotkikh-rabochikh-nedel-v-2027-godu-izi",
         "https://iz.ru/https://iz.ru/node/2160198-iiz",
         "https://iz.ru/2170109/mladshii-serzhant-stoianov-likvidiroval-diversionnuiu-gruppu-vsu-izi",
         "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi",
