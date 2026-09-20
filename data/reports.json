@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:57:20.611Z",
+  "generatedAt": "2026-09-20T19:38:01.376Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,19 +179,11 @@
       ]
     },
     "2026-09-13": {
-      "totalChecked": 430,
-      "totalIzi": 158,
+      "totalChecked": 400,
+      "totalIzi": 150,
       "totalIiz": 1,
-      "totalAi": 159,
+      "totalAi": 151,
       "topLinks": [
-        "https://iz.ru/2166254/ushakov-zaiavil-o-gotovnosti-turtcii-i-drugikh-stran-priniat-peregovory-po-ukraine-izi",
-        "https://iz.ru/2166261/armiia-rossii-osvobodila-naselennyi-punkt-cherniakov-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2166267/moshenniki-ispolzuiut-temu-nalogovoi-deklaratcii-dlia-obmana-rossiian-izi",
-        "https://iz.ru/2166277/v-verkhovnoi-rade-rasskazali-ob-ultimatume-gretcii-iz-za-raket-dlia-patriot-izi",
-        "https://iz.ru/2166280/komandir-vs-rf-soobshchil-o-zablokirovannykh-podrazdeleniiakh-vsu-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2166283/sygravshaia-mashu-v-seriale-papiny-dochki-karpovich-podtverdila-beremennost-izi",
-        "https://iz.ru/2166286/v-mvd-nazvali-piat-osnovanii-dlia-obiazatelnoi-zameny-voditelskikh-prav-izi",
-        "https://iz.ru/2166287/peskov-zaiavil-o-vkliuchenii-vazhnykh-rf-punktov-v-deklaratciiu-po-itogam-sammita-briks-izi",
         "https://iz.ru/2166289/putin-otmetil-populiarnost-pesen-rozenbauma-i-ego-vklad-v-blagotvoritelnost-izi",
         "https://iz.ru/2166293/v-ran-raskryli-prichiny-khoroshei-sokhrannosti-ostankov-dmitriia-donskogo-izi",
         "https://iz.ru/2166294/peskov-zaiavil-ob-ukhudshenii-polozheniia-kievskogo-rezhima-den-oto-dnia-izi",
@@ -203,7 +195,15 @@
         "https://iz.ru/2166309/v-kremle-predosteregli-litvu-ot-otmeny-zapreta-na-razmeshchenie-iadernogo-oruzhiia-izi",
         "https://iz.ru/2166310/pamfilova-iskliuchila-polnyi-perekhod-rossii-k-elektronnomu-golosovaniiu-izi",
         "https://iz.ru/2166316/axios-ukazal-na-snizhenie-privlekatelnosti-ssha-dlia-inostrannykh-pravitelstv-izi",
-        "https://iz.ru/2166322/ft-ukazala-na-izmenenie-vozdushnykh-boev-iz-za-novykh-rossiiskikh-dronov-geran-izi"
+        "https://iz.ru/2166322/ft-ukazala-na-izmenenie-vozdushnykh-boev-iz-za-novykh-rossiiskikh-dronov-geran-izi",
+        "https://iz.ru/2166328/pochti-165-tys-podrostkov-podali-zaiavki-na-uchastie-v-detskoi-programme-mfm-2026-izi",
+        "https://iz.ru/2166331/komandir-vs-rf-raskryl-sroki-podgotovki-operatcii-po-okruzheniiu-vsu-pod-kharkovom-izi",
+        "https://iz.ru/2166338/vsu-bolee-10-raz-atakovali-dronami-uchebno-trenirovochnyi-tcentr-zaes-izi",
+        "https://iz.ru/2166341/v-gosdume-predupredili-o-vozmozhnom-sorevnovanii-stran-za-lunu-v-budushchem-izi",
+        "https://iz.ru/2166343/avtobus-malavto-do-smertelnogo-dtp-pod-arkhangelskom-uzhe-popadal-v-avariiu-izi",
+        "https://iz.ru/2166345/okolo-130-chelovek-propali-bez-vesti-na-zatonuvshem-v-indonezii-parome-izi",
+        "https://iz.ru/2166347/v-stavropolskom-krae-startoval-final-vserossiiskogo-marafona-zemlia-sporta-izi",
+        "https://iz.ru/2166351/v-cheliabinske-vozobnovilo-rabotu-vysshee-voennoe-tankovoe-uchilishche-izi"
       ]
     },
     "2026-09-14": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 475,
-      "totalIzi": 118,
+      "totalChecked": 566,
+      "totalIzi": 122,
       "totalIiz": 1,
-      "totalAi": 119,
+      "totalAi": 123,
       "topLinks": [
         "https://iz.ru/2168846/uchenye-sviazali-kachestvo-pitaniia-s-epigeneticheskimi-priznakami-stareniia-izi",
         "https://iz.ru/2169182/uchenye-obnaruzhili-novye-geneticheskie-faktory-psoriaza-izi",
