@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T01:21:29.152Z",
+  "generatedAt": "2026-09-20T06:30:09.851Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,31 +151,31 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 419,
-      "totalIzi": 172,
+      "totalChecked": 359,
+      "totalIzi": 135,
       "totalIiz": 1,
-      "totalAi": 173,
+      "totalAi": 136,
       "topLinks": [
-        "https://iz.ru/2166039/mirnyi-zhitel-pogib-v-rezultate-ataki-vsu-v-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2166040/dmitriev-otmetil-interes-nemetckogo-biznesa-k-forumu-rossii-ssha-i-germanii-izi",
-        "https://iz.ru/2166041/peskov-zaiavil-o-vozvrashchenii-evropy-k-kholodnoi-voine-s-rossiei-izi",
-        "https://iz.ru/2166043/v-mid-slovakii-zaiavili-o-zhelanii-vosstanovit-kommunikatcionnye-kanaly-s-rf-izi",
-        "https://iz.ru/2166044/vs-rf-porazili-metallokombinat-v-krivom-roge-izi",
-        "https://iz.ru/2166045/v-erevane-dopustili-peresmotr-arendnoi-platy-za-bazu-rf-iz-za-tcen-na-gaz-izi",
-        "https://iz.ru/2166046/futbolku-eks-vrataria-perkhuna-podniali-pod-svody-domashnego-stadiona-tcska-izi",
-        "https://iz.ru/2166047/uralvagonzavod-peredal-vs-rf-novye-tanki-t-90m-i-t-72b3m-s-usilennoi-zashchitoi-izi",
-        "https://iz.ru/2166050/putin-rf-pridaet-vazhnoe-znachenie-sokhraneniiu-tcentralnoi-roli-oon-izi",
-        "https://iz.ru/2166051/putin-zavershil-peregovory-v-indii-vstrechei-s-naslednym-printcem-abu-dabi-izi",
-        "https://iz.ru/2166054/peskov-rasskazal-o-prichine-otkaza-rossii-ot-dollara-v-torgovle-s-briks-izi",
-        "https://iz.ru/2166057/chto-proizoshlo-za-den-12-sentiabria-glavnoe-izi",
-        "https://iz.ru/2166058/ushel-iz-zhizni-zasluzhennyi-artist-rossii-sergei-belskii-izi",
-        "https://iz.ru/2166063/chislo-postradavshikh-v-dtp-s-avtobusom-v-permskom-krae-uvelichilos-do-22-izi",
-        "https://iz.ru/2166066/armiia-rossii-porazila-sukhogruz-s-voennymi-gruzami-v-portu-odessy-izi",
-        "https://iz.ru/2166070/taker-karlson-nazval-prichiny-vozmushcheniia-putinym-na-zapade-izi",
-        "https://iz.ru/2166071/zasluzhennyi-artist-rossii-sergei-belskii-biografiia-izi",
-        "https://iz.ru/2166072/spartak-stanovil-rekord-kkhl-po-samym-bystrym-trem-zabitym-shaibam-izi",
-        "https://iz.ru/2166073/pilot-mclaren-lando-norris-vyigral-kvalifikatciiu-gran-pri-ispanii-izi",
-        "https://iz.ru/2166075/cnn-uznal-o-rabote-instruktorov-ukrainy-s-boevikami-v-sudane-i-mali-izi"
+        "https://iz.ru/2166115/zenit-obygral-lokomotiv-so-schetom-21-izi",
+        "https://iz.ru/2166117/iran-postavil-ssha-sem-uslovii-dlia-otkrytiia-ormuzskogo-proliva-izi",
+        "https://iz.ru/2166121/tri-cheloveka-pogibli-i-13-postradali-pri-atakakh-bespilotnikov-v-dnr-izi",
+        "https://iz.ru/2166123/v-germanii-soobshchili-o-kontaktakh-s-rf-pochti-40-nemetckikh-munitcipalitetov-izi",
+        "https://iz.ru/2166125/kinooperator-boris-timkovskii-skonchalsia-na-91-m-godu-zhizni-izi",
+        "https://iz.ru/2166135/kushner-schitaet-territorialnyi-vopros-samym-slozhnym-na-peregovorakh-po-ukraine-izi",
+        "https://iz.ru/2160457/narodnye-primety-na-6-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2164114/uchenye-raskryli-sekret-ustoichivoi-uverennosti-v-sobstvennom-tele-izi",
+        "https://iz.ru/2164545/uchenye-obiasnili-sviaz-raka-s-riskom-insulta-izi",
+        "https://iz.ru/2164661/uchenye-proverili-vliianie-rozovogo-shuma-na-zashchitnye-protcessy-mozga-izi",
+        "https://iz.ru/2164802/uchenye-izmenili-vzgliad-na-polzu-vysokogo-potrebleniia-belka-izi",
+        "https://iz.ru/2165210/2026-09-12/ekspert-rasskazal-o-vliianii-avtomatizatcii-proizvodstva-na-tceny-izi",
+        "https://iz.ru/2165621/glavnye-intrigi-8-go-tura-rpl-anons-glavnykh-matchei-uikenda-izi",
+        "https://iz.ru/2165706/putin-na-sammite-briks-v-niu-deli-sdelal-riad-zaiavlenii-glavnoe-izi",
+        "https://iz.ru/2165713/na-ukraine-obrazovalsia-defitcit-raket-dlia-f-16-iz-za-otrazheniia-geranei-vs-rf-izi",
+        "https://iz.ru/2165721/v-gfcn-nazvali-feik-o-mobilizatcii-popytkoi-sozdat-napriazhenie-pered-vyborami-izi",
+        "https://iz.ru/2165727/rossiiskii-tennisist-khachanov-proigral-zverevu-v-polufinale-us-open-izi",
+        "https://iz.ru/2165728/byvshim-plennym-boevikam-vsu-nachali-prikhodit-povestki-v-ttck-izi",
+        "https://iz.ru/2165735/moshenniki-nachali-pugat-poterei-deneg-bez-konvertatcii-sredstv-v-tcifrovoi-rubl-izi",
+        "https://iz.ru/2165739/v-op-predlozhili-perevesti-vse-shkoly-na-piatidnevnuiu-uchebnuiu-nedeliu-izi"
       ]
     },
     "2026-09-13": {
@@ -375,11 +375,14 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 75,
-      "totalIzi": 13,
+      "totalChecked": 173,
+      "totalIzi": 38,
       "totalIiz": 1,
-      "totalAi": 14,
+      "totalAi": 39,
       "topLinks": [
+        "https://iz.ru/2168846/uchenye-sviazali-kachestvo-pitaniia-s-epigeneticheskimi-priznakami-stareniia-izi",
+        "https://iz.ru/2169182/uchenye-obnaruzhili-novye-geneticheskie-faktory-psoriaza-izi",
+        "https://iz.ru/2169198/uchenye-rasskazali-o-metodakh-borby-s-dzhetlagom-u-detei-izi",
         "https://iz.ru/2170109/mladshii-serzhant-stoianov-likvidiroval-diversionnuiu-gruppu-vsu-izi",
         "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi",
         "https://iz.ru/2170121/2026-09-20/v-tcik-rf-nazvali-sroki-poiavleniia-pervykh-rezultatov-vyborov-v-gosdumu-izi",
@@ -388,12 +391,15 @@
         "https://iz.ru/2170132/glava-mid-turtcii-zaiavil-o-prevrashchenii-izrailia-v-ugrozu-i-mezhdunarodnuiu-problemu-izi",
         "https://iz.ru/2170134/turtciia-napravila-rossii-i-ukraine-predlozhenie-po-vyvozu-zerna-iz-chernogo-moria-izi",
         "https://iz.ru/2170140/rossiiane-poluchat-sem-korotkikh-rabochikh-nedel-v-2027-godu-izi",
-        "https://iz.ru/https://iz.ru/node/2160198-iiz",
-        "https://iz.ru/2170109/mladshii-serzhant-stoianov-likvidiroval-diversionnuiu-gruppu-vsu-izi",
-        "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi",
-        "https://iz.ru/2170121/2026-09-20/v-tcik-rf-nazvali-sroki-poiavleniia-pervykh-rezultatov-vyborov-v-gosdumu-izi",
-        "https://iz.ru/2170125/figurist-kondratiuk-vyskazalsia-ob-otzyve-neitralnogo-statusa-izi",
-        "https://iz.ru/2170130/2026-09-20/iran-vydvinul-ssha-sem-uslovii-dlia-nachala-peregovorov-izi"
+        "https://iz.ru/2170144/na-kamchatke-obnaruzhili-telo-cheloveka-so-sledami-napadeniia-zhivotnogo-izi",
+        "https://iz.ru/2170145/nyt-nazvala-gaianu-glavnym-igrokom-na-neftianom-rynke-iz-za-operatcii-ssha-v-irane-izi",
+        "https://iz.ru/2170147/v-argentine-zavershilsia-marsh-gneva-protiv-mer-mileia-izi",
+        "https://iz.ru/2170149/istorik-zaiavila-o-nesposobnosti-ukrainy-zashchitit-svoiu-energosistemu-izi",
+        "https://iz.ru/2170158/fidan-zaiavil-ob-obsuzhdenii-turtciei-sniatiia-sanktcii-caatsa-i-vopros-s-400-izi",
+        "https://iz.ru/2170167/lantratova-soobshchila-o-vozvrashchenii-deviati-rossiiskikh-boitcov-iz-tenevogo-plena-izi",
+        "https://iz.ru/2170173/nalogovaia-zablokirovala-scheta-blogera-arsena-markariana-izi",
+        "https://iz.ru/2170184/iavka-na-vyborakh-v-gosdumu-dostigla-45-k-735-msk-izi",
+        "https://iz.ru/2170186/v-moskve-otkrylis-izbiratelnye-uchastki-vyborov-v-gosdumu-izi"
       ]
     }
   }
