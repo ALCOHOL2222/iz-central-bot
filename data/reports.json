@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:30:09.851Z",
+  "generatedAt": "2026-09-20T12:34:14.538Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,17 +151,11 @@
       ]
     },
     "2026-09-12": {
-      "totalChecked": 359,
-      "totalIzi": 135,
+      "totalChecked": 341,
+      "totalIzi": 129,
       "totalIiz": 1,
-      "totalAi": 136,
+      "totalAi": 130,
       "topLinks": [
-        "https://iz.ru/2166115/zenit-obygral-lokomotiv-so-schetom-21-izi",
-        "https://iz.ru/2166117/iran-postavil-ssha-sem-uslovii-dlia-otkrytiia-ormuzskogo-proliva-izi",
-        "https://iz.ru/2166121/tri-cheloveka-pogibli-i-13-postradali-pri-atakakh-bespilotnikov-v-dnr-izi",
-        "https://iz.ru/2166123/v-germanii-soobshchili-o-kontaktakh-s-rf-pochti-40-nemetckikh-munitcipalitetov-izi",
-        "https://iz.ru/2166125/kinooperator-boris-timkovskii-skonchalsia-na-91-m-godu-zhizni-izi",
-        "https://iz.ru/2166135/kushner-schitaet-territorialnyi-vopros-samym-slozhnym-na-peregovorakh-po-ukraine-izi",
         "https://iz.ru/2160457/narodnye-primety-na-6-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2164114/uchenye-raskryli-sekret-ustoichivoi-uverennosti-v-sobstvennom-tele-izi",
         "https://iz.ru/2164545/uchenye-obiasnili-sviaz-raka-s-riskom-insulta-izi",
@@ -175,35 +169,41 @@
         "https://iz.ru/2165727/rossiiskii-tennisist-khachanov-proigral-zverevu-v-polufinale-us-open-izi",
         "https://iz.ru/2165728/byvshim-plennym-boevikam-vsu-nachali-prikhodit-povestki-v-ttck-izi",
         "https://iz.ru/2165735/moshenniki-nachali-pugat-poterei-deneg-bez-konvertatcii-sredstv-v-tcifrovoi-rubl-izi",
-        "https://iz.ru/2165739/v-op-predlozhili-perevesti-vse-shkoly-na-piatidnevnuiu-uchebnuiu-nedeliu-izi"
+        "https://iz.ru/2165739/v-op-predlozhili-perevesti-vse-shkoly-na-piatidnevnuiu-uchebnuiu-nedeliu-izi",
+        "https://iz.ru/2165740/putin-rossiia-prodaet-energoresursy-po-rynochnym-tcenam-izi",
+        "https://iz.ru/2165748/britanskaia-armiia-nachala-ispytyvat-loshadei-dlia-razvedki-na-pole-boia-izi",
+        "https://iz.ru/2165756/v-minprosveshcheniia-soobshchili-o-vvedenii-novogo-shkolnogo-predmeta-izi",
+        "https://iz.ru/2165760/v-dokumentakh-ukrainskoi-politcii-nashli-dannye-o-samoubiistvakh-v-riadakh-vsu-izi",
+        "https://iz.ru/2165763/boikova-i-kozlovskii-stali-pervymi-v-korotkoi-programme-na-turnire-v-ssha-izi",
+        "https://iz.ru/2165767/v-gd-rasskazali-o-vozmozhnosti-peredat-chast-pensii-po-nasledstvu-izi"
       ]
     },
     "2026-09-13": {
-      "totalChecked": 553,
-      "totalIzi": 189,
+      "totalChecked": 493,
+      "totalIzi": 175,
       "totalIiz": 1,
-      "totalAi": 190,
+      "totalAi": 176,
       "topLinks": [
-        "https://iz.ru/2166131/riadovoi-goloshapov-lichno-unichtozhil-dvukh-boevikov-vsu-pri-shturme-opornogo-punkta-izi",
-        "https://iz.ru/2166137/zelenskii-zaiavil-o-nuzhde-v-100-120-raketakh-patriot-ezhemesiachno-zimoi-izi",
-        "https://iz.ru/2166139/kinooperator-boris-timkovskii-biografiia-izi",
-        "https://iz.ru/2166145/dom-detstva-trampa-v-niu-jorke-prodali-pochti-za-2-mln-izi",
-        "https://iz.ru/2166148/tcska-sygral-vnichiu-s-rubinom-v-matche-rpl-izi",
-        "https://iz.ru/2166150/belousov-pozdravil-voennosluzhashchikh-s-dnem-tankista-izi",
-        "https://iz.ru/2166153/vengriia-poprosila-vernut-podarennykh-karlu-iii-loshadei-izi",
-        "https://iz.ru/2166157/putin-poprivetstvoval-gostei-festivalia-shkolnykh-khorov-poiut-deti-rossii-izi",
-        "https://iz.ru/2166165/v-gd-predlozili-besplatno-podklyucat-lgotnikov-k-internetu-v-castnyx-sektorax-izi",
-        "https://iz.ru/2166169/v-gosdume-predlozhili-udvoit-doplatu-k-pensii-s-70-let-izi",
-        "https://iz.ru/2166174/k-domu-kharris-v-malibu-vyzvali-politciiu-posle-proniknoveniia-neizvestnoi-zhenshchiny-izi",
-        "https://iz.ru/2166185/onishchenko-nazval-usloviia-dlia-prodleniia-zhizni-do-100-let-izi",
-        "https://iz.ru/2166186/moshenniki-nachali-pugat-rossiian-proverkami-perevodov-cherez-sbp-izi",
-        "https://iz.ru/2166187/rybakina-vyigrala-us-open-i-stala-pervoi-raketkoi-mira-izi",
         "https://iz.ru/2166190/smi-soobshchili-o-serii-zemletriasenii-v-kalifornii-izi",
         "https://iz.ru/2166192/psikholog-rasskazala-o-vliianii-shokolada-na-nastroenie-i-rabotu-mozga-izi",
         "https://iz.ru/2166193/narkolog-nazvala-skrytuiu-prichinu-nabora-vesa-iz-za-alkogolia-izi",
         "https://iz.ru/2166195/wsj-soobshchila-o-zhelanii-kanady-stat-assotciirovannym-chlenom-evrosoiuza-izi",
         "https://iz.ru/2166197/odin-chelovek-pogib-i-bolee-30-propali-bez-vesti-pri-krushenii-paroma-u-vanuatu-izi",
-        "https://iz.ru/2166198/chto-proizoshlo-za-noch-13-sentiabria-glavnoe-izi"
+        "https://iz.ru/2166198/chto-proizoshlo-za-noch-13-sentiabria-glavnoe-izi",
+        "https://iz.ru/2166201/v-rossii-vpervye-vvedut-gost-na-avtomobilnye-karbiuratory-izi",
+        "https://iz.ru/2166203/shtumpp-otkazalas-ukhodit-s-posta-zamgenseka-khds-posle-trebovaniia-mertca-izi",
+        "https://iz.ru/2166204/vsu-ne-smogli-prorvat-okruzhenie-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2166206/ekspert-zaiavil-o-nekhvatke-lekarstv-u-okruzhennykh-boevikov-vsu-v-volchanskom-kotle-izi",
+        "https://iz.ru/2166209/v-podpole-rasskazali-o-peredache-vs-rossii-dannykh-ob-obektakh-vpk-izi",
+        "https://iz.ru/2166210/marketolog-rasskazala-o-sozdanii-magazinami-falshivykh-skidok-izi",
+        "https://iz.ru/2166213/mironov-predlozhil-sdelat-13-iu-zarplatu-obiazatelnoi-v-rossii-izi",
+        "https://iz.ru/2166217/proigravshaia-rybakinoi-sobolenko-slomala-raketku-v-finale-us-open-izi",
+        "https://iz.ru/2166222/na-ukraine-45-deputatov-ix-sozyva-verkhovnoi-rady-obvinili-v-korruptcii-izi",
+        "https://iz.ru/2166229/it-ekspert-predupredil-o-sposobakh-vzloma-akkauntov-dazhe-pri-slozhnykh-paroliakh-izi",
+        "https://iz.ru/2166233/raschety-geran-4-siker-porazili-tcentry-dostavki-voennogo-imushchestva-u-nikolaeva-izi",
+        "https://iz.ru/2166254/ushakov-zaiavil-o-gotovnosti-turtcii-i-drugikh-stran-priniat-peregovory-po-ukraine-izi",
+        "https://iz.ru/2166261/armiia-rossii-osvobodila-naselennyi-punkt-cherniakov-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2166267/moshenniki-ispolzuiut-temu-nalogovoi-deklaratcii-dlia-obmana-rossiian-izi"
       ]
     },
     "2026-09-14": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 173,
-      "totalIzi": 38,
+      "totalChecked": 344,
+      "totalIzi": 86,
       "totalIiz": 1,
-      "totalAi": 39,
+      "totalAi": 87,
       "topLinks": [
         "https://iz.ru/2168846/uchenye-sviazali-kachestvo-pitaniia-s-epigeneticheskimi-priznakami-stareniia-izi",
         "https://iz.ru/2169182/uchenye-obnaruzhili-novye-geneticheskie-faktory-psoriaza-izi",
