@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:37:25.107Z",
+  "generatedAt": "2026-09-21T01:18:17.623Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,23 +151,11 @@
       ]
     },
     "2026-09-13": {
-      "totalChecked": 329,
-      "totalIzi": 115,
+      "totalChecked": 310,
+      "totalIzi": 103,
       "totalIiz": 1,
-      "totalAi": 116,
+      "totalAi": 104,
       "topLinks": [
-        "https://iz.ru/2166382/pri-padenii-samoleta-v-ogorod-v-tatarstane-pogib-sotrudnik-kazanskoi-dumy-izi",
-        "https://iz.ru/2166384/meloni-otkazalas-meniat-pozitciiu-po-podderzhke-ukrainy-radi-vyborov-izi",
-        "https://iz.ru/2166387/putin-nazval-moskovskuiu-konservatoriiu-vsemirno-izvestnym-tcentrom-kultury-izi",
-        "https://iz.ru/2166388/lavrov-probilsia-cherez-zhurnalistov-vo-vremia-vstrechi-putina-i-modi-v-indii-izi",
-        "https://iz.ru/2166392/prezident-iuar-nazval-obnadezhivaiushchimi-dannye-o-prodolzhaiushchikhsia-obsuzhdeniiakh-po-ukraine-izi",
-        "https://iz.ru/2166395/v-germanii-soobshchili-o-defitcite-presnoi-vody-v-25-mlrd-t-izi",
-        "https://iz.ru/2166401/minoborony-livii-oproverglo-soobshcheniia-o-razmeshchenii-operatorov-dronov-vsu-izi",
-        "https://iz.ru/2166404/zelenskii-vvel-sanktcii-protiv-svoego-byvshego-press-sekretaria-iulii-mendel-izi",
-        "https://iz.ru/2166406/v-litve-podniali-istrebitel-iz-za-stai-ptitc-kotoruiu-priniali-za-dron-izi",
-        "https://iz.ru/2166407/tri-cheloveka-raneny-pri-atakakh-vsu-v-brianskoi-oblasti-izi",
-        "https://iz.ru/2166409/roskosmos-pokazal-snimok-moskvy-s-mks-izi",
-        "https://iz.ru/2166414/ministra-blagosostoianiia-latvii-uvolili-posle-zaderzhaniia-za-pianoe-vozhdenie-izi",
         "https://iz.ru/2166427/uchenyi-nazval-nevozmozhnym-ustanovlenie-tochnoi-prichiny-smerti-dmitriia-donskogo-izi",
         "https://iz.ru/2166429/frantcuzskii-ekstremal-bez-strakhovki-zabralsia-na-samoe-vysokoe-zdanie-es-i-polshi-izi",
         "https://iz.ru/2166431/smi-soobshchili-o-zakhvate-somaliiskimi-torgovogo-sudna-u-jemena-izi",
@@ -175,11 +163,23 @@
         "https://iz.ru/2166435/glava-world-athletics-zaiavil-o-neobkhodimosti-reshit-vopros-dopuska-rossiian-izi",
         "https://iz.ru/2166439/gallouei-raskritikoval-reaktciiu-britanii-na-predotvrashchenie-rf-ataki-na-diplomatov-izi",
         "https://iz.ru/2166445/v-gosdume-predlozhili-izmenit-podkhod-k-otcenke-raboty-upravliaiushchikh-kompanii-izi",
-        "https://iz.ru/2165126/uchenye-obiasnili-sviaz-sdvg-s-narusheniiami-raboty-kishechnika-izi"
+        "https://iz.ru/2165126/uchenye-obiasnili-sviaz-sdvg-s-narusheniiami-raboty-kishechnika-izi",
+        "https://iz.ru/2165146/uchenye-ukazali-na-sviaz-fizicheskoi-aktivnosti-i-sokhraneniia-slukha-izi",
+        "https://iz.ru/2165186/issledovateli-raskryli-rol-gormonov-stressa-v-razvitii-ozhireniia-izi",
+        "https://iz.ru/2165208/narodnye-primety-na-13-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2166131/riadovoi-goloshapov-lichno-unichtozhil-dvukh-boevikov-vsu-pri-shturme-opornogo-punkta-izi",
+        "https://iz.ru/2166137/zelenskii-zaiavil-o-nuzhde-v-100-120-raketakh-patriot-ezhemesiachno-zimoi-izi",
+        "https://iz.ru/2166139/kinooperator-boris-timkovskii-biografiia-izi",
+        "https://iz.ru/2166145/dom-detstva-trampa-v-niu-jorke-prodali-pochti-za-2-mln-izi",
+        "https://iz.ru/2166148/tcska-sygral-vnichiu-s-rubinom-v-matche-rpl-izi",
+        "https://iz.ru/2166150/belousov-pozdravil-voennosluzhashchikh-s-dnem-tankista-izi",
+        "https://iz.ru/2166153/vengriia-poprosila-vernut-podarennykh-karlu-iii-loshadei-izi",
+        "https://iz.ru/2166157/putin-poprivetstvoval-gostei-festivalia-shkolnykh-khorov-poiut-deti-rossii-izi",
+        "https://iz.ru/2166165/v-gd-predlozili-besplatno-podklyucat-lgotnikov-k-internetu-v-castnyx-sektorax-izi"
       ]
     },
     "2026-09-14": {
-      "totalChecked": 875,
+      "totalChecked": 871,
       "totalIzi": 219,
       "totalIiz": 1,
       "totalAi": 220,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 611,
-      "totalIzi": 127,
+      "totalChecked": 634,
+      "totalIzi": 132,
       "totalIiz": 1,
-      "totalAi": 128,
+      "totalAi": 133,
       "topLinks": [
         "https://iz.ru/2168846/uchenye-sviazali-kachestvo-pitaniia-s-epigeneticheskimi-priznakami-stareniia-izi",
         "https://iz.ru/2169182/uchenye-obnaruzhili-novye-geneticheskie-faktory-psoriaza-izi",
@@ -375,16 +375,29 @@
       ]
     },
     "2026-09-21": {
-      "totalChecked": 31,
-      "totalIzi": 4,
-      "totalIiz": 1,
-      "totalAi": 5,
+      "totalChecked": 108,
+      "totalIzi": 15,
+      "totalIiz": 3,
+      "totalAi": 18,
       "topLinks": [
         "https://iz.ru/2169231/narodnye-primety-na-21-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2170443/mladshii-serzhant-rudenko-unichtozhil-chetyre-punkta-upravleniia-bpla-protivnika-izi",
         "https://iz.ru/2170482/2026-09-21/zakharova-soobshchila-ob-ugrozakh-provokatcii-i-aktov-nasiliia-v-khode-golosovaniia-za-rubezhom-izi",
         "https://iz.ru/2170487/v-boiarkakh-pod-kievom-proizoshel-vzryv-na-skladakh-izi",
-        "https://iz.ru/2170491/politciia-presekla-aktciiu-delfi-u-posolstva-rossii-v-talline-izi"
+        "https://iz.ru/2170491/politciia-presekla-aktciiu-delfi-u-posolstva-rossii-v-talline-izi",
+        "https://iz.ru/2170497/kandidaty-ot-er-lidiruiut-vo-vsekh-okrugakh-omskoi-oblasti-izi",
+        "https://iz.ru/2170499/2026-09-21/adg-pobedila-na-vyborakh-v-parlament-zemli-meklenburg-peredniaia-pomeraniia-izi",
+        "https://iz.ru/2170504/bulaev-dopustil-poluchenie-edinoi-rossiei-konstitutcionnogo-bolshinstva-v-gosdume-izi",
+        "https://iz.ru/2170509/zakharova-vyrazila-uverennost-v-otmene-zelenskogo-istoriei-izi",
+        "https://iz.ru/2158867/80-krasivye-otkrytki-s-rozhdestvom-presviatoi-bogoroditcy-kartinki-gifki-i-pravoslavnye-iiz",
+        "https://iz.ru/2169231/narodnye-primety-na-21-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2170443/mladshii-serzhant-rudenko-unichtozhil-chetyre-punkta-upravleniia-bpla-protivnika-izi",
+        "https://iz.ru/2170482/2026-09-21/zakharova-soobshchila-ob-ugrozakh-provokatcii-i-aktov-nasiliia-v-khode-golosovaniia-za-rubezhom-izi",
+        "https://iz.ru/2170487/v-boiarkakh-pod-kievom-proizoshel-vzryv-na-skladakh-izi",
+        "https://iz.ru/2170491/politciia-presekla-aktciiu-delfi-u-posolstva-rossii-v-talline-izi",
+        "https://iz.ru/2170497/kandidaty-ot-er-lidiruiut-vo-vsekh-okrugakh-omskoi-oblasti-izi",
+        "https://iz.ru/2170499/2026-09-21/adg-pobedila-na-vyborakh-v-parlament-zemli-meklenburg-peredniaia-pomeraniia-izi",
+        "https://iz.ru/2170504/bulaev-dopustil-poluchenie-edinoi-rossiei-konstitutcionnogo-bolshinstva-v-gosdume-izi"
       ]
     }
   }
