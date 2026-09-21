@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:22:38.378Z",
+  "generatedAt": "2026-09-21T19:41:19.846Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 603,
-      "totalIzi": 160,
+      "totalChecked": 530,
+      "totalIzi": 136,
       "totalIiz": 1,
-      "totalAi": 161,
+      "totalAi": 137,
       "topLinks": [
-        "https://iz.ru/2166752/v-rostovskoi-oblasti-zhitelia-osudili-na-20-let-za-gosizmenu-izi",
-        "https://iz.ru/2166754/new-york-times-nazvala-moskvu-stranoi-tekhnologicheskikh-chudes-izi",
-        "https://iz.ru/2166757/v-italii-zaiavili-o-presledovanii-rezhimom-zelenskogo-vystupaiushchikh-za-mir-ukraintcev-izi",
-        "https://iz.ru/2166760/napadaiushchii-lamin-iamal-biografiia-izi",
-        "https://iz.ru/2166764/spriatavshego-telo-materi-v-morozilke-peterburzhtca-arestovali-izi",
-        "https://iz.ru/2166765/zapadnye-smi-otcenili-preduprezhdenie-medvedia-litve-izi",
-        "https://iz.ru/2166771/ekspert-predupredila-o-moshennikakh-pri-oformlenii-dokumentov-v-oae-izi",
-        "https://iz.ru/2166773/v-anapskom-zapovednike-utrish-likvidirovali-pozhar-izi",
-        "https://iz.ru/2166777/v-polshe-zaderzhali-killera-iz-slovakii-po-delu-o-pokushenii-na-ukraine-izi",
-        "https://iz.ru/2166783/likhachev-predupredil-o-riske-katastrofy-iz-za-udarov-vsu-po-zaes-izi",
-        "https://iz.ru/2166787/chempion-ufc-tom-aspinall-otkazalsia-ot-titula-iz-za-problem-s-glazami-izi",
-        "https://iz.ru/2166791/tri-pomolvki-i-pervenetc-chto-izvestno-o-lichnoi-zhizni-ledi-gagi-izi",
-        "https://iz.ru/2166796/rptc-tretiakovka-vprave-reguliarno-proveriat-sostoianie-troitcy-rubleva-izi",
-        "https://iz.ru/2166803/ministr-agrarnoi-politiki-ukrainy-zaiavil-o-vozmozhnom-sokrashchenii-posevov-v-strane-izi",
-        "https://iz.ru/2166804/mirnyi-zhitel-pogib-v-rezultate-ataki-vsu-na-belgorodskuiu-oblast-izi",
-        "https://iz.ru/2166808/v-kazani-na-kubke-generalnogo-prokurora-rf-vystupiat-pochti-600-luchnikov-izi",
-        "https://iz.ru/2166810/uels-shotlandiia-i-irlandiia-podpisali-memorandum-o-prave-na-vykhod-iz-britanii-izi",
-        "https://iz.ru/2166815/rosobrnadzor-obiavil-predosterezheniia-trem-vuzam-izi",
-        "https://iz.ru/2166818/mid-knr-otritcaet-peredachu-snimkov-iranu-pered-udarom-po-baze-ssha-izi",
-        "https://iz.ru/2166827/polskii-samolet-edva-ne-sbil-ukrainskii-mig-vo-vremia-odnoi-iz-nedavnikh-operatcii-izi"
+        "https://iz.ru/2166852/sem-chelovek-postradali-pri-naezde-gruzovika-na-mikroavtobus-v-karelii-izi",
+        "https://iz.ru/2166855/otetc-britanskogo-premer-ministra-endi-bernema-umer-v-vozraste-85-let-izi",
+        "https://iz.ru/2166863/riutte-otkazalsia-raskryt-sekretnye-varianty-protivodeistviia-rossii-izi",
+        "https://iz.ru/2166864/v-polshe-voennym-razreshili-sbivat-postoronnie-obekty-v-nebe-izi",
+        "https://iz.ru/2166866/v-evrosovete-zaiavili-ob-uvelichenii-voennykh-raskhodov-es-v-arktike-izi",
+        "https://iz.ru/2166867/rosselkhoznadzor-soobshchil-o-prekrashchenii-vvoza-v-rossiiu-semian-iz-nekotorykh-stran-izi",
+        "https://iz.ru/2166868/vs-rossii-porazili-obekty-zhd-infrastruktury-v-zapadnykh-regionakh-ukrainy-izi",
+        "https://iz.ru/2166873/na-ukraine-v-dtp-pogib-britanskii-voennyi-izi",
+        "https://iz.ru/2166880/uchenye-rasskazali-o-sviazi-glubokogo-sna-s-ukhudsheniem-pamiati-izi",
+        "https://iz.ru/2166887/wp-uznala-o-reaktcii-evropeiskikh-stran-na-ocherednye-prosby-kieva-o-finansirovanii-izi",
+        "https://iz.ru/2166893/chetvero-postradavshikh-v-dtp-v-karelii-detei-dostavleny-v-bolnitcu-izi",
+        "https://iz.ru/2166898/shotlandiia-uels-i-severnaia-irlandiia-podpisali-deklaratciiu-o-budushchem-v-evrosoiuze-izi",
+        "https://iz.ru/2166927/ukraina-namerena-khranit-prodovolstvie-na-skladakh-za-granitcei-izi",
+        "https://iz.ru/2166940/bank-rossii-vvedet-novye-ogranichitelnye-nadbavki-dlia-bankov-izi",
+        "https://iz.ru/2166951/na-sitcilii-vulkan-etna-vybrosil-pepel-na-vysotu-4-km-izi",
+        "https://iz.ru/2166952/dva-uchastnika-polumarafona-v-velikobritanii-skonchalis-na-distantcii-izi",
+        "https://iz.ru/2166955/grushko-zaiavil-ob-otkaze-rf-rassmatrivat-shveitcariiu-ploshchadkoi-dlia-peregovorov-izi",
+        "https://iz.ru/2166958/tramp-prizval-ne-pomogavshie-v-voine-s-iranom-strany-vozmestit-raskhody-ssha-izi",
+        "https://iz.ru/2166959/kallas-priznala-potrebnost-evrosoiuza-v-ledokolakh-izi",
+        "https://iz.ru/2166962/v-ssha-zaiavili-o-nalichii-orbitalnogo-oruzhiia-dlia-kontrolia-nad-kosmosom-izi"
       ]
     },
     "2026-09-15": {
-      "totalChecked": 914,
-      "totalIzi": 230,
+      "totalChecked": 907,
+      "totalIzi": 229,
       "totalIiz": 1,
-      "totalAi": 231,
+      "totalAi": 230,
       "topLinks": [
-        "https://iz.ru/2166811/uchenye-ukazali-na-sposobnost-zombi-kletok-podderzhivat-vospalenie-izi",
         "https://iz.ru/2166861/uchenye-izuchili-rol-podslastitelei-v-protcesse-povrezhdeniia-dnk-izi",
         "https://iz.ru/2166862/srednii-razmer-posobiia-po-beremennosti-dlia-studentok-vyros-bolee-chem-v-4-raza-izi",
         "https://iz.ru/2167048/zoloto-stalo-samym-dokhodnym-instrumentom-na-rynke-v-avguste-izi",
@@ -231,11 +230,12 @@
         "https://iz.ru/2167119/vsu-iz-za-poter-bronetekhniki-nachali-ispolzovat-grazhdanskie-mashiny-izi",
         "https://iz.ru/2167122/demokraty-predlozhili-vydelit-kievu-15-mlrd-v-ramkakh-adskikh-sanktcii-protiv-rf-izi",
         "https://iz.ru/2167123/armiia-rossii-predotvratila-kontrataku-vsu-s-tankami-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2167133/v-mvd-soobshchili-o-skheme-obmana-roditelei-podrostkov-po-karte-rebenka-izi"
+        "https://iz.ru/2167133/v-mvd-soobshchili-o-skheme-obmana-roditelei-podrostkov-po-karte-rebenka-izi",
+        "https://iz.ru/2167157/v-gidromettcentre-nazvali-sroki-vkliucheniia-otopleniia-v-moskve-izi"
       ]
     },
     "2026-09-16": {
-      "totalChecked": 940,
+      "totalChecked": 939,
       "totalIzi": 210,
       "totalIiz": 2,
       "totalAi": 212,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-09-17": {
-      "totalChecked": 943,
+      "totalChecked": 942,
       "totalIzi": 206,
       "totalIiz": 2,
       "totalAi": 208,
@@ -291,12 +291,11 @@
       ]
     },
     "2026-09-18": {
-      "totalChecked": 957,
+      "totalChecked": 956,
       "totalIzi": 226,
-      "totalIiz": 6,
-      "totalAi": 232,
+      "totalIiz": 5,
+      "totalAi": 231,
       "topLinks": [
-        "https://iz.ru/2166774/rozhdestvo-bogoroditcy-2026-kakie-zaprety-vazhno-sobliudat-v-velikii-prazdnik-iiz",
         "https://iz.ru/2167856/uchenye-sviazali-ultraobrabotannye-produkty-s-nakopleniem-zhira-v-myshtcakh-izi",
         "https://iz.ru/2167890/uchenye-obnaruzhili-estestvennuiu-zashchitu-setchatki-ot-poteri-zreniia-izi",
         "https://iz.ru/2167944/uchenye-uznali-ob-izmenenii-pokazatelei-biologicheskogo-vozrasta-blagodaria-diete-izi",
@@ -315,7 +314,8 @@
         "https://iz.ru/2169011/glava-chukotki-kuznetcov-progolosoval-odnim-iz-pervykh-sredi-gubernatorov-izi",
         "https://iz.ru/2169013/putin-soobshchil-o-rekordno-nizkoi-bezrabotitce-v-rossii-na-urovne-23-izi",
         "https://iz.ru/2169016/tanker-pod-flagom-togo-zagorelsia-posle-udara-v-ormuzskom-prolive-izi",
-        "https://iz.ru/2169020/lantratova-nazvala-osnovnye-temy-obrashchenii-po-ukraine-izi"
+        "https://iz.ru/2169020/lantratova-nazvala-osnovnye-temy-obrashchenii-po-ukraine-izi",
+        "https://iz.ru/2169021/ekspert-nazvala-sposob-poluchit-nakopitelnuiu-chast-pensii-v-nasledstvo-izi"
       ]
     },
     "2026-09-19": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 634,
+      "totalChecked": 633,
       "totalIzi": 132,
-      "totalIiz": 1,
-      "totalAi": 133,
+      "totalIiz": 0,
+      "totalAi": 132,
       "topLinks": [
         "https://iz.ru/2168846/uchenye-sviazali-kachestvo-pitaniia-s-epigeneticheskimi-priznakami-stareniia-izi",
         "https://iz.ru/2169182/uchenye-obnaruzhili-novye-geneticheskie-faktory-psoriaza-izi",
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-21": {
-      "totalChecked": 617,
-      "totalIzi": 135,
+      "totalChecked": 834,
+      "totalIzi": 166,
       "totalIiz": 3,
-      "totalAi": 138,
+      "totalAi": 169,
       "topLinks": [
         "https://iz.ru/2169217/uchenye-rasskazali-o-vliiaiushchem-na-starenie-organizma-belke-izi",
         "https://iz.ru/2169231/narodnye-primety-na-21-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
