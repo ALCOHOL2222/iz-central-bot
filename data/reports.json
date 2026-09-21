@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:34:03.619Z",
+  "generatedAt": "2026-09-21T14:22:38.378Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-14": {
-      "totalChecked": 835,
-      "totalIzi": 211,
+      "totalChecked": 603,
+      "totalIzi": 160,
       "totalIiz": 1,
-      "totalAi": 212,
+      "totalAi": 161,
       "topLinks": [
-        "https://iz.ru/2166483/chislo-pogibshikh-pri-avarii-v-indonezii-vyroslo-do-shesti-izi",
-        "https://iz.ru/2166495/ekipazhi-tof-proveli-patrioticheskuiu-aktciiu-v-khabarovskom-krae-izi",
-        "https://iz.ru/2166497/pensionerov-predupredili-o-skheme-moshennichestva-s-tcifrovymi-rubliami-izi",
-        "https://iz.ru/2166498/v-latvii-zakroiut-zavod-elektroinstrumentov-rebir-iz-za-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2166499/raschety-sau-msta-s-gruppirovki-voisk-tcentr-unichtozhili-pozitcii-vsu-izi",
-        "https://iz.ru/2166501/ekspert-sprognoziroval-snizhenie-stavok-po-vkladam-do-12-k-kontcu-goda-izi",
-        "https://iz.ru/2166503/tramp-dopustil-peredachu-ukraine-uproshchennykh-versii-sistem-patriot-izi",
-        "https://iz.ru/2166507/overchuk-zaiavil-ob-obsuzhdenii-rf-i-mongolii-razvitiia-tranzita-izi",
-        "https://iz.ru/2166510/rospotrebnadzor-soobshchil-ob-usilenii-sanitarnogo-kontrolia-na-granitcakh-iz-za-eboly-izi",
-        "https://iz.ru/2166511/na-zaes-nazvali-tcelesoobraznym-prisutstvie-ekspertov-magate-izi",
-        "https://iz.ru/2166514/v-mvd-predupredili-o-novoi-skheme-moshennichestva-s-krazhei-parolei-izi",
-        "https://iz.ru/2166516/smi-soobshchili-o-zhelanii-ssha-sosredotochit-peregovory-s-iranom-na-iadernoi-programme-izi",
-        "https://iz.ru/2166519/v-gosdume-rasskazali-o-razdele-otpuska-po-ukhodu-za-rebenkom-mezhdu-chlenami-semi-izi",
-        "https://iz.ru/2166528/wsj-otcenila-vozmozhnosti-rossii-po-vypusku-nedorogikh-sovremennykh-vooruzhenii-izi",
-        "https://iz.ru/2166533/eksperty-perezvoni-sam-napomnili-ob-otechestvennykh-sertifikatakh-bezopasnosti-izi",
-        "https://iz.ru/2166556/rossiia-zaniala-piatoe-mesto-sredi-druzhestvennykh-turtcii-stran-izi",
-        "https://iz.ru/2166557/armiia-rossiia-porazila-lokomotivy-i-voinskie-eshelony-v-piati-oblastiakh-ukrainy-izi",
-        "https://iz.ru/2166582/finansist-nazval-diapazony-valiut-v-seredine-sentiabria-izi",
-        "https://iz.ru/2166584/zakharova-nazvala-obslugoi-evrosoiuza-strany-s-evropeiskimi-tcennostiami-izi",
-        "https://iz.ru/2166587/zakharova-rasskazala-o-kitaiskom-proiskhozhdenii-frazy-luchshe-odin-raz-uvidet-izi"
+        "https://iz.ru/2166752/v-rostovskoi-oblasti-zhitelia-osudili-na-20-let-za-gosizmenu-izi",
+        "https://iz.ru/2166754/new-york-times-nazvala-moskvu-stranoi-tekhnologicheskikh-chudes-izi",
+        "https://iz.ru/2166757/v-italii-zaiavili-o-presledovanii-rezhimom-zelenskogo-vystupaiushchikh-za-mir-ukraintcev-izi",
+        "https://iz.ru/2166760/napadaiushchii-lamin-iamal-biografiia-izi",
+        "https://iz.ru/2166764/spriatavshego-telo-materi-v-morozilke-peterburzhtca-arestovali-izi",
+        "https://iz.ru/2166765/zapadnye-smi-otcenili-preduprezhdenie-medvedia-litve-izi",
+        "https://iz.ru/2166771/ekspert-predupredila-o-moshennikakh-pri-oformlenii-dokumentov-v-oae-izi",
+        "https://iz.ru/2166773/v-anapskom-zapovednike-utrish-likvidirovali-pozhar-izi",
+        "https://iz.ru/2166777/v-polshe-zaderzhali-killera-iz-slovakii-po-delu-o-pokushenii-na-ukraine-izi",
+        "https://iz.ru/2166783/likhachev-predupredil-o-riske-katastrofy-iz-za-udarov-vsu-po-zaes-izi",
+        "https://iz.ru/2166787/chempion-ufc-tom-aspinall-otkazalsia-ot-titula-iz-za-problem-s-glazami-izi",
+        "https://iz.ru/2166791/tri-pomolvki-i-pervenetc-chto-izvestno-o-lichnoi-zhizni-ledi-gagi-izi",
+        "https://iz.ru/2166796/rptc-tretiakovka-vprave-reguliarno-proveriat-sostoianie-troitcy-rubleva-izi",
+        "https://iz.ru/2166803/ministr-agrarnoi-politiki-ukrainy-zaiavil-o-vozmozhnom-sokrashchenii-posevov-v-strane-izi",
+        "https://iz.ru/2166804/mirnyi-zhitel-pogib-v-rezultate-ataki-vsu-na-belgorodskuiu-oblast-izi",
+        "https://iz.ru/2166808/v-kazani-na-kubke-generalnogo-prokurora-rf-vystupiat-pochti-600-luchnikov-izi",
+        "https://iz.ru/2166810/uels-shotlandiia-i-irlandiia-podpisali-memorandum-o-prave-na-vykhod-iz-britanii-izi",
+        "https://iz.ru/2166815/rosobrnadzor-obiavil-predosterezheniia-trem-vuzam-izi",
+        "https://iz.ru/2166818/mid-knr-otritcaet-peredachu-snimkov-iranu-pered-udarom-po-baze-ssha-izi",
+        "https://iz.ru/2166827/polskii-samolet-edva-ne-sbil-ukrainskii-mig-vo-vremia-odnoi-iz-nedavnikh-operatcii-izi"
       ]
     },
     "2026-09-15": {
-      "totalChecked": 921,
+      "totalChecked": 914,
       "totalIzi": 230,
-      "totalIiz": 2,
-      "totalAi": 232,
+      "totalIiz": 1,
+      "totalAi": 231,
       "topLinks": [
-        "https://iz.ru/2166699/narodnye-primety-na-15-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166811/uchenye-ukazali-na-sposobnost-zombi-kletok-podderzhivat-vospalenie-izi",
         "https://iz.ru/2166861/uchenye-izuchili-rol-podslastitelei-v-protcesse-povrezhdeniia-dnk-izi",
         "https://iz.ru/2166862/srednii-razmer-posobiia-po-beremennosti-dlia-studentok-vyros-bolee-chem-v-4-raza-izi",
@@ -231,11 +230,12 @@
         "https://iz.ru/2167118/sliusar-nochiu-taganrog-podvergsia-massirovannoi-raketnoi-atake-izi",
         "https://iz.ru/2167119/vsu-iz-za-poter-bronetekhniki-nachali-ispolzovat-grazhdanskie-mashiny-izi",
         "https://iz.ru/2167122/demokraty-predlozhili-vydelit-kievu-15-mlrd-v-ramkakh-adskikh-sanktcii-protiv-rf-izi",
-        "https://iz.ru/2167123/armiia-rossii-predotvratila-kontrataku-vsu-s-tankami-v-kharkovskoi-oblasti-izi"
+        "https://iz.ru/2167123/armiia-rossii-predotvratila-kontrataku-vsu-s-tankami-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2167133/v-mvd-soobshchili-o-skheme-obmana-roditelei-podrostkov-po-karte-rebenka-izi"
       ]
     },
     "2026-09-16": {
-      "totalChecked": 941,
+      "totalChecked": 940,
       "totalIzi": 210,
       "totalIiz": 2,
       "totalAi": 212,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-21": {
-      "totalChecked": 201,
-      "totalIzi": 41,
+      "totalChecked": 617,
+      "totalIzi": 135,
       "totalIiz": 3,
-      "totalAi": 44,
+      "totalAi": 138,
       "topLinks": [
         "https://iz.ru/2169217/uchenye-rasskazali-o-vliiaiushchem-na-starenie-organizma-belke-izi",
         "https://iz.ru/2169231/narodnye-primety-na-21-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -393,13 +393,13 @@
         "https://iz.ru/2170504/bulaev-dopustil-poluchenie-edinoi-rossiei-konstitutcionnogo-bolshinstva-v-gosdume-izi",
         "https://iz.ru/2170509/zakharova-vyrazila-uverennost-v-otmene-zelenskogo-istoriei-izi",
         "https://iz.ru/2170514/vrach-obiasnil-raznitcu-mezhdu-primeneniem-ioda-i-zelenki-pri-obrabotke-ran-izi",
+        "https://iz.ru/2170515/kosmetolog-predupredila-ob-opasnosti-narodnykh-sredstv-ot-pryshchei-izi",
         "https://iz.ru/2170519/axios-soobshchil-o-trebovaniiakh-trampa-k-zelenskomu-prekratit-ataki-na-npz-v-rf-izi",
         "https://iz.ru/2170521/ekspert-zaiavil-o-vozmozhnom-roste-chisla-kataklizmov-v-neskolko-raz-izi",
         "https://iz.ru/2170526/2026-09-21/deputat-oboznachil-sroki-nachala-raboty-deviatogo-sozyva-gosdumy-izi",
         "https://iz.ru/2170529/biolog-nazval-sroki-prileta-snegirei-v-moskvu-izi",
         "https://iz.ru/2170534/cotrudnik-ice-ranil-muzhchinu-v-ostine-izi",
-        "https://iz.ru/2170542/koshta-soobshchil-o-planakh-es-razvivat-otnosheniia-s-kanadoi-izi",
-        "https://iz.ru/2170546/v-mid-rf-zaiavili-o-strategii-ukrainy-na-sozdanie-gumanitarnoi-katastrofy-izi"
+        "https://iz.ru/2170542/koshta-soobshchil-o-planakh-es-razvivat-otnosheniia-s-kanadoi-izi"
       ]
     }
   }
