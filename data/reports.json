@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-22T15:07:01.636Z",
+  "generatedAt": "2026-09-22T19:06:27.536Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 65,
-    "failedFetches": 1,
+    "fetchedUrlSets": 66,
+    "failedFetches": 0,
     "childLocs": 66,
     "visitedCount": 67
   },
@@ -179,42 +179,39 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 622,
-      "totalIzi": 162,
+      "totalChecked": 544,
+      "totalIzi": 139,
       "totalIiz": 1,
-      "totalAi": 163,
+      "totalAi": 140,
       "topLinks": [
-        "https://iz.ru/2167397/oreshkin-zaiavil-o-padenii-doli-dollara-i-evro-v-torgovle-rossii-do-15-izi",
-        "https://iz.ru/2167399/zakharova-zaiavila-o-pozhiranii-ukrainoi-sobstvennykh-sozdatelei-izi",
-        "https://iz.ru/2167404/sud-v-voronezhe-rassmotrit-pervyi-isk-k-organizatoru-kontcerta-kane-uesta-izi",
-        "https://iz.ru/2167410/rnd-soobshchilo-o-vezde-6-tys-ukraintcev-v-germaniiu-za-poslednie-tri-mesiatca-izi",
-        "https://iz.ru/2167415/zakharova-nazvala-insinuatcii-ob-udare-vs-rf-po-poezdu-s-politikami-deshevym-piarom-izi",
-        "https://iz.ru/2167417/matvei-safonov-i-aleksei-batrakov-voshli-v-sostav-sbornoi-rossii-na-osennie-matchi-izi",
-        "https://iz.ru/2167423/rezhisser-i-stcenarist-oliver-stoun-biografiia-izi",
-        "https://iz.ru/2167424/klava-koka-vstupilas-za-doru-vo-vremia-kritiki-drobysha-na-shou-bitva-pokolenii-izi",
-        "https://iz.ru/2167427/v-mid-rf-zaiavili-o-kliuchevoi-roli-bazy-v-giumri-dlia-bezopasnosti-armenii-izi",
-        "https://iz.ru/2167428/murashko-zaiavil-o-roste-riska-vozniknoveniia-onkologicheskikh-zabolevanii-izi",
-        "https://iz.ru/2167432/vo-frantcii-raskritikovali-makrona-za-iadernyi-zontik-dlia-finliandii-izi",
-        "https://iz.ru/2167452/delo-nevzorovykh-o-finansirovanii-ekstremizma-postupilo-v-sud-peterburga-izi",
-        "https://iz.ru/2167454/vens-nazval-serial-emili-v-parizhe-shekspirom-nashego-vremeni-izi",
-        "https://iz.ru/2167460/sbornaia-rossii-po-futbolu-nazvala-itogovyi-sostav-na-osennie-matchi-izi",
-        "https://iz.ru/2167462/lavrov-rasskazal-o-predlozheniiakh-evropy-sozdat-nepublichnye-kanaly-sviazi-s-rf-izi",
-        "https://iz.ru/2167467/riad-munitcipalitetov-na-severe-lnr-i-lugansk-ostalis-bez-sveta-iz-za-avarii-izi",
-        "https://iz.ru/2167468/akter-tommi-li-dzhons-biografiia-izi",
-        "https://iz.ru/2167469/knr-zapustila-pervyi-v-mire-zavod-po-proizvodstvu-gumanoidnykh-robotov-izi",
-        "https://iz.ru/2167477/kallas-zaiavila-o-gotovnosti-pogovorit-s-putinym-izi",
-        "https://iz.ru/2167478/v-mid-rf-zaiavili-o-planakh-prorabotat-bessrochnyi-bezviz-mezhdu-rossiei-i-kitaem-izi"
+        "https://iz.ru/2167511/lantratova-soobshchila-o-pytkakh-vsu-mirnykh-zhitelei-v-kurskoi-oblasti-izi",
+        "https://iz.ru/2167514/spasatel-leonov-zaiavil-o-prodolzhenii-poiskov-semi-usoltcevykh-izi",
+        "https://iz.ru/2167515/osnovateliu-mainingovoi-kompanii-bitriver-runtcu-prodlili-arest-do-noiabria-izi",
+        "https://iz.ru/2167521/golovin-anonsiroval-novye-tcentry-podgotovki-kadrov-po-programme-edinoi-rossii-izi",
+        "https://iz.ru/2167525/prezident-azerbaidzhana-nazval-evroparlament-gnezdom-korruptcionerov-izi",
+        "https://iz.ru/2167587/iranskii-boeing-737-vernulsia-v-aeroport-meshkhed-iz-za-polomok-izi",
+        "https://iz.ru/2167595/litva-napravit-belorussii-notu-iz-za-intcidenta-s-bpla-izi",
+        "https://iz.ru/2167601/zhenikh-pogib-v-dtp-po-doroge-na-sobstvennuiu-svadbu-v-belgii-izi",
+        "https://iz.ru/2167606/v-mvd-pokazali-fragment-moshennicheskogo-zvonka-ot-gosuslug-izi",
+        "https://iz.ru/2167615/bild-soobshchila-o-naidennykh-vozle-bazy-bundesvera-v-germanii-oblomkakh-bespilotnika-izi",
+        "https://iz.ru/2167617/radulov-tretim-v-istorii-kkhl-zabrosil-300-shaib-izi",
+        "https://iz.ru/2167630/aleksei-betekhtin-pokinul-post-ministra-kultury-cheliabinskoi-oblasti-izi",
+        "https://iz.ru/2167633/v-posolstve-rf-nazvali-proverku-grazhdanstva-slovenii-vyzyvaiushchei-voprosy-izi",
+        "https://iz.ru/2167639/saudovskaia-araviia-otmenila-chast-postavok-nefti-v-evropu-izi",
+        "https://iz.ru/2167641/futbolist-rakhim-sterling-priznal-vinu-v-opasnom-vozhdenii-izi",
+        "https://iz.ru/2167655/stiven-sigal-vyigral-shapku-ushanku-na-festivale-molodezhi-v-ekaterinburge-izi",
+        "https://iz.ru/2167660/medvedev-otcenil-znachenie-tekhnologii-dlia-budushchego-rossiiskoi-ekonomiki-izi",
+        "https://iz.ru/2167663/pushilin-zaiavil-o-reguliarnom-nastuplenii-vs-rf-po-vsemu-frontu-v-dnr-izi",
+        "https://iz.ru/2167666/forbes-soobshchil-o-vedenii-mazepinym-peregovorov-o-pokupke-lesta-igr-izi",
+        "https://iz.ru/2167668/devushku-pytalis-zasudit-za-rekomendatciiu-dukhov-izi"
       ]
     },
     "2026-09-16": {
-      "totalChecked": 926,
-      "totalIzi": 205,
+      "totalChecked": 912,
+      "totalIzi": 202,
       "totalIiz": 1,
-      "totalAi": 206,
+      "totalAi": 203,
       "topLinks": [
-        "https://iz.ru/2167401/v-gorlovke-zaderzhali-podozrevaemogo-v-podgotovke-podryva-voennogo-avtomobilia-izi",
-        "https://iz.ru/2167440/2026-09-16/sotcseti-ukhudshili-pokazateli-psikhicheskogo-zdorovia-podrostkov-izi",
-        "https://iz.ru/2167466/2026-09-16/ekspert-rasskazal-o-nekhvatke-kadrov-na-avtomatizirovannykh-zavodakh-izi",
         "https://iz.ru/2167708/finliandiia-obiavila-o-34-m-pakete-pomoshchi-ukraine-na-eu290-mln-izi",
         "https://iz.ru/2167711/fsin-sozdast-sem-novykh-uchrezhdenii-obedinennogo-tipa-do-2035-goda-izi",
         "https://iz.ru/2167719/tcakhal-soobshchil-o-likvidatcii-komandira-brigady-khamas-v-sektore-gaza-izi",
@@ -231,17 +228,18 @@
         "https://iz.ru/2167751/2026-09-16/volk-napomnila-o-pozitcii-konstitutcionnogo-suda-po-vynuzhdennym-narusheniiam-pdd-izi",
         "https://iz.ru/2167753/2026-09-16/minprosveshcheniia-sokhranilo-fizkulturu-obiazatelnoi-s-1-po-11-klassy-izi",
         "https://iz.ru/2167754/sinoptik-sprognoziroval-vozvrashchenie-babego-leta-v-moskve-v-oktiabre-izi",
-        "https://iz.ru/2167756/vizit-karni-v-strasburg-privel-k-diplomaticheskomu-skandalu-izi"
+        "https://iz.ru/2167756/vizit-karni-v-strasburg-privel-k-diplomaticheskomu-skandalu-izi",
+        "https://iz.ru/2167758/boitcy-iuzhnoi-gruppirovki-voisk-vstretili-kovcheg-s-moshchami-dmitriia-donskogo-izi",
+        "https://iz.ru/2167765/pobediteli-aktcii-vybiraemvmeste-napravili-na-blagotvoritelnost-470-mln-rublei-izi",
+        "https://iz.ru/2167778/v-mvd-predupredili-o-novoi-moshennicheskoi-skheme-s-igrovymi-valiutami-izi"
       ]
     },
     "2026-09-17": {
-      "totalChecked": 941,
-      "totalIzi": 206,
+      "totalChecked": 938,
+      "totalIzi": 204,
       "totalIiz": 2,
-      "totalAi": 208,
+      "totalAi": 206,
       "topLinks": [
-        "https://iz.ru/2167438/uchenye-nashli-prichinu-nekotorykh-porokov-serdtca-izi",
-        "https://iz.ru/2167489/uchenye-uznali-o-vliianii-raiona-prozhivaniia-na-zdorove-mozga-izi",
         "https://iz.ru/2167531/uchenye-rasskazali-ob-izmeneniiakh-v-mozge-u-liudei-starshe-50-let-izi",
         "https://iz.ru/2167850/uchenye-raskryli-prichiny-usileniia-kashlia-pri-sukhom-vozdukhe-izi",
         "https://iz.ru/2167881/uchenye-nazvali-poleznoe-dlia-serdtca-kolichestvo-tcelnogo-zerna-izi",
@@ -259,7 +257,9 @@
         "https://iz.ru/2168383/forbes-ukazal-na-snizhenie-doli-metallurgii-v-vvp-ukrainy-pochti-do-nulia-izi",
         "https://iz.ru/2168397/matematik-otvetila-na-vopros-o-sposobnosti-ii-ukazat-na-vyigryshnyi-lotereinyi-bilet-izi",
         "https://iz.ru/2168401/lantratova-rasskazala-o-sotcvyplatakh-na-otkrytie-svoego-dela-izi",
-        "https://iz.ru/2168405/v-ator-nazvali-sluchai-dlia-polnogo-vozvrata-deneg-za-zarubezhnyi-tur-izi"
+        "https://iz.ru/2168405/v-ator-nazvali-sluchai-dlia-polnogo-vozvrata-deneg-za-zarubezhnyi-tur-izi",
+        "https://iz.ru/2168409/v-buriatii-za-sutki-otstrelili-12-opasnykh-dlia-liudei-medvedei-izi",
+        "https://iz.ru/2168412/azarov-sviazal-konflikt-sbu-i-gur-s-peredelom-istochnikov-dokhoda-izi"
       ]
     },
     "2026-09-18": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-22": {
-      "totalChecked": 704,
-      "totalIzi": 163,
+      "totalChecked": 902,
+      "totalIzi": 183,
       "totalIiz": 2,
-      "totalAi": 165,
+      "totalAi": 185,
       "topLinks": [
         "https://iz.ru/2170627/uchenye-sviazali-vosem-pishchevykh-dobavok-s-riskom-gipertonii-izi",
         "https://iz.ru/2170646/uchenye-izuchili-vliianie-vitamina-c-na-predrakovye-zabolevaniia-krovi-izi",
