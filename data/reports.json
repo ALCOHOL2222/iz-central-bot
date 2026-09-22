@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:11:28.517Z",
+  "generatedAt": "2026-09-22T10:10:06.434Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 865,
-      "totalIzi": 227,
+      "totalChecked": 739,
+      "totalIzi": 200,
       "totalIiz": 1,
-      "totalAi": 228,
+      "totalAi": 201,
       "topLinks": [
-        "https://iz.ru/2167048/zoloto-stalo-samym-dokhodnym-instrumentom-na-rynke-v-avguste-izi",
-        "https://iz.ru/2167050/grushko-predlozhil-liudiam-v-belykh-khalatakh-otcenit-slova-sikorskogo-ob-ucheniiakh-nato-izi",
-        "https://iz.ru/2167051/deputat-rady-nazvala-istoriiu-s-kravchenko-problemoi-sistemy-vlasti-na-ukraine-izi",
-        "https://iz.ru/2167056/vitce-premer-italii-salvini-dopustil-vozvrat-strany-k-zakupkam-gaza-iz-rossii-izi",
-        "https://iz.ru/2167061/moshenniki-nachali-obmanyvat-rossiian-pod-predlogom-sezonnoi-vaktcinatcii-ot-grippa-izi",
-        "https://iz.ru/2167065/kirill-dmitriev-nazval-miunkhenskuiu-konferentciiu-votchinoi-nato-izi",
-        "https://iz.ru/2167071/polianskii-prizval-obse-obektivno-otcenivat-udary-vsu-po-grazhdanskim-v-rossii-izi",
-        "https://iz.ru/2167093/komitet-palaty-predstavitelei-ssha-odobril-uzhestochenie-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2167100/minzdrav-predlozhil-soobshchat-prinimaiushchim-valatciklovir-o-riskakh-oblyseniia-izi",
-        "https://iz.ru/2167102/eksperty-iz-germanii-frantcii-i-italii-posetiat-rf-vo-vremia-vyborov-v-gosdumu-izi",
-        "https://iz.ru/2167107/dmitriev-obratil-vnimanie-na-foto-s-visiashchim-nad-stubbom-i-mertcem-toporom-izi",
-        "https://iz.ru/2167114/federalnym-lgotnikam-napomnili-o-vozmozhnosti-zamenit-sotcuslugi-dengami-izi",
-        "https://iz.ru/2167118/sliusar-nochiu-taganrog-podvergsia-massirovannoi-raketnoi-atake-izi",
-        "https://iz.ru/2167119/vsu-iz-za-poter-bronetekhniki-nachali-ispolzovat-grazhdanskie-mashiny-izi",
-        "https://iz.ru/2167122/demokraty-predlozhili-vydelit-kievu-15-mlrd-v-ramkakh-adskikh-sanktcii-protiv-rf-izi",
-        "https://iz.ru/2167123/armiia-rossii-predotvratila-kontrataku-vsu-s-tankami-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2167133/v-mvd-soobshchili-o-skheme-obmana-roditelei-podrostkov-po-karte-rebenka-izi",
-        "https://iz.ru/2167157/v-gidromettcentre-nazvali-sroki-vkliucheniia-otopleniia-v-moskve-izi",
-        "https://iz.ru/2167162/miroshnik-obvinil-vsu-v-energotcide-v-shesti-regionakh-rossii-izi",
-        "https://iz.ru/2167174/pristavy-namereny-vzyskat-s-repera-navai-dolg-za-zhkkh-v-721-tys-rublei-izi"
+        "https://iz.ru/2167226/umer-vitce-prezident-fide-georgios-makropulos-izi",
+        "https://iz.ru/2167229/uchenye-rasskazali-o-rabote-mozga-pri-sotcialnoi-trevozhnosti-izi",
+        "https://iz.ru/2167234/v-er-predlozhili-uchityvat-mnenie-roditelei-pri-perekhode-shkolnikov-na-piatidnevku-izi",
+        "https://iz.ru/2167235/kalashnikov-vpervye-pokazal-kompleks-kalitka-ka-dlia-borby-s-bpla-izi",
+        "https://iz.ru/2167238/uchastniki-mfm-ne-sderzhali-slez-vo-vremia-vystupleniia-paraalpinista-nabieva-izi",
+        "https://iz.ru/2167240/v-ssha-ogranichili-prodazhu-motornogo-masla-iz-za-defitcita-izi",
+        "https://iz.ru/2167246/lavrov-vyrazil-uverennost-v-vozvrate-zamorozhennykh-rossiiskikh-rezervov-izi",
+        "https://iz.ru/2167257/rada-ukrainy-progolosovala-za-otstavku-genprokurora-kravchenko-izi",
+        "https://iz.ru/2167260/lavrov-iskliuchil-priostanovku-svo-na-period-peregovorov-s-ukrainoi-izi",
+        "https://iz.ru/2167261/uchenye-sozdali-atlas-mikroproteinov-dlia-izucheniia-bolezni-altcgeimera-izi",
+        "https://iz.ru/2167267/v-kremle-prizvali-otmenit-antirossiiskie-sanktcii-na-postavki-nefteproduktov-izi",
+        "https://iz.ru/2167269/lavrov-zaiavil-o-sryve-ssha-dogovorennostei-ankoridzha-izi",
+        "https://iz.ru/2167275/peskov-ukazal-na-pereorientatciiu-postavok-rossiiskogo-gaza-s-evropy-izi",
+        "https://iz.ru/2167302/kreml-schitaet-khoroshei-initciativoi-ideiu-trampa-ob-energeticheskom-peremirii-izi",
+        "https://iz.ru/2167306/tysiachi-veruiushchikh-vystroilis-v-ochered-k-moshcham-u-khrama-khrista-spasitelia-izi",
+        "https://iz.ru/2167315/armiia-rossii-nanesla-udar-po-zheleznodorozhnomu-sostavu-vsu-v-volynskoi-oblasti-izi",
+        "https://iz.ru/2167317/chtenie-v-detstve-sviazali-s-luchshei-pamiatiu-i-vnimaniem-izi",
+        "https://iz.ru/2167322/dvizhenie-mashin-po-krymskomu-mostu-vremenno-perekryvali-izi",
+        "https://iz.ru/2167326/prokuratura-zaprosila-pozhiznennyi-srok-dlia-maniaka-gaskova-izi",
+        "https://iz.ru/2167332/v-rospotrebnadzore-soobshchili-o-vysokoi-gotovnosti-rf-k-epidsezonu-grippa-izi"
       ]
     },
     "2026-09-16": {
-      "totalChecked": 939,
-      "totalIzi": 210,
+      "totalChecked": 935,
+      "totalIzi": 209,
       "totalIiz": 2,
-      "totalAi": 212,
+      "totalAi": 211,
       "topLinks": [
-        "https://iz.ru/2167217/uchenye-obnaruzhili-sviaz-mezhdu-defitcitom-vitamina-d-i-boliu-izi",
         "https://iz.ru/2167253/uchenye-obnaruzhili-skrytuiu-prichinu-povyshennogo-krovianogo-davleniia-izi",
         "https://iz.ru/2167319/uchenye-obiasnili-rost-chisla-sluchaev-diagnostiki-raka-u-molodezhi-izi",
         "https://iz.ru/2167353/narodnye-primety-na-16-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -231,7 +230,8 @@
         "https://iz.ru/2167731/cbs-pokazal-kadry-povrezhdenii-voennykh-baz-ssha-posle-udarov-irana-izi",
         "https://iz.ru/2167739/ekspert-napomnil-o-prave-na-povyshenie-pensii-chetyre-raza-v-god-dlia-letchikov-izi",
         "https://iz.ru/2167740/glava-minpromtorga-alikhanov-priobrel-rossiiskii-elektromobil-atom-izi",
-        "https://iz.ru/2167742/v-litve-zaiavili-ob-otsutstvii-dannykh-o-podgotovke-ataki-rf-na-pribaltiku-izi"
+        "https://iz.ru/2167742/v-litve-zaiavili-ob-otsutstvii-dannykh-o-podgotovke-ataki-rf-na-pribaltiku-izi",
+        "https://iz.ru/2167744/v-vosmi-regionakh-rossii-zafiksirovali-sluchai-napadenii-medvedei-na-liudei-izi"
       ]
     },
     "2026-09-17": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-22": {
-      "totalChecked": 177,
-      "totalIzi": 35,
+      "totalChecked": 436,
+      "totalIzi": 95,
       "totalIiz": 2,
-      "totalAi": 37,
+      "totalAi": 97,
       "topLinks": [
         "https://iz.ru/2170627/uchenye-sviazali-vosem-pishchevykh-dobavok-s-riskom-gipertonii-izi",
         "https://iz.ru/2170646/uchenye-izuchili-vliianie-vitamina-c-na-predrakovye-zabolevaniia-krovi-izi",
