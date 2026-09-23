@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:52:12.689Z",
+  "generatedAt": "2026-09-23T17:16:15.951Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-16": {
-      "totalChecked": 729,
-      "totalIzi": 170,
+      "totalChecked": 575,
+      "totalIzi": 138,
       "totalIiz": 1,
-      "totalAi": 171,
+      "totalAi": 139,
       "topLinks": [
-        "https://iz.ru/2167892/geroi-rossii-anton-grunis-biografiia-izi",
-        "https://iz.ru/2167906/peskov-otkazalsia-kommentirovat-kritiku-ovechkina-za-rolik-edinoi-rossii-izi",
-        "https://iz.ru/2167912/lavrov-predupredil-o-korotkoi-voine-v-sluchae-napadeniia-evropy-na-rf-izi",
-        "https://iz.ru/2167914/perevodchitcu-proizvedenii-dostoevskogo-iz-iuzhnoi-korei-vnesli-v-bazu-mirotvortca-izi",
-        "https://iz.ru/2167923/shturmoviki-vs-rf-zamanili-spetcnaz-vsu-v-lovushku-v-sumskoi-oblasti-izi",
-        "https://iz.ru/2167932/illiuzionist-devid-kopperfild-biografiia-izi",
-        "https://iz.ru/2167933/ks-armenii-priznal-soglashenie-po-marshrutu-trampa-sootvetstvuiushchim-konstitutcii-izi",
-        "https://iz.ru/2167946/v-tcb-nazvali-uslovie-dlia-snizheniia-kliuchevoi-stavki-izi",
-        "https://iz.ru/2167947/ataman-kuznetcov-otmetil-podderzhku-kazakami-sokhraneniia-istoricheskoi-pamiati-izi",
-        "https://iz.ru/2167950/zakharova-nazvala-deiatelnost-kallas-absoliutnym-pozorom-evropeiskoi-politiki-izi",
-        "https://iz.ru/2167951/v-saudovskoi-aravii-sbili-bespilotnik-khusitov-nedaleko-ot-mekki-izi",
-        "https://iz.ru/2167952/2026-09-16/v-rptc-prizvali-vozderzhatsia-ot-kospleia-na-tcerkovnye-obriady-izi",
-        "https://iz.ru/2167955/eks-deputat-bundestaga-nazval-retro-ralli-rusofilov-povodom-dlia-zakliucheniia-druzhby-izi",
-        "https://iz.ru/2167962/muzhchina-na-stantcii-metro-taganskaia-v-moskve-udaril-podrostka-po-litcu-izi",
-        "https://iz.ru/2167965/v-germanii-soobshchili-o-podorozhanii-piva-na-oktoberfeste-pochti-na-400-s-1985-goda-izi",
-        "https://iz.ru/2167969/lavrov-iskliuchil-vozvrashchenie-rossii-k-prezhnim-otnosheniiam-s-evropoi-izi",
-        "https://iz.ru/2167981/aragchi-zaiavil-o-priznanii-iranom-deistvitelnosti-memoranduma-s-ssha-izi",
-        "https://iz.ru/2167985/korvet-rf-vypustil-signalnye-rakety-v-storonu-datskogo-vertoleta-chto-izvestno-izi",
-        "https://iz.ru/2167987/fon-der-liaien-predlozhila-sozdat-v-evrosoiuze-analog-st-4-ustava-nato-izi",
-        "https://iz.ru/2167992/dotcent-fakulteta-zhurnalistiki-urfu-rafail-iskhakov-skonchalsia-v-vozraste-72-let-izi"
+        "https://iz.ru/2168096/na-ukraine-zaiavili-o-gotovnosti-kieva-k-otopitelnomu-sezonu-lish-na-40-izi",
+        "https://iz.ru/2168104/medvedev-nazval-sozdanie-sistemy-ravnopravnykh-tcennostei-v-mire-missiei-rf-izi",
+        "https://iz.ru/2168105/sud-obiazal-byvshego-muzha-aktrisy-mironovoi-vyplachivat-alimenty-na-syna-izi",
+        "https://iz.ru/2168116/putin-zaiavil-o-nevozmozhnosti-raskolot-i-zapugat-rossiiu-izi",
+        "https://iz.ru/2168118/putin-otmetil-rol-boitcov-i-grazhdan-v-dostizhenii-pobedy-rossii-izi",
+        "https://iz.ru/2168122/na-ukraine-soobshchili-ob-obyskakh-u-byvshei-zamestitelnitcy-eks-genprokurora-izi",
+        "https://iz.ru/2168124/aktrisa-natalia-danilova-biografiia-izi",
+        "https://iz.ru/2168126/obviniaemaia-v-rasprostranenii-pornografii-shurygina-tiazhelo-zabolela-v-sizo-izi",
+        "https://iz.ru/2168129/pashinian-oproverg-podniatie-v-besede-s-putinym-voprosa-o-vyvode-bazy-rf-v-giumri-izi",
+        "https://iz.ru/2168137/posol-dolgov-prizval-kallas-ostavit-vlazhnye-mechtaniia-o-razgovore-s-putinym-izi",
+        "https://iz.ru/2168140/v-ekaterinburge-sostoialas-tceremoniia-zakrytiia-mfm-izi",
+        "https://iz.ru/2168146/medvedev-rossiia-v-otlichie-ot-ukrainy-provodit-vybory-na-fone-boevykh-deistvii-izi",
+        "https://iz.ru/2168156/postoronnie-mysli-okazalis-sviazany-s-nastroeniem-cheloveka-izi",
+        "https://iz.ru/2168186/budanov-nazval-studentam-khudshii-dlia-ukrainy-stcenarii-i-ukazal-na-vazhnost-vlasti-izi",
+        "https://iz.ru/2168198/chto-proizoshlo-za-den-16-sentiabria-glavnoe-izi",
+        "https://iz.ru/2168235/gensek-oon-nazval-ekzistentcialnoi-ugrozoi-poteriu-kontrolia-nad-ii-izi",
+        "https://iz.ru/2168253/samoilov-nazval-pozitivnuiu-povestku-glavnym-pliusom-mfm-2026-v-ekaterinburge-izi",
+        "https://iz.ru/2168257/putin-vybory-v-gosdumu-proidut-v-srok-i-strogo-po-zakonu-izi",
+        "https://iz.ru/2168269/de-la-fuente-prodlil-kontrakt-so-sbornoi-ispanii-po-futbolu-do-2030-goda-izi",
+        "https://iz.ru/2168270/v-mid-rossii-zaiavili-ob-otrabotke-nato-blokady-kaliningradskoi-oblasti-izi"
       ]
     },
     "2026-09-17": {
-      "totalChecked": 931,
+      "totalChecked": 913,
       "totalIzi": 201,
-      "totalIiz": 2,
-      "totalAi": 203,
+      "totalIiz": 1,
+      "totalAi": 202,
       "topLinks": [
-        "https://iz.ru/2168048/narodnye-primety-na-17-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2168261/ldpr-prizvala-zapretit-spisanie-pensii-i-zhilishchnykh-vyplat-silovikov-za-dolgi-izi",
         "https://iz.ru/2168340/le-monde-soobshchila-o-nekhvatke-raket-dlia-f-16-na-ukraine-izi",
         "https://iz.ru/2168364/2026-09-17/shvab-rasskazal-prankeram-o-zhelanii-zapada-videt-koreiskii-stcenarii-na-ukraine-izi",
@@ -231,18 +230,16 @@
         "https://iz.ru/2168412/azarov-sviazal-konflikt-sbu-i-gur-s-peredelom-istochnikov-dokhoda-izi",
         "https://iz.ru/2168413/palata-predstavitelei-ssha-odobrila-zakonoproekt-o-sanktciiakh-protiv-rossii-izi",
         "https://iz.ru/2168417/pushilin-ukazal-na-beskontrolnye-raskhody-germanii-na-pomoshch-ukraine-izi",
-        "https://iz.ru/2168425/iurist-napomnil-o-prave-na-kompensatciiu-za-zaderzhku-tovarov-s-marketpleisa-izi"
+        "https://iz.ru/2168425/iurist-napomnil-o-prave-na-kompensatciiu-za-zaderzhku-tovarov-s-marketpleisa-izi",
+        "https://iz.ru/2168426/materi-geroini-s-2027-goda-nachnut-poluchat-1-mln-rublei-avtomaticheski-izi"
       ]
     },
     "2026-09-18": {
-      "totalChecked": 953,
-      "totalIzi": 225,
+      "totalChecked": 948,
+      "totalIzi": 222,
       "totalIiz": 5,
-      "totalAi": 230,
+      "totalAi": 227,
       "topLinks": [
-        "https://iz.ru/2167890/uchenye-obnaruzhili-estestvennuiu-zashchitu-setchatki-ot-poteri-zreniia-izi",
-        "https://iz.ru/2167944/uchenye-uznali-ob-izmenenii-pokazatelei-biologicheskogo-vozrasta-blagodaria-diete-izi",
-        "https://iz.ru/2168086/uchenye-ukazali-na-rol-shokolada-dlia-muzhchin-pri-trenirovkakh-izi",
         "https://iz.ru/2168520/2026-09-18/eksperty-nazvali-dostupnye-varianty-semeinogo-dosuga-izi",
         "https://iz.ru/2168578/2026-09-18/poezdka-rebenka-v-oae-s-rodstvennikom-kakie-dokumenty-oformit-izi",
         "https://iz.ru/2168579/uchenye-obiasnili-nevozmozhnost-opredelit-defitcit-zheleza-po-kozhe-izi",
@@ -259,7 +256,10 @@
         "https://iz.ru/2169016/tanker-pod-flagom-togo-zagorelsia-posle-udara-v-ormuzskom-prolive-izi",
         "https://iz.ru/2169020/lantratova-nazvala-osnovnye-temy-obrashchenii-po-ukraine-izi",
         "https://iz.ru/2169021/ekspert-nazvala-sposob-poluchit-nakopitelnuiu-chast-pensii-v-nasledstvo-izi",
-        "https://iz.ru/2169025/lukashenko-zaiavil-o-neizmennosti-sotrudnichestva-belorussii-s-rossiei-i-kitaem-izi"
+        "https://iz.ru/2169025/lukashenko-zaiavil-o-neizmennosti-sotrudnichestva-belorussii-s-rossiei-i-kitaem-izi",
+        "https://iz.ru/2169026/glava-bundesvera-prizval-germaniiu-gotovitsia-k-oborone-s-uchetom-novykh-ugroz-izi",
+        "https://iz.ru/2169047/kandidat-v-genseki-oon-dopustila-pomoshch-ukraine-v-provedenii-vyborov-izi",
+        "https://iz.ru/2169053/mendel-zaiavila-ob-otkaze-zelenskogo-ot-piati-mirnykh-soglashenii-s-rf-izi"
       ]
     },
     "2026-09-19": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 633,
+      "totalChecked": 631,
       "totalIzi": 132,
       "totalIiz": 0,
       "totalAi": 132,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-23": {
-      "totalChecked": 484,
-      "totalIzi": 131,
+      "totalChecked": 803,
+      "totalIzi": 189,
       "totalIiz": 2,
-      "totalAi": 133,
+      "totalAi": 191,
       "topLinks": [
         "https://iz.ru/2170779/svoe-litco-chuzhoe-pochemu-my-inache-vygliadim-na-foto-izi",
         "https://iz.ru/2170973/dykhanie-pod-vliianiem-gormonov-pochemu-astma-u-zhenshchin-protekaet-slozhnee-izi",
