@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T22:22:35.312Z",
+  "generatedAt": "2026-09-23T00:47:55.620Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,19 +151,11 @@
       ]
     },
     "2026-09-15": {
-      "totalChecked": 490,
-      "totalIzi": 124,
+      "totalChecked": 470,
+      "totalIzi": 116,
       "totalIiz": 1,
-      "totalAi": 125,
+      "totalAi": 117,
       "topLinks": [
-        "https://iz.ru/2167655/stiven-sigal-vyigral-shapku-ushanku-na-festivale-molodezhi-v-ekaterinburge-izi",
-        "https://iz.ru/2167660/medvedev-otcenil-znachenie-tekhnologii-dlia-budushchego-rossiiskoi-ekonomiki-izi",
-        "https://iz.ru/2167663/pushilin-zaiavil-o-reguliarnom-nastuplenii-vs-rf-po-vsemu-frontu-v-dnr-izi",
-        "https://iz.ru/2167666/forbes-soobshchil-o-vedenii-mazepinym-peregovorov-o-pokupke-lesta-igr-izi",
-        "https://iz.ru/2167668/devushku-pytalis-zasudit-za-rekomendatciiu-dukhov-izi",
-        "https://iz.ru/2167669/sotrudnik-pokinul-google-deepmind-iz-za-opasenii-po-povodu-ii-izi",
-        "https://iz.ru/2167672/medvedev-nazval-tekhnologicheskoe-liderstvo-usloviem-suvereniteta-rossii-izi",
-        "https://iz.ru/2167673/kongressmen-massi-predlozhil-obiavit-impichment-glave-pentagona-khegsetu-izi",
         "https://iz.ru/2167687/2026-09-15/polsha-usilit-voiskami-okhranu-na-uchastke-granitcy-s-ukrainoi-izi",
         "https://iz.ru/2166699/narodnye-primety-na-15-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2166811/uchenye-ukazali-na-sposobnost-zombi-kletok-podderzhivat-vospalenie-izi",
@@ -175,11 +167,19 @@
         "https://iz.ru/2167056/vitce-premer-italii-salvini-dopustil-vozvrat-strany-k-zakupkam-gaza-iz-rossii-izi",
         "https://iz.ru/2167061/moshenniki-nachali-obmanyvat-rossiian-pod-predlogom-sezonnoi-vaktcinatcii-ot-grippa-izi",
         "https://iz.ru/2167065/kirill-dmitriev-nazval-miunkhenskuiu-konferentciiu-votchinoi-nato-izi",
-        "https://iz.ru/2167071/polianskii-prizval-obse-obektivno-otcenivat-udary-vsu-po-grazhdanskim-v-rossii-izi"
+        "https://iz.ru/2167071/polianskii-prizval-obse-obektivno-otcenivat-udary-vsu-po-grazhdanskim-v-rossii-izi",
+        "https://iz.ru/2167093/komitet-palaty-predstavitelei-ssha-odobril-uzhestochenie-sanktcii-protiv-rossii-izi",
+        "https://iz.ru/2167100/minzdrav-predlozhil-soobshchat-prinimaiushchim-valatciklovir-o-riskakh-oblyseniia-izi",
+        "https://iz.ru/2167102/eksperty-iz-germanii-frantcii-i-italii-posetiat-rf-vo-vremia-vyborov-v-gosdumu-izi",
+        "https://iz.ru/2167107/dmitriev-obratil-vnimanie-na-foto-s-visiashchim-nad-stubbom-i-mertcem-toporom-izi",
+        "https://iz.ru/2167114/federalnym-lgotnikam-napomnili-o-vozmozhnosti-zamenit-sotcuslugi-dengami-izi",
+        "https://iz.ru/2167118/sliusar-nochiu-taganrog-podvergsia-massirovannoi-raketnoi-atake-izi",
+        "https://iz.ru/2167119/vsu-iz-za-poter-bronetekhniki-nachali-ispolzovat-grazhdanskie-mashiny-izi",
+        "https://iz.ru/2167122/demokraty-predlozhili-vydelit-kievu-15-mlrd-v-ramkakh-adskikh-sanktcii-protiv-rf-izi"
       ]
     },
     "2026-09-16": {
-      "totalChecked": 904,
+      "totalChecked": 900,
       "totalIzi": 202,
       "totalIiz": 1,
       "totalAi": 203,
@@ -375,14 +375,19 @@
       ]
     },
     "2026-09-23": {
-      "totalChecked": 75,
-      "totalIzi": 3,
+      "totalChecked": 99,
+      "totalIzi": 8,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 10,
       "topLinks": [
         "https://iz.ru/2171641/narodnye-primety-na-23-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2171765/dinamo-proigralo-barysu-v-matche-kkhl-so-schetom-14-izi",
         "https://iz.ru/2171785/uitkoff-i-kushner-vstretilis-s-posrednikami-po-sdelke-s-iranom-izi",
+        "https://iz.ru/2171789/miroshnik-ukazal-na-narushenie-ukrainoi-mgp-iz-za-atak-na-medikov-v-zone-konflikta-izi",
+        "https://iz.ru/2171801/nazvany-regiony-rf-s-samymi-vysokimi-srednimi-pensiiami-izi",
+        "https://iz.ru/2171809/sud-obiazal-rasperia-vyplatit-raiffeisen-bank-kompensatciiu-v-eu315-mlrd-izi",
+        "https://iz.ru/2171810/v-mid-rf-soobshchili-ob-otkliucheniiakh-elektrichestva-v-kurskoi-oblasti-posle-atak-vsu-izi",
+        "https://iz.ru/2171813/vlasti-ispanii-namereny-prekratit-import-szhizhennogo-gaza-iz-rossii-izi",
         "https://iz.ru/2171641/narodnye-primety-na-23-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2171765/dinamo-proigralo-barysu-v-matche-kkhl-so-schetom-14-izi"
       ]
