@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T15:16:59.407Z",
+  "generatedAt": "2026-09-24T19:21:35.819Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-09-17": {
-      "totalChecked": 623,
-      "totalIzi": 134,
+      "totalChecked": 555,
+      "totalIzi": 116,
       "totalIiz": 1,
-      "totalAi": 135,
+      "totalAi": 117,
       "topLinks": [
-        "https://iz.ru/2168689/mer-obninska-podaril-plovchikhe-gaifutdinovoi-prianik-i-mochalku-za-bronzu-na-che-izi",
-        "https://iz.ru/2168691/troe-detei-i-dvoe-vzroslykh-postradali-pri-atake-vsu-na-gorlovku-izi",
-        "https://iz.ru/2168700/piiavka-prisosalas-k-gortani-zhenshchiny-v-turetckoi-provintcii-chorum-izi",
-        "https://iz.ru/2168701/v-minkulte-soobshchili-ob-otsutstvii-dannykh-o-krymskoi-kollektcii-skifskogo-zolota-izi",
-        "https://iz.ru/2168716/dvukratnyi-prizer-olimpiady-reztcova-nazvala-sportsmena-cherezova-legendoi-biatlona-izi",
-        "https://iz.ru/2168717/uchenye-vyiavili-mekhanizm-uskorennogo-stareniia-pri-geneticheskikh-bolezniakh-izi",
-        "https://iz.ru/2168719/sud-zaochno-arestoval-eks-ministra-sviazi-nikiforova-po-delu-o-moshennichestve-izi",
-        "https://iz.ru/2168734/uchenye-vyiavili-novyi-mekhanizm-immunnoi-zashchity-mozga-izi",
-        "https://iz.ru/2168735/pravitelstvo-pomozhet-biznesu-kompensirovat-zatraty-na-zashchitu-obektov-izi",
-        "https://iz.ru/2168745/zhitelnitcu-tatarstana-zaderzhali-po-delu-ob-ubiistve-polutoragodovaloi-docheri-izi",
-        "https://iz.ru/2168748/uchenye-sravnili-rabotu-ii-s-psikhiatrami-pri-otcenke-psikhicheskogo-sostoianiia-izi",
-        "https://iz.ru/2168761/aktrisu-nataliu-danilovu-pokhoronili-v-gatchine-izi",
-        "https://iz.ru/2168773/v-drezdene-obnaruzhili-nedvizhimost-priblizhennykh-zelenskogo-za-eu15-mln-izi",
-        "https://iz.ru/2168782/2026-09-17/mosgorsud-utverdil-zaochnyi-arest-docheri-borisa-nemtcova-izi",
-        "https://iz.ru/2168783/chinovnitce-iz-agentstva-pamiatnikov-kultury-prishlos-izviniatsia-za-rasizm-izi",
-        "https://iz.ru/2168791/pravitelstvo-vydelit-35-mlrd-rublei-na-rekonstruktciiu-dorog-k-moriu-v-krymu-izi",
-        "https://iz.ru/2168816/v-brazilii-devochku-u-shkoly-atakoval-roi-pchel-izi",
-        "https://iz.ru/2168826/odin-chelovek-pogib-i-odin-ranen-pri-atakakh-vsu-v-belgorodskoi-oblasti-izi",
         "https://iz.ru/2168834/v-moskve-predstavili-doklad-o-falsifikatcii-kievom-sobytii-v-buche-izi",
-        "https://iz.ru/2168856/rossiia-i-uzbekistan-dogovorilis-o-sotrudnichestve-v-protivodeistvii-korruptcii-izi"
+        "https://iz.ru/2168856/rossiia-i-uzbekistan-dogovorilis-o-sotrudnichestve-v-protivodeistvii-korruptcii-izi",
+        "https://iz.ru/2168866/opredelilis-soperniki-sbornoi-rossii-na-iunosheskom-turnire-fifa-izi",
+        "https://iz.ru/2168870/armiia-rossii-porazila-sudno-s-gruzom-dlia-vsu-v-portu-chernomorska-izi",
+        "https://iz.ru/2168900/chto-proizoshlo-za-den-17-sentiabria-glavnoe-izi",
+        "https://iz.ru/2168905/sily-pvo-za-den-sbili-292-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2168938/ovechkin-prokommentiroval-uchastie-v-predvybornom-rolike-edinoi-rossii-izi",
+        "https://iz.ru/2168941/putin-provel-soveshchanie-po-ekonomicheskim-voprosam-glavnoe-izi",
+        "https://iz.ru/2168944/komitet-po-kulture-peterburga-ne-poluchal-zaprosov-po-kontcertu-kane-uesta-izi",
+        "https://iz.ru/2168947/2026-09-17/tri-cheloveka-pogibli-i-10-postradali-iz-za-ukrainskikh-atak-v-dnr-izi",
+        "https://iz.ru/2168948/odin-chelovek-pogib-i-vosem-raneny-pri-atake-vsu-na-belgorodskuiu-oblast-izi",
+        "https://iz.ru/2168967/tri-cheloveka-postradali-v-kurskoi-oblasti-iz-za-udarov-vsu-izi",
+        "https://iz.ru/2168971/2026-09-17/tramp-soobshchil-o-progresse-v-sozdanii-bazy-armii-ssha-v-polshe-izi",
+        "https://iz.ru/2167438/uchenye-nashli-prichinu-nekotorykh-porokov-serdtca-izi",
+        "https://iz.ru/2167489/uchenye-uznali-o-vliianii-raiona-prozhivaniia-na-zdorove-mozga-izi",
+        "https://iz.ru/2167531/uchenye-rasskazali-ob-izmeneniiakh-v-mozge-u-liudei-starshe-50-let-izi",
+        "https://iz.ru/2167850/uchenye-raskryli-prichiny-usileniia-kashlia-pri-sukhom-vozdukhe-izi",
+        "https://iz.ru/2167881/uchenye-nazvali-poleznoe-dlia-serdtca-kolichestvo-tcelnogo-zerna-izi",
+        "https://iz.ru/2168048/narodnye-primety-na-17-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2168261/ldpr-prizvala-zapretit-spisanie-pensii-i-zhilishchnykh-vyplat-silovikov-za-dolgi-izi"
       ]
     },
     "2026-09-18": {
-      "totalChecked": 930,
-      "totalIzi": 218,
+      "totalChecked": 915,
+      "totalIzi": 217,
       "totalIiz": 4,
-      "totalAi": 222,
+      "totalAi": 221,
       "topLinks": [
-        "https://iz.ru/2168766/2026-09-18/sviashchennik-nikishov-dal-sovety-po-borbe-s-beskonechnym-skrollingom-v-internete-izi",
         "https://iz.ru/2168952/efreitor-gerasimovich-vynes-dvukh-ranenykh-tovarishchei-s-polia-boia-izi",
         "https://iz.ru/2169001/tusk-zaiavil-o-rekordnykh-poteriakh-vsu-v-27-tys-chelovek-v-mesiatc-izi",
         "https://iz.ru/2169003/2026-09-18/semero-voennykh-postradali-pri-vzryve-na-poligone-v-shvetcii-izi",
@@ -231,18 +230,16 @@
         "https://iz.ru/2169055/avstraliiskii-naemnik-vstupil-v-vsu-pod-vliianiem-zapadnykh-smi-izi",
         "https://iz.ru/2169057/nemetckii-politik-predupredil-ob-udare-po-promyshlennosti-frg-iz-za-otkaza-ot-gaza-rf-izi",
         "https://iz.ru/2169060/istrebitel-f-16-razbilsia-v-shtate-michigan-izi",
-        "https://iz.ru/2169063/mertc-zaiavil-o-fundamentalnykh-izmeneniiakh-v-otnosheniiakh-germanii-i-ssha-izi"
+        "https://iz.ru/2169063/mertc-zaiavil-o-fundamentalnykh-izmeneniiakh-v-otnosheniiakh-germanii-i-ssha-izi",
+        "https://iz.ru/2169069/v-korsakove-100-letniaia-zhitelnitca-progolosovala-na-vyborakh-v-gosdumu-izi"
       ]
     },
     "2026-09-19": {
-      "totalChecked": 629,
-      "totalIzi": 207,
+      "totalChecked": 625,
+      "totalIzi": 204,
       "totalIiz": 2,
-      "totalAi": 209,
+      "totalAi": 206,
       "topLinks": [
-        "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi",
-        "https://iz.ru/2168792/uchenye-obiasnili-ukhudshenie-pamiati-pri-beremennosti-izi",
-        "https://iz.ru/2168821/uchenye-izuchili-svoistva-chernogo-i-zelenogo-risa-izi",
         "https://iz.ru/2169181/2026-09-19/bez-pasporta-za-granitcei-chto-delat-rossiianinu-pri-utrate-dokumentov-v-oae-izi",
         "https://iz.ru/2169336/uchenye-rasskazali-o-roli-zhestov-v-ponimanii-grammatiki-izi",
         "https://iz.ru/2169345/narodnye-primety-na-19-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,11 +256,14 @@
         "https://iz.ru/2169731/rossiianin-umer-iz-za-utechki-khladagenta-na-sudne-v-portu-pusana-izi",
         "https://iz.ru/2169732/ssha-odobrili-vozmozhnuiu-prodazhu-ukraine-sredstv-pvo-na-268-mlrd-izi",
         "https://iz.ru/2169734/2026-09-19/putin-zaiavil-o-gotovnosti-rossii-vosstanovit-otnosheniia-s-evropoi-izi",
-        "https://iz.ru/2169741/saldo-zaiavil-o-rastushchei-neuverennosti-zelenskogo-v-svoem-politicheskom-budushchem-izi"
+        "https://iz.ru/2169741/saldo-zaiavil-o-rastushchei-neuverennosti-zelenskogo-v-svoem-politicheskom-budushchem-izi",
+        "https://iz.ru/2169752/spetcbort-il-76-mchs-rossii-vernulsia-posle-tusheniia-lesnykh-pozharov-v-serbii-izi",
+        "https://iz.ru/2169756/ansambl-ryrky-vystupil-na-izbiratelnom-uchastke-v-egvekinote-na-chukotke-izi",
+        "https://iz.ru/2169761/v-ianao-obiavili-bespilotnuiu-opasnost-izi"
       ]
     },
     "2026-09-20": {
-      "totalChecked": 629,
+      "totalChecked": 628,
       "totalIzi": 132,
       "totalIiz": 0,
       "totalAi": 132,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-24": {
-      "totalChecked": 692,
-      "totalIzi": 150,
-      "totalIiz": 3,
-      "totalAi": 153,
+      "totalChecked": 873,
+      "totalIzi": 162,
+      "totalIiz": 5,
+      "totalAi": 167,
       "topLinks": [
         "https://iz.ru/2171345/uchenye-raskryli-mekhanizm-soglasovaniia-zritelnykh-signalov-v-mozge-izi",
         "https://iz.ru/2171946/narodnye-primety-na-24-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
