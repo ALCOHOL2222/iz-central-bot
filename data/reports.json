@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:59:46.349Z",
+  "generatedAt": "2026-09-25T18:48:41.387Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-09-18": {
-      "totalChecked": 691,
-      "totalIzi": 172,
-      "totalIiz": 4,
-      "totalAi": 176,
+      "totalChecked": 571,
+      "totalIzi": 138,
+      "totalIiz": 3,
+      "totalAi": 141,
       "topLinks": [
-        "https://iz.ru/2169237/strany-vostochnoi-evropy-sozdali-karpatskuiu-vosmerku-s-uchastiem-ukrainy-i-serbii-izi",
-        "https://iz.ru/2169241/v-moskve-muzhchina-ukral-koltco-za-2-mln-rublei-izi",
-        "https://iz.ru/2169242/fitco-otmenil-vizit-na-ukrainu-iz-za-bolezni-izi",
-        "https://iz.ru/2169249/v-say-agency-prokommentirovali-propazhu-kontcerta-v-peterburge-s-saita-kane-uesta-izi",
-        "https://iz.ru/2169250/uorren-baffett-ushel-s-posta-predsedatelia-berkshire-hathaway-izi",
-        "https://iz.ru/2169253/2026-09-18/razgovory-o-vazhnom-21-sentiabria-tema-i-programma-uroka-iiz",
-        "https://iz.ru/2169254/khk-vashington-kepitalz-ne-pozdravil-ovechkina-s-dnem-rozhdeniia-izi",
-        "https://iz.ru/2169260/na-meste-kakhovskoi-ges-postroiat-novoe-gidrotekhnicheskoe-sooruzhenie-izi",
-        "https://iz.ru/2169262/uchenye-nazvali-samuiu-moloduiu-izvestnuiu-planetu-vo-vselennoi-izi",
-        "https://iz.ru/2169266/2026-09-18/v-sovbeze-rossii-nazvali-vozmozhnye-tceli-reiderskikh-zakhvatov-armenii-izi",
-        "https://iz.ru/2169267/mendel-raskryla-trebovanie-zelenskogo-vzorvat-metro-kieva-v-fevrale-2022-goda-izi",
-        "https://iz.ru/2169271/otravlenie-bytovym-gazom-gromkie-sluchai-i-pravila-bezopasnosti-izi",
-        "https://iz.ru/2169289/skrytyi-udar-po-serdtcu-chem-opasno-khronicheskoe-vospalenie-izi",
-        "https://iz.ru/2169290/vo-frantcii-zakhoteli-sozdat-sobstvennye-soedinennye-shtaty-izi",
-        "https://iz.ru/2169294/novogodnie-kanikuly-v-2027-godu-prodliatsia-11-dnei-s-31-dekabria-po-10-ianvaria-izi",
-        "https://iz.ru/2169309/tarpishchev-soobshchil-o-prinuzhdenii-mirry-andreevoi-k-smene-grazhdanstva-izi",
-        "https://iz.ru/2169310/uchenye-nashli-v-kimchi-sposobnuiu-vyvodit-nanoplastik-bakteriiu-izi",
-        "https://iz.ru/2169318/mishustin-ukazal-na-vazhnost-uchastiia-grazhdan-v-vyborakh-deputatov-gosdumy-izi",
-        "https://iz.ru/2169319/nachavshaia-rassledovanie-o-pole-brizhit-makron-zhurnalistka-natasha-rei-skonchalas-izi",
-        "https://iz.ru/2169326/pervye-samolety-ms-21-postupiat-aeroflotu-v-2027-godu-izi"
+        "https://iz.ru/2169459/zakharova-ukazala-na-provedenie-vyborov-v-gosdumu-pod-puliami-izi",
+        "https://iz.ru/2169462/putin-predlozhil-ulianovtcu-kupit-na-sekonomlennoe-na-zhkkh-podarok-supruge-izi",
+        "https://iz.ru/2169463/armiia-rossii-porazila-sukhogruz-vsu-v-portu-iuzhnyi-odesskoi-oblasti-izi",
+        "https://iz.ru/2169468/peskov-zaiavil-ob-otsutstvii-planov-mobilizovat-300-tys-chelovek-do-kontca-goda-izi",
+        "https://iz.ru/2169470/spetcialist-rasskazal-o-prichinakh-silnoi-ustalosti-posle-trenirovki-izi",
+        "https://iz.ru/2169505/spartak-obygral-traktor-i-oderzhal-piatuiu-pobedu-podriad-chempionata-kkhl-izi",
+        "https://iz.ru/2169506/chto-proizoshlo-za-den-18-sentiabria-glavnoe-izi",
+        "https://iz.ru/2169522/nebenzia-soobshchil-o-razocharovanii-stran-persidskogo-zaliva-v-pomoshchi-ssha-izi",
+        "https://iz.ru/2169531/ingosstrakh-zavershil-pervuiu-volnu-vyplat-selleram-ozon-posle-atak-vsu-izi",
+        "https://iz.ru/2169543/sily-pvo-za-den-sbili-328-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2169556/iavka-na-vyborakh-v-gosdumu-v-pervyi-den-v-lnr-sostavila-4882-izi",
+        "https://iz.ru/2169564/krishtianu-ronaldu-vyzvali-v-sbornuiu-portugalii-na-matchi-ligi-natcii-izi",
+        "https://iz.ru/2169567/iavka-na-vyborakh-v-gosdumu-v-pervyi-den-sostavila-2945-izi",
+        "https://iz.ru/2169587/putin-po-vks-otkryl-obekty-sotcialnoi-gazifikatcii-v-semi-regionakh-izi",
+        "https://iz.ru/2169591/zhurnalist-taker-karlson-nazval-nepodobaiushchimi-sanktcii-protiv-mendel-izi",
+        "https://iz.ru/2169595/putin-ukazal-na-rost-chisla-vneshnikh-ugroz-dlia-rossii-na-fone-rasshireniia-nato-izi",
+        "https://iz.ru/2169609/aktrisa-anna-sherling-biografiia-izi",
+        "https://iz.ru/2169625/zhurova-obiasnila-otsutstvie-pozdravleniia-ovechkina-ot-vashingtona-izi",
+        "https://iz.ru/2169628/razmer-nobelevskoi-premii-v-2026-godu-uvelichili-do-12-mln-izi",
+        "https://iz.ru/2169631/amerikanskie-voennye-edva-ne-nachali-konflikt-s-kitaem-iz-za-oshibki-ii-izi"
       ]
     },
     "2026-09-19": {
-      "totalChecked": 622,
-      "totalIzi": 203,
-      "totalIiz": 2,
-      "totalAi": 205,
+      "totalChecked": 607,
+      "totalIzi": 202,
+      "totalIiz": 1,
+      "totalAi": 203,
       "topLinks": [
-        "https://iz.ru/2169336/uchenye-rasskazali-o-roli-zhestov-v-ponimanii-grammatiki-izi",
-        "https://iz.ru/2169345/narodnye-primety-na-19-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2169659/tramp-zaiavil-o-soglashenii-ssha-i-danii-po-bezopasnosti-grenlandii-izi",
         "https://iz.ru/2169670/ssha-daniia-i-grenlandiia-podpishut-soglashenie-o-bezopasnosti-na-ga-oon-izi",
         "https://iz.ru/2169671/rubio-obiasnil-sdelku-po-grenlandii-nekhvatkoi-sredstv-u-danii-na-zashchitu-ostrova-izi",
@@ -231,11 +229,13 @@
         "https://iz.ru/2169752/spetcbort-il-76-mchs-rossii-vernulsia-posle-tusheniia-lesnykh-pozharov-v-serbii-izi",
         "https://iz.ru/2169756/ansambl-ryrky-vystupil-na-izbiratelnom-uchastke-v-egvekinote-na-chukotke-izi",
         "https://iz.ru/2169761/v-ianao-obiavili-bespilotnuiu-opasnost-izi",
-        "https://iz.ru/2169789/okolo-22-mln-chelovek-progolosovali-v-moskve-v-elektronnom-formate-za-sutki-izi"
+        "https://iz.ru/2169789/okolo-22-mln-chelovek-progolosovali-v-moskve-v-elektronnom-formate-za-sutki-izi",
+        "https://iz.ru/2169792/chempion-evropy-po-futbolu-1968-goda-sandro-matctcola-skonchalsia-na-84-m-godu-zhizni-izi",
+        "https://iz.ru/2169794/armiia-rossii-za-noch-porazila-logisticheskie-tcentry-i-porty-ukrainy-izi"
       ]
     },
     "2026-09-20": {
-      "totalChecked": 621,
+      "totalChecked": 614,
       "totalIzi": 129,
       "totalIiz": 0,
       "totalAi": 129,
@@ -263,12 +263,11 @@
       ]
     },
     "2026-09-21": {
-      "totalChecked": 915,
-      "totalIzi": 185,
+      "totalChecked": 908,
+      "totalIzi": 184,
       "totalIiz": 2,
-      "totalAi": 187,
+      "totalAi": 186,
       "topLinks": [
-        "https://iz.ru/2169411/uchenye-obiasnili-vliianie-psikhicheskikh-rasstroistv-na-dolgoletie-izi",
         "https://iz.ru/2169455/uchenye-uznali-o-vliianii-nedosypa-na-nabor-vesa-izi",
         "https://iz.ru/2170443/mladshii-serzhant-rudenko-unichtozhil-chetyre-punkta-upravleniia-bpla-protivnika-izi",
         "https://iz.ru/2170482/2026-09-21/zakharova-soobshchila-ob-ugrozakh-provokatcii-i-aktov-nasiliia-v-khode-golosovaniia-za-rubezhom-izi",
@@ -287,11 +286,12 @@
         "https://iz.ru/2170534/cotrudnik-ice-ranil-muzhchinu-v-ostine-izi",
         "https://iz.ru/2170542/koshta-soobshchil-o-planakh-es-razvivat-otnosheniia-s-kanadoi-izi",
         "https://iz.ru/2170546/v-mid-rf-zaiavili-o-strategii-ukrainy-na-sozdanie-gumanitarnoi-katastrofy-izi",
-        "https://iz.ru/2170550/ukraina-poteriaet-do-68-vvp-v-2027-godu-v-sluchae-prodolzheniia-boevykh-deistvii-izi"
+        "https://iz.ru/2170550/ukraina-poteriaet-do-68-vvp-v-2027-godu-v-sluchae-prodolzheniia-boevykh-deistvii-izi",
+        "https://iz.ru/2170553/dmitrii-donskoi-kiprenskogo-predstavlen-v-pavilone-no-1-na-vdnkh-izi"
       ]
     },
     "2026-09-22": {
-      "totalChecked": 957,
+      "totalChecked": 955,
       "totalIzi": 188,
       "totalIiz": 2,
       "totalAi": 190,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-09-23": {
-      "totalChecked": 1005,
+      "totalChecked": 1003,
       "totalIzi": 206,
       "totalIiz": 2,
       "totalAi": 208,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-25": {
-      "totalChecked": 544,
-      "totalIzi": 109,
+      "totalChecked": 897,
+      "totalIzi": 164,
       "totalIiz": 2,
-      "totalAi": 111,
+      "totalAi": 166,
       "topLinks": [
         "https://iz.ru/2172117/uchenye-vyiavili-prichiny-usileniia-allergii-pri-povtornom-kontakte-s-allergenom-izi",
         "https://iz.ru/2172151/uchenye-izuchili-sviaz-okr-s-travmiruiushchim-opytom-izi",
