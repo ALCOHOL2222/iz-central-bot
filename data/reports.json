@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:35:37.062Z",
+  "generatedAt": "2026-09-25T01:42:08.360Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-09-17": {
-      "totalChecked": 487,
-      "totalIzi": 105,
+      "totalChecked": 473,
+      "totalIzi": 103,
       "totalIiz": 1,
-      "totalAi": 106,
+      "totalAi": 104,
       "topLinks": [
-        "https://iz.ru/2168967/tri-cheloveka-postradali-v-kurskoi-oblasti-iz-za-udarov-vsu-izi",
-        "https://iz.ru/2168971/2026-09-17/tramp-soobshchil-o-progresse-v-sozdanii-bazy-armii-ssha-v-polshe-izi",
         "https://iz.ru/2167438/uchenye-nashli-prichinu-nekotorykh-porokov-serdtca-izi",
         "https://iz.ru/2167489/uchenye-uznali-o-vliianii-raiona-prozhivaniia-na-zdorove-mozga-izi",
         "https://iz.ru/2167531/uchenye-rasskazali-ob-izmeneniiakh-v-mozge-u-liudei-starshe-50-let-izi",
@@ -175,11 +173,13 @@
         "https://iz.ru/2168379/2026-09-17/v-iaroslavle-perekryli-dvizhenie-transporta-v-storonu-moskvy-izi",
         "https://iz.ru/2168380/2026-09-17/bolee-115-tys-zhitelei-kamchatki-dosrochno-progolosovali-na-vyborakh-izi",
         "https://iz.ru/2168383/forbes-ukazal-na-snizhenie-doli-metallurgii-v-vvp-ukrainy-pochti-do-nulia-izi",
-        "https://iz.ru/2168397/matematik-otvetila-na-vopros-o-sposobnosti-ii-ukazat-na-vyigryshnyi-lotereinyi-bilet-izi"
+        "https://iz.ru/2168397/matematik-otvetila-na-vopros-o-sposobnosti-ii-ukazat-na-vyigryshnyi-lotereinyi-bilet-izi",
+        "https://iz.ru/2168401/lantratova-rasskazala-o-sotcvyplatakh-na-otkrytie-svoego-dela-izi",
+        "https://iz.ru/2168405/v-ator-nazvali-sluchai-dlia-polnogo-vozvrata-deneg-za-zarubezhnyi-tur-izi"
       ]
     },
     "2026-09-18": {
-      "totalChecked": 911,
+      "totalChecked": 905,
       "totalIzi": 216,
       "totalIiz": 4,
       "totalAi": 220,
@@ -375,12 +375,17 @@
       ]
     },
     "2026-09-25": {
-      "totalChecked": 96,
-      "totalIzi": 0,
+      "totalChecked": 116,
+      "totalIzi": 5,
       "totalIiz": 2,
-      "totalAi": 2,
+      "totalAi": 7,
       "topLinks": [
         "https://iz.ru/2172710/narodnye-primety-na-25-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2173144/v-minprosveshcheniia-anonsirovali-novye-uchebniki-dlia-10-11-kh-klassov-v-2027-godu-izi",
+        "https://iz.ru/2173169/sredniaia-zarplata-v-rossii-v-2026-godu-prevysit-112-tysiach-rublei-izi",
+        "https://iz.ru/2173180/khusity-zaiavili-ob-udarakh-raketami-po-er-riiadu-i-obektam-saudi-aramco-izi",
+        "https://iz.ru/2173181/zakharova-prizvala-iunesko-i-iunisef-proverit-obrazovanie-molodezhi-v-estonii-izi",
+        "https://iz.ru/2173184/kolumbiia-razorvala-diplomaticheskie-otnosheniia-s-iranom-izi",
         "https://iz.ru/2172710/narodnye-primety-na-25-sentiabria-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
