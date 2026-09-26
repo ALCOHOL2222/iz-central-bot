@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:22:14.042Z",
+  "generatedAt": "2026-09-26T20:03:08.691Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,23 +179,11 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 423,
-      "totalIzi": 134,
+      "totalChecked": 384,
+      "totalIzi": 122,
       "totalIiz": 1,
-      "totalAi": 135,
+      "totalAi": 123,
       "topLinks": [
-        "https://iz.ru/2169962/mezhdunarodnye-nabliudateli-otmetili-khoroshuiu-organizatciiu-vyborov-v-rf-izi",
-        "https://iz.ru/2169963/tatianu-tarasovu-vypisali-iz-bolnitcy-izi",
-        "https://iz.ru/2169965/v-roskachestve-zaiavili-o-prave-vsekh-detei-na-besplatnyi-sport-izi",
-        "https://iz.ru/2169972/na-ukraine-pokazali-kortezh-zelenskogo-s-bolee-15-spetcavtomobiliami-izi",
-        "https://iz.ru/2169974/pri-osvobozhdenii-gulevo-i-marevki-vs-rf-ispolzovali-nestandartnye-deistviia-izi",
-        "https://iz.ru/2169975/glava-ukrainskoi-federatcii-metallurgov-predrek-gibel-vsei-etoi-otrasli-v-strane-izi",
-        "https://iz.ru/2170005/medvedev-nazval-nestle-i-ashan-sviashchennymi-korovami-dlia-zapada-izi",
-        "https://iz.ru/2170019/ssha-poobeshchali-vlozhit-ves-potentcial-v-transformatciiu-armii-armenii-izi",
-        "https://iz.ru/2170022/ekspert-klimenko-prizvala-dachnikov-ubirat-urozhai-iablok-dlia-zashchity-ot-medvedei-izi",
-        "https://iz.ru/2170024/zakharova-nazvala-nevozmozhnym-dialog-s-priverzhentcami-rusofobii-izi",
-        "https://iz.ru/2170026/v-belgii-soobshchili-o-poluchenii-partii-amerikanskikh-istrebitelei-f-35-izi",
-        "https://iz.ru/2170027/politolog-stankevich-rasskazal-o-vozmozhnykh-posledstviiakh-dogovora-ssha-i-danii-izi",
         "https://iz.ru/2170033/2026-09-19/vs-rf-nanesli-udary-po-logisticheskim-tcentram-v-kharkovskoi-i-odesskoi-oblastiakh-izi",
         "https://iz.ru/2170035/v-peterburge-iavka-na-vyborakh-v-gosdumu-dostigla-pochti-35-izi",
         "https://iz.ru/2170039/hill-soobshchila-ob-iske-protiv-razrabotchikov-ii-iz-za-predpolagaemogo-sgovora-izi",
@@ -203,7 +191,19 @@
         "https://iz.ru/2170047/v-gosdume-nazvali-politicheskoi-slepotoi-zaiavlenie-kieva-o-vyborakh-v-rf-izi",
         "https://iz.ru/2170057/peskov-progolosoval-na-vyborakh-v-gosdumu-onlain-izi",
         "https://iz.ru/2170070/wp-uznala-o-sekretnom-soglashenii-ssha-dlia-snizheniia-tcen-na-lekarstva-izi",
-        "https://iz.ru/2170071/2026-09-19/tcik-iuzhnoi-osetii-obiavil-marata-kambolova-izbrannym-prezidentom-respubliki-izi"
+        "https://iz.ru/2170071/2026-09-19/tcik-iuzhnoi-osetii-obiavil-marata-kambolova-izbrannym-prezidentom-respubliki-izi",
+        "https://iz.ru/2170075/2026-09-19/dvoe-detei-i-troe-vzroslykh-postradali-pri-vspyshke-gaza-v-prikame-izi",
+        "https://iz.ru/2170077/do-12-vyroslo-chislo-ranenykh-pri-udare-drona-vsu-po-avtobusu-v-gorlovke-izi",
+        "https://iz.ru/2170083/kitai-raskritikoval-zakon-ssha-ob-uzhestochenii-sanktcii-protiv-rossii-i-irana-izi",
+        "https://iz.ru/2170089/peskov-zaiavil-o-negativnom-vliianii-novogo-zakona-ssha-o-sanktciiakh-izi",
+        "https://iz.ru/2170091/tramp-predlozhil-pereimenovat-ii-v-vysshii-intellekt-izi",
+        "https://iz.ru/2170093/dmitriev-zaiavil-o-krupneishem-v-istorii-energeticheskom-krizise-v-evrope-izi",
+        "https://iz.ru/2170094/troikh-deputatov-polskogo-seichas-vnesli-v-bazu-mirotvortca-izi",
+        "https://iz.ru/2170100/interpol-ispolzoval-ii-s-tceliu-identifitcirovat-boevikov-terroristov-izi",
+        "https://iz.ru/2170102/2026-09-19/istrebitel-f-16-ssha-perekhvatil-samolet-nad-zagorodnoi-rezidentciei-trampa-izi",
+        "https://iz.ru/2170113/ekspert-garanin-rasskazal-o-prichinakh-bolee-chastykh-pokupok-shokolada-oseniu-izi",
+        "https://iz.ru/2168117/uchenye-vyiavili-rol-tcelnozernovykh-produktov-v-zdorove-serdtca-izi",
+        "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi"
       ]
     },
     "2026-09-20": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-26": {
-      "totalChecked": 466,
-      "totalIzi": 94,
+      "totalChecked": 589,
+      "totalIzi": 118,
       "totalIiz": 2,
-      "totalAi": 96,
+      "totalAi": 120,
       "topLinks": [
         "https://iz.ru/2172693/uchenye-raskryli-mekhanizm-zashchity-opukholevykh-kletok-ot-stressa-izi",
         "https://iz.ru/2172720/uchenye-obiasnili-nevozmozhnost-zamenit-zhivoe-obshchenie-sotcsetiami-izi",
