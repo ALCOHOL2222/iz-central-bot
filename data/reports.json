@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T07:55:18.860Z",
+  "generatedAt": "2026-09-26T13:15:54.585Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,35 +179,35 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 567,
-      "totalIzi": 193,
+      "totalChecked": 499,
+      "totalIzi": 167,
       "totalIiz": 1,
-      "totalAi": 194,
+      "totalAi": 168,
       "topLinks": [
-        "https://iz.ru/2169729/2026-09-19/v-semi-gorodakh-kitaia-nachalos-dosrochnoe-golosovanie-na-vyborakh-v-gosdumu-izi",
-        "https://iz.ru/2169731/rossiianin-umer-iz-za-utechki-khladagenta-na-sudne-v-portu-pusana-izi",
-        "https://iz.ru/2169732/ssha-odobrili-vozmozhnuiu-prodazhu-ukraine-sredstv-pvo-na-268-mlrd-izi",
-        "https://iz.ru/2169734/2026-09-19/putin-zaiavil-o-gotovnosti-rossii-vosstanovit-otnosheniia-s-evropoi-izi",
-        "https://iz.ru/2169741/saldo-zaiavil-o-rastushchei-neuverennosti-zelenskogo-v-svoem-politicheskom-budushchem-izi",
-        "https://iz.ru/2169752/spetcbort-il-76-mchs-rossii-vernulsia-posle-tusheniia-lesnykh-pozharov-v-serbii-izi",
-        "https://iz.ru/2169756/ansambl-ryrky-vystupil-na-izbiratelnom-uchastke-v-egvekinote-na-chukotke-izi",
-        "https://iz.ru/2169761/v-ianao-obiavili-bespilotnuiu-opasnost-izi",
-        "https://iz.ru/2169789/okolo-22-mln-chelovek-progolosovali-v-moskve-v-elektronnom-formate-za-sutki-izi",
-        "https://iz.ru/2169792/chempion-evropy-po-futbolu-1968-goda-sandro-matctcola-skonchalsia-na-84-m-godu-zhizni-izi",
-        "https://iz.ru/2169794/armiia-rossii-za-noch-porazila-logisticheskie-tcentry-i-porty-ukrainy-izi",
-        "https://iz.ru/2169795/sredstva-pvo-za-noch-sbili-nad-rossiei-344-ukrainskikh-drona-izi",
-        "https://iz.ru/2169796/alikhanov-sprognoziroval-ponizhenie-tceny-rossiiskogo-samoleta-ms-21-izi",
-        "https://iz.ru/2169803/v-mosgorizbirkome-zaiavili-ob-otsutstvii-zhalob-o-narushenii-prav-izbiratelei-izi",
-        "https://iz.ru/2169814/pamfilova-nazvala-ozhivlennym-khod-golosovaniia-v-rossii-na-vyborakh-v-gosdumu-izi",
-        "https://iz.ru/2169815/shveitcarii-vyrazili-obespokoennost-iz-za-resheniia-rossii-po-aktivam-nestle-izi",
-        "https://iz.ru/2169817/smi-soobshchili-ob-otkaze-bundesvera-russkim-nemtcam-v-sluzhbe-v-litovskoi-brigade-izi",
-        "https://iz.ru/2169822/pamfilova-prizvala-ustroivshii-vakkhanaliiu-zapad-snachala-navesti-poriadok-u-sebia-izi",
-        "https://iz.ru/2169824/mo-rf-vsu-brosili-v-boi-samykh-podgotovlennykh-shturmovikov-svoei-3-i-brigady-izi",
-        "https://iz.ru/2169828/iavka-na-federalnoi-platforme-deg-dostigla-75-izi"
+        "https://iz.ru/2169846/pamfilova-zaiavila-ob-uspeshnom-otrazhenii-atak-na-sistemu-deg-moskvy-izi",
+        "https://iz.ru/2169850/pogibshuiu-v-zaporozhskoi-oblasti-predsedatelia-uik-astaninu-pokhoronili-izi",
+        "https://iz.ru/2169853/slovenetc-tim-farchnik-stal-novym-prezidentom-mezhdunarodnogo-soiuza-biatlonistov-izi",
+        "https://iz.ru/2169855/ukrainskii-deputat-soobshchil-o-nachale-kanikul-v-rade-na-fone-problem-izi",
+        "https://iz.ru/2169857/armiia-rossii-porazila-geraniami-suda-v-portu-odessa-i-akvatorii-chernogo-moria-izi",
+        "https://iz.ru/2169858/serbskie-smi-uznali-o-nalichii-u-putina-retcepta-pobedy-izi",
+        "https://iz.ru/2169859/minoborony-soobshchilo-ob-udarakh-po-voennym-obektam-vsu-v-142-raionakh-izi",
+        "https://iz.ru/2169860/armiia-rossii-osvobodila-tri-naselennykh-punktov-izi",
+        "https://iz.ru/2169862/silami-pvo-bylo-unichtozheno-936-bpla-vsu-i-sem-upravliaemykh-aviabomb-izi",
+        "https://iz.ru/2169864/tcik-vyrazil-trevogu-iz-za-podgotovki-golosovaniia-rossiian-za-rubezhom-izi",
+        "https://iz.ru/2169866/pamfilova-predateliam-rossii-dorogi-obratno-ne-budet-izi",
+        "https://iz.ru/2169867/putin-poruchil-razobratsia-s-vosstanovleniem-transporta-v-novykh-regionakh-izi",
+        "https://iz.ru/2169868/putin-poruchil-provesti-strane-eksperiment-s-bespilotnym-obshchestvennym-transportom-izi",
+        "https://iz.ru/2169869/v-mintcifre-ukazali-na-otsutstvie-pomekh-dlia-vyborov-iz-za-diversii-na-dalnem-vsotkoe-izi",
+        "https://iz.ru/2169870/kndr-pokazala-sobstvennye-drony-kamikadze-izi",
+        "https://iz.ru/2169874/mo-vs-rossii-vziali-pod-kontrol-loshakovo-i-komissarovo-v-kharkoviskoi-oblasti-izi",
+        "https://iz.ru/2169875/smi-uznali-ob-otsutstvii-u-ssha-i-saudovskoi-aravii-chetkogo-plana-po-khusitam-izi",
+        "https://iz.ru/2169882/piat-chelovek-postradali-v-massovom-dtp-s-deviatiu-mashinami-v-samare-izi",
+        "https://iz.ru/2169909/kanada-dvazhdy-otkazala-rossii-v-ekstraditcii-natcista-gunko-izi",
+        "https://iz.ru/2169910/v-ssha-iskusstvennyi-intellekt-samostoiatelno-vzlomal-sistemy-trekh-kompanii-izi"
       ]
     },
     "2026-09-20": {
-      "totalChecked": 611,
+      "totalChecked": 610,
       "totalIzi": 129,
       "totalIiz": 0,
       "totalAi": 129,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-26": {
-      "totalChecked": 219,
-      "totalIzi": 32,
+      "totalChecked": 325,
+      "totalIzi": 52,
       "totalIiz": 2,
-      "totalAi": 34,
+      "totalAi": 54,
       "topLinks": [
         "https://iz.ru/2172693/uchenye-raskryli-mekhanizm-zashchity-opukholevykh-kletok-ot-stressa-izi",
         "https://iz.ru/2172720/uchenye-obiasnili-nevozmozhnost-zamenit-zhivoe-obshchenie-sotcsetiami-izi",
@@ -397,9 +397,9 @@
         "https://iz.ru/2173877/mvd-predupredilo-o-novykh-skhemakh-moshennikov-s-ispolzovaniem-ii-v-internete-izi",
         "https://iz.ru/2173878/miroshnik-ukazal-na-zavisimost-ukrainy-ot-zapadnoi-podderzhki-izi",
         "https://iz.ru/2173879/dva-cheloveka-pogibli-v-rezultate-dtp-pod-novosibirskom-izi",
-        "https://iz.ru/2172693/uchenye-raskryli-mekhanizm-zashchity-opukholevykh-kletok-ot-stressa-izi",
-        "https://iz.ru/2172720/uchenye-obiasnili-nevozmozhnost-zamenit-zhivoe-obshchenie-sotcsetiami-izi",
-        "https://iz.ru/2172919/uchenye-zaiavili-o-sokrashchenii-zhizni-iz-za-odinochestva-izi"
+        "https://iz.ru/2173884/pezeshkian-iskliuchil-priamye-peregovory-s-trampom-do-normalizatcii-otnoshenii-izi",
+        "https://iz.ru/2173936/rossiianam-obiasnili-poriadok-smeny-familii-rebenka-izi",
+        "https://iz.ru/2173940/2026-09-26/v-peterburge-nashli-propavshego-rodstvennika-znamenitoi-finskoi-semi-parviainen-izi"
       ]
     }
   }
