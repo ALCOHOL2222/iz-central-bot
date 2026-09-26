@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:03:08.691Z",
+  "generatedAt": "2026-09-26T23:01:29.024Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-09-13": {
-      "totalChecked": 291,
-      "totalIzi": 96,
-      "totalIiz": 1,
-      "totalAi": 97,
-      "topLinks": [
-        "https://iz.ru/2165126/uchenye-obiasnili-sviaz-sdvg-s-narusheniiami-raboty-kishechnika-izi",
-        "https://iz.ru/2165146/uchenye-ukazali-na-sviaz-fizicheskoi-aktivnosti-i-sokhraneniia-slukha-izi",
-        "https://iz.ru/2165186/issledovateli-raskryli-rol-gormonov-stressa-v-razvitii-ozhireniia-izi",
-        "https://iz.ru/2165208/narodnye-primety-na-13-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2166131/riadovoi-goloshapov-lichno-unichtozhil-dvukh-boevikov-vsu-pri-shturme-opornogo-punkta-izi",
-        "https://iz.ru/2166137/zelenskii-zaiavil-o-nuzhde-v-100-120-raketakh-patriot-ezhemesiachno-zimoi-izi",
-        "https://iz.ru/2166139/kinooperator-boris-timkovskii-biografiia-izi",
-        "https://iz.ru/2166145/dom-detstva-trampa-v-niu-jorke-prodali-pochti-za-2-mln-izi",
-        "https://iz.ru/2166148/tcska-sygral-vnichiu-s-rubinom-v-matche-rpl-izi",
-        "https://iz.ru/2166150/belousov-pozdravil-voennosluzhashchikh-s-dnem-tankista-izi",
-        "https://iz.ru/2166153/vengriia-poprosila-vernut-podarennykh-karlu-iii-loshadei-izi",
-        "https://iz.ru/2166157/putin-poprivetstvoval-gostei-festivalia-shkolnykh-khorov-poiut-deti-rossii-izi",
-        "https://iz.ru/2166165/v-gd-predlozili-besplatno-podklyucat-lgotnikov-k-internetu-v-castnyx-sektorax-izi",
-        "https://iz.ru/2166169/v-gosdume-predlozhili-udvoit-doplatu-k-pensii-s-70-let-izi",
-        "https://iz.ru/2166174/k-domu-kharris-v-malibu-vyzvali-politciiu-posle-proniknoveniia-neizvestnoi-zhenshchiny-izi",
-        "https://iz.ru/2166185/onishchenko-nazval-usloviia-dlia-prodleniia-zhizni-do-100-let-izi",
-        "https://iz.ru/2166186/moshenniki-nachali-pugat-rossiian-proverkami-perevodov-cherez-sbp-izi",
-        "https://iz.ru/2166187/rybakina-vyigrala-us-open-i-stala-pervoi-raketkoi-mira-izi",
-        "https://iz.ru/2166190/smi-soobshchili-o-serii-zemletriasenii-v-kalifornii-izi",
-        "https://iz.ru/2166192/psikholog-rasskazala-o-vliianii-shokolada-na-nastroenie-i-rabotu-mozga-izi"
-      ]
-    },
     "2026-09-14": {
       "totalChecked": 451,
       "totalIzi": 111,
@@ -179,31 +151,31 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 384,
-      "totalIzi": 122,
+      "totalChecked": 333,
+      "totalIzi": 107,
       "totalIiz": 1,
-      "totalAi": 123,
+      "totalAi": 108,
       "topLinks": [
-        "https://iz.ru/2170033/2026-09-19/vs-rf-nanesli-udary-po-logisticheskim-tcentram-v-kharkovskoi-i-odesskoi-oblastiakh-izi",
-        "https://iz.ru/2170035/v-peterburge-iavka-na-vyborakh-v-gosdumu-dostigla-pochti-35-izi",
-        "https://iz.ru/2170039/hill-soobshchila-ob-iske-protiv-razrabotchikov-ii-iz-za-predpolagaemogo-sgovora-izi",
-        "https://iz.ru/2170042/zhurnalist-bouz-zaiavil-o-povyshennogo-opaseniia-zelenskim-pokushenii-izi",
-        "https://iz.ru/2170047/v-gosdume-nazvali-politicheskoi-slepotoi-zaiavlenie-kieva-o-vyborakh-v-rf-izi",
-        "https://iz.ru/2170057/peskov-progolosoval-na-vyborakh-v-gosdumu-onlain-izi",
-        "https://iz.ru/2170070/wp-uznala-o-sekretnom-soglashenii-ssha-dlia-snizheniia-tcen-na-lekarstva-izi",
-        "https://iz.ru/2170071/2026-09-19/tcik-iuzhnoi-osetii-obiavil-marata-kambolova-izbrannym-prezidentom-respubliki-izi",
-        "https://iz.ru/2170075/2026-09-19/dvoe-detei-i-troe-vzroslykh-postradali-pri-vspyshke-gaza-v-prikame-izi",
-        "https://iz.ru/2170077/do-12-vyroslo-chislo-ranenykh-pri-udare-drona-vsu-po-avtobusu-v-gorlovke-izi",
-        "https://iz.ru/2170083/kitai-raskritikoval-zakon-ssha-ob-uzhestochenii-sanktcii-protiv-rossii-i-irana-izi",
-        "https://iz.ru/2170089/peskov-zaiavil-o-negativnom-vliianii-novogo-zakona-ssha-o-sanktciiakh-izi",
-        "https://iz.ru/2170091/tramp-predlozhil-pereimenovat-ii-v-vysshii-intellekt-izi",
-        "https://iz.ru/2170093/dmitriev-zaiavil-o-krupneishem-v-istorii-energeticheskom-krizise-v-evrope-izi",
-        "https://iz.ru/2170094/troikh-deputatov-polskogo-seichas-vnesli-v-bazu-mirotvortca-izi",
         "https://iz.ru/2170100/interpol-ispolzoval-ii-s-tceliu-identifitcirovat-boevikov-terroristov-izi",
         "https://iz.ru/2170102/2026-09-19/istrebitel-f-16-ssha-perekhvatil-samolet-nad-zagorodnoi-rezidentciei-trampa-izi",
         "https://iz.ru/2170113/ekspert-garanin-rasskazal-o-prichinakh-bolee-chastykh-pokupok-shokolada-oseniu-izi",
         "https://iz.ru/2168117/uchenye-vyiavili-rol-tcelnozernovykh-produktov-v-zdorove-serdtca-izi",
-        "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi"
+        "https://iz.ru/2168722/uchenye-ukazali-na-rol-vitamina-d-pri-beremennosti-izi",
+        "https://iz.ru/2168792/uchenye-obiasnili-ukhudshenie-pamiati-pri-beremennosti-izi",
+        "https://iz.ru/2168821/uchenye-izuchili-svoistva-chernogo-i-zelenogo-risa-izi",
+        "https://iz.ru/2169181/2026-09-19/bez-pasporta-za-granitcei-chto-delat-rossiianinu-pri-utrate-dokumentov-v-oae-izi",
+        "https://iz.ru/2169336/uchenye-rasskazali-o-roli-zhestov-v-ponimanii-grammatiki-izi",
+        "https://iz.ru/2169345/narodnye-primety-na-19-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2169659/tramp-zaiavil-o-soglashenii-ssha-i-danii-po-bezopasnosti-grenlandii-izi",
+        "https://iz.ru/2169670/ssha-daniia-i-grenlandiia-podpishut-soglashenie-o-bezopasnosti-na-ga-oon-izi",
+        "https://iz.ru/2169671/rubio-obiasnil-sdelku-po-grenlandii-nekhvatkoi-sredstv-u-danii-na-zashchitu-ostrova-izi",
+        "https://iz.ru/2169672/litva-podgotovila-plan-evakuatcii-zhitelei-vilniusa-v-polshu-na-sluchai-konflikta-izi",
+        "https://iz.ru/2169681/dmitriev-nazval-bi-bi-si-podryvaiushchei-zapadnuiu-tcivilizatciiu-izi",
+        "https://iz.ru/2169682/vrach-protezist-rasskazal-o-vozvrashchenii-k-sportu-posle-amputatcii-izi",
+        "https://iz.ru/2169694/syn-trampa-vernul-rossiiskomu-biznesmenu-dengi-za-svoiu-svadbu-izi",
+        "https://iz.ru/2169703/2026-09-19/zakharova-nazvala-ukrainskuiu-temu-odnoi-iz-kliuchevykh-dlia-peregovorov-lavrova-v-oon-izi",
+        "https://iz.ru/2169714/shaman-i-mizulina-progolosovali-na-vyborakh-v-gosdumu-izi",
+        "https://iz.ru/2169729/2026-09-19/v-semi-gorodakh-kitaia-nachalos-dosrochnoe-golosovanie-na-vyborakh-v-gosdumu-izi"
       ]
     },
     "2026-09-20": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-09-26": {
-      "totalChecked": 589,
-      "totalIzi": 118,
+      "totalChecked": 631,
+      "totalIzi": 128,
       "totalIiz": 2,
-      "totalAi": 120,
+      "totalAi": 130,
       "topLinks": [
         "https://iz.ru/2172693/uchenye-raskryli-mekhanizm-zashchity-opukholevykh-kletok-ot-stressa-izi",
         "https://iz.ru/2172720/uchenye-obiasnili-nevozmozhnost-zamenit-zhivoe-obshchenie-sotcsetiami-izi",
@@ -400,6 +372,23 @@
         "https://iz.ru/2173884/pezeshkian-iskliuchil-priamye-peregovory-s-trampom-do-normalizatcii-otnoshenii-izi",
         "https://iz.ru/2173936/rossiianam-obiasnili-poriadok-smeny-familii-rebenka-izi",
         "https://iz.ru/2173940/2026-09-26/v-peterburge-nashli-propavshego-rodstvennika-znamenitoi-finskoi-semi-parviainen-izi"
+      ]
+    },
+    "2026-09-27": {
+      "totalChecked": 67,
+      "totalIzi": 4,
+      "totalIiz": 5,
+      "totalAi": 9,
+      "topLinks": [
+        "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2174211/vagner-lav-provel-svoi-proshchalnyi-match-v-moskve-s-tcska-izi",
+        "https://iz.ru/2174213/smi-soobshchili-o-vyzove-glav-openai-i-anthropic-v-senat-avstralii-iz-za-ii-agentov-izi",
+        "https://iz.ru/2158869/50-svetlye-otkrytki-s-vozdvizheniem-kresta-gospodnia-kartinki-gifki-i-pravoslavnye-pozdravleniia-iiz",
+        "https://iz.ru/2158873/den-vospitatelia-2026-kak-poiavilsia-prazdnik-tekh-kto-kazhdyi-den-zabotitsia-o-detiakh-iiz",
+        "https://iz.ru/2163393/50-dobrye-otkrytki-s-dnem-vospitatelia-krasivye-kartinki-gifki-i-pozdravleniia-dlia-pedagogov-iiz",
+        "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2174211/vagner-lav-provel-svoi-proshchalnyi-match-v-moskve-s-tcska-izi",
+        "https://iz.ru/2174213/smi-soobshchili-o-vyzove-glav-openai-i-anthropic-v-senat-avstralii-iz-za-ii-agentov-izi"
       ]
     }
   }
