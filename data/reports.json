@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:32:03.654Z",
+  "generatedAt": "2026-09-26T01:43:38.298Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-09-18": {
-      "totalChecked": 522,
-      "totalIzi": 126,
+      "totalChecked": 506,
+      "totalIzi": 121,
       "totalIiz": 3,
-      "totalAi": 129,
+      "totalAi": 124,
       "topLinks": [
-        "https://iz.ru/2169567/iavka-na-vyborakh-v-gosdumu-v-pervyi-den-sostavila-2945-izi",
-        "https://iz.ru/2169587/putin-po-vks-otkryl-obekty-sotcialnoi-gazifikatcii-v-semi-regionakh-izi",
-        "https://iz.ru/2169591/zhurnalist-taker-karlson-nazval-nepodobaiushchimi-sanktcii-protiv-mendel-izi",
-        "https://iz.ru/2169595/putin-ukazal-na-rost-chisla-vneshnikh-ugroz-dlia-rossii-na-fone-rasshireniia-nato-izi",
-        "https://iz.ru/2169609/aktrisa-anna-sherling-biografiia-izi",
         "https://iz.ru/2169625/zhurova-obiasnila-otsutstvie-pozdravleniia-ovechkina-ot-vashingtona-izi",
         "https://iz.ru/2169628/razmer-nobelevskoi-premii-v-2026-godu-uvelichili-do-12-mln-izi",
         "https://iz.ru/2169631/amerikanskie-voennye-edva-ne-nachali-konflikt-s-kitaem-iz-za-oshibki-ii-izi",
@@ -175,11 +170,16 @@
         "https://iz.ru/2167944/uchenye-uznali-ob-izmenenii-pokazatelei-biologicheskogo-vozrasta-blagodaria-diete-izi",
         "https://iz.ru/2168086/uchenye-ukazali-na-rol-shokolada-dlia-muzhchin-pri-trenirovkakh-izi",
         "https://iz.ru/2168520/2026-09-18/eksperty-nazvali-dostupnye-varianty-semeinogo-dosuga-izi",
-        "https://iz.ru/2168578/2026-09-18/poezdka-rebenka-v-oae-s-rodstvennikom-kakie-dokumenty-oformit-izi"
+        "https://iz.ru/2168578/2026-09-18/poezdka-rebenka-v-oae-s-rodstvennikom-kakie-dokumenty-oformit-izi",
+        "https://iz.ru/2168579/uchenye-obiasnili-nevozmozhnost-opredelit-defitcit-zheleza-po-kozhe-izi",
+        "https://iz.ru/2168630/2026-09-18/uchenye-nashli-sviaz-mezhdu-sostoianiem-myshtc-i-riskom-dementcii-izi",
+        "https://iz.ru/2168671/narodnye-primety-na-18-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2168766/2026-09-18/sviashchennik-nikishov-dal-sovety-po-borbe-s-beskonechnym-skrollingom-v-internete-izi",
+        "https://iz.ru/2168952/efreitor-gerasimovich-vynes-dvukh-ranenykh-tovarishchei-s-polia-boia-izi"
       ]
     },
     "2026-09-19": {
-      "totalChecked": 604,
+      "totalChecked": 603,
       "totalIzi": 202,
       "totalIiz": 1,
       "totalAi": 203,
@@ -375,12 +375,13 @@
       ]
     },
     "2026-09-26": {
-      "totalChecked": 58,
-      "totalIzi": 3,
+      "totalChecked": 75,
+      "totalIzi": 4,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 6,
       "topLinks": [
         "https://iz.ru/2173305/narodnye-primety-na-26-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2173772/eksperty-otcenili-perspektivy-atomnoi-energetiki-evropy-i-nazvali-usloviia-ee-rosta-izi",
         "https://iz.ru/2173778/lavrov-obsudil-sotrudnichestvo-s-glavoi-mid-gvatemaly-izi",
         "https://iz.ru/2173787/mbappe-poluchil-travmu-v-matche-sbornoi-frantcii-s-turtciei-v-etape-ligi-natcii-izi",
         "https://iz.ru/2173305/narodnye-primety-na-26-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
