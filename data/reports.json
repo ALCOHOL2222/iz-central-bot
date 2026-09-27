@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T01:38:12.163Z",
+  "generatedAt": "2026-09-27T08:22:33.035Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-09-19": {
-      "totalChecked": 320,
+      "totalChecked": 318,
       "totalIzi": 104,
       "totalIiz": 1,
       "totalAi": 105,
@@ -179,31 +179,31 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 604,
-      "totalIzi": 128,
+      "totalChecked": 554,
+      "totalIzi": 115,
       "totalIiz": 0,
-      "totalAi": 128,
+      "totalAi": 115,
       "topLinks": [
-        "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi",
-        "https://iz.ru/2170121/2026-09-20/v-tcik-rf-nazvali-sroki-poiavleniia-pervykh-rezultatov-vyborov-v-gosdumu-izi",
-        "https://iz.ru/2170125/figurist-kondratiuk-vyskazalsia-ob-otzyve-neitralnogo-statusa-izi",
-        "https://iz.ru/2170130/2026-09-20/iran-vydvinul-ssha-sem-uslovii-dlia-nachala-peregovorov-izi",
-        "https://iz.ru/2170132/glava-mid-turtcii-zaiavil-o-prevrashchenii-izrailia-v-ugrozu-i-mezhdunarodnuiu-problemu-izi",
-        "https://iz.ru/2170134/turtciia-napravila-rossii-i-ukraine-predlozhenie-po-vyvozu-zerna-iz-chernogo-moria-izi",
-        "https://iz.ru/2170140/rossiiane-poluchat-sem-korotkikh-rabochikh-nedel-v-2027-godu-izi",
-        "https://iz.ru/2170144/na-kamchatke-obnaruzhili-telo-cheloveka-so-sledami-napadeniia-zhivotnogo-izi",
-        "https://iz.ru/2170145/nyt-nazvala-gaianu-glavnym-igrokom-na-neftianom-rynke-iz-za-operatcii-ssha-v-irane-izi",
-        "https://iz.ru/2170147/v-argentine-zavershilsia-marsh-gneva-protiv-mer-mileia-izi",
-        "https://iz.ru/2170149/istorik-zaiavila-o-nesposobnosti-ukrainy-zashchitit-svoiu-energosistemu-izi",
-        "https://iz.ru/2170158/fidan-zaiavil-ob-obsuzhdenii-turtciei-sniatiia-sanktcii-caatsa-i-vopros-s-400-izi",
-        "https://iz.ru/2170167/lantratova-soobshchila-o-vozvrashchenii-deviati-rossiiskikh-boitcov-iz-tenevogo-plena-izi",
         "https://iz.ru/2170173/nalogovaia-zablokirovala-scheta-blogera-arsena-markariana-izi",
         "https://iz.ru/2170184/iavka-na-vyborakh-v-gosdumu-dostigla-45-k-735-msk-izi",
         "https://iz.ru/2170186/v-moskve-otkrylis-izbiratelnye-uchastki-vyborov-v-gosdumu-izi",
         "https://iz.ru/2170190/iavka-na-vyborakh-v-gosdumu-v-moskve-sostavila-402-izi",
         "https://iz.ru/2170191/armiia-rossii-porazila-sklad-fire-point-s-komplektuiushchimi-dlia-dlia-dronov-izi",
         "https://iz.ru/2170192/chislo-pogibshikh-v-dtp-s-avtobusom-v-arkhangelskoi-oblasti-uvelichilos-do-14-izi",
-        "https://iz.ru/2170193/piat-chelovek-postradali-pri-atake-bpla-v-leninskom-okruge-podmoskovia-izi"
+        "https://iz.ru/2170193/piat-chelovek-postradali-pri-atake-bpla-v-leninskom-okruge-podmoskovia-izi",
+        "https://iz.ru/2170195/putin-poobeshchal-sodeistvie-rossii-v-razvitii-iuzhnoi-osetii-izi",
+        "https://iz.ru/2170196/samaia-massirovannaia-ataka-bpla-na-moskovskii-region-chto-izvestno-izi",
+        "https://iz.ru/2170197/bolee-210-ukrainskikh-dronov-unichtozhili-nad-brianskoi-oblastiu-izi",
+        "https://iz.ru/2170201/opublikovany-kadry-obstanovki-tretego-dnia-vyborov-v-gosdumu-v-primorskom-krae-izi",
+        "https://iz.ru/2170202/dva-mirnykh-zhitelia-raneny-pri-atakakh-vsu-na-voronezhskuiu-oblast-izi",
+        "https://iz.ru/2170203/pod-anapoi-iz-za-povrezhdeniia-gazovoi-truby-zagorelis-torgovye-pavilony-izi",
+        "https://iz.ru/2170204/meditcinskaia-pomoshch-potrebovalas-20-postradavshim-pri-atake-bpla-v-podmoskove-izi",
+        "https://iz.ru/2170212/riabkov-anonsiroval-vstrechu-rf-i-ssha-po-razdrazhiteliam-v-blizhaishie-nedeli-izi",
+        "https://iz.ru/2170214/parlament-karachaevo-cherkesii-izbral-rashida-temrezova-glavoi-respubliki-izi",
+        "https://iz.ru/2170217/posledstviia-ataki-na-linii-sviazi-na-dalnem-vostoke-v-subbotu-ustranili-za-chas-izi",
+        "https://iz.ru/2170218/pamfilova-zaiavila-ob-akkreditatcii-123-inostrannykh-zhurnalistov-v-tcentr-tcik-izi",
+        "https://iz.ru/2170225/vs-rf-prodolzhili-boi-za-osvobozhdenie-buzovo-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2170232/tramp-vernulsia-iz-kemp-devida-v-belyi-dom-na-sutki-ranshe-grafika-izi"
       ]
     },
     "2026-09-21": {
@@ -375,24 +375,31 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 86,
-      "totalIzi": 8,
+      "totalChecked": 213,
+      "totalIzi": 42,
       "totalIiz": 5,
-      "totalAi": 13,
+      "totalAi": 47,
       "topLinks": [
         "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2173355/uchenye-vyiavili-izmeneniia-v-kharakteristikakh-detei-s-sdvg-i-autizmom-izi",
+        "https://iz.ru/2173372/uchenye-izuchili-prichinu-prodolzhitelnogo-sokhraneniia-poslerodovoi-depressii-izi",
+        "https://iz.ru/2173405/uchenye-raskryli-rol-iumora-pri-depressii-izi",
         "https://iz.ru/2174211/vagner-lav-provel-svoi-proshchalnyi-match-v-moskve-s-tcska-izi",
         "https://iz.ru/2174213/smi-soobshchili-o-vyzove-glav-openai-i-anthropic-v-senat-avstralii-iz-za-ii-agentov-izi",
+        "https://iz.ru/2174216/voda-v-evropeiskikh-moriakh-poteplela-do-rekordnykh-temperatur-izi",
         "https://iz.ru/2174219/sbornaia-ispanii-po-futbolu-obygrala-komandu-anglii-v-matche-ligi-natcii-izi",
         "https://iz.ru/2174227/si-tczinpin-i-tramp-dogovorilis-o-snizhenii-poshlin-na-tovary-na-30-mlrd-izi",
         "https://iz.ru/2174228/glava-mid-belorussii-zaiavil-o-krakhe-odnopoliarnogo-mira-izi",
         "https://iz.ru/2174229/rossiianam-rasskazali-o-nedopustimykh-variantakh-imen-dlia-novorozhdennykh-izi",
-        "https://iz.ru/2158869/50-svetlye-otkrytki-s-vozdvizheniem-kresta-gospodnia-kartinki-gifki-i-pravoslavnye-pozdravleniia-iiz",
-        "https://iz.ru/2158873/den-vospitatelia-2026-kak-poiavilsia-prazdnik-tekh-kto-kazhdyi-den-zabotitsia-o-detiakh-iiz",
-        "https://iz.ru/2163393/50-dobrye-otkrytki-s-dnem-vospitatelia-krasivye-kartinki-gifki-i-pozdravleniia-dlia-pedagogov-iiz",
-        "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2174211/vagner-lav-provel-svoi-proshchalnyi-match-v-moskve-s-tcska-izi",
-        "https://iz.ru/2174213/smi-soobshchili-o-vyzove-glav-openai-i-anthropic-v-senat-avstralii-iz-za-ii-agentov-izi"
+        "https://iz.ru/2174233/iurist-nazvala-zakonnuiu-prichinu-dlia-otkaza-banka-v-prieme-nalichnykh-izi",
+        "https://iz.ru/2174234/v-kalifornii-okhotniki-za-tekhnikoi-sluchaino-ugnali-pritcepy-nvidia-s-9-t-peska-izi",
+        "https://iz.ru/2174236/minzdrav-obnovil-standart-lecheniia-depressii-s-novymi-metodami-terapii-izi",
+        "https://iz.ru/2174237/evrosoiuz-napravit-eu710-mln-na-podderzhku-postradavshikh-ot-krizisov-po-vsemu-miru-izi",
+        "https://iz.ru/2174240/axios-uznal-o-priostanovke-obucheniia-modelei-openai-iz-za-problem-s-bezopasnostiu-izi",
+        "https://iz.ru/2174247/nyt-zaiavila-o-vozvrashchenii-chetyrekh-telekanalov-ssha-k-osveshcheniiu-meropriiatii-trampa-izi",
+        "https://iz.ru/2174249/v-primore-voditel-bez-prav-sprovotciroval-dtp-s-chetyrmia-postradavshimi-izi",
+        "https://iz.ru/2174254/rezhisser-dzhon-uotts-mozhet-sniat-novyi-film-franshizy-zvezdnye-voiny-izi",
+        "https://iz.ru/2174257/marketolog-nazval-glavnye-priznaki-iskusstvennykh-rasprodazh-izi"
       ]
     }
   }
