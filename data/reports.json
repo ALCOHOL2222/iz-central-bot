@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:12:31.411Z",
+  "generatedAt": "2026-09-27T18:37:00.425Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,23 +179,11 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 489,
-      "totalIzi": 93,
+      "totalChecked": 443,
+      "totalIzi": 81,
       "totalIiz": 0,
-      "totalAi": 93,
+      "totalAi": 81,
       "topLinks": [
-        "https://iz.ru/2170242/v-posolstve-rossii-v-moldavii-otkrylsia-izbiratelnyi-uchastok-izi",
-        "https://iz.ru/2170247/lantratova-zaiavila-o-stoikosti-rossii-na-fone-popytok-sorvat-vybory-izi",
-        "https://iz.ru/2170249/pamfilova-nazvala-vbros-biulletenei-na-uchastke-v-marii-el-vopiiushchim-po-naglosti-izi",
-        "https://iz.ru/2170263/wsj-uznala-ob-opasenii-evropy-planov-germanii-po-narashchivaniiu-voennoi-moshchi-izi",
-        "https://iz.ru/2170272/opublikovany-kadry-golosovaniia-ranenykh-voennosluzhashchikh-v-gospitaliakh-lnr-izi",
-        "https://iz.ru/2170273/vuchich-rasskazal-o-nakoplennykh-690-mln-kub-m-gaza-na-zimnii-otopitelnyi-period-izi",
-        "https://iz.ru/2170278/iavka-na-parlamentskikh-vyborakh-v-rossii-prevysila-itogovyi-pokazatel-2016-goda-izi",
-        "https://iz.ru/2170280/v-lnr-dve-uik-priostanavlivali-rabotu-iz-za-ugrozy-ataki-bespilotnikov-izi",
-        "https://iz.ru/2170283/keniiskaia-begunia-agnes-ngetich-ustanovila-mirovoi-rekord-v-polumarafone-izi",
-        "https://iz.ru/2170288/glava-minselkhoza-moldavii-predlozhil-ogranichit-eksport-v-rossiiu-i-belorussiiu-izi",
-        "https://iz.ru/2170296/analitik-plitsas-zaiavil-ob-obsuzhdenii-ssha-vozmozhnykh-udarov-po-khusitam-izi",
-        "https://iz.ru/2170297/vo-frantcii-v-khode-besporiadkov-postradali-vosem-politceiskikh-izi",
         "https://iz.ru/2170308/posol-rasskazal-o-reguliarnykh-obrashcheniiakh-kanadtcev-s-prosboi-o-pereezde-v-rossiiu-izi",
         "https://iz.ru/2170310/chislo-pogibshikh-v-massovoi-avarii-na-mkad-vyroslo-do-dvukh-izi",
         "https://iz.ru/2170316/v-dnr-zakrylis-vse-izbiratelnye-uchastki-izi",
@@ -203,7 +191,19 @@
         "https://iz.ru/2170327/gruzovoi-poezd-soshel-s-relsov-v-rostovskoi-oblasti-izi",
         "https://iz.ru/2170331/diupon-enian-poobeshchal-prekratit-finpomoshch-ukrainy-v-sluchae-pobedy-na-vyborakh-izi",
         "https://iz.ru/2170334/v-lnr-zavershilos-golosovanie-na-vyborakh-v-gosdumu-izi",
-        "https://iz.ru/2170336/kitai-vdvoe-uvelichil-eksport-avtomobilei-v-rossiiu-s-nachala-goda-izi"
+        "https://iz.ru/2170336/kitai-vdvoe-uvelichil-eksport-avtomobilei-v-rossiiu-s-nachala-goda-izi",
+        "https://iz.ru/2170361/v-britanskoi-derevne-piddington-zakhoteli-poprosit-trampa-o-prisoedinenii-k-ssha-izi",
+        "https://iz.ru/2170394/iavka-na-vyborakh-v-gosdumu-prevysila-pokazateli-2003-goda-i-sostavila-5657-izi",
+        "https://iz.ru/2170460/byvshii-franchaizi-rostics-podast-zaiavlenie-o-bankrotstve-izi",
+        "https://iz.ru/2170462/v-dnr-pri-atakakh-dronov-pogibli-dva-mirnykh-zhitelia-izi",
+        "https://iz.ru/2170464/2026-09-20/tcik-rf-soobshchila-predvaritelnye-itogi-vyborov-v-gd-posle-podscheta-20-golosov-izi",
+        "https://iz.ru/2170473/gastroenterolog-predupredil-o-riskakh-upotrebleniia-svezhevyzhatogo-soka-natoshchak-izi",
+        "https://iz.ru/2170477/bolee-212-tys-rossiian-progolosovali-za-rubezhom-izi",
+        "https://iz.ru/2168846/uchenye-sviazali-kachestvo-pitaniia-s-epigeneticheskimi-priznakami-stareniia-izi",
+        "https://iz.ru/2169182/uchenye-obnaruzhili-novye-geneticheskie-faktory-psoriaza-izi",
+        "https://iz.ru/2169198/uchenye-rasskazali-o-metodakh-borby-s-dzhetlagom-u-detei-izi",
+        "https://iz.ru/2170109/mladshii-serzhant-stoianov-likvidiroval-diversionnuiu-gruppu-vsu-izi",
+        "https://iz.ru/2170118/fitco-nazval-otkaz-ukrainy-ot-mira-v-2022-godu-ogromnoi-oshibkoi-izi"
       ]
     },
     "2026-09-21": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 324,
-      "totalIzi": 68,
+      "totalChecked": 418,
+      "totalIzi": 98,
       "totalIiz": 5,
-      "totalAi": 73,
+      "totalAi": 103,
       "topLinks": [
         "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2173355/uchenye-vyiavili-izmeneniia-v-kharakteristikakh-detei-s-sdvg-i-autizmom-izi",
