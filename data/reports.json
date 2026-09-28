@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:08:20.851Z",
+  "generatedAt": "2026-09-28T15:41:37.975Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,43 +179,39 @@
       ]
     },
     "2026-09-21": {
-      "totalChecked": 861,
-      "totalIzi": 176,
+      "totalChecked": 663,
+      "totalIzi": 125,
       "totalIiz": 2,
-      "totalAi": 178,
+      "totalAi": 127,
       "topLinks": [
-        "https://iz.ru/2170509/zakharova-vyrazila-uverennost-v-otmene-zelenskogo-istoriei-izi",
-        "https://iz.ru/2170514/vrach-obiasnil-raznitcu-mezhdu-primeneniem-ioda-i-zelenki-pri-obrabotke-ran-izi",
-        "https://iz.ru/2170515/kosmetolog-predupredila-ob-opasnosti-narodnykh-sredstv-ot-pryshchei-izi",
-        "https://iz.ru/2170519/axios-soobshchil-o-trebovaniiakh-trampa-k-zelenskomu-prekratit-ataki-na-npz-v-rf-izi",
-        "https://iz.ru/2170521/ekspert-zaiavil-o-vozmozhnom-roste-chisla-kataklizmov-v-neskolko-raz-izi",
-        "https://iz.ru/2170526/2026-09-21/deputat-oboznachil-sroki-nachala-raboty-deviatogo-sozyva-gosdumy-izi",
-        "https://iz.ru/2170529/biolog-nazval-sroki-prileta-snegirei-v-moskvu-izi",
-        "https://iz.ru/2170534/cotrudnik-ice-ranil-muzhchinu-v-ostine-izi",
-        "https://iz.ru/2170542/koshta-soobshchil-o-planakh-es-razvivat-otnosheniia-s-kanadoi-izi",
-        "https://iz.ru/2170546/v-mid-rf-zaiavili-o-strategii-ukrainy-na-sozdanie-gumanitarnoi-katastrofy-izi",
-        "https://iz.ru/2170550/ukraina-poteriaet-do-68-vvp-v-2027-godu-v-sluchae-prodolzheniia-boevykh-deistvii-izi",
-        "https://iz.ru/2170553/dmitrii-donskoi-kiprenskogo-predstavlen-v-pavilone-no-1-na-vdnkh-izi",
-        "https://iz.ru/2170555/tramp-otmenil-aviaudary-po-khusitam-v-jemene-v-poslednii-moment-izi",
-        "https://iz.ru/2170557/2026-09-21/v-turtcii-soobshchili-ob-ozhidanii-konkretnykh-rezultatov-ot-initciativ-ssha-po-ukraine-izi",
-        "https://iz.ru/2170558/mukhe-drozofile-naznachili-zarplatu-razrabotchika-svyshe-2-mln-rublei-v-god-izi",
-        "https://iz.ru/2170559/spravedlivaia-rossiia-opustilas-nizhe-5-na-vyborakh-v-gosdumu-izi",
-        "https://iz.ru/2170561/miroshnichenko-nabral-dva-ochka-v-predsezonnom-matche-nkhl-izi",
-        "https://iz.ru/2170564/v-mvd-rasskazali-ob-otmetkakh-o-brake-i-razvode-v-pasporte-izi",
-        "https://iz.ru/2170568/messi-vyshel-na-vtoroe-mesto-po-chislu-golov-so-shtrafnykh-v-istorii-futbola-izi",
-        "https://iz.ru/2170569/sud-otkazal-v-otvode-sudi-po-delu-syna-krabovogo-korolia-kana-izi"
+        "https://iz.ru/2170795/tiktokera-nekoglaia-i-ego-zhenu-arestovali-za-torgovliu-narkotikami-v-moldavii-izi",
+        "https://iz.ru/2170797/putin-prisvoil-glave-vtb-kostinu-zvanie-geroia-truda-rossii-izi",
+        "https://iz.ru/2170811/bessent-nazval-uspeshnymi-peregovory-po-torgovle-i-ii-s-kitaem-izi",
+        "https://iz.ru/2170814/novak-poruchil-prodolzhat-nasyshchenie-vnutrennego-rynka-nefteproduktami-izi",
+        "https://iz.ru/2170817/amerikanskii-khokkeist-kheiz-nazval-otlichiia-kkhl-ot-nkhl-izi",
+        "https://iz.ru/2170833/miss-rossiia-valentina-alekseeva-podtverdila-otnosheniia-s-50-letnim-biznesmenom-izi",
+        "https://iz.ru/2170843/glava-razvedki-chekhii-dopustil-eskalatciiu-mezhdu-rossiei-i-nato-v-blizhaishie-mesiatcy-izi",
+        "https://iz.ru/2170861/import-poderzhannykh-avtomobilei-iz-iuzhnoi-korei-v-rf-sokratilsia-na-63-izi",
+        "https://iz.ru/2170878/turetckuiu-aktrisu-afru-sarachoglu-zaderzhali-po-delu-o-narkotikakh-izi",
+        "https://iz.ru/2170884/tesla-vozobnovila-priem-zaiavok-na-novyi-sportkar-roadster-s-depozitom-50-tys-izi",
+        "https://iz.ru/2170885/psikholog-nazvala-sposoby-otvlech-detei-ot-gadzhetov-izi",
+        "https://iz.ru/2170889/sobianin-sravnil-razgovory-ob-ii-s-anekdotom-pro-stroitelstvo-kommunizma-izi",
+        "https://iz.ru/2170909/v-mid-belorussii-obvinili-kiev-v-zhertve-bezopasnosti-grazhdan-radi-politiki-izi",
+        "https://iz.ru/2170921/kak-proshli-vybory-v-gosdumu-v-rossii-glavnye-sobytiia-i-predvaritelnye-itogi-izi",
+        "https://iz.ru/2170922/uchenye-nazvali-vozmozhnuiu-prichinu-narushenii-immuniteta-pri-sindrome-dauna-izi",
+        "https://iz.ru/2170934/medvedev-nazval-partiiu-le-pen-tipichnoi-rusofobskoi-izi",
+        "https://iz.ru/2170943/minfin-rossii-sformiroval-biudzhet-iskhodia-iz-tceny-otsecheniia-v-50-za-barrel-izi",
+        "https://iz.ru/2170949/fetisov-zaiavil-o-magnetizme-chepikova-v-temakh-razvitiia-sporta-i-patriotizma-izi",
+        "https://iz.ru/2170977/tramp-zaiavil-o-podgotovke-krupnoi-sdelki-po-zakupke-kaliia-u-belorussii-izi",
+        "https://iz.ru/2170983/blogera-nekoglaia-po-podozreniiu-v-torgovle-narkotikami-chto-izvestno-izi"
       ]
     },
     "2026-09-22": {
-      "totalChecked": 954,
-      "totalIzi": 188,
+      "totalChecked": 943,
+      "totalIzi": 184,
       "totalIiz": 2,
-      "totalAi": 190,
+      "totalAi": 186,
       "topLinks": [
-        "https://iz.ru/2170627/uchenye-sviazali-vosem-pishchevykh-dobavok-s-riskom-gipertonii-izi",
-        "https://iz.ru/2170646/uchenye-izuchili-vliianie-vitamina-c-na-predrakovye-zabolevaniia-krovi-izi",
-        "https://iz.ru/2170678/pamiat-daet-sboi-pochemu-s-vozrastom-mozg-putaet-vospominaniia-izi",
-        "https://iz.ru/2170764/2026-09-22/gormon-po-chasam-chto-kortizol-v-sliune-rasskazal-o-starenii-mozga-izi",
         "https://iz.ru/2170848/2026-09-22/v-rptc-otcenili-polzu-fizicheskikh-uprazhnenii-v-borbe-s-grekhami-izi",
         "https://iz.ru/2170893/narodnye-primety-na-22-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2171141/smi-soobshchili-o-iakoby-vozmozhnosti-sokrashcheniia-indiei-zakupok-nefti-iz-rossii-izi",
@@ -231,16 +227,19 @@
         "https://iz.ru/2171161/minprosveshcheniia-zapustilo-obediniaiushchii-bolee-18-tys-detskikh-sadov-proekt-izi",
         "https://iz.ru/2171174/reuters-uznalo-o-vozmozhnom-vozvrashchenii-ssha-na-voennuiu-bazu-v-grenlandii-izi",
         "https://iz.ru/2171176/kitaiskii-import-rossiiskoi-nefti-vyros-v-avguste-na-41-izi",
-        "https://iz.ru/2171181/respublikantcy-trebuiut-sokratit-eksport-topliva-na-fone-rosta-tcen-v-ssha-izi"
+        "https://iz.ru/2171181/respublikantcy-trebuiut-sokratit-eksport-topliva-na-fone-rosta-tcen-v-ssha-izi",
+        "https://iz.ru/2171189/ekspert-soobshchil-o-razmere-vznosa-samozaniatym-dlia-polucheniia-bolnichnogo-izi",
+        "https://iz.ru/2171190/v-mid-rf-zaiavili-ob-otsutstvii-osnovanii-ozhidat-voennogo-perevorota-na-ukraine-izi",
+        "https://iz.ru/2171191/vrach-rasskazal-ob-izmeneniiakh-v-pecheni-pri-ezhednevnom-upotreblenii-alkogolia-izi",
+        "https://iz.ru/2171194/mvd-predupredilo-o-novoi-ulovke-moshennikov-s-onlain-kursami-izi"
       ]
     },
     "2026-09-23": {
-      "totalChecked": 1003,
-      "totalIzi": 206,
+      "totalChecked": 1002,
+      "totalIzi": 205,
       "totalIiz": 2,
-      "totalAi": 208,
+      "totalAi": 207,
       "topLinks": [
-        "https://iz.ru/2170779/svoe-litco-chuzhoe-pochemu-my-inache-vygliadim-na-foto-izi",
         "https://iz.ru/2170973/dykhanie-pod-vliianiem-gormonov-pochemu-astma-u-zhenshchin-protekaet-slozhnee-izi",
         "https://iz.ru/2171273/rabota-iz-doma-ne-tak-prosta-kakie-mify-oprovergaiut-uchenye-izi",
         "https://iz.ru/2171315/uchenye-nashli-sviaz-mezhdu-myshtcami-zhivota-i-rabotoi-mozga-izi",
@@ -259,7 +258,8 @@
         "https://iz.ru/2171821/forum-obedinennykh-kultur-soberet-predstavitelei-70-stran-izi",
         "https://iz.ru/2171824/na-ukraine-rasprostraniaetsia-natcionalisticheskie-programmy-dlia-detei-izi",
         "https://iz.ru/2171826/shturmoviki-gruppirovki-voisk-sever-rasskazali-o-boiakh-za-maluiu-volchiu-izi",
-        "https://iz.ru/2171827/minprosveshcheniia-vernet-profilnyi-ege-dlia-postupaiushchikh-v-pedvuzy-izi"
+        "https://iz.ru/2171827/minprosveshcheniia-vernet-profilnyi-ege-dlia-postupaiushchikh-v-pedvuzy-izi",
+        "https://iz.ru/2171829/v-op-predlozhili-vvesti-ezhegodnuiu-vyplatu-uchiteliam-ko-dniu-uchitelia-izi"
       ]
     },
     "2026-09-24": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-28": {
-      "totalChecked": 262,
-      "totalIzi": 53,
+      "totalChecked": 689,
+      "totalIzi": 157,
       "totalIiz": 2,
-      "totalAi": 55,
+      "totalAi": 159,
       "topLinks": [
         "https://iz.ru/2173324/narodnye-primety-na-28-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2173595/uchenye-sviazali-detskie-travmy-s-problemami-vo-vzroslom-vozraste-izi",
