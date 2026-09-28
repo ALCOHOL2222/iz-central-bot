@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T22:24:30.275Z",
+  "generatedAt": "2026-09-28T01:01:23.786Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-09-20": {
-      "totalChecked": 406,
-      "totalIzi": 73,
+      "totalChecked": 352,
+      "totalIzi": 71,
       "totalIiz": 0,
-      "totalAi": 73,
+      "totalAi": 71,
       "topLinks": [
-        "https://iz.ru/2170361/v-britanskoi-derevne-piddington-zakhoteli-poprosit-trampa-o-prisoedinenii-k-ssha-izi",
-        "https://iz.ru/2170394/iavka-na-vyborakh-v-gosdumu-prevysila-pokazateli-2003-goda-i-sostavila-5657-izi",
         "https://iz.ru/2170460/byvshii-franchaizi-rostics-podast-zaiavlenie-o-bankrotstve-izi",
         "https://iz.ru/2170462/v-dnr-pri-atakakh-dronov-pogibli-dva-mirnykh-zhitelia-izi",
         "https://iz.ru/2170464/2026-09-20/tcik-rf-soobshchila-predvaritelnye-itogi-vyborov-v-gd-posle-podscheta-20-golosov-izi",
@@ -175,11 +173,13 @@
         "https://iz.ru/2170134/turtciia-napravila-rossii-i-ukraine-predlozhenie-po-vyvozu-zerna-iz-chernogo-moria-izi",
         "https://iz.ru/2170140/rossiiane-poluchat-sem-korotkikh-rabochikh-nedel-v-2027-godu-izi",
         "https://iz.ru/2170144/na-kamchatke-obnaruzhili-telo-cheloveka-so-sledami-napadeniia-zhivotnogo-izi",
-        "https://iz.ru/2170145/nyt-nazvala-gaianu-glavnym-igrokom-na-neftianom-rynke-iz-za-operatcii-ssha-v-irane-izi"
+        "https://iz.ru/2170145/nyt-nazvala-gaianu-glavnym-igrokom-na-neftianom-rynke-iz-za-operatcii-ssha-v-irane-izi",
+        "https://iz.ru/2170147/v-argentine-zavershilsia-marsh-gneva-protiv-mer-mileia-izi",
+        "https://iz.ru/2170149/istorik-zaiavila-o-nesposobnosti-ukrainy-zashchitit-svoiu-energosistemu-izi"
       ]
     },
     "2026-09-21": {
-      "totalChecked": 903,
+      "totalChecked": 893,
       "totalIzi": 183,
       "totalIiz": 2,
       "totalAi": 185,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 498,
-      "totalIzi": 116,
+      "totalChecked": 521,
+      "totalIzi": 124,
       "totalIiz": 5,
-      "totalAi": 121,
+      "totalAi": 129,
       "topLinks": [
         "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2173355/uchenye-vyiavili-izmeneniia-v-kharakteristikakh-detei-s-sdvg-i-autizmom-izi",
@@ -375,11 +375,22 @@
       ]
     },
     "2026-09-28": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 107,
+      "totalIzi": 8,
+      "totalIiz": 2,
+      "totalAi": 10,
+      "topLinks": [
+        "https://iz.ru/2173324/narodnye-primety-na-28-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2174510/efreitor-zakharov-vynes-ranenykh-sosluzhivtcev-iz-tanka-pod-atakoi-fpv-dronov-izi",
+        "https://iz.ru/2174513/smi-soobshchili-o-poruchenii-netaniakhu-podgotovit-delo-protiv-erdogana-v-mus-izi",
+        "https://iz.ru/2174524/v-mvd-nazvali-deistviia-pri-komprometatcii-dannykh-bankovskogo-servisa-izi",
+        "https://iz.ru/2174528/minprosveshcheniia-sformiruet-edinye-perechni-igr-i-knig-dlia-doshkolnikov-izi",
+        "https://iz.ru/2174531/novogodnie-kanikuly-v-2027-godu-prodliatsia-11-dnei-izi",
+        "https://iz.ru/2174534/politico-uznala-o-razrabotke-es-planov-vkliucheniia-ukrainy-i-eshche-trekh-stran-izi",
+        "https://iz.ru/2173324/narodnye-primety-na-28-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2174510/efreitor-zakharov-vynes-ranenykh-sosluzhivtcev-iz-tanka-pod-atakoi-fpv-dronov-izi",
+        "https://iz.ru/2174513/smi-soobshchili-o-poruchenii-netaniakhu-podgotovit-delo-protiv-erdogana-v-mus-izi"
+      ]
     }
   }
 }
