@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T08:44:33.536Z",
+  "generatedAt": "2026-09-29T16:04:29.348Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-09-22": {
-      "totalChecked": 902,
-      "totalIzi": 183,
+      "totalChecked": 671,
+      "totalIzi": 122,
       "totalIiz": 1,
-      "totalAi": 184,
+      "totalAi": 123,
       "topLinks": [
-        "https://iz.ru/2171141/smi-soobshchili-o-iakoby-vozmozhnosti-sokrashcheniia-indiei-zakupok-nefti-iz-rossii-izi",
-        "https://iz.ru/2171145/v-italii-zaiavili-ob-opasnoi-igre-nato-iz-za-postavok-oruzhiia-ukraine-izi",
-        "https://iz.ru/2171150/distantciiu-formuly-1-sokratiat-na-15-km-izi",
-        "https://iz.ru/2171151/stubb-zaiavil-o-chrezmernoi-reaktcii-razvedki-na-iakoby-ugrozy-so-storony-rossii-izi",
-        "https://iz.ru/2171152/amerikanskie-telekanaly-nachali-pokazyvat-vystupleniia-trampa-bez-zvuka-izi",
-        "https://iz.ru/2171154/wsj-uznala-o-planakh-ssha-investirovat-5-mlrd-v-energetiku-blizhnego-vostoka-izi",
-        "https://iz.ru/2171155/zhurnalisty-telekanalov-otkazalis-zamenit-cnn-v-pule-belogo-doma-izi",
-        "https://iz.ru/2171157/v-gosdume-predlozhili-vvesti-bazovye-vyplaty-na-detei-dlia-vsekh-semei-izi",
-        "https://iz.ru/2171158/minoborony-polshi-soobschilo-ob-otmene-peregovorov-s-pentagonom-po-prosbe-ssha-izi",
-        "https://iz.ru/2171160/moshenniki-nachali-darit-bukety-pered-dnem-uchitelia-radi-krazhi-kodov-izi",
-        "https://iz.ru/2171161/minprosveshcheniia-zapustilo-obediniaiushchii-bolee-18-tys-detskikh-sadov-proekt-izi",
-        "https://iz.ru/2171174/reuters-uznalo-o-vozmozhnom-vozvrashchenii-ssha-na-voennuiu-bazu-v-grenlandii-izi",
-        "https://iz.ru/2171176/kitaiskii-import-rossiiskoi-nefti-vyros-v-avguste-na-41-izi",
-        "https://iz.ru/2171181/respublikantcy-trebuiut-sokratit-eksport-topliva-na-fone-rosta-tcen-v-ssha-izi",
-        "https://iz.ru/2171189/ekspert-soobshchil-o-razmere-vznosa-samozaniatym-dlia-polucheniia-bolnichnogo-izi",
-        "https://iz.ru/2171190/v-mid-rf-zaiavili-ob-otsutstvii-osnovanii-ozhidat-voennogo-perevorota-na-ukraine-izi",
-        "https://iz.ru/2171191/vrach-rasskazal-ob-izmeneniiakh-v-pecheni-pri-ezhednevnom-upotreblenii-alkogolia-izi",
-        "https://iz.ru/2171194/mvd-predupredilo-o-novoi-ulovke-moshennikov-s-onlain-kursami-izi",
-        "https://iz.ru/2171196/v-irake-soobshchili-o-planakh-po-rasformirovaniiu-proiranskikh-opolchenii-k-2027-godu-izi",
-        "https://iz.ru/2171203/vstrechi-knizhnogo-kluba-dlia-veteranov-svo-organizovali-v-moskve-izi"
+        "https://iz.ru/2171435/drevnie-gory-antarktidy-mogli-povliiat-na-razvitie-zhizni-izi",
+        "https://iz.ru/2171437/nemtcy-zakhoteli-sebe-bolshe-rossiiskogo-mintaia-izi",
+        "https://iz.ru/2171438/bloger-nekoglai-i-ego-zhena-mogli-osushchestvliat-torgovliu-narkotikami-cherez-sotcseti-izi",
+        "https://iz.ru/2171445/v-kazani-predstavlen-avtodom-na-baze-sobolia-izi",
+        "https://iz.ru/2171446/tremia-pogibshimi-pri-pozhare-v-ttc-v-sterlitamake-okazalis-tri-sestry-izi",
+        "https://iz.ru/2171456/mer-sterlitamaka-soobshchil-o-pomoshchi-pogibshim-pri-pozhare-v-ttc-solnechnyi-izi",
+        "https://iz.ru/2171459/uchenye-vyiasnili-prichiny-tcveteniia-vody-v-prozrachnykh-ozerakh-izi",
+        "https://iz.ru/2171471/v-kazani-osudili-piaterykh-figurantov-dela-o-piramide-frendex-izi",
+        "https://iz.ru/2171473/bakanov-zaiavil-o-nezavisimosti-srokov-sozdaniia-ros-ot-prodleniia-raboty-mks-izi",
+        "https://iz.ru/2171478/tiumenetc-iznasiloval-12-letniuiu-devochku-i-zarazil-ee-vich-izi",
+        "https://iz.ru/2171480/infliatcionnye-ozhidaniia-rossiian-vyrosli-do-142-v-sentiabre-izi",
+        "https://iz.ru/2171482/uchenye-nashli-novye-priznaki-skrytykh-pomeshchenii-v-grobnitce-tutankhamona-izi",
+        "https://iz.ru/2171495/tcena-na-dizel-v-kieve-prevysila-otmetku-v-100-griven-izi",
+        "https://iz.ru/2171498/armiia-rossii-vyvela-iz-stroia-neftegazovyi-obekt-v-poltavskoi-oblasti-izi",
+        "https://iz.ru/2171502/uchenye-izuchili-vliianie-zapakha-svezhego-kofe-na-nastroenie-izi",
+        "https://iz.ru/2171521/frantcuzskii-akter-i-rezhisser-arno-deni-ushel-iz-zhizni-s-pomoshchiu-evtanazii-izi",
+        "https://iz.ru/2171524/politolog-svetov-opisal-taktiku-rassecheniia-ukrainskogo-fronta-izi",
+        "https://iz.ru/2171533/uchenye-opisali-novyi-vid-pingvinov-na-ostrovakh-kergelen-izi",
+        "https://iz.ru/2171550/gosdep-ssha-piatyi-raz-podriad-ne-vydal-slutckomu-vizu-na-ga-oon-izi",
+        "https://iz.ru/2171561/uchenye-proverili-sviaz-gravitatcii-i-kvantovoi-superpozitcii-izi"
       ]
     },
     "2026-09-23": {
-      "totalChecked": 1001,
-      "totalIzi": 204,
+      "totalChecked": 988,
+      "totalIzi": 202,
       "totalIiz": 2,
-      "totalAi": 206,
+      "totalAi": 204,
       "topLinks": [
-        "https://iz.ru/2171273/rabota-iz-doma-ne-tak-prosta-kakie-mify-oprovergaiut-uchenye-izi",
-        "https://iz.ru/2171315/uchenye-nashli-sviaz-mezhdu-myshtcami-zhivota-i-rabotoi-mozga-izi",
         "https://iz.ru/2171641/narodnye-primety-na-23-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2171765/dinamo-proigralo-barysu-v-matche-kkhl-so-schetom-14-izi",
         "https://iz.ru/2171779/boitcy-gruppirovki-voisk-sever-rasskazali-ob-obstanovke-v-volchanskom-kotle-izi",
@@ -231,16 +229,17 @@
         "https://iz.ru/2171826/shturmoviki-gruppirovki-voisk-sever-rasskazali-o-boiakh-za-maluiu-volchiu-izi",
         "https://iz.ru/2171827/minprosveshcheniia-vernet-profilnyi-ege-dlia-postupaiushchikh-v-pedvuzy-izi",
         "https://iz.ru/2171829/v-op-predlozhili-vvesti-ezhegodnuiu-vyplatu-uchiteliam-ko-dniu-uchitelia-izi",
-        "https://iz.ru/2171832/v-ran-nazvali-sposoby-profilaktiki-dementcii-izi"
+        "https://iz.ru/2171832/v-ran-nazvali-sposoby-profilaktiki-dementcii-izi",
+        "https://iz.ru/2171833/glava-mid-ispanii-albares-anonsiroval-otkaz-ot-spg-iz-rf-nesmotria-na-kontrakty-izi",
+        "https://iz.ru/2171836/reuters-uznalo-o-testirovanii-meta-ii-assistenta-s-uchastiem-operatorov-liudei-izi"
       ]
     },
     "2026-09-24": {
-      "totalChecked": 922,
-      "totalIzi": 166,
+      "totalChecked": 920,
+      "totalIzi": 165,
       "totalIiz": 5,
-      "totalAi": 171,
+      "totalAi": 170,
       "topLinks": [
-        "https://iz.ru/2171345/uchenye-raskryli-mekhanizm-soglasovaniia-zritelnykh-signalov-v-mozge-izi",
         "https://iz.ru/2171946/narodnye-primety-na-24-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2172070/2026-09-24/psikholog-rasskazal-o-priznakakh-privychki-otkladyvat-zhizn-na-potom-izi",
         "https://iz.ru/2172073/uchenye-ukazali-na-sposobnost-utrennego-kofe-narushit-son-izi",
@@ -259,7 +258,8 @@
         "https://iz.ru/2172526/raznitca-mezhdu-pensiiami-v-regionakh-rossii-prevysila-23-tys-rublei-izi",
         "https://iz.ru/2172528/vuchich-zaiavil-ob-ustalosti-stran-kandidatov-ot-ozhidaniia-vstupleniia-v-es-izi",
         "https://iz.ru/2172532/minzdrav-obnovil-standart-lecheniia-panicheskogo-rasstroistva-u-vzroslykh-izi",
-        "https://iz.ru/2172534/glava-rospotrebnadzora-nazvala-sroki-pika-aktivnosti-grippa-v-rossii-izi"
+        "https://iz.ru/2172534/glava-rospotrebnadzora-nazvala-sroki-pika-aktivnosti-grippa-v-rossii-izi",
+        "https://iz.ru/2172535/moshenniki-stali-vymanivat-dannye-pod-vidom-subsidii-na-ipoteku-dlia-semei-izi"
       ]
     },
     "2026-09-25": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-09-26": {
-      "totalChecked": 631,
+      "totalChecked": 630,
       "totalIzi": 128,
       "totalIiz": 2,
       "totalAi": 130,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-29": {
-      "totalChecked": 264,
-      "totalIzi": 57,
+      "totalChecked": 762,
+      "totalIzi": 193,
       "totalIiz": 2,
-      "totalAi": 59,
+      "totalAi": 195,
       "topLinks": [
         "https://iz.ru/2174633/uchenye-ukazali-na-narushenie-raboty-serdtca-iz-za-zagriaznennogo-vozdukha-izi",
         "https://iz.ru/2174644/narodnye-primety-na-29-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
