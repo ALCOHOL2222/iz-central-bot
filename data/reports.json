@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:04:29.348Z",
+  "generatedAt": "2026-09-29T20:59:58.321Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,35 +179,35 @@
       ]
     },
     "2026-09-22": {
-      "totalChecked": 671,
-      "totalIzi": 122,
+      "totalChecked": 595,
+      "totalIzi": 105,
       "totalIiz": 1,
-      "totalAi": 123,
+      "totalAi": 106,
       "topLinks": [
-        "https://iz.ru/2171435/drevnie-gory-antarktidy-mogli-povliiat-na-razvitie-zhizni-izi",
-        "https://iz.ru/2171437/nemtcy-zakhoteli-sebe-bolshe-rossiiskogo-mintaia-izi",
-        "https://iz.ru/2171438/bloger-nekoglai-i-ego-zhena-mogli-osushchestvliat-torgovliu-narkotikami-cherez-sotcseti-izi",
-        "https://iz.ru/2171445/v-kazani-predstavlen-avtodom-na-baze-sobolia-izi",
-        "https://iz.ru/2171446/tremia-pogibshimi-pri-pozhare-v-ttc-v-sterlitamake-okazalis-tri-sestry-izi",
-        "https://iz.ru/2171456/mer-sterlitamaka-soobshchil-o-pomoshchi-pogibshim-pri-pozhare-v-ttc-solnechnyi-izi",
-        "https://iz.ru/2171459/uchenye-vyiasnili-prichiny-tcveteniia-vody-v-prozrachnykh-ozerakh-izi",
-        "https://iz.ru/2171471/v-kazani-osudili-piaterykh-figurantov-dela-o-piramide-frendex-izi",
-        "https://iz.ru/2171473/bakanov-zaiavil-o-nezavisimosti-srokov-sozdaniia-ros-ot-prodleniia-raboty-mks-izi",
-        "https://iz.ru/2171478/tiumenetc-iznasiloval-12-letniuiu-devochku-i-zarazil-ee-vich-izi",
-        "https://iz.ru/2171480/infliatcionnye-ozhidaniia-rossiian-vyrosli-do-142-v-sentiabre-izi",
-        "https://iz.ru/2171482/uchenye-nashli-novye-priznaki-skrytykh-pomeshchenii-v-grobnitce-tutankhamona-izi",
-        "https://iz.ru/2171495/tcena-na-dizel-v-kieve-prevysila-otmetku-v-100-griven-izi",
-        "https://iz.ru/2171498/armiia-rossii-vyvela-iz-stroia-neftegazovyi-obekt-v-poltavskoi-oblasti-izi",
-        "https://iz.ru/2171502/uchenye-izuchili-vliianie-zapakha-svezhego-kofe-na-nastroenie-izi",
-        "https://iz.ru/2171521/frantcuzskii-akter-i-rezhisser-arno-deni-ushel-iz-zhizni-s-pomoshchiu-evtanazii-izi",
-        "https://iz.ru/2171524/politolog-svetov-opisal-taktiku-rassecheniia-ukrainskogo-fronta-izi",
         "https://iz.ru/2171533/uchenye-opisali-novyi-vid-pingvinov-na-ostrovakh-kergelen-izi",
         "https://iz.ru/2171550/gosdep-ssha-piatyi-raz-podriad-ne-vydal-slutckomu-vizu-na-ga-oon-izi",
-        "https://iz.ru/2171561/uchenye-proverili-sviaz-gravitatcii-i-kvantovoi-superpozitcii-izi"
+        "https://iz.ru/2171561/uchenye-proverili-sviaz-gravitatcii-i-kvantovoi-superpozitcii-izi",
+        "https://iz.ru/2171578/samburskaia-predlozhila-kollege-po-univer-gogunskomu-zabyt-o-ee-sushchestvovanii-izi",
+        "https://iz.ru/2171585/tramp-s-tribuny-ga-oon-vyrazil-uverennost-v-zavershenii-konflikta-na-ukraine-izi",
+        "https://iz.ru/2171618/snimki-nasa-raskryli-stroenie-dvukh-kosmicheskikh-tumannostei-izi",
+        "https://iz.ru/2171642/timofei-ukhov-biografiia-izi",
+        "https://iz.ru/2171673/v-zaporozhskoi-oblasti-osudili-chetverykh-agentov-kieva-za-podgotovku-teraktov-izi",
+        "https://iz.ru/2171709/pozhar-v-torgovom-komplekse-v-sterlitamake-pokazali-na-video-izi",
+        "https://iz.ru/2171732/stala-izvestna-prichina-smerti-aktera-tain-sledstviia-timofeia-ukhova-izi",
+        "https://iz.ru/2171759/prokuratura-vengrii-potrebovala-sniat-immunitet-s-madiara-iz-za-dela-o-krazhe-izi",
+        "https://iz.ru/2170627/uchenye-sviazali-vosem-pishchevykh-dobavok-s-riskom-gipertonii-izi",
+        "https://iz.ru/2170646/uchenye-izuchili-vliianie-vitamina-c-na-predrakovye-zabolevaniia-krovi-izi",
+        "https://iz.ru/2170678/pamiat-daet-sboi-pochemu-s-vozrastom-mozg-putaet-vospominaniia-izi",
+        "https://iz.ru/2170764/2026-09-22/gormon-po-chasam-chto-kortizol-v-sliune-rasskazal-o-starenii-mozga-izi",
+        "https://iz.ru/2170848/2026-09-22/v-rptc-otcenili-polzu-fizicheskikh-uprazhnenii-v-borbe-s-grekhami-izi",
+        "https://iz.ru/2170893/narodnye-primety-na-22-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2171141/smi-soobshchili-o-iakoby-vozmozhnosti-sokrashcheniia-indiei-zakupok-nefti-iz-rossii-izi",
+        "https://iz.ru/2171145/v-italii-zaiavili-ob-opasnoi-igre-nato-iz-za-postavok-oruzhiia-ukraine-izi",
+        "https://iz.ru/2171150/distantciiu-formuly-1-sokratiat-na-15-km-izi"
       ]
     },
     "2026-09-23": {
-      "totalChecked": 988,
+      "totalChecked": 981,
       "totalIzi": 202,
       "totalIiz": 2,
       "totalAi": 204,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-29": {
-      "totalChecked": 762,
-      "totalIzi": 193,
+      "totalChecked": 905,
+      "totalIzi": 259,
       "totalIiz": 2,
-      "totalAi": 195,
+      "totalAi": 261,
       "topLinks": [
         "https://iz.ru/2174633/uchenye-ukazali-na-narushenie-raboty-serdtca-iz-za-zagriaznennogo-vozdukha-izi",
         "https://iz.ru/2174644/narodnye-primety-na-29-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
