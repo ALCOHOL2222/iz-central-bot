@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:55:25.341Z",
+  "generatedAt": "2026-09-30T13:57:19.321Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-09-22": {
-      "totalChecked": 490,
-      "totalIzi": 95,
+      "totalChecked": 483,
+      "totalIzi": 94,
       "totalIiz": 1,
-      "totalAi": 96,
+      "totalAi": 95,
       "topLinks": [
-        "https://iz.ru/2171759/prokuratura-vengrii-potrebovala-sniat-immunitet-s-madiara-iz-za-dela-o-krazhe-izi",
         "https://iz.ru/2170627/uchenye-sviazali-vosem-pishchevykh-dobavok-s-riskom-gipertonii-izi",
         "https://iz.ru/2170646/uchenye-izuchili-vliianie-vitamina-c-na-predrakovye-zabolevaniia-krovi-izi",
         "https://iz.ru/2170678/pamiat-daet-sboi-pochemu-s-vozrastom-mozg-putaet-vospominaniia-izi",
@@ -175,39 +174,40 @@
         "https://iz.ru/2171160/moshenniki-nachali-darit-bukety-pered-dnem-uchitelia-radi-krazhi-kodov-izi",
         "https://iz.ru/2171161/minprosveshcheniia-zapustilo-obediniaiushchii-bolee-18-tys-detskikh-sadov-proekt-izi",
         "https://iz.ru/2171174/reuters-uznalo-o-vozmozhnom-vozvrashchenii-ssha-na-voennuiu-bazu-v-grenlandii-izi",
-        "https://iz.ru/2171176/kitaiskii-import-rossiiskoi-nefti-vyros-v-avguste-na-41-izi"
+        "https://iz.ru/2171176/kitaiskii-import-rossiiskoi-nefti-vyros-v-avguste-na-41-izi",
+        "https://iz.ru/2171181/respublikantcy-trebuiut-sokratit-eksport-topliva-na-fone-rosta-tcen-v-ssha-izi"
       ]
     },
     "2026-09-23": {
-      "totalChecked": 962,
-      "totalIzi": 202,
+      "totalChecked": 809,
+      "totalIzi": 149,
       "totalIiz": 1,
-      "totalAi": 203,
+      "totalAi": 150,
       "topLinks": [
-        "https://iz.ru/2171765/dinamo-proigralo-barysu-v-matche-kkhl-so-schetom-14-izi",
-        "https://iz.ru/2171779/boitcy-gruppirovki-voisk-sever-rasskazali-ob-obstanovke-v-volchanskom-kotle-izi",
-        "https://iz.ru/2171784/voennye-ssha-zvonili-po-nomeru-112-posle-poiavleniia-drona-nad-bazoi-v-polshe-izi",
-        "https://iz.ru/2171785/uitkoff-i-kushner-vstretilis-s-posrednikami-po-sdelke-s-iranom-izi",
-        "https://iz.ru/2171789/miroshnik-ukazal-na-narushenie-ukrainoi-mgp-iz-za-atak-na-medikov-v-zone-konflikta-izi",
-        "https://iz.ru/2171801/nazvany-regiony-rf-s-samymi-vysokimi-srednimi-pensiiami-izi",
-        "https://iz.ru/2171806/smi-soobshchili-o-plane-ssha-priniat-175-tys-afrikanerov-v-kachestve-bezhentcev-izi",
-        "https://iz.ru/2171809/sud-obiazal-rasperia-vyplatit-raiffeisen-bank-kompensatciiu-v-eu315-mlrd-izi",
-        "https://iz.ru/2171810/v-mid-rf-soobshchili-ob-otkliucheniiakh-elektrichestva-v-kurskoi-oblasti-posle-atak-vsu-izi",
-        "https://iz.ru/2171813/vlasti-ispanii-namereny-prekratit-import-szhizhennogo-gaza-iz-rossii-izi",
-        "https://iz.ru/2171820/ekspert-rasskazal-o-poluchenii-klientom-kompensatcii-banka-za-perevod-moshennikam-izi",
-        "https://iz.ru/2171821/forum-obedinennykh-kultur-soberet-predstavitelei-70-stran-izi",
-        "https://iz.ru/2171824/na-ukraine-rasprostraniaetsia-natcionalisticheskie-programmy-dlia-detei-izi",
-        "https://iz.ru/2171826/shturmoviki-gruppirovki-voisk-sever-rasskazali-o-boiakh-za-maluiu-volchiu-izi",
-        "https://iz.ru/2171827/minprosveshcheniia-vernet-profilnyi-ege-dlia-postupaiushchikh-v-pedvuzy-izi",
-        "https://iz.ru/2171829/v-op-predlozhili-vvesti-ezhegodnuiu-vyplatu-uchiteliam-ko-dniu-uchitelia-izi",
-        "https://iz.ru/2171832/v-ran-nazvali-sposoby-profilaktiki-dementcii-izi",
-        "https://iz.ru/2171833/glava-mid-ispanii-albares-anonsiroval-otkaz-ot-spg-iz-rf-nesmotria-na-kontrakty-izi",
-        "https://iz.ru/2171836/reuters-uznalo-o-testirovanii-meta-ii-assistenta-s-uchastiem-operatorov-liudei-izi",
-        "https://iz.ru/2171843/v-mvd-nazvali-pravila-zashchity-ot-moshennikov-v-internete-izi"
+        "https://iz.ru/2171938/britanetc-v-92-goda-snova-nachal-khodit-blagodaria-ezde-na-velosipede-izi",
+        "https://iz.ru/2171950/zhiteli-piddingtona-obratilis-k-vlastiam-posle-simvolicheskogo-vykhoda-iz-britanii-izi",
+        "https://iz.ru/2171963/premer-iaponii-takaiti-poobeshchala-zelenskomu-dalneishuiu-pomoshch-ukraine-izi",
+        "https://iz.ru/2171965/rep-ispolnitel-dzhigan-biografiia-izi",
+        "https://iz.ru/2171982/my-skoro-zabudem-o-nei-o-chem-brat-printcessy-diany-rasskazal-v-memuarakh-izi",
+        "https://iz.ru/2171984/uchenye-sviazali-ultrapererabotannuiu-pishchu-s-riskom-khronicheskikh-boleznei-izi",
+        "https://iz.ru/2171990/tramp-dlia-vstrechi-si-tczinpina-narushit-protokol-sobliudavshiisia-okolo-60-let-izi",
+        "https://iz.ru/2171998/ot-organizatora-kontcerta-kane-uesta-potrebovali-okolo-1-mln-rublei-izi",
+        "https://iz.ru/2172005/lider-frantcuzskikh-zelenykh-tondele-rodila-posle-soveshchaniia-v-eliseiskom-dvortce-izi",
+        "https://iz.ru/2172006/akademik-ran-prizval-otvetstvenno-otnositsia-k-zdoroviu-na-fone-rosta-grippa-izi",
+        "https://iz.ru/2172024/v-moskve-khoreografa-prigovorili-k-pozhiznennomu-zakliucheniiu-za-pedofiliiu-izi",
+        "https://iz.ru/2172028/peskov-napomnil-o-gotovnosti-moskvy-priniat-zelenskogo-dlia-vstrechi-s-putinym-izi",
+        "https://iz.ru/2172035/turetckii-futbolist-kalender-umer-v-vozraste-25-let-izi",
+        "https://iz.ru/2172037/medvedchuk-nazval-provalnoi-poezdku-zelenskogo-v-ssha-na-genassambleiu-oon-izi",
+        "https://iz.ru/2172043/bloomberg-soobshchilo-o-razrabotke-apple-novoi-os-dlia-ustroistv-umnogo-doma-izi",
+        "https://iz.ru/2172048/zhitelnitcu-belgorodskoi-oblasti-osudili-za-peredachu-sbu-koordinat-vs-rf-izi",
+        "https://iz.ru/2172059/v-turtcii-zaderzhali-muzhchinu-za-sozdannye-pri-pomoshchi-ii-foto-s-erdoganom-izi",
+        "https://iz.ru/2172065/zelenskii-soobshchil-ob-ukhudshenii-zdorovia-izi",
+        "https://iz.ru/2172071/agent-ukrainskoi-razvedki-v-krymu-poluchil-za-gosizmenu-16-let-kolonii-izi",
+        "https://iz.ru/2172076/shokhin-nazval-vvedenie-vremennogo-upravleniia-uprezhdaiushchim-signalom-dlia-es-izi"
       ]
     },
     "2026-09-24": {
-      "totalChecked": 920,
+      "totalChecked": 918,
       "totalIzi": 165,
       "totalIiz": 5,
       "totalAi": 170,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-09-25": {
-      "totalChecked": 958,
+      "totalChecked": 957,
       "totalIzi": 168,
       "totalIiz": 2,
       "totalAi": 170,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-09-30": {
-      "totalChecked": 208,
-      "totalIzi": 34,
+      "totalChecked": 549,
+      "totalIzi": 87,
       "totalIiz": 4,
-      "totalAi": 38,
+      "totalAi": 91,
       "topLinks": [
         "https://iz.ru/2172049/80-svetlye-otkrytki-s-dnem-very-nadezhdy-i-liubvi-krasivye-kartinki-gifki-i-pravoslavnye-iiz",
         "https://iz.ru/2174833/uchenye-nashli-vozmozhnyi-istochnik-povrezhdeniia-mozga-pri-bolezni-altcgeimera-izi",
