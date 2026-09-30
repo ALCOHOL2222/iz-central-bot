@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:39:37.712Z",
+  "generatedAt": "2026-09-30T06:55:25.341Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-09-22": {
-      "totalChecked": 561,
-      "totalIzi": 100,
+      "totalChecked": 490,
+      "totalIzi": 95,
       "totalIiz": 1,
-      "totalAi": 101,
+      "totalAi": 96,
       "topLinks": [
-        "https://iz.ru/2171618/snimki-nasa-raskryli-stroenie-dvukh-kosmicheskikh-tumannostei-izi",
-        "https://iz.ru/2171642/timofei-ukhov-biografiia-izi",
-        "https://iz.ru/2171673/v-zaporozhskoi-oblasti-osudili-chetverykh-agentov-kieva-za-podgotovku-teraktov-izi",
-        "https://iz.ru/2171709/pozhar-v-torgovom-komplekse-v-sterlitamake-pokazali-na-video-izi",
-        "https://iz.ru/2171732/stala-izvestna-prichina-smerti-aktera-tain-sledstviia-timofeia-ukhova-izi",
         "https://iz.ru/2171759/prokuratura-vengrii-potrebovala-sniat-immunitet-s-madiara-iz-za-dela-o-krazhe-izi",
         "https://iz.ru/2170627/uchenye-sviazali-vosem-pishchevykh-dobavok-s-riskom-gipertonii-izi",
         "https://iz.ru/2170646/uchenye-izuchili-vliianie-vitamina-c-na-predrakovye-zabolevaniia-krovi-izi",
@@ -175,16 +170,20 @@
         "https://iz.ru/2171152/amerikanskie-telekanaly-nachali-pokazyvat-vystupleniia-trampa-bez-zvuka-izi",
         "https://iz.ru/2171154/wsj-uznala-o-planakh-ssha-investirovat-5-mlrd-v-energetiku-blizhnego-vostoka-izi",
         "https://iz.ru/2171155/zhurnalisty-telekanalov-otkazalis-zamenit-cnn-v-pule-belogo-doma-izi",
-        "https://iz.ru/2171157/v-gosdume-predlozhili-vvesti-bazovye-vyplaty-na-detei-dlia-vsekh-semei-izi"
+        "https://iz.ru/2171157/v-gosdume-predlozhili-vvesti-bazovye-vyplaty-na-detei-dlia-vsekh-semei-izi",
+        "https://iz.ru/2171158/minoborony-polshi-soobschilo-ob-otmene-peregovorov-s-pentagonom-po-prosbe-ssha-izi",
+        "https://iz.ru/2171160/moshenniki-nachali-darit-bukety-pered-dnem-uchitelia-radi-krazhi-kodov-izi",
+        "https://iz.ru/2171161/minprosveshcheniia-zapustilo-obediniaiushchii-bolee-18-tys-detskikh-sadov-proekt-izi",
+        "https://iz.ru/2171174/reuters-uznalo-o-vozmozhnom-vozvrashchenii-ssha-na-voennuiu-bazu-v-grenlandii-izi",
+        "https://iz.ru/2171176/kitaiskii-import-rossiiskoi-nefti-vyros-v-avguste-na-41-izi"
       ]
     },
     "2026-09-23": {
-      "totalChecked": 975,
+      "totalChecked": 962,
       "totalIzi": 202,
-      "totalIiz": 2,
-      "totalAi": 204,
+      "totalIiz": 1,
+      "totalAi": 203,
       "topLinks": [
-        "https://iz.ru/2171641/narodnye-primety-na-23-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2171765/dinamo-proigralo-barysu-v-matche-kkhl-so-schetom-14-izi",
         "https://iz.ru/2171779/boitcy-gruppirovki-voisk-sever-rasskazali-ob-obstanovke-v-volchanskom-kotle-izi",
         "https://iz.ru/2171784/voennye-ssha-zvonili-po-nomeru-112-posle-poiavleniia-drona-nad-bazoi-v-polshe-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2171829/v-op-predlozhili-vvesti-ezhegodnuiu-vyplatu-uchiteliam-ko-dniu-uchitelia-izi",
         "https://iz.ru/2171832/v-ran-nazvali-sposoby-profilaktiki-dementcii-izi",
         "https://iz.ru/2171833/glava-mid-ispanii-albares-anonsiroval-otkaz-ot-spg-iz-rf-nesmotria-na-kontrakty-izi",
-        "https://iz.ru/2171836/reuters-uznalo-o-testirovanii-meta-ii-assistenta-s-uchastiem-operatorov-liudei-izi"
+        "https://iz.ru/2171836/reuters-uznalo-o-testirovanii-meta-ii-assistenta-s-uchastiem-operatorov-liudei-izi",
+        "https://iz.ru/2171843/v-mvd-nazvali-pravila-zashchity-ot-moshennikov-v-internete-izi"
       ]
     },
     "2026-09-24": {
@@ -291,7 +291,7 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 520,
+      "totalChecked": 519,
       "totalIzi": 124,
       "totalIiz": 5,
       "totalAi": 129,
@@ -375,15 +375,31 @@
       ]
     },
     "2026-09-30": {
-      "totalChecked": 81,
-      "totalIzi": 0,
+      "totalChecked": 208,
+      "totalIzi": 34,
       "totalIiz": 4,
-      "totalAi": 4,
+      "totalAi": 38,
       "topLinks": [
         "https://iz.ru/2172049/80-svetlye-otkrytki-s-dnem-very-nadezhdy-i-liubvi-krasivye-kartinki-gifki-i-pravoslavnye-iiz",
+        "https://iz.ru/2174833/uchenye-nashli-vozmozhnyi-istochnik-povrezhdeniia-mozga-pri-bolezni-altcgeimera-izi",
+        "https://iz.ru/2174962/uchenye-uznali-o-polze-granata-dlia-serdtca-izi",
+        "https://iz.ru/2175277/uchenye-nashli-sposob-uskorit-vosstanovlenie-mozga-posle-insulta-izi",
         "https://iz.ru/2175347/narodnye-primety-na-30-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2172049/80-svetlye-otkrytki-s-dnem-very-nadezhdy-i-liubvi-krasivye-kartinki-gifki-i-pravoslavnye-iiz",
-        "https://iz.ru/2175347/narodnye-primety-na-30-sentiabria-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2175351/uchenye-sviazali-rak-v-detstve-s-trevogoi-i-depressiei-vo-vzroslom-vozraste-izi",
+        "https://iz.ru/2175778/2026-09-30/putin-zapretil-vyvoz-iz-rf-v-strany-eaes-svyshe-1-mln-rublei-nalichnymi-izi",
+        "https://iz.ru/2175783/2026-09-30/v-rossii-s-1-oktiabria-proindeksiruiut-pensii-dvum-kategoriiam-grazhdan-izi",
+        "https://iz.ru/2175787/tramp-oproverg-opaseniia-geitsa-ob-ii-ugrozakh-izi",
+        "https://iz.ru/2175793/2026-09-30/lantratova-nazvala-sroki-ozhidaniia-meditcinskoi-pomoshchi-po-oms-izi",
+        "https://iz.ru/2175796/2026-09-30/chetyre-cheloveka-postradali-pri-vzryve-akkumuliatora-mopeda-v-peterburge-izi",
+        "https://iz.ru/2175802/minfin-ssha-vvel-novye-sanktcii-protiv-kuby-izi",
+        "https://iz.ru/2175815/gendirektor-kompanii-eifelevoi-bashni-pokinet-post-posle-skandala-izi",
+        "https://iz.ru/2175818/verkhovnyi-sud-ssha-razreshil-deportatciiu-migrantov-v-treti-strany-izi",
+        "https://iz.ru/2175821/v-op-predlozhili-ustanovit-vyplatu-pensioneram-ko-dniu-pozhilykh-liudei-izi",
+        "https://iz.ru/2175823/minich-nazval-vstrechu-s-putinym-v-moskve-bolshoi-chestiu-izi",
+        "https://iz.ru/2175826/glavy-it-kompanii-ssha-podpisali-soglashenie-belogo-doma-po-superintellektu-izi",
+        "https://iz.ru/2175830/aktivisty-iuao-sovershili-bolee-90-gumanitarnykh-poezdok-v-zonu-spetcoperatcii-izi",
+        "https://iz.ru/2175832/v-germanii-soobshchili-o-defitcite-oborudovaniia-dlia-uchenii-rezervistov-izi",
+        "https://iz.ru/2175837/khachanov-obygral-piatuiu-raketku-mira-na-starte-turnira-v-pekine-izi"
       ]
     }
   }
