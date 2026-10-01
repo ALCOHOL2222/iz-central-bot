@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:02:41.879Z",
+  "generatedAt": "2026-10-01T06:08:51.325Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-09-23": {
-      "totalChecked": 622,
-      "totalIzi": 111,
+      "totalChecked": 574,
+      "totalIzi": 110,
       "totalIiz": 1,
-      "totalAi": 112,
+      "totalAi": 111,
       "topLinks": [
-        "https://iz.ru/2172282/uchenye-nazvali-novyi-vid-zmei-iz-novoi-gvinei-v-chest-gitarista-guns-n-roses-izi",
         "https://iz.ru/2172316/v-ator-soobshchili-o-podorozhanii-vizy-v-egipet-s-2027-goda-izi",
         "https://iz.ru/2172332/lavrov-prizval-ssha-iskliuchit-kubu-iz-spiska-stran-sponsorov-terrorizma-izi",
         "https://iz.ru/2172434/tcb-prorabotaet-mekhanizm-polnogo-vozvrata-ukradennykh-moshennikami-sredstv-izi",
@@ -175,11 +174,12 @@
         "https://iz.ru/2171785/uitkoff-i-kushner-vstretilis-s-posrednikami-po-sdelke-s-iranom-izi",
         "https://iz.ru/2171789/miroshnik-ukazal-na-narushenie-ukrainoi-mgp-iz-za-atak-na-medikov-v-zone-konflikta-izi",
         "https://iz.ru/2171801/nazvany-regiony-rf-s-samymi-vysokimi-srednimi-pensiiami-izi",
-        "https://iz.ru/2171806/smi-soobshchili-o-plane-ssha-priniat-175-tys-afrikanerov-v-kachestve-bezhentcev-izi"
+        "https://iz.ru/2171806/smi-soobshchili-o-plane-ssha-priniat-175-tys-afrikanerov-v-kachestve-bezhentcev-izi",
+        "https://iz.ru/2171809/sud-obiazal-rasperia-vyplatit-raiffeisen-bank-kompensatciiu-v-eu315-mlrd-izi"
       ]
     },
     "2026-09-24": {
-      "totalChecked": 894,
+      "totalChecked": 891,
       "totalIzi": 161,
       "totalIiz": 4,
       "totalAi": 165,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-09-25": {
-      "totalChecked": 951,
+      "totalChecked": 949,
       "totalIzi": 165,
       "totalIiz": 2,
       "totalAi": 167,
@@ -375,17 +375,18 @@
       ]
     },
     "2026-10-01": {
-      "totalChecked": 111,
-      "totalIzi": 12,
+      "totalChecked": 197,
+      "totalIzi": 42,
       "totalIiz": 2,
-      "totalAi": 14,
+      "totalAi": 44,
       "topLinks": [
-        "https://iz.ru/2175986/narodnye-primety-na-1-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2176380/leitenant-koval-vzial-pod-kontrol-opornyi-punkt-vsu-v-zone-svo-izi",
-        "https://iz.ru/2176389/fsb-opublikovala-arkhivnye-dokumenty-o-prestupleniiakh-natcistov-v-sssr-izi",
-        "https://iz.ru/2176400/v-es-sravnili-finansirovanie-ukrainy-s-polivom-pustyni-izi",
-        "https://iz.ru/2176405/glavy-mvd-zemel-germanii-otkazalis-ot-printcipa-edinoglasiia-izi",
-        "https://iz.ru/2176407/2026-10-01/ilon-mask-voidet-v-chislo-rukovoditelei-novogo-proekta-pentagona-izi",
+        "https://iz.ru/2175378/uchenye-sviazali-pokazateli-arterialnogo-davleniia-s-riskom-insulta-i-smerti-izi",
+        "https://iz.ru/2175422/uchenye-sviazali-zaniatiia-muzykoi-s-izmeneniiami-mozga-u-detei-izi",
+        "https://iz.ru/2175481/uchenye-rasskazali-o-vliianii-kofe-na-kishechnik-i-mozg-izi",
+        "https://iz.ru/2175592/uchenye-sviazali-sobliudenie-sredizemnomorskoi-diety-s-menshim-riskom-akne-izi",
+        "https://iz.ru/2175627/2026-10-01/uchenye-rasskazali-o-sviazi-kolebanii-sakhara-s-kachestvom-zhizni-pri-diabete-izi",
+        "https://iz.ru/2175896/uchenye-rasskazali-o-sviazi-depressii-s-vnimaniem-detei-k-grustnym-litcam-izi",
+        "https://iz.ru/2175904/2026-10-01/v-rptc-ukazali-na-nedostatochnost-vnutrennei-very-bez-poseshcheniia-khrama-izi",
         "https://iz.ru/2175986/narodnye-primety-na-1-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2176380/leitenant-koval-vzial-pod-kontrol-opornyi-punkt-vsu-v-zone-svo-izi",
         "https://iz.ru/2176389/fsb-opublikovala-arkhivnye-dokumenty-o-prestupleniiakh-natcistov-v-sssr-izi",
@@ -393,7 +394,12 @@
         "https://iz.ru/2176405/glavy-mvd-zemel-germanii-otkazalis-ot-printcipa-edinoglasiia-izi",
         "https://iz.ru/2176407/2026-10-01/ilon-mask-voidet-v-chislo-rukovoditelei-novogo-proekta-pentagona-izi",
         "https://iz.ru/2176408/centcom-soobshchilo-o-perenapravlenii-125-sudov-v-ramkakh-morskoi-blokady-irana-izi",
-        "https://iz.ru/2176409/lantratova-nazvala-sposob-vyiavleniia-moshennikov-po-ispolzuemym-imi-formulirovkam-izi"
+        "https://iz.ru/2176409/lantratova-nazvala-sposob-vyiavleniia-moshennikov-po-ispolzuemym-imi-formulirovkam-izi",
+        "https://iz.ru/2176413/tramp-soobshchil-o-skorom-okonchatelnom-reshenii-ssha-po-iranu-izi",
+        "https://iz.ru/2176415/2026-10-01/burdinskii-rasskazal-ob-osennei-otpravke-prizyvnikov-na-voennuiu-sluzhbu-izi",
+        "https://iz.ru/2176427/tcb-zaiavil-ob-uzhestochenii-regulirovaniia-vydachi-potrebkreditov-izi",
+        "https://iz.ru/2176428/dmitriev-nazval-mudrymi-slova-premera-litvy-ob-otsutstvii-rossiiskoi-ugrozy-izi",
+        "https://iz.ru/2176430/2026-10-01/na-ukraine-priznali-nevozmozhnost-obespecheniia-zashchity-energosistemy-strany-izi"
       ]
     }
   }
