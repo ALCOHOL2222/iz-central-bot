@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:03:23.490Z",
+  "generatedAt": "2026-10-02T05:52:06.954Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-09-24": {
-      "totalChecked": 502,
-      "totalIzi": 86,
+      "totalChecked": 467,
+      "totalIzi": 84,
       "totalIiz": 3,
-      "totalAi": 89,
+      "totalAi": 87,
       "topLinks": [
-        "https://iz.ru/2173076/chto-proizoshlo-za-den-24-sentiabria-glavnoe-izi",
-        "https://iz.ru/2173123/rossiia-vyrazila-gotovnost-pomoch-iordanii-v-stroitelstve-zhd-do-sirii-izi",
         "https://iz.ru/2173150/posol-rf-zaiavil-o-konfrontatcionnom-kurse-kanady-v-otnoshenii-rossii-izi",
         "https://iz.ru/2167194/vozdvizhenie-kresta-gospodnia-strogie-zaprety-i-vazhnye-primety-prazdnika-iiz",
         "https://iz.ru/2171345/uchenye-raskryli-mekhanizm-soglasovaniia-zritelnykh-signalov-v-mozge-izi",
@@ -175,16 +173,17 @@
         "https://iz.ru/2172514/boitcy-vs-rf-likvidirovali-trekh-ofitcerov-vsu-izi",
         "https://iz.ru/2172515/reuters-vsu-ne-mogut-sbivat-novye-gerani-vs-rossii-s-reaktivnymi-dvigateliami-izi",
         "https://iz.ru/2172516/v-podpole-soobshchili-o-vozmozhnoi-provokatcii-kieva-v-raione-chaes-izi",
-        "https://iz.ru/2172523/ekspert-nazvala-samye-vygodnye-mesiatcy-dlia-otpuska-v-2027-godu-izi"
+        "https://iz.ru/2172523/ekspert-nazvala-samye-vygodnye-mesiatcy-dlia-otpuska-v-2027-godu-izi",
+        "https://iz.ru/2172526/raznitca-mezhdu-pensiiami-v-regionakh-rossii-prevysila-23-tys-rublei-izi",
+        "https://iz.ru/2172528/vuchich-zaiavil-ob-ustalosti-stran-kandidatov-ot-ozhidaniia-vstupleniia-v-es-izi"
       ]
     },
     "2026-09-25": {
-      "totalChecked": 924,
-      "totalIzi": 162,
+      "totalChecked": 907,
+      "totalIzi": 161,
       "totalIiz": 1,
-      "totalAi": 163,
+      "totalAi": 162,
       "topLinks": [
-        "https://iz.ru/2173144/v-minprosveshcheniia-anonsirovali-novye-uchebniki-dlia-10-11-kh-klassov-v-2027-godu-izi",
         "https://iz.ru/2173169/sredniaia-zarplata-v-rossii-v-2026-godu-prevysit-112-tysiach-rublei-izi",
         "https://iz.ru/2173180/khusity-zaiavili-ob-udarakh-raketami-po-er-riiadu-i-obektam-saudi-aramco-izi",
         "https://iz.ru/2173181/zakharova-prizvala-iunesko-i-iunisef-proverit-obrazovanie-molodezhi-v-estonii-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2173239/medved-ubil-zhenshchinu-na-priusadebnom-uchastke-v-krasnoiarskom-krae-izi",
         "https://iz.ru/2173240/v-gosdume-predlozhili-vvesti-nalogovyi-vychet-na-raskhody-po-soderzhaniiu-pitomtcev-izi",
         "https://iz.ru/2173247/minekonomrazvitiia-ozhidaet-uvelicheniia-nominalnykh-zarplat-na-35-za-chetyre-goda-izi",
-        "https://iz.ru/2173248/mashinist-postradal-pri-povrezhdenii-passazhirskogo-poezda-moskva-toliatti-izi"
+        "https://iz.ru/2173248/mashinist-postradal-pri-povrezhdenii-passazhirskogo-poezda-moskva-toliatti-izi",
+        "https://iz.ru/2173251/v-gosdume-rasskazali-o-vstupaiushchikh-v-silu-zakonakh-rf-v-oktiabre-izi"
       ]
     },
     "2026-09-26": {
@@ -375,20 +375,31 @@
       ]
     },
     "2026-10-02": {
-      "totalChecked": 101,
-      "totalIzi": 7,
+      "totalChecked": 187,
+      "totalIzi": 36,
       "totalIiz": 2,
-      "totalAi": 9,
+      "totalAi": 38,
       "topLinks": [
+        "https://iz.ru/2175922/uchenye-sviazali-detskie-travmy-s-povyshennym-riskom-depressii-izi",
+        "https://iz.ru/2175983/uchenye-sviazali-maskirovku-simptomov-sdvg-s-istoshcheniem-izi",
+        "https://iz.ru/2176127/uchenye-sviazali-odinochestvo-i-stremlenie-k-khudobe-s-depressiei-u-devochek-izi",
+        "https://iz.ru/2176251/uchenye-rasskazali-o-grani-mezhdu-privychkoi-i-zavisimostiu-izi",
         "https://iz.ru/2176569/narodnye-primety-na-2-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2176687/uchenye-ukazali-na-rol-ultraobrabotannykh-produktov-pri-depressii-izi",
         "https://iz.ru/2177093/riadovoi-musalaev-likvidiroval-minometnuiu-pozitciiu-vsu-artilleriiskim-ognem-izi",
         "https://iz.ru/2177116/2026-10-02/putin-nazval-ubiistvo-ali-laridzhani-sereznoi-oshibkoi-izi",
         "https://iz.ru/2177130/shvedskie-vvs-dopustili-vozmozhnost-udarov-po-tceliam-v-rossii-izi",
-        "https://iz.ru/2176569/narodnye-primety-na-2-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2177093/riadovoi-musalaev-likvidiroval-minometnuiu-pozitciiu-vsu-artilleriiskim-ognem-izi",
-        "https://iz.ru/2177116/2026-10-02/putin-nazval-ubiistvo-ali-laridzhani-sereznoi-oshibkoi-izi",
-        "https://iz.ru/2177130/shvedskie-vvs-dopustili-vozmozhnost-udarov-po-tceliam-v-rossii-izi",
-        "https://iz.ru/2177151/zakharova-ironichno-otreagirovala-na-slova-makrona-o-evropeiskoi-ekonomike-izi"
+        "https://iz.ru/2177151/zakharova-ironichno-otreagirovala-na-slova-makrona-o-evropeiskoi-ekonomike-izi",
+        "https://iz.ru/2177179/ii-pomog-gpt-6-pomog-raskryt-soderzhanie-poslaniia-napoleona-spustia-217-let-izi",
+        "https://iz.ru/2177180/prigovorennaia-k-kazni-v-ssha-ostalas-zhiva-posle-dvukh-smertelnykh-inektcii-izi",
+        "https://iz.ru/2177187/glava-magate-predupredil-o-riskakh-bezopasnosti-zaporozhskoi-aes-izi",
+        "https://iz.ru/2177189/v-gd-dopustili-poiavlenie-bankomatov-dlia-obnalichivaniia-tcifrovykh-rublei-v-2027-godu-izi",
+        "https://iz.ru/2177190/chikunova-i-prigoda-vyigrali-zoloto-na-pervom-etape-kubka-mira-v-baku-izi",
+        "https://iz.ru/2177192/virusolog-nazvala-pervye-priznaki-gonkongskogo-grippa-izi",
+        "https://iz.ru/2177193/v-sotcfonde-nazvali-sposob-proverit-kolichestvo-nakoplennykh-pensionnykh-ballov-izi",
+        "https://iz.ru/2177194/sud-zaochno-arestoval-uchreditelia-mpk-seliatino-po-delu-o-postavkakh-tushenki-dlia-mo-izi",
+        "https://iz.ru/2177203/ssha-perenapravili-52-mln-pomoshchi-iz-evropy-i-blizhnego-vostoka-izi",
+        "https://iz.ru/2177208/v-italii-otcenili-posledstviia-vozmozhnogo-davleniia-na-kaliningrad-izi"
       ]
     }
   }
