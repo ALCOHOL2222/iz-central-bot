@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:10:36.770Z",
+  "generatedAt": "2026-10-03T08:20:54.091Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-09-25": {
-      "totalChecked": 551,
-      "totalIzi": 88,
+      "totalChecked": 485,
+      "totalIzi": 84,
       "totalIiz": 1,
-      "totalAi": 89,
+      "totalAi": 85,
       "topLinks": [
-        "https://iz.ru/2173671/odinnadtcatiletniaia-devochka-propala-v-khakasii-na-fone-vykhodov-tam-medvedei-k-liudiam-izi",
-        "https://iz.ru/2173678/chto-proizoshlo-za-den-25-sentiabria-glavnoe-izi",
-        "https://iz.ru/2173760/lavrov-obsudil-s-glavoi-mid-indii-ukrainu-i-situatciiu-na-blizhnem-vostoke-izi",
-        "https://iz.ru/2173763/lavrov-provel-vstrechi-s-predstaviteliami-ugandy-singapura-i-oae-v-niu-jorke-izi",
         "https://iz.ru/2172117/uchenye-vyiavili-prichiny-usileniia-allergii-pri-povtornom-kontakte-s-allergenom-izi",
         "https://iz.ru/2172151/uchenye-izuchili-sviaz-okr-s-travmiruiushchim-opytom-izi",
         "https://iz.ru/2172168/2026-09-25/uchenye-rasskazali-o-vliianii-umstvennoi-ustalosti-na-vynoslivost-izi",
@@ -175,11 +171,15 @@
         "https://iz.ru/2173187/mladshii-serzhant-utiabaev-unichtozhil-pulemetnyi-raschet-vsu-izi",
         "https://iz.ru/2173192/v-mid-rf-zaiavili-o-degradatcii-otnoshenii-rossii-i-iaponii-izi",
         "https://iz.ru/2173193/chlen-zala-slavy-basketbolist-bob-pettit-ushel-iz-zhizni-v-vozraste-93-let-izi",
-        "https://iz.ru/2173196/ekspert-pozharskaia-predupredila-o-skhemakh-moshennikov-s-podarkami-ko-dniu-uchitelia-izi"
+        "https://iz.ru/2173196/ekspert-pozharskaia-predupredila-o-skhemakh-moshennikov-s-podarkami-ko-dniu-uchitelia-izi",
+        "https://iz.ru/2173200/lavrov-i-guterresh-obsudili-ukrainskikh-konflikt-na-poliakh-genassamblei-oon-izi",
+        "https://iz.ru/2173202/si-tczinpin-soobshchil-ob-iskrennikh-i-glubokikh-peregovorakh-s-trampom-izi",
+        "https://iz.ru/2173215/na-chukotke-predlozhili-otmenit-limity-na-otstrel-medvedei-izi",
+        "https://iz.ru/2173224/v-gosdume-predlozhili-vvesti-poniatie-izbytochnoi-upakovki-tovarov-izi"
       ]
     },
     "2026-09-26": {
-      "totalChecked": 605,
+      "totalChecked": 599,
       "totalIzi": 125,
       "totalIiz": 1,
       "totalAi": 126,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 497,
+      "totalChecked": 496,
       "totalIzi": 121,
       "totalIiz": 4,
       "totalAi": 125,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-09-28": {
-      "totalChecked": 878,
+      "totalChecked": 876,
       "totalIzi": 222,
       "totalIiz": 1,
       "totalAi": 223,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-09-30": {
-      "totalChecked": 908,
+      "totalChecked": 907,
       "totalIzi": 214,
       "totalIiz": 3,
       "totalAi": 217,
@@ -375,12 +375,17 @@
       ]
     },
     "2026-10-03": {
-      "totalChecked": 92,
-      "totalIzi": 12,
+      "totalChecked": 252,
+      "totalIzi": 68,
       "totalIiz": 2,
-      "totalAi": 14,
+      "totalAi": 70,
       "topLinks": [
         "https://iz.ru/2176562/uchenye-sviazali-obraz-zhizni-s-biologicheskim-stareniem-izi",
+        "https://iz.ru/2176590/uchenye-obiasnili-vliianie-muzyki-na-mozg-pri-zavisimostiakh-izi",
+        "https://iz.ru/2176828/vrachi-rasskazali-ob-opasnoi-forme-izbiratelnosti-v-ede-izi",
+        "https://iz.ru/2176889/uchenye-uznali-o-sviazi-podderzhaniia-fizicheskoi-formy-s-riskom-depressii-izi",
+        "https://iz.ru/2177272/uchenye-sviazali-funktcionalnoe-starenie-so-zdorovem-serdtca-izi",
+        "https://iz.ru/2177415/uchenye-soobshchili-o-sviazi-zhary-i-shuma-s-ukhudsheniem-kachestva-sna-izi",
         "https://iz.ru/2177575/narodnye-primety-na-3-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2177762/efreitor-salimov-spas-ranenykh-pod-minometnym-obstrelom-v-zone-svo-izi",
         "https://iz.ru/2177779/fond-ssha-i-ukrainy-nachal-realizatciiu-proekta-po-dobyche-mineralov-izi",
@@ -388,12 +393,13 @@
         "https://iz.ru/2177799/samaia-vysokaia-sredniaia-zarplata-v-iiule-zafiksirovana-na-chukotke-izi",
         "https://iz.ru/2177812/andrei-nechaev-rasskazal-o-svoem-sostoianii-posle-obmoroka-izi",
         "https://iz.ru/2177830/abc-soobshchil-o-priznanii-pilota-flydubai-v-namerenii-razbit-samolet-v-izraile-izi",
-        "https://iz.ru/2177575/narodnye-primety-na-3-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2177762/efreitor-salimov-spas-ranenykh-pod-minometnym-obstrelom-v-zone-svo-izi",
-        "https://iz.ru/2177779/fond-ssha-i-ukrainy-nachal-realizatciiu-proekta-po-dobyche-mineralov-izi",
-        "https://iz.ru/2177797/ft-uznala-o-vozmozhnom-ugolovnom-dele-protiv-orbana-iz-za-zaderzhaniia-inkassatorov-izi",
-        "https://iz.ru/2177799/samaia-vysokaia-sredniaia-zarplata-v-iiule-zafiksirovana-na-chukotke-izi",
-        "https://iz.ru/2177812/andrei-nechaev-rasskazal-o-svoem-sostoianii-posle-obmoroka-izi"
+        "https://iz.ru/2177831/glava-mid-belorussii-prizval-evropeitcev-pomnit-o-iadernoi-triade-rf-izi",
+        "https://iz.ru/2177834/fns-napomnila-o-sroke-uplaty-nalogov-za-2025-god-izi",
+        "https://iz.ru/2177847/es-potreboval-ot-ukrainy-prodolzheniia-reform-dlia-polucheniia-pomoshchi-izi",
+        "https://iz.ru/2177855/nikkei-uznala-o-namerenii-iaponii-naladit-vypusk-nedorogikh-dalnoboinykh-raket-izi",
+        "https://iz.ru/2177857/uchenye-nashli-novyi-vid-chetyrekhkrylogo-dinozavra-v-kitae-izi",
+        "https://iz.ru/2177859/onishchenko-sviazal-ozhirenie-s-riskom-razvitiia-sakharnogo-diabeta-izi",
+        "https://iz.ru/2177860/finskaia-gazeta-soobshchila-o-nelovkom-epizode-pri-vstreche-stubba-i-sandu-izi"
       ]
     }
   }
