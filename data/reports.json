@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T08:20:54.091Z",
+  "generatedAt": "2026-10-03T13:34:27.132Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-09-25": {
-      "totalChecked": 485,
+      "totalChecked": 480,
       "totalIzi": 84,
       "totalIiz": 1,
       "totalAi": 85,
@@ -179,20 +179,11 @@
       ]
     },
     "2026-09-26": {
-      "totalChecked": 599,
-      "totalIzi": 125,
+      "totalChecked": 535,
+      "totalIzi": 116,
       "totalIiz": 1,
-      "totalAi": 126,
+      "totalAi": 117,
       "topLinks": [
-        "https://iz.ru/2173772/eksperty-otcenili-perspektivy-atomnoi-energetiki-evropy-i-nazvali-usloviia-ee-rosta-izi",
-        "https://iz.ru/2173778/lavrov-obsudil-sotrudnichestvo-s-glavoi-mid-gvatemaly-izi",
-        "https://iz.ru/2173787/mbappe-poluchil-travmu-v-matche-sbornoi-frantcii-s-turtciei-v-etape-ligi-natcii-izi",
-        "https://iz.ru/2173829/operatory-bpla-gruppirovki-voisk-sever-rasskazali-o-rabote-na-volchanskom-kotle-izi",
-        "https://iz.ru/2173835/mvd-rossii-predlozhilo-ispolzovat-strochki-iz-pesen-v-kachestve-parolei-izi",
-        "https://iz.ru/2173838/v-rospotrebnadzore-zaiavili-o-napriazhennoi-epidemiologicheskoi-situatcii-v-mire-izi",
-        "https://iz.ru/2173843/politolog-zaiavil-o-nevozmozhnosti-doveriat-kievu-v-peregovorakh-bez-konkretnykh-shagov-izi",
-        "https://iz.ru/2173848/v-mvd-predlozhili-izmenit-srok-prebyvaniia-v-rf-dlia-voditelei-iz-riada-stran-izi",
-        "https://iz.ru/2173866/v-ran-obiasnili-rost-napadenii-medvedei-izmeneniem-klimata-i-nekhvatkoi-korma-izi",
         "https://iz.ru/2173874/mvd-porekomendovalo-udalit-lichnye-dannye-iz-otkrytykh-profilei-v-sotcsetiakh-izi",
         "https://iz.ru/2173877/mvd-predupredilo-o-novykh-skhemakh-moshennikov-s-ispolzovaniem-ii-v-internete-izi",
         "https://iz.ru/2173878/miroshnik-ukazal-na-zavisimost-ukrainy-ot-zapadnoi-podderzhki-izi",
@@ -203,7 +194,16 @@
         "https://iz.ru/2173950/politolog-uvidel-izmenenie-ritoriki-putina-po-peregovoram-s-kievom-izi",
         "https://iz.ru/2173953/kompleks-reb-iastreb-10-planiruiut-peredat-v-voiska-rf-v-noiabre-izi",
         "https://iz.ru/2173957/v-mvd-nazvali-sposob-sozdaniia-slozhnogo-parolia-dlia-zashchity-akkauntov-izi",
-        "https://iz.ru/2173961/tri-cheloveka-pogibli-pri-atakakh-vsu-v-zaporozhskoi-oblasti-izi"
+        "https://iz.ru/2173961/tri-cheloveka-pogibli-pri-atakakh-vsu-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2173963/khakery-zaiavili-o-krazhe-meditcinskikh-dannykh-sotrudnikov-fbr-izi",
+        "https://iz.ru/2173964/vozliublennyi-docheri-liubovi-uspenskoi-priznalsia-v-bezdenezhe-izi",
+        "https://iz.ru/2173966/v-mvd-predupredili-o-moshennicheskoi-skheme-v-otnoshenii-uchashchikhsia-izi",
+        "https://iz.ru/2173969/minoborony-ukazalo-na-oslozhnenie-vykhoda-vsu-iz-okruzheniia-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2173972/2026-09-26/glava-mid-azerbaidzhana-zaiavil-o-fakticheskom-mire-s-armeniei-izi",
+        "https://iz.ru/2173978/2026-09-26/predstavitelia-kazakhstana-turlova-izbrali-prezidentom-fide-izi",
+        "https://iz.ru/2173980/v-gosdume-nazvali-rossiian-s-pensiiami-svyshe-100-tysiach-rublei-izi",
+        "https://iz.ru/2173982/novyi-posol-rossii-v-kndr-andrei-podelyshev-pribyl-v-pkhenian-izi",
+        "https://iz.ru/2173987/ekipazh-zatonuvshego-u-kipra-katamarana-s-passazhirami-chinil-sudno-silikonom-izi"
       ]
     },
     "2026-09-27": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-03": {
-      "totalChecked": 252,
-      "totalIzi": 68,
+      "totalChecked": 377,
+      "totalIzi": 112,
       "totalIiz": 2,
-      "totalAi": 70,
+      "totalAi": 114,
       "topLinks": [
         "https://iz.ru/2176562/uchenye-sviazali-obraz-zhizni-s-biologicheskim-stareniem-izi",
         "https://iz.ru/2176590/uchenye-obiasnili-vliianie-muzyki-na-mozg-pri-zavisimostiakh-izi",
