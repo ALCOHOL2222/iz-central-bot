@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T21:28:08.466Z",
+  "generatedAt": "2026-10-04T00:50:03.743Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-09-26": {
-      "totalChecked": 435,
-      "totalIzi": 89,
+      "totalChecked": 422,
+      "totalIzi": 85,
       "totalIiz": 1,
-      "totalAi": 90,
+      "totalAi": 86,
       "topLinks": [
-        "https://iz.ru/2174011/26-letnii-bokser-iz-meksiki-umer-cherez-neskolko-dnei-posle-boia-izi",
-        "https://iz.ru/2174015/v-tcentre-tomska-zagorelos-dvukhetazhnoe-administrativnoe-zdanie-izi",
-        "https://iz.ru/2174026/kontingenty-odkb-pribyli-v-rossiiu-na-ucheniia-izi",
-        "https://iz.ru/2174027/samolet-ajet-ekstrenno-sel-v-antale-posle-smerti-passazhirki-izi",
         "https://iz.ru/2174040/dva-cheloveka-pogibli-pri-udare-drona-vsu-po-kafe-v-khersonskoi-oblasti-izi",
         "https://iz.ru/2174046/v-moskve-startovalo-diplomaticheskoe-avtoralli-zavidovo-izi",
         "https://iz.ru/2174060/rossiiskii-gimnast-zaika-stal-avtorom-novogo-imennogo-elementa-izi",
@@ -175,11 +171,15 @@
         "https://iz.ru/2174159/lider-adg-vystupil-za-mezhdunarodnoe-rassledovanie-podryva-severnykh-potokov-izi",
         "https://iz.ru/2174162/gendirektor-ermitazha-piotrovskii-podsel-na-neiroseti-izi",
         "https://iz.ru/2174165/kitai-prizval-nemedlenno-otmenit-sanktcii-protiv-kuby-izi",
-        "https://iz.ru/2174173/lavrov-zaiavil-o-gotovnosti-rossii-vernutsia-k-dogovorennostiam-ankoridzha-izi"
+        "https://iz.ru/2174173/lavrov-zaiavil-o-gotovnosti-rossii-vernutsia-k-dogovorennostiam-ankoridzha-izi",
+        "https://iz.ru/2174174/zhurova-nazvala-trezvym-reshenie-world-gymnastics-priznat-element-zaika-izi",
+        "https://iz.ru/2174175/v-polshe-zaiavili-o-dopuske-voleibolnykh-klubov-rf-k-evrokubkam-s-sezona-202728-izi",
+        "https://iz.ru/2174176/lavrov-napomnil-ob-usloviiakh-sdelki-po-s-400-s-turtciei-izi",
+        "https://iz.ru/2174200/zakharova-zaiavila-o-prodolzhenii-raboty-po-rassledovaniiu-sobytii-v-buche-izi"
       ]
     },
     "2026-09-27": {
-      "totalChecked": 496,
+      "totalChecked": 495,
       "totalIzi": 121,
       "totalIiz": 4,
       "totalAi": 125,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-09-28": {
-      "totalChecked": 875,
+      "totalChecked": 873,
       "totalIzi": 222,
       "totalIiz": 1,
       "totalAi": 223,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-10-03": {
-      "totalChecked": 557,
-      "totalIzi": 209,
+      "totalChecked": 561,
+      "totalIzi": 212,
       "totalIiz": 2,
-      "totalAi": 211,
+      "totalAi": 214,
       "topLinks": [
         "https://iz.ru/2176562/uchenye-sviazali-obraz-zhizni-s-biologicheskim-stareniem-izi",
         "https://iz.ru/2176590/uchenye-obiasnili-vliianie-muzyki-na-mozg-pri-zavisimostiakh-izi",
@@ -375,12 +375,25 @@
       ]
     },
     "2026-10-04": {
-      "totalChecked": 15,
-      "totalIzi": 1,
-      "totalIiz": 0,
-      "totalAi": 1,
+      "totalChecked": 70,
+      "totalIzi": 12,
+      "totalIiz": 2,
+      "totalAi": 14,
       "topLinks": [
-        "https://iz.ru/2178199/gvardii-efreitor-zeliaev-pomog-shturmovoi-gruppe-zaniat-novye-rubezhi-v-zone-svo-izi"
+        "https://iz.ru/2177619/narodnye-primety-na-4-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2178199/gvardii-efreitor-zeliaev-pomog-shturmovoi-gruppe-zaniat-novye-rubezhi-v-zone-svo-izi",
+        "https://iz.ru/2178222/miroshnik-zaiavil-o-nezhelanii-uvkpch-proveriat-posledstviia-udarov-vsu-izi",
+        "https://iz.ru/2178223/netaniakhu-priglasil-pilota-flydubai-na-prazdnovanie-dnia-nezavisimosti-izrailia-izi",
+        "https://iz.ru/2178226/eks-glava-mid-latvii-iurkans-zaiavil-o-zavisimosti-strany-ot-briusselia-i-vashingtona-izi",
+        "https://iz.ru/2178228/kapitan-reisa-flydubai-rasskazal-o-deistviiakh-vtorogo-pilota-pered-napadeniem-izi",
+        "https://iz.ru/2177619/narodnye-primety-na-4-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2178199/gvardii-efreitor-zeliaev-pomog-shturmovoi-gruppe-zaniat-novye-rubezhi-v-zone-svo-izi",
+        "https://iz.ru/2178220/v-semi-regionakh-rossii-sredniaia-zarplata-prevysila-150-tys-rublei-izi",
+        "https://iz.ru/2178222/miroshnik-zaiavil-o-nezhelanii-uvkpch-proveriat-posledstviia-udarov-vsu-izi",
+        "https://iz.ru/2178223/netaniakhu-priglasil-pilota-flydubai-na-prazdnovanie-dnia-nezavisimosti-izrailia-izi",
+        "https://iz.ru/2178226/eks-glava-mid-latvii-iurkans-zaiavil-o-zavisimosti-strany-ot-briusselia-i-vashingtona-izi",
+        "https://iz.ru/2178228/kapitan-reisa-flydubai-rasskazal-o-deistviiakh-vtorogo-pilota-pered-napadeniem-izi",
+        "https://iz.ru/2178230/tramp-snova-vospolzovalsia-starym-samoletom-vmesto-podarennogo-katarom-lainera-izi"
       ]
     }
   }
