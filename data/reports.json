@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T13:21:36.163Z",
+  "generatedAt": "2026-10-04T17:47:01.561Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,18 +179,11 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 448,
-      "totalIzi": 109,
+      "totalChecked": 402,
+      "totalIzi": 102,
       "totalIiz": 4,
-      "totalAi": 113,
+      "totalAi": 106,
       "topLinks": [
-        "https://iz.ru/2174247/nyt-zaiavila-o-vozvrashchenii-chetyrekh-telekanalov-ssha-k-osveshcheniiu-meropriiatii-trampa-izi",
-        "https://iz.ru/2174249/v-primore-voditel-bez-prav-sprovotciroval-dtp-s-chetyrmia-postradavshimi-izi",
-        "https://iz.ru/2174254/rezhisser-dzhon-uotts-mozhet-sniat-novyi-film-franshizy-zvezdnye-voiny-izi",
-        "https://iz.ru/2174257/marketolog-nazval-glavnye-priznaki-iskusstvennykh-rasprodazh-izi",
-        "https://iz.ru/2174262/v-mid-rf-rasskazali-o-vliianii-briusselia-na-vnutrenniuiu-politiku-stran-es-izi",
-        "https://iz.ru/2174263/gosudarstvennyi-dolg-ukrainy-vyros-do-223-mlrd-k-kontcu-sentiabria-izi",
-        "https://iz.ru/2174271/v-rossii-mogut-izmenit-pravila-vozvrata-tovarov-pri-onlain-pokupkakh-izi",
         "https://iz.ru/2174302/mnogodetnogo-ottca-zastrelili-na-glazakh-u-ego-detei-v-magazine-v-volgograde-izi",
         "https://iz.ru/2174305/v-minfine-rasskazali-o-novykh-sberezheniiakh-v-sisteme-strakhovaniia-vkladov-izi",
         "https://iz.ru/2174307/v-gorakh-nepala-10-chelovek-propali-posle-skhoda-laviny-izi",
@@ -203,7 +196,14 @@
         "https://iz.ru/2174342/2026-09-27/zhena-zastrelennogo-v-volgograde-muzhchiny-byla-riadom-v-moment-napadeniia-izi",
         "https://iz.ru/2174344/moshenniki-nachali-ispolzovat-tcifrovoi-rubl-v-skhemakh-obmana-prodavtcov-izi",
         "https://iz.ru/2174356/2026-09-27/shtraf-za-nezakonnyi-vylov-raka-v-rossii-vyros-do-1688-rublei-izi",
-        "https://iz.ru/2174358/sudokhodstvo-cherez-ormuzskii-proliv-snizilos-na-75-dovoennogo-urovnia-izi"
+        "https://iz.ru/2174358/sudokhodstvo-cherez-ormuzskii-proliv-snizilos-na-75-dovoennogo-urovnia-izi",
+        "https://iz.ru/2174361/peskov-pereadresoval-vopros-o-vozmozhnykh-nalogovykh-izmeneniiakh-v-minfin-rf-izi",
+        "https://iz.ru/2174366/byvshii-futbolist-tcska-evgenii-aldonin-rasskazal-o-lechenie-ot-raka-v-niu-jorke-izi",
+        "https://iz.ru/2174374/mironov-nazval-neskolko-prichin-nizkogo-rezultata-spravedlivoi-rossii-izi",
+        "https://iz.ru/2174377/britanskaia-politciia-nachala-rassledovanie-intcidenta-u-bazy-vvs-ferford-izi",
+        "https://iz.ru/2174379/na-severe-indii-bolee-50-chelovek-pogibli-iz-za-silnykh-livnei-izi",
+        "https://iz.ru/2174386/kobakhidze-ukazal-na-polnoe-podavlenie-oppozitcionnykh-protestov-izi",
+        "https://iz.ru/2174390/zakharova-nazvala-dialog-vadefulia-s-lavrovym-popytkoi-povysit-reiting-mertca-izi"
       ]
     },
     "2026-09-28": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-04": {
-      "totalChecked": 358,
-      "totalIzi": 134,
+      "totalChecked": 454,
+      "totalIzi": 189,
       "totalIiz": 2,
-      "totalAi": 136,
+      "totalAi": 191,
       "topLinks": [
         "https://iz.ru/2176609/uchenye-sviazali-osobennosti-vospitaniia-s-povedeniem-detei-izi",
         "https://iz.ru/2177311/uchenye-nashli-razlichiia-mezhdu-stareniem-mozga-i-bolezniu-altcgeimera-izi",
