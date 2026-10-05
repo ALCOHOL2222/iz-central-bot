@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:16:01.987Z",
+  "generatedAt": "2026-10-05T16:13:15.919Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,13 +151,11 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 274,
-      "totalIzi": 64,
+      "totalChecked": 265,
+      "totalIzi": 62,
       "totalIiz": 4,
-      "totalAi": 68,
+      "totalAi": 66,
       "topLinks": [
-        "https://iz.ru/2174496/ekspert-raskryl-pravila-nalogooblozheniia-perevodov-ot-roditelei-izi",
-        "https://iz.ru/2174511/ils-vision-soobshchila-o-vozmozhnom-provedenii-letom-kontcerta-kane-uesta-v-moskve-izi",
         "https://iz.ru/2158869/50-svetlye-otkrytki-s-vozdvizheniem-kresta-gospodnia-kartinki-gifki-i-pravoslavnye-pozdravleniia-iiz",
         "https://iz.ru/2158873/den-vospitatelia-2026-kak-poiavilsia-prazdnik-tekh-kto-kazhdyi-den-zabotitsia-o-detiakh-iiz",
         "https://iz.ru/2163393/50-dobrye-otkrytki-s-dnem-vospitatelia-krasivye-kartinki-gifki-i-pozdravleniia-dlia-pedagogov-iiz",
@@ -175,47 +173,45 @@
         "https://iz.ru/2174233/iurist-nazvala-zakonnuiu-prichinu-dlia-otkaza-banka-v-prieme-nalichnykh-izi",
         "https://iz.ru/2174234/v-kalifornii-okhotniki-za-tekhnikoi-sluchaino-ugnali-pritcepy-nvidia-s-9-t-peska-izi",
         "https://iz.ru/2174236/minzdrav-obnovil-standart-lecheniia-depressii-s-novymi-metodami-terapii-izi",
-        "https://iz.ru/2174237/evrosoiuz-napravit-eu710-mln-na-podderzhku-postradavshikh-ot-krizisov-po-vsemu-miru-izi"
+        "https://iz.ru/2174237/evrosoiuz-napravit-eu710-mln-na-podderzhku-postradavshikh-ot-krizisov-po-vsemu-miru-izi",
+        "https://iz.ru/2174240/axios-uznal-o-priostanovke-obucheniia-modelei-openai-iz-za-problem-s-bezopasnostiu-izi",
+        "https://iz.ru/2174247/nyt-zaiavila-o-vozvrashchenii-chetyrekh-telekanalov-ssha-k-osveshcheniiu-meropriiatii-trampa-izi"
       ]
     },
     "2026-09-28": {
-      "totalChecked": 863,
-      "totalIzi": 222,
+      "totalChecked": 617,
+      "totalIzi": 160,
       "totalIiz": 1,
-      "totalAi": 223,
+      "totalAi": 161,
       "topLinks": [
-        "https://iz.ru/2174510/efreitor-zakharov-vynes-ranenykh-sosluzhivtcev-iz-tanka-pod-atakoi-fpv-dronov-izi",
-        "https://iz.ru/2174513/smi-soobshchili-o-poruchenii-netaniakhu-podgotovit-delo-protiv-erdogana-v-mus-izi",
-        "https://iz.ru/2174524/v-mvd-nazvali-deistviia-pri-komprometatcii-dannykh-bankovskogo-servisa-izi",
-        "https://iz.ru/2174528/minprosveshcheniia-sformiruet-edinye-perechni-igr-i-knig-dlia-doshkolnikov-izi",
-        "https://iz.ru/2174531/novogodnie-kanikuly-v-2027-godu-prodliatsia-11-dnei-izi",
-        "https://iz.ru/2174534/politico-uznala-o-razrabotke-es-planov-vkliucheniia-ukrainy-i-eshche-trekh-stran-izi",
-        "https://iz.ru/2174535/ekspert-zaiavil-o-riske-iskliucheniia-evropy-iz-peregovorov-po-ukraine-izi",
-        "https://iz.ru/2174536/vo-frantcii-ukazali-na-sereznuiu-nekhvatku-lichnogo-sostava-u-vsu-izi",
-        "https://iz.ru/2174542/v-primore-proshli-sovmestnye-voennye-ucheniia-vs-rossii-i-shri-lanki-izi",
-        "https://iz.ru/2174551/posol-rf-rasskazal-o-zhelanii-kanadtcev-raskrytiia-arkhivov-o-natcistakh-izi",
-        "https://iz.ru/2174556/khirurgam-v-rossii-mogut-razreshit-okazyvat-pomoshch-vne-bolnitc-s-2027-goda-izi",
-        "https://iz.ru/2174557/v-op-nazvali-uvazhitelnye-prichiny-dlia-otsutstviia-na-rabote-izi",
-        "https://iz.ru/2174558/v-mid-rf-zaiavili-o-narushenii-zapadom-mezhdunarodnykh-norm-pri-podderzhke-kieva-izi",
-        "https://iz.ru/2174561/moshenniki-nachali-izuchat-sotcseti-dlia-podgotovki-personalnykh-skhem-obmana-izi",
-        "https://iz.ru/2174563/chto-proizoshlo-za-noch-28-sentiabria-glavnoe-izi",
-        "https://iz.ru/2174564/bolee-140-tys-chelovek-ostalis-bez-vody-v-primore-iz-za-avarii-na-podstantcii-izi",
-        "https://iz.ru/2174568/2026-09-28/miroshnik-zaiavil-o-vtiagivanii-kievom-iziatykh-belymi-angelami-detei-v-kriminal-izi",
-        "https://iz.ru/2174579/pianyi-muzhchina-popal-pod-gruzovoi-poezd-v-raione-stantcii-kansk-eniseiskii-izi",
-        "https://iz.ru/2174580/eksperty-proekta-perezvoni-sam-predupredili-o-zvonkakh-lzhesotrudnikov-sotcfonda-izi",
-        "https://iz.ru/2174581/novye-stoly-dlia-shakhmat-i-nastolnogo-tennisa-poiavilis-v-stolichnykh-dvorakh-izi"
+        "https://iz.ru/2174826/britanskaia-shkolnitca-stala-samoi-molodoi-shakhmatistkoi-so-zvaniem-grossmeistera-izi",
+        "https://iz.ru/2174827/v-mid-zaiavili-ob-ignorirovanii-germaniei-istoricheskoi-otvetstvennosti-pered-sssr-izi",
+        "https://iz.ru/2174829/putin-osvobodil-vitaliia-saveleva-ot-dolzhnosti-vitce-premera-izi",
+        "https://iz.ru/2174837/posol-v-frg-zaiavil-o-nezhelanii-rf-vstupat-v-voennye-stolknoveniia-s-evropoi-izi",
+        "https://iz.ru/2174846/politolog-rasskazal-o-vliianii-udarov-po-data-tcentram-na-rabotu-tcipso-izi",
+        "https://iz.ru/2174851/bild-uznala-ob-usilenii-v-germanii-slezhki-za-posolstvom-i-biznesmenami-rf-izi",
+        "https://iz.ru/2174854/na-mogile-letova-v-omske-ne-okazalos-svinoi-golovy-izi",
+        "https://iz.ru/2174857/reteiler-metro-ukazom-prezidenta-rf-peredan-vo-vremennoe-upravlenie-izi",
+        "https://iz.ru/2174862/byvshii-vitce-premer-rf-vitalii-savelev-biografiia-izi",
+        "https://iz.ru/2174865/devochka-poluchila-perelomy-paltcev-v-detskom-sadu-tiumeni-izi",
+        "https://iz.ru/2174869/ekspert-melnichuk-zaiavil-o-razvitii-pod-vidom-ii-tekhnofashizma-izi",
+        "https://iz.ru/2174870/khabirov-poruchil-rasformirovat-investotdel-predstavitelstva-bashkirii-izi",
+        "https://iz.ru/2174872/v-ufe-vozbudili-ugolovnoe-delo-posle-otravleniia-iunykh-biatlonistov-izi",
+        "https://iz.ru/2174892/glava-asml-predupredil-o-riskakh-es-ot-chrezmernykh-eksportnykh-ogranichenii-izi",
+        "https://iz.ru/2174897/v-mintrans-rf-nazvali-novogo-vozmozhnogo-glavu-vedomstva-izi",
+        "https://iz.ru/2174914/v-evrope-nazvali-samye-piushchie-strany-regiona-izi",
+        "https://iz.ru/2174921/putin-razreshil-priobretenie-100-dolei-rossiiskoi-dochki-western-union-izi",
+        "https://iz.ru/2174929/manchester-siti-priznali-vinovnymi-v-114-narusheniiakh-istoriia-skandala-i-kakoe-nakazanie-zhdet-izi",
+        "https://iz.ru/2174930/peskov-putin-sdelal-ischerpyvaiushchee-zaiavlenie-po-ukrainskomu-konfliktu-izi",
+        "https://iz.ru/2174956/uchenye-otcenili-deistvie-kofeina-vo-vremia-dlitelnoi-trenirovki-izi"
       ]
     },
     "2026-09-29": {
-      "totalChecked": 922,
-      "totalIzi": 262,
-      "totalIiz": 2,
-      "totalAi": 264,
+      "totalChecked": 906,
+      "totalIzi": 259,
+      "totalIiz": 1,
+      "totalAi": 260,
       "topLinks": [
-        "https://iz.ru/2174633/uchenye-ukazali-na-narushenie-raboty-serdtca-iz-za-zagriaznennogo-vozdukha-izi",
-        "https://iz.ru/2174644/narodnye-primety-na-29-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2174655/polezno-delat-menshe-pochemu-dlia-zdorovia-inogda-polezno-ne-perenapriagatsia-izi",
-        "https://iz.ru/2174742/uchenye-sviazali-bessonnitcu-s-povyshennym-riskom-insulta-izi",
         "https://iz.ru/2175119/efreitor-derevianchenko-dostavil-boepripasy-pod-artilleriiskim-ognem-vsu-izi",
         "https://iz.ru/2175137/v-rossii-na-tri-goda-vveli-eksperimentalnyi-rezhim-dlia-roverov-izi",
         "https://iz.ru/2175149/posolstvo-rf-predupredilo-nato-o-riske-stolknoveniia-iz-za-kaliningradskoi-oblasti-izi",
@@ -231,11 +227,15 @@
         "https://iz.ru/2175191/rubio-zaiavil-ob-inostrannom-slede-v-intcidente-na-aviabaze-ferford-izi",
         "https://iz.ru/2175192/politolog-ukazal-na-obespokoennost-ssha-razvitiem-severnogo-morskogo-puti-izi",
         "https://iz.ru/2175195/gastroenterolog-rasskazal-o-polze-i-vozmozhnom-vrede-imbirnogo-chaia-izi",
-        "https://iz.ru/2175201/problemy-s-energetikoi-na-ukraine-vyzvali-ottok-naseleniia-iz-gorodov-izi"
+        "https://iz.ru/2175201/problemy-s-energetikoi-na-ukraine-vyzvali-ottok-naseleniia-iz-gorodov-izi",
+        "https://iz.ru/2175205/biometriiu-prestupnikov-predlozhili-obrabatyvat-bez-ikh-soglasiia-izi",
+        "https://iz.ru/2175207/v-mid-rf-nazvali-voennym-prestupleniem-udary-vsu-po-detiam-izi",
+        "https://iz.ru/2175209/v-orenburge-proizoshel-khlopok-gazovozdushnoi-smesi-v-kotelnoi-izi",
+        "https://iz.ru/2175210/gimnasta-iliu-zaiku-vnesli-v-bazu-mirotvortca-izi"
       ]
     },
     "2026-09-30": {
-      "totalChecked": 907,
+      "totalChecked": 905,
       "totalIzi": 214,
       "totalIiz": 3,
       "totalAi": 217,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-05": {
-      "totalChecked": 189,
-      "totalIzi": 32,
+      "totalChecked": 648,
+      "totalIzi": 122,
       "totalIiz": 4,
-      "totalAi": 36,
+      "totalAi": 126,
       "topLinks": [
         "https://iz.ru/2175628/50-luchshie-otkrytki-s-dnem-uchitelia-krasivye-kartinki-i-dushevnye-pozdravleniia-pedagogam-iiz",
         "https://iz.ru/2177472/uchenye-opisali-sposobnost-mozga-uchitsia-raspoznavat-opasnost-izi",
@@ -397,9 +397,9 @@
         "https://iz.ru/2178599/uroven-gramotnosti-rossiiskoi-molodezhi-otcenili-v-institute-vinogradova-izi",
         "https://iz.ru/2178601/2026-10-05/ukraina-dolzhna-vyplatit-mvf-pochti-1-mlrd-do-kontca-goda-izi",
         "https://iz.ru/2178605/rospotrebnadzor-potreboval-poiasneniia-u-burger-kinga-vo-vladivostoke-izi",
-        "https://iz.ru/2178609/v-moskve-proidet-iarmarka-trudoustroistva-dlia-uchastnikov-svo-i-chlenov-ikh-semei-izi",
-        "https://iz.ru/2175628/50-luchshie-otkrytki-s-dnem-uchitelia-krasivye-kartinki-i-dushevnye-pozdravleniia-pedagogam-iiz",
-        "https://iz.ru/2177472/uchenye-opisali-sposobnost-mozga-uchitsia-raspoznavat-opasnost-izi"
+        "https://iz.ru/2178606/v-mid-belorussii-zaiavili-o-gotovnosti-k-vstreche-lukashenko-s-trampom-izi",
+        "https://iz.ru/2178608/operatory-bpla-gruppirovki-voisk-sever-unichtozhili-25-mashin-vsu-za-mesiatc-izi",
+        "https://iz.ru/2178609/v-moskve-proidet-iarmarka-trudoustroistva-dlia-uchastnikov-svo-i-chlenov-ikh-semei-izi"
       ]
     }
   }
