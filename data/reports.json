@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:40:56.857Z",
+  "generatedAt": "2026-10-05T01:07:53.918Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 340,
-      "totalIzi": 83,
+      "totalChecked": 316,
+      "totalIzi": 76,
       "totalIiz": 4,
-      "totalAi": 87,
+      "totalAi": 80,
       "topLinks": [
-        "https://iz.ru/2174390/zakharova-nazvala-dialog-vadefulia-s-lavrovym-popytkoi-povysit-reiting-mertca-izi",
-        "https://iz.ru/2174393/glava-minpromtorga-zaiavil-o-vosstanovlenii-proizvodstva-avtomobilei-v-rossii-izi",
-        "https://iz.ru/2174397/filipchuk-rasskazal-o-vzryvnykh-ustroistvakh-vsu-s-monetami-v-khersonskoi-oblasti-izi",
-        "https://iz.ru/2174398/vetlugin-zamenit-mozaleva-na-turnire-serii-chellendzher-v-gruzii-izi",
-        "https://iz.ru/2174403/deputat-vasserman-prizval-roditelei-samikh-uchit-detei-chitat-do-shkoly-izi",
-        "https://iz.ru/2174406/politciia-britanii-zaderzhala-piat-chelovek-posle-intcidenta-u-aviabazy-ferford-izi",
-        "https://iz.ru/2174413/v-sakhalinskoi-oblasti-zagorelsia-mebelnyi-magazin-izi",
         "https://iz.ru/2174431/podozrevaemyi-v-ubiistve-mnogodetnogo-ottca-v-volgograde-priznal-vinu-izi",
         "https://iz.ru/2174434/rodivshaia-troiniu-minchanka-poluchila-v-podarok-kvartiru-posle-obrashcheniia-k-lukashenko-izi",
         "https://iz.ru/2174441/pozhar-na-sakhaline-lokalizovan-na-ploshchadi-1500-kv-m-izi",
@@ -175,11 +168,18 @@
         "https://iz.ru/2174473/mask-predrek-ischeznovenie-defitcita-blagodaria-razvitiiu-ii-i-robototekhniki-izi",
         "https://iz.ru/2174483/podruga-pogibshei-v-abkhazii-rossiianki-prosila-ee-ne-iskat-prikliuchenii-izi",
         "https://iz.ru/2174485/rossiiskogo-muzykanta-mr-credo-vnesli-v-bazu-dannykh-saita-mirotvoretc-izi",
-        "https://iz.ru/2174496/ekspert-raskryl-pravila-nalogooblozheniia-perevodov-ot-roditelei-izi"
+        "https://iz.ru/2174496/ekspert-raskryl-pravila-nalogooblozheniia-perevodov-ot-roditelei-izi",
+        "https://iz.ru/2174511/ils-vision-soobshchila-o-vozmozhnom-provedenii-letom-kontcerta-kane-uesta-v-moskve-izi",
+        "https://iz.ru/2158869/50-svetlye-otkrytki-s-vozdvizheniem-kresta-gospodnia-kartinki-gifki-i-pravoslavnye-pozdravleniia-iiz",
+        "https://iz.ru/2158873/den-vospitatelia-2026-kak-poiavilsia-prazdnik-tekh-kto-kazhdyi-den-zabotitsia-o-detiakh-iiz",
+        "https://iz.ru/2163393/50-dobrye-otkrytki-s-dnem-vospitatelia-krasivye-kartinki-gifki-i-pozdravleniia-dlia-pedagogov-iiz",
+        "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2173355/uchenye-vyiavili-izmeneniia-v-kharakteristikakh-detei-s-sdvg-i-autizmom-izi",
+        "https://iz.ru/2173372/uchenye-izuchili-prichinu-prodolzhitelnogo-sokhraneniia-poslerodovoi-depressii-izi"
       ]
     },
     "2026-09-28": {
-      "totalChecked": 871,
+      "totalChecked": 870,
       "totalIzi": 222,
       "totalIiz": 1,
       "totalAi": 223,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-10-04": {
-      "totalChecked": 537,
-      "totalIzi": 235,
+      "totalChecked": 540,
+      "totalIzi": 236,
       "totalIiz": 2,
-      "totalAi": 237,
+      "totalAi": 238,
       "topLinks": [
         "https://iz.ru/2176609/uchenye-sviazali-osobennosti-vospitaniia-s-povedeniem-detei-izi",
         "https://iz.ru/2177311/uchenye-nashli-razlichiia-mezhdu-stareniem-mozga-i-bolezniu-altcgeimera-izi",
@@ -375,13 +375,22 @@
       ]
     },
     "2026-10-05": {
-      "totalChecked": 24,
-      "totalIzi": 0,
-      "totalIiz": 2,
-      "totalAi": 2,
+      "totalChecked": 104,
+      "totalIzi": 7,
+      "totalIiz": 4,
+      "totalAi": 11,
       "topLinks": [
         "https://iz.ru/2175628/50-luchshie-otkrytki-s-dnem-uchitelia-krasivye-kartinki-i-dushevnye-pozdravleniia-pedagogam-iiz",
-        "https://iz.ru/2177486/narodnye-primety-na-5-oktiabria-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2177486/narodnye-primety-na-5-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2178564/ft-soobshchila-o-zakrytii-bolee-670-bankov-v-knr-za-god-izi",
+        "https://iz.ru/2178569/v-shveitcarii-soobshchili-o-roste-chisla-sviazannykh-s-koll-tcentrami-moshennichestv-izi",
+        "https://iz.ru/2178570/istorik-gavrishko-raskritikovala-vizit-kantclera-germanii-v-kiev-izi",
+        "https://iz.ru/2175628/50-luchshie-otkrytki-s-dnem-uchitelia-krasivye-kartinki-i-dushevnye-pozdravleniia-pedagogam-iiz",
+        "https://iz.ru/2177486/narodnye-primety-na-5-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2178564/ft-soobshchila-o-zakrytii-bolee-670-bankov-v-knr-za-god-izi",
+        "https://iz.ru/2178569/v-shveitcarii-soobshchili-o-roste-chisla-sviazannykh-s-koll-tcentrami-moshennichestv-izi",
+        "https://iz.ru/2178570/istorik-gavrishko-raskritikovala-vizit-kantclera-germanii-v-kiev-izi",
+        "https://iz.ru/2178580/rospotrebnadzor-soobshchil-o-blokirovke-48-tys-resursov-s-bad-izi"
       ]
     }
   }
