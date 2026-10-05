@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T01:07:53.918Z",
+  "generatedAt": "2026-10-05T07:16:01.987Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,23 +151,11 @@
       ]
     },
     "2026-09-27": {
-      "totalChecked": 316,
-      "totalIzi": 76,
+      "totalChecked": 274,
+      "totalIzi": 64,
       "totalIiz": 4,
-      "totalAi": 80,
+      "totalAi": 68,
       "topLinks": [
-        "https://iz.ru/2174431/podozrevaemyi-v-ubiistve-mnogodetnogo-ottca-v-volgograde-priznal-vinu-izi",
-        "https://iz.ru/2174434/rodivshaia-troiniu-minchanka-poluchila-v-podarok-kvartiru-posle-obrashcheniia-k-lukashenko-izi",
-        "https://iz.ru/2174441/pozhar-na-sakhaline-lokalizovan-na-ploshchadi-1500-kv-m-izi",
-        "https://iz.ru/2174444/tramp-zaiavil-o-planakh-zaderzhannykh-v-velikobritanii-povredit-port-ssha-izi",
-        "https://iz.ru/2174455/chto-proizoshlo-za-nedeliu-s-21-po-27-sentiabria-glavnoe-izi",
-        "https://iz.ru/2174467/upravliaemyi-ii-samolet-vpervye-proletel-ot-kalifornii-do-severnoi-karoliny-izi",
-        "https://iz.ru/2174470/samolet-razvedchik-ssha-pochti-tri-chasa-kruzhil-u-kaliningradskoi-oblasti-izi",
-        "https://iz.ru/2174471/strany-es-dogovorilis-planiruiut-razrabotat-mekhanizm-dlia-borby-s-naplyvom-migrantov-izi",
-        "https://iz.ru/2174472/mendel-zaiavila-o-razvorovyvanii-sredstv-dlia-kontraktnikov-vsu-izi",
-        "https://iz.ru/2174473/mask-predrek-ischeznovenie-defitcita-blagodaria-razvitiiu-ii-i-robototekhniki-izi",
-        "https://iz.ru/2174483/podruga-pogibshei-v-abkhazii-rossiianki-prosila-ee-ne-iskat-prikliuchenii-izi",
-        "https://iz.ru/2174485/rossiiskogo-muzykanta-mr-credo-vnesli-v-bazu-dannykh-saita-mirotvoretc-izi",
         "https://iz.ru/2174496/ekspert-raskryl-pravila-nalogooblozheniia-perevodov-ot-roditelei-izi",
         "https://iz.ru/2174511/ils-vision-soobshchila-o-vozmozhnom-provedenii-letom-kontcerta-kane-uesta-v-moskve-izi",
         "https://iz.ru/2158869/50-svetlye-otkrytki-s-vozdvizheniem-kresta-gospodnia-kartinki-gifki-i-pravoslavnye-pozdravleniia-iiz",
@@ -175,11 +163,23 @@
         "https://iz.ru/2163393/50-dobrye-otkrytki-s-dnem-vospitatelia-krasivye-kartinki-gifki-i-pozdravleniia-dlia-pedagogov-iiz",
         "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2173355/uchenye-vyiavili-izmeneniia-v-kharakteristikakh-detei-s-sdvg-i-autizmom-izi",
-        "https://iz.ru/2173372/uchenye-izuchili-prichinu-prodolzhitelnogo-sokhraneniia-poslerodovoi-depressii-izi"
+        "https://iz.ru/2173372/uchenye-izuchili-prichinu-prodolzhitelnogo-sokhraneniia-poslerodovoi-depressii-izi",
+        "https://iz.ru/2173405/uchenye-raskryli-rol-iumora-pri-depressii-izi",
+        "https://iz.ru/2174211/vagner-lav-provel-svoi-proshchalnyi-match-v-moskve-s-tcska-izi",
+        "https://iz.ru/2174213/smi-soobshchili-o-vyzove-glav-openai-i-anthropic-v-senat-avstralii-iz-za-ii-agentov-izi",
+        "https://iz.ru/2174216/voda-v-evropeiskikh-moriakh-poteplela-do-rekordnykh-temperatur-izi",
+        "https://iz.ru/2174219/sbornaia-ispanii-po-futbolu-obygrala-komandu-anglii-v-matche-ligi-natcii-izi",
+        "https://iz.ru/2174227/si-tczinpin-i-tramp-dogovorilis-o-snizhenii-poshlin-na-tovary-na-30-mlrd-izi",
+        "https://iz.ru/2174228/glava-mid-belorussii-zaiavil-o-krakhe-odnopoliarnogo-mira-izi",
+        "https://iz.ru/2174229/rossiianam-rasskazali-o-nedopustimykh-variantakh-imen-dlia-novorozhdennykh-izi",
+        "https://iz.ru/2174233/iurist-nazvala-zakonnuiu-prichinu-dlia-otkaza-banka-v-prieme-nalichnykh-izi",
+        "https://iz.ru/2174234/v-kalifornii-okhotniki-za-tekhnikoi-sluchaino-ugnali-pritcepy-nvidia-s-9-t-peska-izi",
+        "https://iz.ru/2174236/minzdrav-obnovil-standart-lecheniia-depressii-s-novymi-metodami-terapii-izi",
+        "https://iz.ru/2174237/evrosoiuz-napravit-eu710-mln-na-podderzhku-postradavshikh-ot-krizisov-po-vsemu-miru-izi"
       ]
     },
     "2026-09-28": {
-      "totalChecked": 870,
+      "totalChecked": 863,
       "totalIzi": 222,
       "totalIiz": 1,
       "totalAi": 223,
@@ -375,22 +375,31 @@
       ]
     },
     "2026-10-05": {
-      "totalChecked": 104,
-      "totalIzi": 7,
+      "totalChecked": 189,
+      "totalIzi": 32,
       "totalIiz": 4,
-      "totalAi": 11,
+      "totalAi": 36,
       "topLinks": [
         "https://iz.ru/2175628/50-luchshie-otkrytki-s-dnem-uchitelia-krasivye-kartinki-i-dushevnye-pozdravleniia-pedagogam-iiz",
+        "https://iz.ru/2177472/uchenye-opisali-sposobnost-mozga-uchitsia-raspoznavat-opasnost-izi",
         "https://iz.ru/2177486/narodnye-primety-na-5-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2177514/uchenye-sviazali-kolichestvo-shagov-i-psikhicheskoe-blagopoluchie-izi",
+        "https://iz.ru/2177572/uchenye-ukazali-na-polzu-silovykh-trenirovok-dlia-zdorovia-myshtc-izi",
         "https://iz.ru/2178564/ft-soobshchila-o-zakrytii-bolee-670-bankov-v-knr-za-god-izi",
         "https://iz.ru/2178569/v-shveitcarii-soobshchili-o-roste-chisla-sviazannykh-s-koll-tcentrami-moshennichestv-izi",
         "https://iz.ru/2178570/istorik-gavrishko-raskritikovala-vizit-kantclera-germanii-v-kiev-izi",
+        "https://iz.ru/2178580/rospotrebnadzor-soobshchil-o-blokirovke-48-tys-resursov-s-bad-izi",
+        "https://iz.ru/2178581/khegset-dopustil-perebrosku-voennykh-ssha-iz-evropy-v-latinskuiu-ameriku-izi",
+        "https://iz.ru/2178585/2026-10-05/syn-bolsonaru-operedil-lulu-da-silvu-v-pervom-ture-vyborov-prezidenta-brazilii-izi",
+        "https://iz.ru/2178588/posol-shri-lanki-dopustila-vozobnovlenie-aviasoobshcheniia-s-rossiei-izi",
+        "https://iz.ru/2178589/beregovaia-okhrana-ssha-prekratila-poiski-passazhirov-propavshego-borta-u-nantaketa-izi",
+        "https://iz.ru/2178595/roditeliam-nachali-nachisliat-pensionnye-bally-za-vsekh-detei-do-polutora-let-izi",
+        "https://iz.ru/2178599/uroven-gramotnosti-rossiiskoi-molodezhi-otcenili-v-institute-vinogradova-izi",
+        "https://iz.ru/2178601/2026-10-05/ukraina-dolzhna-vyplatit-mvf-pochti-1-mlrd-do-kontca-goda-izi",
+        "https://iz.ru/2178605/rospotrebnadzor-potreboval-poiasneniia-u-burger-kinga-vo-vladivostoke-izi",
+        "https://iz.ru/2178609/v-moskve-proidet-iarmarka-trudoustroistva-dlia-uchastnikov-svo-i-chlenov-ikh-semei-izi",
         "https://iz.ru/2175628/50-luchshie-otkrytki-s-dnem-uchitelia-krasivye-kartinki-i-dushevnye-pozdravleniia-pedagogam-iiz",
-        "https://iz.ru/2177486/narodnye-primety-na-5-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2178564/ft-soobshchila-o-zakrytii-bolee-670-bankov-v-knr-za-god-izi",
-        "https://iz.ru/2178569/v-shveitcarii-soobshchili-o-roste-chisla-sviazannykh-s-koll-tcentrami-moshennichestv-izi",
-        "https://iz.ru/2178570/istorik-gavrishko-raskritikovala-vizit-kantclera-germanii-v-kiev-izi",
-        "https://iz.ru/2178580/rospotrebnadzor-soobshchil-o-blokirovke-48-tys-resursov-s-bad-izi"
+        "https://iz.ru/2177472/uchenye-opisali-sposobnost-mozga-uchitsia-raspoznavat-opasnost-izi"
       ]
     }
   }
