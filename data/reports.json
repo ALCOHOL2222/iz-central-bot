@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:33:14.804Z",
+  "generatedAt": "2026-10-06T17:22:52.895Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,42 +179,39 @@
       ]
     },
     "2026-09-29": {
-      "totalChecked": 783,
-      "totalIzi": 232,
+      "totalChecked": 612,
+      "totalIzi": 191,
       "totalIiz": 1,
-      "totalAi": 233,
+      "totalAi": 192,
       "topLinks": [
-        "https://iz.ru/2175258/senator-voloshin-rasskazal-o-summe-reparatcii-dlia-vosstanovleniia-dnr-izi",
-        "https://iz.ru/2175262/bloomberg-soobshchilo-o-rekordno-nizkikh-zapasakh-gaza-v-es-pered-zimoi-izi",
-        "https://iz.ru/2175276/ekspert-sandzhak-zaiavil-ob-izmenenii-pozitcii-ssha-po-konfliktu-na-ukraine-izi",
-        "https://iz.ru/2175278/uchenye-rasskazali-o-vliianii-soli-na-pechen-pri-normalnom-vese-izi",
-        "https://iz.ru/2175279/manul-timofei-iz-moskovskogo-zooparka-nachal-osenniuiu-zazhirovku-izi",
-        "https://iz.ru/2175287/deputat-rady-razumkov-zaiavil-ob-ugroze-unichtozheniia-energetiki-ukrainy-zimoi-izi",
-        "https://iz.ru/2175289/khovalyg-nadelil-narusovu-polnomochiiami-senatora-ot-tuvy-izi",
-        "https://iz.ru/2175292/zhiteli-kubrinska-rasskazali-ob-opasenii-chp-eshche-do-vzryva-na-predpriiatii-izi",
-        "https://iz.ru/2175304/uchenye-sviazali-odnoobraznoe-pitanie-mladentcev-s-riskom-dermatita-izi",
-        "https://iz.ru/2175305/ukrainskie-smi-soobshchili-o-kadrovykh-chistkakh-drapatogo-v-genshtabe-vsu-izi",
-        "https://iz.ru/2175308/afrikanskie-slony-nauchilis-vybirat-rasteniia-pri-nedomoganii-izi",
-        "https://iz.ru/2175311/roskomnadzor-potreboval-oshtrafovat-fedora-smolova-na-300-tys-rublei-izi",
-        "https://iz.ru/2175317/s-1-oktiabria-startuet-osennii-prizyv-chto-izmenilos-v-2026-godu-i-kogo-kosnetsia-izi",
-        "https://iz.ru/2175340/pod-zavalami-sgorevshego-zavoda-petard-pod-pereslavlem-mogut-byt-pogibshie-izi",
-        "https://iz.ru/2175343/uchenye-nashli-vozmozhnoe-obiasnenie-silnoi-boli-pri-endometrioze-izi",
-        "https://iz.ru/2175371/rosatom-predlozhil-armenii-perspektivy-razvitiia-atomnoi-generatcii-izi",
-        "https://iz.ru/2175376/rosatom-nameren-postroit-v-mali-rudnik-po-dobyche-litiia-izi",
-        "https://iz.ru/2175380/stvolovye-kletki-sviazali-s-razvitiem-stenoza-pozvonochnika-izi",
-        "https://iz.ru/2175383/chetyre-turista-zastriali-v-peshchere-v-krymu-chto-izvestno-izi",
-        "https://iz.ru/2175387/zastriavshie-v-krasnoi-peshchere-v-krymu-turisty-ne-vykhodiat-na-sviaz-bolee-12-chasov-izi"
+        "https://iz.ru/2175488/sem-otvetchikov-i-ni-odnogo-obvineniia-chto-proizoshlo-v-kornelle-izi",
+        "https://iz.ru/2175490/medvedev-otcenil-veroiatnost-nachala-novogo-mirovogo-konflikta-izi",
+        "https://iz.ru/2175494/netaniakhu-zaiavil-o-priznakakh-gotoviashchegosia-napadeniia-na-izrail-izi",
+        "https://iz.ru/2175496/stas-mikhailov-vpervye-prokommentiroval-slukhi-o-razvode-s-zhenoi-izi",
+        "https://iz.ru/2175512/koalitciiu-khdskhss-podderzhali-tolko-19-nemtcev-izi",
+        "https://iz.ru/2175514/pashinian-zaiavil-o-kriteriiakh-vybora-budushchego-proekta-aes-izi",
+        "https://iz.ru/2175515/lavrov-zaiavil-o-voine-evropy-protiv-rossii-izi",
+        "https://iz.ru/2175517/lavrov-zaiavil-ob-ispolzovanii-gruboi-sily-dlia-podavleniia-priamoi-ugrozy-izi",
+        "https://iz.ru/2175518/samolet-tu-95-poterpel-katastrofu-v-amurskoi-oblasti-vo-vremia-uchebnogo-poleta-izi",
+        "https://iz.ru/2175527/bloger-lerchek-poprosila-prekratit-delo-protiv-eks-stilista-iankovskoi-glavnoe-izi",
+        "https://iz.ru/2175529/putin-nagradil-televedushchego-dmitriia-saimsa-ordenom-druzhby-izi",
+        "https://iz.ru/2175532/blogera-pozdniakova-poprosili-priznat-ekstremistom-izi",
+        "https://iz.ru/2175535/akter-iz-seriala-kak-ia-vstretil-vashu-mamu-dennis-khaskins-umer-na-76-godu-zhizni-izi",
+        "https://iz.ru/2175539/posolstvo-rf-ne-poluchalo-soobshcheniia-o-postradavshikh-v-opolzniakh-rossiianakh-v-nepale-izi",
+        "https://iz.ru/2175543/glava-podmoskovnoi-dubny-tikhomirov-pokinul-svoi-post-izi",
+        "https://iz.ru/2175544/barbara-palvin-i-dilan-sprous-vpervye-stali-roditeliami-izi",
+        "https://iz.ru/2175547/kanadskii-khokkeist-madzhio-prizval-vernut-rossiiu-na-chempionat-mira-izi",
+        "https://iz.ru/2175549/umer-odin-iz-sozdatelei-osnov-rasshifrovki-genoma-evgenii-sverdlov-izi",
+        "https://iz.ru/2175550/podozrevaemyi-v-podryve-severnykh-potokov-ukrainetc-poprosil-ubezhishcha-v-khorvatii-izi",
+        "https://iz.ru/2175551/kurs-iranskoi-valiuty-obnovil-istoricheskii-minimum-izi"
       ]
     },
     "2026-09-30": {
-      "totalChecked": 903,
-      "totalIzi": 212,
-      "totalIiz": 3,
-      "totalAi": 215,
+      "totalChecked": 887,
+      "totalIzi": 210,
+      "totalIiz": 2,
+      "totalAi": 212,
       "topLinks": [
-        "https://iz.ru/2175277/uchenye-nashli-sposob-uskorit-vosstanovlenie-mozga-posle-insulta-izi",
-        "https://iz.ru/2175347/narodnye-primety-na-30-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2175351/uchenye-sviazali-rak-v-detstve-s-trevogoi-i-depressiei-vo-vzroslom-vozraste-izi",
         "https://iz.ru/2175778/2026-09-30/putin-zapretil-vyvoz-iz-rf-v-strany-eaes-svyshe-1-mln-rublei-nalichnymi-izi",
         "https://iz.ru/2175783/2026-09-30/v-rossii-s-1-oktiabria-proindeksiruiut-pensii-dvum-kategoriiam-grazhdan-izi",
         "https://iz.ru/2175787/tramp-oproverg-opaseniia-geitsa-ob-ii-ugrozakh-izi",
@@ -231,18 +228,18 @@
         "https://iz.ru/2175837/khachanov-obygral-piatuiu-raketku-mira-na-starte-turnira-v-pekine-izi",
         "https://iz.ru/2175841/kombrig-vsu-lishilsia-dolzhnosti-posle-kritiki-vlastei-ukrainy-ego-podchinennym-izi",
         "https://iz.ru/2175846/putin-zaiavil-ob-aktivnom-sodeistvii-abkhazii-v-sotcialno-ekonomicheskom-razvitii-izi",
-        "https://iz.ru/2175848/pentagon-zaklyuchil-s-boeing-kontrakt-na-20-mlrd-na-razrabotku-istrebitelya-fa-xx-izi"
+        "https://iz.ru/2175848/pentagon-zaklyuchil-s-boeing-kontrakt-na-20-mlrd-na-razrabotku-istrebitelya-fa-xx-izi",
+        "https://iz.ru/2175852/nbc-news-soobshchil-o-roskoshnom-obraze-zhizni-pi-diddi-v-tiurme-izi",
+        "https://iz.ru/2175858/britanskii-analitik-ukazal-na-zhelanie-zelenskogo-prodolzhat-konflikt-izi",
+        "https://iz.ru/2175869/axios-soobshchil-o-izi"
       ]
     },
     "2026-10-01": {
-      "totalChecked": 1123,
-      "totalIzi": 227,
+      "totalChecked": 1114,
+      "totalIzi": 224,
       "totalIiz": 2,
-      "totalAi": 229,
+      "totalAi": 226,
       "topLinks": [
-        "https://iz.ru/2175378/uchenye-sviazali-pokazateli-arterialnogo-davleniia-s-riskom-insulta-i-smerti-izi",
-        "https://iz.ru/2175422/uchenye-sviazali-zaniatiia-muzykoi-s-izmeneniiami-mozga-u-detei-izi",
-        "https://iz.ru/2175481/uchenye-rasskazali-o-vliianii-kofe-na-kishechnik-i-mozg-izi",
         "https://iz.ru/2175592/uchenye-sviazali-sobliudenie-sredizemnomorskoi-diety-s-menshim-riskom-akne-izi",
         "https://iz.ru/2175627/2026-10-01/uchenye-rasskazali-o-sviazi-kolebanii-sakhara-s-kachestvom-zhizni-pri-diabete-izi",
         "https://iz.ru/2175896/uchenye-rasskazali-o-sviazi-depressii-s-vnimaniem-detei-k-grustnym-litcam-izi",
@@ -259,7 +256,10 @@
         "https://iz.ru/2176415/2026-10-01/burdinskii-rasskazal-ob-osennei-otpravke-prizyvnikov-na-voennuiu-sluzhbu-izi",
         "https://iz.ru/2176427/tcb-zaiavil-ob-uzhestochenii-regulirovaniia-vydachi-potrebkreditov-izi",
         "https://iz.ru/2176428/dmitriev-nazval-mudrymi-slova-premera-litvy-ob-otsutstvii-rossiiskoi-ugrozy-izi",
-        "https://iz.ru/2176430/2026-10-01/na-ukraine-priznali-nevozmozhnost-obespecheniia-zashchity-energosistemy-strany-izi"
+        "https://iz.ru/2176430/2026-10-01/na-ukraine-priznali-nevozmozhnost-obespecheniia-zashchity-energosistemy-strany-izi",
+        "https://iz.ru/2176434/ekspert-soobshchila-o-prichinakh-usileniia-tiagi-k-ede-oseniu-izi",
+        "https://iz.ru/2176435/kardiolog-sokolov-perechislil-opasnye-dlia-serdtca-bady-izi",
+        "https://iz.ru/2176436/vlasti-moskvy-raskryli-chislo-gorozhan-starshe-100-let-izi"
       ]
     },
     "2026-10-02": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-06": {
-      "totalChecked": 428,
-      "totalIzi": 91,
+      "totalChecked": 854,
+      "totalIzi": 195,
       "totalIiz": 0,
-      "totalAi": 91,
+      "totalAi": 195,
       "topLinks": [
         "https://iz.ru/2178662/uchenye-sviazali-metabolit-kishechnykh-bakterii-s-bolezniu-altcgeimera-izi",
         "https://iz.ru/2178690/uchenye-ukazali-na-vliianie-rastitelnykh-produktov-na-davlenie-i-ves-izi",
@@ -388,6 +388,7 @@
         "https://iz.ru/2178811/dvoinaia-zhizn-kletochnogo-kleia-uchenye-raskryli-novuiu-funktciiu-belka-izi",
         "https://iz.ru/2178846/uchenye-uznali-o-raznom-effekte-odnikh-kalorii-v-zavisimosti-ot-obrabotki-pishchi-izi",
         "https://iz.ru/2178850/uchenye-rasskazali-o-sviazi-kishechnykh-bakterii-s-vozrastom-mozga-izi",
+        "https://iz.ru/2179064/boitcy-svo-rasskazali-ob-ustanovke-antidronovykh-setei-v-prifrontovykh-regionakh-izi",
         "https://iz.ru/2179174/vypuskniki-iufl-sygraiut-za-sbornuiu-rossii-so-spetcialnymi-shevronami-izi",
         "https://iz.ru/2179185/tretiak-nazval-pravilnym-reshenie-ovechkina-zavershit-kareru-v-nkhl-izi",
         "https://iz.ru/2179186/britanskii-pisatel-dzheffri-archer-umer-v-vozraste-86-let-izi",
@@ -398,8 +399,7 @@
         "https://iz.ru/2179215/tramp-predrek-skoroe-zakrytie-gazety-new-york-times-izi",
         "https://iz.ru/2179224/v-op-predlozhili-sokrashchat-uroki-pri-nizkoi-temperature-v-shkole-izi",
         "https://iz.ru/2179233/v-minprirody-predupredili-ob-osoboi-aktivnosti-medvedei-v-blizhaishie-nedeli-izi",
-        "https://iz.ru/2179234/v-op-predlozhili-vkliuchit-obshchenie-v-roditelskikh-chatakh-v-rabochee-vremia-uchitelia-izi",
-        "https://iz.ru/2179237/boitcy-gruppirovki-voisk-vostok-podelilis-podrobnostiami-osvobozhdeniia-samoilovki-izi"
+        "https://iz.ru/2179234/v-op-predlozhili-vkliuchit-obshchenie-v-roditelskikh-chatakh-v-rabochee-vremia-uchitelia-izi"
       ]
     }
   }
