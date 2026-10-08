@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:41:17.892Z",
+  "generatedAt": "2026-10-08T22:14:09.120Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-09-25": {
-      "totalChecked": 480,
-      "totalIzi": 84,
-      "totalIiz": 1,
-      "totalAi": 85,
-      "topLinks": [
-        "https://iz.ru/2172117/uchenye-vyiavili-prichiny-usileniia-allergii-pri-povtornom-kontakte-s-allergenom-izi",
-        "https://iz.ru/2172151/uchenye-izuchili-sviaz-okr-s-travmiruiushchim-opytom-izi",
-        "https://iz.ru/2172168/2026-09-25/uchenye-rasskazali-o-vliianii-umstvennoi-ustalosti-na-vynoslivost-izi",
-        "https://iz.ru/2172628/blizost-kak-resurs-chto-proiskhodit-s-organizmom-riadom-s-liubimym-chelovekom-izi",
-        "https://iz.ru/2172686/2026-09-25/issledovanie-pokazalo-rost-onkologicheskoi-zabolevaemosti-pri-diabete-ii-tipa-izi",
-        "https://iz.ru/2172710/narodnye-primety-na-25-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2172801/uchenye-vyiavili-sviaz-mezhdu-psikhicheskimi-rasstroistvami-partnerov-izi",
-        "https://iz.ru/2173144/v-minprosveshcheniia-anonsirovali-novye-uchebniki-dlia-10-11-kh-klassov-v-2027-godu-izi",
-        "https://iz.ru/2173169/sredniaia-zarplata-v-rossii-v-2026-godu-prevysit-112-tysiach-rublei-izi",
-        "https://iz.ru/2173180/khusity-zaiavili-ob-udarakh-raketami-po-er-riiadu-i-obektam-saudi-aramco-izi",
-        "https://iz.ru/2173181/zakharova-prizvala-iunesko-i-iunisef-proverit-obrazovanie-molodezhi-v-estonii-izi",
-        "https://iz.ru/2173184/kolumbiia-razorvala-diplomaticheskie-otnosheniia-s-iranom-izi",
-        "https://iz.ru/2173187/mladshii-serzhant-utiabaev-unichtozhil-pulemetnyi-raschet-vsu-izi",
-        "https://iz.ru/2173192/v-mid-rf-zaiavili-o-degradatcii-otnoshenii-rossii-i-iaponii-izi",
-        "https://iz.ru/2173193/chlen-zala-slavy-basketbolist-bob-pettit-ushel-iz-zhizni-v-vozraste-93-let-izi",
-        "https://iz.ru/2173196/ekspert-pozharskaia-predupredila-o-skhemakh-moshennikov-s-podarkami-ko-dniu-uchitelia-izi",
-        "https://iz.ru/2173200/lavrov-i-guterresh-obsudili-ukrainskikh-konflikt-na-poliakh-genassamblei-oon-izi",
-        "https://iz.ru/2173202/si-tczinpin-soobshchil-ob-iskrennikh-i-glubokikh-peregovorakh-s-trampom-izi",
-        "https://iz.ru/2173215/na-chukotke-predlozhili-otmenit-limity-na-otstrel-medvedei-izi",
-        "https://iz.ru/2173224/v-gosdume-predlozhili-vvesti-poniatie-izbytochnoi-upakovki-tovarov-izi"
-      ]
-    },
     "2026-09-26": {
       "totalChecked": 316,
       "totalIzi": 64,
@@ -179,16 +151,11 @@
       ]
     },
     "2026-10-01": {
-      "totalChecked": 719,
-      "totalIzi": 124,
+      "totalChecked": 633,
+      "totalIzi": 119,
       "totalIiz": 1,
-      "totalAi": 125,
+      "totalAi": 120,
       "topLinks": [
-        "https://iz.ru/2176839/peskov-prizval-evropeiskikh-politikov-ne-poddavatsia-antirossiiskoi-isterike-izi",
-        "https://iz.ru/2176854/rossiiskie-pogranichniki-proverili-i-otpustili-sledovavshee-v-estoniiu-sudno-izi",
-        "https://iz.ru/2176917/pozhar-proizoshel-v-raione-promyshlennogo-predpriiatiia-v-podmoskovnom-krasnozavodske-izi",
-        "https://iz.ru/2176922/putin-oproverg-namerenie-rf-zapugat-drugie-strany-v-kontekste-kaliningrada-izi",
-        "https://iz.ru/2176959/uchitelem-goda-stal-prepodavatel-informatiki-iz-tverskoi-oblasti-morozov-izi",
         "https://iz.ru/2176996/eritreia-zaiavila-o-razryve-vsekh-diplomaticheskikh-sviazei-s-efiopiei-izi",
         "https://iz.ru/2177006/sredstva-pvo-za-den-sbili-227-bespilotnikov-vsu-izi",
         "https://iz.ru/2177014/putin-zaiavil-ob-absoliutnoi-stabilnosti-makroekonomicheskoi-situatcii-v-rossii-izi",
@@ -203,11 +170,16 @@
         "https://iz.ru/2175896/uchenye-rasskazali-o-sviazi-depressii-s-vnimaniem-detei-k-grustnym-litcam-izi",
         "https://iz.ru/2175904/2026-10-01/v-rptc-ukazali-na-nedostatochnost-vnutrennei-very-bez-poseshcheniia-khrama-izi",
         "https://iz.ru/2175986/narodnye-primety-na-1-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2176380/leitenant-koval-vzial-pod-kontrol-opornyi-punkt-vsu-v-zone-svo-izi"
+        "https://iz.ru/2176380/leitenant-koval-vzial-pod-kontrol-opornyi-punkt-vsu-v-zone-svo-izi",
+        "https://iz.ru/2176389/fsb-opublikovala-arkhivnye-dokumenty-o-prestupleniiakh-natcistov-v-sssr-izi",
+        "https://iz.ru/2176400/v-es-sravnili-finansirovanie-ukrainy-s-polivom-pustyni-izi",
+        "https://iz.ru/2176405/glavy-mvd-zemel-germanii-otkazalis-ot-printcipa-edinoglasiia-izi",
+        "https://iz.ru/2176407/2026-10-01/ilon-mask-voidet-v-chislo-rukovoditelei-novogo-proekta-pentagona-izi",
+        "https://iz.ru/2176408/centcom-soobshchilo-o-perenapravlenii-125-sudov-v-ramkakh-morskoi-blokady-irana-izi"
       ]
     },
     "2026-10-02": {
-      "totalChecked": 903,
+      "totalChecked": 896,
       "totalIzi": 201,
       "totalIiz": 3,
       "totalAi": 204,
@@ -235,12 +207,11 @@
       ]
     },
     "2026-10-03": {
-      "totalChecked": 550,
-      "totalIzi": 209,
+      "totalChecked": 547,
+      "totalIzi": 208,
       "totalIiz": 2,
-      "totalAi": 211,
+      "totalAi": 210,
       "topLinks": [
-        "https://iz.ru/2176889/uchenye-uznali-o-sviazi-podderzhaniia-fizicheskoi-formy-s-riskom-depressii-izi",
         "https://iz.ru/2177272/uchenye-sviazali-funktcionalnoe-starenie-so-zdorovem-serdtca-izi",
         "https://iz.ru/2177415/uchenye-soobshchili-o-sviazi-zhary-i-shuma-s-ukhudsheniem-kachestva-sna-izi",
         "https://iz.ru/2177575/narodnye-primety-na-3-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,11 +230,12 @@
         "https://iz.ru/2177860/finskaia-gazeta-soobshchila-o-nelovkom-epizode-pri-vstreche-stubba-i-sandu-izi",
         "https://iz.ru/2177864/dmitriev-predrek-mertcu-skoruiu-otstavku-izi",
         "https://iz.ru/2177866/grossi-vyskazalsia-o-nekhvatke-vovlecheniia-oon-v-voprosy-resheniia-tekushchikh-krizisov-izi",
-        "https://iz.ru/2177869/2026-10-03/rabochii-pogib-pri-obrushenii-porody-v-shakhte-cheremukhovskaia-sverdlovskoi-oblasti-izi"
+        "https://iz.ru/2177869/2026-10-03/rabochii-pogib-pri-obrushenii-porody-v-shakhte-cheremukhovskaia-sverdlovskoi-oblasti-izi",
+        "https://iz.ru/2177870/raschet-lantceta-unichtozhil-furgon-snabzheniia-vsu-u-volchanskogo-kotla-izi"
       ]
     },
     "2026-10-04": {
-      "totalChecked": 534,
+      "totalChecked": 533,
       "totalIzi": 235,
       "totalIiz": 2,
       "totalAi": 237,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-10-08": {
-      "totalChecked": 779,
-      "totalIzi": 152,
+      "totalChecked": 953,
+      "totalIzi": 209,
       "totalIiz": 2,
-      "totalAi": 154,
+      "totalAi": 211,
       "topLinks": [
         "https://iz.ru/2179402/teplo-protiv-appetita-uchenye-vyiasnili-pochemu-zhara-ne-zashchishchaet-ot-nabora-vesa-izi",
         "https://iz.ru/2179495/uchenye-sviazali-otvlechenie-roditelei-na-gadzhety-s-razvitiem-rechi-detei-izi",
@@ -400,6 +372,19 @@
         "https://iz.ru/2180581/v-bundestage-zaiavili-o-razdache-milliardov-ukraine-vmesto-pomoshchi-nemtcam-izi",
         "https://iz.ru/2180589/umerla-razrabotchik-po-dlia-vysadki-apollona-11-margaret-gamilton-izi",
         "https://iz.ru/2180598/analitik-predupredil-o-priblizhenii-konflikta-na-ukraine-k-armageddonu-iz-za-nato-izi"
+      ]
+    },
+    "2026-10-09": {
+      "totalChecked": 74,
+      "totalIzi": 2,
+      "totalIiz": 3,
+      "totalAi": 5,
+      "topLinks": [
+        "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
+        "https://iz.ru/2173286/2026-09-09/den-rabotnika-selskogo-khoziaistva-2026-istoriia-traditcii-i-pozdravleniia-iiz",
+        "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi"
       ]
     }
   }
