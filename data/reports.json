@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:09:42.287Z",
+  "generatedAt": "2026-10-08T02:08:06.975Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,12 +151,11 @@
       ]
     },
     "2026-09-30": {
-      "totalChecked": 466,
-      "totalIzi": 108,
+      "totalChecked": 458,
+      "totalIzi": 107,
       "totalIiz": 2,
-      "totalAi": 110,
+      "totalAi": 109,
       "topLinks": [
-        "https://iz.ru/2176382/saudovskie-vlasti-rassleduiut-ekstrennuiu-posadku-reisa-flydubai-v-tabuke-izi",
         "https://iz.ru/2172049/80-svetlye-otkrytki-s-dnem-very-nadezhdy-i-liubvi-krasivye-kartinki-gifki-i-pravoslavnye-iiz",
         "https://iz.ru/2174833/uchenye-nashli-vozmozhnyi-istochnik-povrezhdeniia-mozga-pri-bolezni-altcgeimera-izi",
         "https://iz.ru/2174962/uchenye-uznali-o-polze-granata-dlia-serdtca-izi",
@@ -175,25 +174,16 @@
         "https://iz.ru/2175823/minich-nazval-vstrechu-s-putinym-v-moskve-bolshoi-chestiu-izi",
         "https://iz.ru/2175826/glavy-it-kompanii-ssha-podpisali-soglashenie-belogo-doma-po-superintellektu-izi",
         "https://iz.ru/2175830/aktivisty-iuao-sovershili-bolee-90-gumanitarnykh-poezdok-v-zonu-spetcoperatcii-izi",
-        "https://iz.ru/2175832/v-germanii-soobshchili-o-defitcite-oborudovaniia-dlia-uchenii-rezervistov-izi"
+        "https://iz.ru/2175832/v-germanii-soobshchili-o-defitcite-oborudovaniia-dlia-uchenii-rezervistov-izi",
+        "https://iz.ru/2175837/khachanov-obygral-piatuiu-raketku-mira-na-starte-turnira-v-pekine-izi"
       ]
     },
     "2026-10-01": {
-      "totalChecked": 1070,
-      "totalIzi": 220,
+      "totalChecked": 1032,
+      "totalIzi": 210,
       "totalIiz": 1,
-      "totalAi": 221,
+      "totalAi": 211,
       "topLinks": [
-        "https://iz.ru/2176380/leitenant-koval-vzial-pod-kontrol-opornyi-punkt-vsu-v-zone-svo-izi",
-        "https://iz.ru/2176389/fsb-opublikovala-arkhivnye-dokumenty-o-prestupleniiakh-natcistov-v-sssr-izi",
-        "https://iz.ru/2176400/v-es-sravnili-finansirovanie-ukrainy-s-polivom-pustyni-izi",
-        "https://iz.ru/2176405/glavy-mvd-zemel-germanii-otkazalis-ot-printcipa-edinoglasiia-izi",
-        "https://iz.ru/2176407/2026-10-01/ilon-mask-voidet-v-chislo-rukovoditelei-novogo-proekta-pentagona-izi",
-        "https://iz.ru/2176408/centcom-soobshchilo-o-perenapravlenii-125-sudov-v-ramkakh-morskoi-blokady-irana-izi",
-        "https://iz.ru/2176409/lantratova-nazvala-sposob-vyiavleniia-moshennikov-po-ispolzuemym-imi-formulirovkam-izi",
-        "https://iz.ru/2176413/tramp-soobshchil-o-skorom-okonchatelnom-reshenii-ssha-po-iranu-izi",
-        "https://iz.ru/2176415/2026-10-01/burdinskii-rasskazal-ob-osennei-otpravke-prizyvnikov-na-voennuiu-sluzhbu-izi",
-        "https://iz.ru/2176427/tcb-zaiavil-ob-uzhestochenii-regulirovaniia-vydachi-potrebkreditov-izi",
         "https://iz.ru/2176428/dmitriev-nazval-mudrymi-slova-premera-litvy-ob-otsutstvii-rossiiskoi-ugrozy-izi",
         "https://iz.ru/2176430/2026-10-01/na-ukraine-priznali-nevozmozhnost-obespecheniia-zashchity-energosistemy-strany-izi",
         "https://iz.ru/2176434/ekspert-soobshchila-o-prichinakh-usileniia-tiagi-k-ede-oseniu-izi",
@@ -203,7 +193,17 @@
         "https://iz.ru/2176448/aviaudary-pakistana-po-afganistanu-unesli-zhizni-deviati-chelovek-izi",
         "https://iz.ru/2176450/2026-10-01/v-ramkakh-proekta-moi-sportivnyi-raion-oseniu-proidet-bolee-12-tys-zaniatii-izi",
         "https://iz.ru/2176452/putin-otmetil-vysokii-uroven-rossiisko-kitaiskikh-otnoshenii-izi",
-        "https://iz.ru/2176454/mendel-zaiavila-o-massovom-ottoke-zhitelei-iz-kieva-na-fone-opasnosti-izi"
+        "https://iz.ru/2176454/mendel-zaiavila-o-massovom-ottoke-zhitelei-iz-kieva-na-fone-opasnosti-izi",
+        "https://iz.ru/2176462/vertolet-poterpel-krushenie-u-beregov-kalifornii-izi",
+        "https://iz.ru/2176465/prichinoi-massovogo-dtp-vo-vladivostoke-stal-otkaz-tormozov-u-gruzovika-izi",
+        "https://iz.ru/2176472/politico-zaiavila-o-issiakanii-sredstv-na-vedenie-boia-u-kieva-izi",
+        "https://iz.ru/2176473/ronaldu-grozit-shestimesiachnaia-diskvalifikatciia-za-pobeg-iz-sbornoi-portugalii-izi",
+        "https://iz.ru/2176476/v-meksike-sozhgli-dvukh-chelovek-po-obvineniiu-v-koldovstve-izi",
+        "https://iz.ru/2176487/reshetnikov-zaiavil-o-sokhranenii-otkrytogo-kharaktera-ekonomiki-rossii-izi",
+        "https://iz.ru/2176489/ekspert-nazval-proekt-biudzheta-na-2027-2029-gody-sbalansirovannym-izi",
+        "https://iz.ru/2176494/shaiby-malkina-i-chinakhova-prinesli-pobedu-pittsburgu-nad-filadelfiei-izi",
+        "https://iz.ru/2176495/potreblenie-krasnoi-ryby-v-rossii-vyroslo-v-45-raza-s-1950-goda-izi",
+        "https://iz.ru/2176504/pri-atake-dronov-vsu-v-brianskoi-oblasti-povrezhdena-tekhnika-miratorga-izi"
       ]
     },
     "2026-10-02": {
@@ -375,17 +375,31 @@
       ]
     },
     "2026-10-08": {
-      "totalChecked": 66,
-      "totalIzi": 4,
+      "totalChecked": 157,
+      "totalIzi": 21,
       "totalIiz": 2,
-      "totalAi": 6,
+      "totalAi": 23,
       "topLinks": [
+        "https://iz.ru/2179402/teplo-protiv-appetita-uchenye-vyiasnili-pochemu-zhara-ne-zashchishchaet-ot-nabora-vesa-izi",
+        "https://iz.ru/2179495/uchenye-sviazali-otvlechenie-roditelei-na-gadzhety-s-razvitiem-rechi-detei-izi",
         "https://iz.ru/2180098/narodnye-primety-na-8-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2180133/podlodka-kursk-khronika-poslednikh-chasov-i-spasatelnoi-operatcii-izi",
+        "https://iz.ru/2180282/fizicheskaia-aktivnost-okazalas-vazhnoi-chastiu-kontrolia-khronicheskikh-boleznei-izi",
         "https://iz.ru/2180488/gvardii-riadovoi-bukhtalko-vynes-s-polia-boia-piaterykh-ranenykh-sosluzhivtcev-izi",
+        "https://iz.ru/2180509/krupneishaia-koloniia-pingvinov-v-antarktike-sokratilas-na-dve-treti-izi",
+        "https://iz.ru/2180511/smi-soobshchili-o-vozmozhnom-krizise-v-es-iz-za-finansovykh-problem-vo-frantcii-izi",
+        "https://iz.ru/2180516/smi-soobshchili-o-slozhnom-finansovom-polozhenii-zaderzhannogo-eks-glavy-razvedki-frg-izi",
+        "https://iz.ru/2180528/bloomberg-raskrylo-prichinu-popadaniia-detalei-amerikanskogo-f-35-v-kitai-izi",
+        "https://iz.ru/2180532/ekspert-nazval-bezopasnoe-kolichestvo-vremeni-dlia-udeleniia-podrabotke-izi",
+        "https://iz.ru/2180534/moshenniki-zvoniat-rossiianam-pod-vidom-provaiderov-i-predlagaiut-smenit-tarif-izi",
+        "https://iz.ru/2179402/teplo-protiv-appetita-uchenye-vyiasnili-pochemu-zhara-ne-zashchishchaet-ot-nabora-vesa-izi",
         "https://iz.ru/2180098/narodnye-primety-na-8-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2180133/podlodka-kursk-khronika-poslednikh-chasov-i-spasatelnoi-operatcii-izi",
-        "https://iz.ru/2180488/gvardii-riadovoi-bukhtalko-vynes-s-polia-boia-piaterykh-ranenykh-sosluzhivtcev-izi"
+        "https://iz.ru/2180282/fizicheskaia-aktivnost-okazalas-vazhnoi-chastiu-kontrolia-khronicheskikh-boleznei-izi",
+        "https://iz.ru/2180488/gvardii-riadovoi-bukhtalko-vynes-s-polia-boia-piaterykh-ranenykh-sosluzhivtcev-izi",
+        "https://iz.ru/2180509/krupneishaia-koloniia-pingvinov-v-antarktike-sokratilas-na-dve-treti-izi",
+        "https://iz.ru/2180511/smi-soobshchili-o-vozmozhnom-krizise-v-es-iz-za-finansovykh-problem-vo-frantcii-izi",
+        "https://iz.ru/2180516/smi-soobshchili-o-slozhnom-finansovom-polozhenii-zaderzhannogo-eks-glavy-razvedki-frg-izi"
       ]
     }
   }
