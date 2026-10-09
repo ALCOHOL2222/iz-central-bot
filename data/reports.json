@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:22:21.856Z",
+  "generatedAt": "2026-10-09T09:19:35.357Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-10-01": {
-      "totalChecked": 590,
+      "totalChecked": 565,
       "totalIzi": 114,
       "totalIiz": 1,
       "totalAi": 115,
@@ -179,31 +179,31 @@
       ]
     },
     "2026-10-02": {
-      "totalChecked": 892,
-      "totalIzi": 201,
+      "totalChecked": 823,
+      "totalIzi": 187,
       "totalIiz": 3,
-      "totalAi": 204,
+      "totalAi": 190,
       "topLinks": [
-        "https://iz.ru/2177093/riadovoi-musalaev-likvidiroval-minometnuiu-pozitciiu-vsu-artilleriiskim-ognem-izi",
-        "https://iz.ru/2177116/2026-10-02/putin-nazval-ubiistvo-ali-laridzhani-sereznoi-oshibkoi-izi",
-        "https://iz.ru/2177130/shvedskie-vvs-dopustili-vozmozhnost-udarov-po-tceliam-v-rossii-izi",
-        "https://iz.ru/2177151/zakharova-ironichno-otreagirovala-na-slova-makrona-o-evropeiskoi-ekonomike-izi",
-        "https://iz.ru/2177179/ii-pomog-gpt-6-pomog-raskryt-soderzhanie-poslaniia-napoleona-spustia-217-let-izi",
-        "https://iz.ru/2177180/prigovorennaia-k-kazni-v-ssha-ostalas-zhiva-posle-dvukh-smertelnykh-inektcii-izi",
-        "https://iz.ru/2177187/glava-magate-predupredil-o-riskakh-bezopasnosti-zaporozhskoi-aes-izi",
-        "https://iz.ru/2177189/v-gd-dopustili-poiavlenie-bankomatov-dlia-obnalichivaniia-tcifrovykh-rublei-v-2027-godu-izi",
-        "https://iz.ru/2177190/chikunova-i-prigoda-vyigrali-zoloto-na-pervom-etape-kubka-mira-v-baku-izi",
-        "https://iz.ru/2177192/virusolog-nazvala-pervye-priznaki-gonkongskogo-grippa-izi",
-        "https://iz.ru/2177193/v-sotcfonde-nazvali-sposob-proverit-kolichestvo-nakoplennykh-pensionnykh-ballov-izi",
-        "https://iz.ru/2177194/sud-zaochno-arestoval-uchreditelia-mpk-seliatino-po-delu-o-postavkakh-tushenki-dlia-mo-izi",
-        "https://iz.ru/2177201/soldat-vsu-obeshchal-prostrelit-nogu-sosluzhivtcu-za-otkaz-podchiniatsia-izi",
-        "https://iz.ru/2177203/ssha-perenapravili-52-mln-pomoshchi-iz-evropy-i-blizhnego-vostoka-izi",
         "https://iz.ru/2177205/v-es-sviazali-priznanie-koretckogo-o-nekhvatke-sredstv-s-riskami-dlia-ukrainy-izi",
         "https://iz.ru/2177208/v-italii-otcenili-posledstviia-vozmozhnogo-davleniia-na-kaliningrad-izi",
         "https://iz.ru/2177218/v-mvd-pokazali-video-raboty-inostrannogo-moshennicheskogo-koll-tcentra-izi",
         "https://iz.ru/2177233/stely-mirnym-zhiteliam-v-buche-soderzhat-fio-pogibshikh-za-predelami-goroda-izi",
         "https://iz.ru/2177234/glavred-sibirskoi-redaktcii-kommersanta-kichanov-umer-posle-dtp-v-novosibirske-izi",
-        "https://iz.ru/2177236/v-evrope-obsuzhdaiut-plan-na-sluchai-vozmozhnogo-ukhoda-mertca-s-posta-kantclera-izi"
+        "https://iz.ru/2177236/v-evrope-obsuzhdaiut-plan-na-sluchai-vozmozhnogo-ukhoda-mertca-s-posta-kantclera-izi",
+        "https://iz.ru/2177237/pravitelstvo-otsrochilo-nalogi-i-priostanovilo-proverki-dlia-prodavtcov-ozon-izi",
+        "https://iz.ru/2177243/zhurnalist-sanches-poblagodaril-putina-za-otnoshenie-k-inostrannym-smi-izi",
+        "https://iz.ru/2177248/time-soobshchil-o-konsultatciiakh-trampa-s-chat-botom-grok-pered-zakhvatom-maduro-izi",
+        "https://iz.ru/2177260/v-tatarstane-vveli-rezhim-chs-iz-za-gibeli-urozhaia-izi",
+        "https://iz.ru/2177283/moshenniki-stali-obmanyvat-rossiian-cherez-boty-dlia-podbora-turov-izi",
+        "https://iz.ru/2177287/v-severnoi-osetii-presekli-podgotovku-terakta-v-uchastkovom-punkte-politcii-izi",
+        "https://iz.ru/2177298/vrach-palliativnoi-pomoshchi-kerr-rasskazal-o-videniiakh-liudei-pered-smertiu-izi",
+        "https://iz.ru/2177300/2026-10-02/chetyre-cheloveka-podorvalis-na-mine-v-aleshkakh-pri-popytke-vyiti-za-edoi-izi",
+        "https://iz.ru/2177302/evrokomissar-kos-nazvala-nevozmozhnym-vstuplenie-ukrainy-v-es-1-ianvaria-2027-goda-izi",
+        "https://iz.ru/2177305/sotrudniki-fsb-likvidirovali-laboratoriiu-po-proizvodstvu-mefedrona-izi",
+        "https://iz.ru/2177318/sily-pvo-sbili-bolee-5-tys-bespilotnikov-i-chetyre-rakety-flamingo-za-nedeliu-izi",
+        "https://iz.ru/2177319/vs-rf-osvobodili-20-naselennykh-punktov-v-kharkovskoi-oblasti-s-nachala-okruzheniia-izi",
+        "https://iz.ru/2177324/poiavilis-kadry-s-mesta-ubiistva-politceiskogo-v-podmoskove-izi",
+        "https://iz.ru/2177330/uchenye-otcenili-polzu-chteniia-i-golovolomok-dlia-pozhilykh-liudei-izi"
       ]
     },
     "2026-10-03": {
@@ -375,13 +375,15 @@
       ]
     },
     "2026-10-09": {
-      "totalChecked": 169,
-      "totalIzi": 20,
+      "totalChecked": 304,
+      "totalIzi": 46,
       "totalIiz": 3,
-      "totalAi": 23,
+      "totalAi": 49,
       "topLinks": [
         "https://iz.ru/2179364/uchenye-raskryli-prichiny-sokhraneniia-boli-posle-lecheniia-endometrioza-izi",
+        "https://iz.ru/2180096/uchenye-sviazali-oslozhneniia-pri-beremennosti-s-riskom-boleznei-serdtca-i-pochek-izi",
         "https://iz.ru/2180252/rannii-perekhod-k-menopauze-sviazali-s-trevogoi-i-depressiei-izi",
+        "https://iz.ru/2180664/uchenye-iskliuchili-sviaz-transzhirov-s-riskom-serdechnykh-zabolevanii-izi",
         "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
         "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
@@ -391,15 +393,13 @@
         "https://iz.ru/2181166/v-minobrnauki-predlozhili-nachisliat-do-25-ballov-za-vysokie-rezultaty-ege-izi",
         "https://iz.ru/2181168/v-op-predlozhili-besplatno-obuchat-ottcov-doshkolnikov-v-avtoshkole-izi",
         "https://iz.ru/2181186/politico-soobshchila-o-riske-poteri-vremennoi-zashchity-dlia-100-tys-ukraintcev-v-ssha-izi",
-        "https://iz.ru/2173286/2026-09-09/den-rabotnika-selskogo-khoziaistva-2026-istoriia-traditcii-i-pozdravleniia-iiz",
-        "https://iz.ru/2179364/uchenye-raskryli-prichiny-sokhraneniia-boli-posle-lecheniia-endometrioza-izi",
-        "https://iz.ru/2180252/rannii-perekhod-k-menopauze-sviazali-s-trevogoi-i-depressiei-izi",
-        "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
-        "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
-        "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi",
-        "https://iz.ru/2181158/dvukh-grazhdan-latvii-zaderzhali-za-proniknovenie-na-bazu-vvs-velikobritanii-izi",
-        "https://iz.ru/2181164/nazvana-skhema-moshennikov-s-prodazhei-snegouborochnoi-tekhniki-v-regionakh-izi"
+        "https://iz.ru/2181201/v-mvd-nazvali-nezhelatelnye-dlia-khraneniia-v-telefone-dannye-izi",
+        "https://iz.ru/2181204/tri-cheloveka-postradali-v-dtp-s-reisovym-avtobusom-v-sverdlovskoi-oblasti-izi",
+        "https://iz.ru/2181206/v-minoborony-soobshchili-ob-otkaze-ot-meshaiushchikh-gotovit-soldat-trebovanii-v-khode-svo-izi",
+        "https://iz.ru/2181209/kiprskii-zhurnalist-predupredil-o-posledstviiakh-kritiki-zelenskim-rechi-rubio-izi",
+        "https://iz.ru/2181214/mesto-eks-premera-starmera-v-parlamente-britanii-zaimet-urozhenka-somali-izi",
+        "https://iz.ru/2181224/volontery-iz-kurkina-peredali-uchastnikam-svo-bolee-350-t-gumanitarnoi-pomoshchi-izi",
+        "https://iz.ru/2181231/v-stambule-vo-vremia-obrusheniia-zhilogo-doma-pogibli-piat-chelovek-izi"
       ]
     }
   }
