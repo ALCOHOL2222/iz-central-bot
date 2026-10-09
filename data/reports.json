@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:14:09.120Z",
+  "generatedAt": "2026-10-09T02:22:21.856Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,16 +151,11 @@
       ]
     },
     "2026-10-01": {
-      "totalChecked": 633,
-      "totalIzi": 119,
+      "totalChecked": 590,
+      "totalIzi": 114,
       "totalIiz": 1,
-      "totalAi": 120,
+      "totalAi": 115,
       "topLinks": [
-        "https://iz.ru/2176996/eritreia-zaiavila-o-razryve-vsekh-diplomaticheskikh-sviazei-s-efiopiei-izi",
-        "https://iz.ru/2177006/sredstva-pvo-za-den-sbili-227-bespilotnikov-vsu-izi",
-        "https://iz.ru/2177014/putin-zaiavil-ob-absoliutnoi-stabilnosti-makroekonomicheskoi-situatcii-v-rossii-izi",
-        "https://iz.ru/2177017/v-osobniake-millera-v-sankt-peterburge-proizoshel-pozhar-izi",
-        "https://iz.ru/2177043/lionel-messi-stal-vladeltcem-vtorogo-futbolnogo-kluba-izi",
         "https://iz.ru/2120689/portugalskii-futbolist-krishtianu-ronaldu-biografiia-izi",
         "https://iz.ru/2175378/uchenye-sviazali-pokazateli-arterialnogo-davleniia-s-riskom-insulta-i-smerti-izi",
         "https://iz.ru/2175422/uchenye-sviazali-zaniatiia-muzykoi-s-izmeneniiami-mozga-u-detei-izi",
@@ -175,11 +170,16 @@
         "https://iz.ru/2176400/v-es-sravnili-finansirovanie-ukrainy-s-polivom-pustyni-izi",
         "https://iz.ru/2176405/glavy-mvd-zemel-germanii-otkazalis-ot-printcipa-edinoglasiia-izi",
         "https://iz.ru/2176407/2026-10-01/ilon-mask-voidet-v-chislo-rukovoditelei-novogo-proekta-pentagona-izi",
-        "https://iz.ru/2176408/centcom-soobshchilo-o-perenapravlenii-125-sudov-v-ramkakh-morskoi-blokady-irana-izi"
+        "https://iz.ru/2176408/centcom-soobshchilo-o-perenapravlenii-125-sudov-v-ramkakh-morskoi-blokady-irana-izi",
+        "https://iz.ru/2176409/lantratova-nazvala-sposob-vyiavleniia-moshennikov-po-ispolzuemym-imi-formulirovkam-izi",
+        "https://iz.ru/2176413/tramp-soobshchil-o-skorom-okonchatelnom-reshenii-ssha-po-iranu-izi",
+        "https://iz.ru/2176415/2026-10-01/burdinskii-rasskazal-ob-osennei-otpravke-prizyvnikov-na-voennuiu-sluzhbu-izi",
+        "https://iz.ru/2176427/tcb-zaiavil-ob-uzhestochenii-regulirovaniia-vydachi-potrebkreditov-izi",
+        "https://iz.ru/2176428/dmitriev-nazval-mudrymi-slova-premera-litvy-ob-otsutstvii-rossiiskoi-ugrozy-izi"
       ]
     },
     "2026-10-02": {
-      "totalChecked": 896,
+      "totalChecked": 892,
       "totalIzi": 201,
       "totalIiz": 3,
       "totalAi": 204,
@@ -375,16 +375,31 @@
       ]
     },
     "2026-10-09": {
-      "totalChecked": 74,
-      "totalIzi": 2,
+      "totalChecked": 169,
+      "totalIzi": 20,
       "totalIiz": 3,
-      "totalAi": 5,
+      "totalAi": 23,
       "topLinks": [
+        "https://iz.ru/2179364/uchenye-raskryli-prichiny-sokhraneniia-boli-posle-lecheniia-endometrioza-izi",
+        "https://iz.ru/2180252/rannii-perekhod-k-menopauze-sviazali-s-trevogoi-i-depressiei-izi",
+        "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
         "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
+        "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi",
+        "https://iz.ru/2181158/dvukh-grazhdan-latvii-zaderzhali-za-proniknovenie-na-bazu-vvs-velikobritanii-izi",
+        "https://iz.ru/2181164/nazvana-skhema-moshennikov-s-prodazhei-snegouborochnoi-tekhniki-v-regionakh-izi",
+        "https://iz.ru/2181166/v-minobrnauki-predlozhili-nachisliat-do-25-ballov-za-vysokie-rezultaty-ege-izi",
+        "https://iz.ru/2181168/v-op-predlozhili-besplatno-obuchat-ottcov-doshkolnikov-v-avtoshkole-izi",
+        "https://iz.ru/2181186/politico-soobshchila-o-riske-poteri-vremennoi-zashchity-dlia-100-tys-ukraintcev-v-ssha-izi",
         "https://iz.ru/2173286/2026-09-09/den-rabotnika-selskogo-khoziaistva-2026-istoriia-traditcii-i-pozdravleniia-iiz",
+        "https://iz.ru/2179364/uchenye-raskryli-prichiny-sokhraneniia-boli-posle-lecheniia-endometrioza-izi",
+        "https://iz.ru/2180252/rannii-perekhod-k-menopauze-sviazali-s-trevogoi-i-depressiei-izi",
+        "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
         "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi"
+        "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
+        "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi",
+        "https://iz.ru/2181158/dvukh-grazhdan-latvii-zaderzhali-za-proniknovenie-na-bazu-vvs-velikobritanii-izi",
+        "https://iz.ru/2181164/nazvana-skhema-moshennikov-s-prodazhei-snegouborochnoi-tekhniki-v-regionakh-izi"
       ]
     }
   }
