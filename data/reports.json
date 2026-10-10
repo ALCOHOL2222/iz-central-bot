@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T18:48:22.580Z",
+  "generatedAt": "2026-10-10T22:45:23.444Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 67
   },
   "days": {
-    "2026-09-27": {
-      "totalChecked": 265,
-      "totalIzi": 62,
-      "totalIiz": 4,
-      "totalAi": 66,
-      "topLinks": [
-        "https://iz.ru/2158869/50-svetlye-otkrytki-s-vozdvizheniem-kresta-gospodnia-kartinki-gifki-i-pravoslavnye-pozdravleniia-iiz",
-        "https://iz.ru/2158873/den-vospitatelia-2026-kak-poiavilsia-prazdnik-tekh-kto-kazhdyi-den-zabotitsia-o-detiakh-iiz",
-        "https://iz.ru/2163393/50-dobrye-otkrytki-s-dnem-vospitatelia-krasivye-kartinki-gifki-i-pozdravleniia-dlia-pedagogov-iiz",
-        "https://iz.ru/2173338/narodnye-primety-na-27-sentiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2173355/uchenye-vyiavili-izmeneniia-v-kharakteristikakh-detei-s-sdvg-i-autizmom-izi",
-        "https://iz.ru/2173372/uchenye-izuchili-prichinu-prodolzhitelnogo-sokhraneniia-poslerodovoi-depressii-izi",
-        "https://iz.ru/2173405/uchenye-raskryli-rol-iumora-pri-depressii-izi",
-        "https://iz.ru/2174211/vagner-lav-provel-svoi-proshchalnyi-match-v-moskve-s-tcska-izi",
-        "https://iz.ru/2174213/smi-soobshchili-o-vyzove-glav-openai-i-anthropic-v-senat-avstralii-iz-za-ii-agentov-izi",
-        "https://iz.ru/2174216/voda-v-evropeiskikh-moriakh-poteplela-do-rekordnykh-temperatur-izi",
-        "https://iz.ru/2174219/sbornaia-ispanii-po-futbolu-obygrala-komandu-anglii-v-matche-ligi-natcii-izi",
-        "https://iz.ru/2174227/si-tczinpin-i-tramp-dogovorilis-o-snizhenii-poshlin-na-tovary-na-30-mlrd-izi",
-        "https://iz.ru/2174228/glava-mid-belorussii-zaiavil-o-krakhe-odnopoliarnogo-mira-izi",
-        "https://iz.ru/2174229/rossiianam-rasskazali-o-nedopustimykh-variantakh-imen-dlia-novorozhdennykh-izi",
-        "https://iz.ru/2174233/iurist-nazvala-zakonnuiu-prichinu-dlia-otkaza-banka-v-prieme-nalichnykh-izi",
-        "https://iz.ru/2174234/v-kalifornii-okhotniki-za-tekhnikoi-sluchaino-ugnali-pritcepy-nvidia-s-9-t-peska-izi",
-        "https://iz.ru/2174236/minzdrav-obnovil-standart-lecheniia-depressii-s-novymi-metodami-terapii-izi",
-        "https://iz.ru/2174237/evrosoiuz-napravit-eu710-mln-na-podderzhku-postradavshikh-ot-krizisov-po-vsemu-miru-izi",
-        "https://iz.ru/2174240/axios-uznal-o-priostanovke-obucheniia-modelei-openai-iz-za-problem-s-bezopasnostiu-izi",
-        "https://iz.ru/2174247/nyt-zaiavila-o-vozvrashchenii-chetyrekh-telekanalov-ssha-k-osveshcheniiu-meropriiatii-trampa-izi"
-      ]
-    },
     "2026-09-28": {
       "totalChecked": 453,
       "totalIzi": 112,
@@ -179,35 +151,35 @@
       ]
     },
     "2026-10-03": {
-      "totalChecked": 373,
-      "totalIzi": 156,
+      "totalChecked": 321,
+      "totalIzi": 132,
       "totalIiz": 1,
-      "totalAi": 157,
+      "totalAi": 133,
       "topLinks": [
-        "https://iz.ru/2178055/nyt-zaiavila-ob-obsuzhdenii-rossii-i-ssha-prodazhi-zarubezhnykh-aktivov-lukoila-izi",
-        "https://iz.ru/2178056/antonelli-pokazal-luchshee-vremia-v-tretei-praktike-gran-pri-bakhreina-v-malaizii-izi",
-        "https://iz.ru/2178057/ekspert-dopustil-privlechenie-kieva-k-otvetstvennosti-za-obvineniia-po-buche-izi",
-        "https://iz.ru/2178063/zhurnalist-mukusev-rasskazal-o-rabote-kashpirovskogo-v-programme-vzgliad-izi",
-        "https://iz.ru/2178067/iosif-prigozhin-soobshchil-o-bolezni-pevitcy-valerii-izi",
-        "https://iz.ru/2178068/mid-knr-poprivetstvoval-uchastie-putina-v-sammite-ates-v-shenchzhene-izi",
-        "https://iz.ru/2178069/khokkeist-kuzmenko-rasskazal-o-borbe-ottca-s-medvedem-bolee-chasa-izi",
-        "https://iz.ru/2178071/zakharova-pod-arestom-v-indii-ostaetsia-sudno-s-20-rossiianami-izi",
-        "https://iz.ru/2178074/ukraintcy-vyshli-na-maidan-s-trebovaniem-mira-s-rossiei-izi",
-        "https://iz.ru/2178085/mid-rf-rossiia-prodolzhit-massirovannye-udary-vozmezdiia-po-obektam-na-ukraine-izi",
-        "https://iz.ru/2178088/krasnyi-most-v-gornye-raiony-dagestana-smylo-posle-sbrosa-vody-s-ges-izi",
-        "https://iz.ru/2178094/zhiteli-berlina-vyshli-na-protest-protiv-perevooruzheniia-frg-i-voinskoi-povinnosti-izi",
-        "https://iz.ru/2178097/vs-rf-na-ucheniiakh-tcentr-2026-primenili-noveishii-raketnyi-kompleks-izdelie-347-izi",
-        "https://iz.ru/2178106/zhiteli-kieva-stali-iskat-sposoby-opoveshcheniia-o-ttck-na-fone-problem-so-sviaziu-izi",
-        "https://iz.ru/2178109/voennye-obekty-v-stolitce-jemena-sane-podverglis-aviaudaram-izi",
-        "https://iz.ru/2178110/ovechkin-v-matche-s-karolinoi-provel-na-ldu-minimalnye-12-minut-46-sekund-izi",
-        "https://iz.ru/2178114/klopy-paralizovali-dvizhenie-poezdov-britanskogo-operatora-southeastern-izi",
-        "https://iz.ru/2178115/britanskii-ekspert-merkuris-zaiavil-o-razrushenii-pvo-kieva-izi",
-        "https://iz.ru/2178120/kitai-zavershil-sezon-perevozok-po-sevmorputi-v-evropu-do-leta-2027-goda-izi",
-        "https://iz.ru/2178123/dvizhenie-na-serpukhovsko-timiriazevskoi-linii-metro-moskvy-vosstanovleno-izi"
+        "https://iz.ru/2178158/v-belgorodskoi-oblasti-11-letnii-malchik-postradal-pri-detonatcii-drona-vsu-izi",
+        "https://iz.ru/2178162/v-parizhe-neskolko-soten-chelovek-vyshli-na-protest-protiv-podderzhki-ukrainy-izi",
+        "https://iz.ru/2178163/v-kieve-nachnut-stroit-rezervnye-perepravy-cherez-dnepr-izi",
+        "https://iz.ru/2178166/sbornaia-rf-po-futbolu-razgromila-namibiiu-v-tovarishcheskom-matche-v-ekaterinburge-izi",
+        "https://iz.ru/2178167/v-kharkove-proizoshla-perestrelka-mezhdu-boitcami-brigad-vsu-izi",
+        "https://iz.ru/2178168/prezident-germanii-predostereg-frg-ot-povtoreniia-sudby-veimarskoi-respubliki-izi",
+        "https://iz.ru/2178171/kaizer-prizvala-vybrat-sleduiushchim-prezidentom-frg-zhenshchinu-iz-vostochnykh-zemel-izi",
+        "https://iz.ru/2178172/v-ssha-obratili-vnimanie-na-pereryvy-si-tczinpina-vo-vremia-vizita-v-vashington-izi",
+        "https://iz.ru/2178175/glava-tiurem-tennessi-ushel-v-otstavku-posle-neudachnoi-popytki-kazni-zakliuchennoi-izi",
+        "https://iz.ru/2178178/u-beregov-ssha-propal-meditcinskii-samolet-s-shestiu-liudmi-na-bortu-izi",
+        "https://iz.ru/2178179/deputat-dmitruk-obvinil-radu-v-nezhelanii-priblizhat-mir-s-rossiei-izi",
+        "https://iz.ru/2178181/v-slovakii-otkryli-pamiatnik-marshalu-sssr-ivanu-konevu-izi",
+        "https://iz.ru/2178182/ek-ne-smozhet-vydelit-kievu-nedostaiushchie-8-mlrd-na-oboronu-v-etom-godu-izi",
+        "https://iz.ru/2178183/sbornaia-khorvatii-po-futbolu-proigrala-anglii-v-matche-gruppovogo-etapa-ligi-natcii-izi",
+        "https://iz.ru/2178184/zhenshchina-poluchila-ranenie-pri-atake-dronov-v-brianskoi-oblasti-izi",
+        "https://iz.ru/2178185/rossiiskie-voiska-porazili-dostavivshii-voennyi-gruz-sukhogruz-v-odesse-izi",
+        "https://iz.ru/2178186/medvedev-zaiavil-ob-otsutstvii-u-rossii-stremleniia-k-konfliktam-i-davleniiu-izi",
+        "https://iz.ru/2178187/babish-raskritikoval-finansovuiu-pomoshch-evropy-kievu-dlia-prodolzheniia-boev-izi",
+        "https://iz.ru/2178188/v-kndr-proveli-ucheniia-s-puskom-strategicheskikh-raket-srednei-dalnosti-izi",
+        "https://iz.ru/2178189/medvedev-nazval-usloviia-rossii-dlia-uregulirovaniia-konflikta-na-ukraine-izi"
       ]
     },
     "2026-10-04": {
-      "totalChecked": 513,
+      "totalChecked": 512,
       "totalIzi": 230,
       "totalIiz": 1,
       "totalAi": 231,
@@ -235,7 +207,7 @@
       ]
     },
     "2026-10-05": {
-      "totalChecked": 851,
+      "totalChecked": 850,
       "totalIzi": 170,
       "totalIiz": 2,
       "totalAi": 172,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-10-10": {
-      "totalChecked": 548,
-      "totalIzi": 163,
+      "totalChecked": 604,
+      "totalIzi": 176,
       "totalIiz": 2,
-      "totalAi": 165,
+      "totalAi": 178,
       "topLinks": [
         "https://iz.ru/2180720/uchenye-vyiavili-sviaz-vitaminov-d2-i-d3-v-organizme-izi",
         "https://iz.ru/2180772/analiz-krovi-vyiavil-rannii-priznak-bolezni-altcgeimera-pri-sindrome-dauna-izi",
@@ -400,6 +372,23 @@
         "https://iz.ru/2181922/v-sumskoi-oblasti-unichtozhili-ofitcerov-vsu-iz-chisla-ideinykh-natcistov-izi",
         "https://iz.ru/2181924/shest-zhitelei-rostova-na-donu-obratilis-za-medpomoshchiu-iz-za-ataki-vsu-izi",
         "https://iz.ru/2181930/sredstva-pvo-za-noch-sbili-560-ukrainskikh-bespilotnikov-nad-regionami-rf-izi"
+      ]
+    },
+    "2026-10-11": {
+      "totalChecked": 54,
+      "totalIzi": 2,
+      "totalIiz": 7,
+      "totalAi": 9,
+      "topLinks": [
+        "https://iz.ru/2179308/pokrov-presviatoi-bogoroditcy-2026-strogie-zaprety-vazhnogo-pravoslavnogo-prazdnika-iiz",
+        "https://iz.ru/2180883/50-dobrye-otkrytki-s-dnem-devochek-krasivye-i-iarkie-kartinki-gifki-pozdravleniia-iiz",
+        "https://iz.ru/2181399/narodnye-primety-na-11-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2182180/v-polskom-iaroslave-proshel-piket-protiv-migrantov-posle-ubiistva-sviashchennika-izi",
+        "https://iz.ru/2177428/20-luchshie-otkrytki-s-dnem-rabotnika-selskogo-khoziaistva-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
+        "https://iz.ru/2179308/pokrov-presviatoi-bogoroditcy-2026-strogie-zaprety-vazhnogo-pravoslavnogo-prazdnika-iiz",
+        "https://iz.ru/2180883/50-dobrye-otkrytki-s-dnem-devochek-krasivye-i-iarkie-kartinki-gifki-pozdravleniia-iiz",
+        "https://iz.ru/2181399/narodnye-primety-na-11-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2182180/v-polskom-iaroslave-proshel-piket-protiv-migrantov-posle-ubiistva-sviashchennika-izi"
       ]
     }
   }
