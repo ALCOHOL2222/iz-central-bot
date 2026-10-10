@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:03:51.556Z",
+  "generatedAt": "2026-10-10T07:21:04.833Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,40 +151,39 @@
       ]
     },
     "2026-10-02": {
-      "totalChecked": 524,
-      "totalIzi": 121,
+      "totalChecked": 464,
+      "totalIzi": 103,
       "totalIiz": 2,
-      "totalAi": 123,
+      "totalAi": 105,
       "topLinks": [
-        "https://iz.ru/2177667/v-germanii-nachali-reprivatizatciiu-byvshei-struktury-gazproma-za-eu6-mlrd-izi",
-        "https://iz.ru/2177677/bolee-47-tys-chelovek-priniali-uchastie-v-strategicheskikh-ucheniiakh-tcentr-2026-izi",
-        "https://iz.ru/2177678/voiska-vdv-na-ucheniiakh-tcentr-2026-vpervye-desantirovali-nrtk-iz-samoletov-izi",
-        "https://iz.ru/2177683/obvinenie-zaprosilo-pochti-shest-let-kolonii-sozdateliu-masiani-kuvaevu-izi",
-        "https://iz.ru/2177684/putinu-v-cheliabinskoi-oblasti-prodemonstrirovali-reaktivnye-gerani-izi",
-        "https://iz.ru/2177692/ekipazhi-su-30sm-prikryli-raketonosetc-tu-160-na-ucheniiakh-tcentr-2026-izi",
-        "https://iz.ru/2177700/pozhar-v-osobniake-millera-v-tcentra-sankt-peterburga-likvidirovali-izi",
-        "https://iz.ru/2177705/minoborony-rossii-raskrylo-sostav-vooruzheniia-na-ucheniiakh-tcentr-2026-izi",
-        "https://iz.ru/2177710/eks-trener-zhenskoi-sbornoi-rossii-po-basketbolu-nikolai-bashkirov-umer-v-82-goda-izi",
-        "https://iz.ru/2177721/guardian-soobshchila-o-planakh-zapada-perenesti-posolstva-iz-kieva-v-polshu-izi",
-        "https://iz.ru/2177723/peskov-zaiavil-ob-otkrytosti-rf-k-dialogu-po-bezopasnosti-v-chernom-more-izi",
-        "https://iz.ru/2177731/mirnyi-zhitel-postradal-v-donetcke-v-rezultate-ataki-bespilotnika-vsu-izi",
-        "https://iz.ru/2177732/figurist-ugozhaev-zavoeval-serebro-na-turnire-v-gruzii-izi",
-        "https://iz.ru/2177734/preobrazhenskii-kadetskii-korpus-otmetil-25-letie-izi",
-        "https://iz.ru/2177736/mezhdunarodnyi-neftetreider-gunvor-smenil-nazvanie-na-centalion-izi",
-        "https://iz.ru/2177741/2026-10-02/voenno-transportnyi-samolet-vvs-ssha-podal-signal-bedstviia-nad-kanadoi-izi",
-        "https://iz.ru/2177767/reuters-uznalo-ob-otkaze-trampa-vvodit-zapret-na-eksport-dizelnogo-topliva-izi",
-        "https://iz.ru/2177771/kravtcov-oboznachil-glavnyi-pedagogicheskii-vyzov-pri-vnedrenii-ii-v-shkoly-izi",
         "https://iz.ru/2175922/uchenye-sviazali-detskie-travmy-s-povyshennym-riskom-depressii-izi",
-        "https://iz.ru/2175983/uchenye-sviazali-maskirovku-simptomov-sdvg-s-istoshcheniem-izi"
+        "https://iz.ru/2175983/uchenye-sviazali-maskirovku-simptomov-sdvg-s-istoshcheniem-izi",
+        "https://iz.ru/2176127/uchenye-sviazali-odinochestvo-i-stremlenie-k-khudobe-s-depressiei-u-devochek-izi",
+        "https://iz.ru/2176251/uchenye-rasskazali-o-grani-mezhdu-privychkoi-i-zavisimostiu-izi",
+        "https://iz.ru/2176569/narodnye-primety-na-2-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2176687/uchenye-ukazali-na-rol-ultraobrabotannykh-produktov-pri-depressii-izi",
+        "https://iz.ru/2177093/riadovoi-musalaev-likvidiroval-minometnuiu-pozitciiu-vsu-artilleriiskim-ognem-izi",
+        "https://iz.ru/2177116/2026-10-02/putin-nazval-ubiistvo-ali-laridzhani-sereznoi-oshibkoi-izi",
+        "https://iz.ru/2177130/shvedskie-vvs-dopustili-vozmozhnost-udarov-po-tceliam-v-rossii-izi",
+        "https://iz.ru/2177151/zakharova-ironichno-otreagirovala-na-slova-makrona-o-evropeiskoi-ekonomike-izi",
+        "https://iz.ru/2177179/ii-pomog-gpt-6-pomog-raskryt-soderzhanie-poslaniia-napoleona-spustia-217-let-izi",
+        "https://iz.ru/2177180/prigovorennaia-k-kazni-v-ssha-ostalas-zhiva-posle-dvukh-smertelnykh-inektcii-izi",
+        "https://iz.ru/2177187/glava-magate-predupredil-o-riskakh-bezopasnosti-zaporozhskoi-aes-izi",
+        "https://iz.ru/2177189/v-gd-dopustili-poiavlenie-bankomatov-dlia-obnalichivaniia-tcifrovykh-rublei-v-2027-godu-izi",
+        "https://iz.ru/2177190/chikunova-i-prigoda-vyigrali-zoloto-na-pervom-etape-kubka-mira-v-baku-izi",
+        "https://iz.ru/2177192/virusolog-nazvala-pervye-priznaki-gonkongskogo-grippa-izi",
+        "https://iz.ru/2177193/v-sotcfonde-nazvali-sposob-proverit-kolichestvo-nakoplennykh-pensionnykh-ballov-izi",
+        "https://iz.ru/2177194/sud-zaochno-arestoval-uchreditelia-mpk-seliatino-po-delu-o-postavkakh-tushenki-dlia-mo-izi",
+        "https://iz.ru/2177201/soldat-vsu-obeshchal-prostrelit-nogu-sosluzhivtcu-za-otkaz-podchiniatsia-izi",
+        "https://iz.ru/2177203/ssha-perenapravili-52-mln-pomoshchi-iz-evropy-i-blizhnego-vostoka-izi"
       ]
     },
     "2026-10-03": {
-      "totalChecked": 529,
-      "totalIzi": 206,
+      "totalChecked": 522,
+      "totalIzi": 205,
       "totalIiz": 1,
-      "totalAi": 207,
+      "totalAi": 206,
       "topLinks": [
-        "https://iz.ru/2177762/efreitor-salimov-spas-ranenykh-pod-minometnym-obstrelom-v-zone-svo-izi",
         "https://iz.ru/2177779/fond-ssha-i-ukrainy-nachal-realizatciiu-proekta-po-dobyche-mineralov-izi",
         "https://iz.ru/2177797/ft-uznala-o-vozmozhnom-ugolovnom-dele-protiv-orbana-iz-za-zaderzhaniia-inkassatorov-izi",
         "https://iz.ru/2177799/samaia-vysokaia-sredniaia-zarplata-v-iiule-zafiksirovana-na-chukotke-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2177870/raschet-lantceta-unichtozhil-furgon-snabzheniia-vsu-u-volchanskogo-kotla-izi",
         "https://iz.ru/2177872/v-mid-zaiavili-ob-aktivnoi-adaptatcii-palestinskikh-bezhentcev-v-rossii-izi",
         "https://iz.ru/2177874/v-kaluge-mnogokvartirnye-doma-poluchili-povrezhdeniia-pri-atake-bpla-izi",
-        "https://iz.ru/2177875/nazvana-sredniaia-prodolzhitelnost-poiska-raboty-v-avguste-izi"
+        "https://iz.ru/2177875/nazvana-sredniaia-prodolzhitelnost-poiska-raboty-v-avguste-izi",
+        "https://iz.ru/2177876/armiia-rossii-porazila-ispolzuemyi-vsu-most-cherez-dnepr-v-kieve-izi"
       ]
     },
     "2026-10-04": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-10-05": {
-      "totalChecked": 853,
+      "totalChecked": 852,
       "totalIzi": 170,
       "totalIiz": 2,
       "totalAi": 172,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-10-07": {
-      "totalChecked": 1029,
+      "totalChecked": 1028,
       "totalIzi": 221,
       "totalIiz": 2,
       "totalAi": 223,
@@ -375,16 +375,31 @@
       ]
     },
     "2026-10-10": {
-      "totalChecked": 91,
-      "totalIzi": 3,
+      "totalChecked": 239,
+      "totalIzi": 26,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 28,
       "topLinks": [
+        "https://iz.ru/2180720/uchenye-vyiavili-sviaz-vitaminov-d2-i-d3-v-organizme-izi",
+        "https://iz.ru/2180772/analiz-krovi-vyiavil-rannii-priznak-bolezni-altcgeimera-pri-sindrome-dauna-izi",
+        "https://iz.ru/2180953/uchenye-rasskazali-o-roli-okislennykh-lipidov-pri-khronicheskom-vospalenii-izi",
+        "https://iz.ru/2181285/uchenye-izuchili-rol-silovykh-trenirovok-dlia-organizma-izi",
         "https://iz.ru/2181301/narodnye-primety-na-10-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2181793/ushakov-raskryl-podrobnosti-podgotovki-razgovora-putina-i-trampa-izi",
         "https://iz.ru/2181806/zvinchuk-zaiavil-o-namerenii-podat-isk-k-vlastiam-chernogorii-iz-za-iziatoi-tekhniki-izi",
-        "https://iz.ru/2181301/narodnye-primety-na-10-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2181793/ushakov-raskryl-podrobnosti-podgotovki-razgovora-putina-i-trampa-izi"
+        "https://iz.ru/2181835/telegraph-soobshchila-ob-otkaze-ispanii-i-gretcii-ot-postavok-kievu-pac-2-izi",
+        "https://iz.ru/2181845/raschety-tornado-s-unichtozhili-mesta-razmeshcheniia-vsu-v-zaporozhskoi-oblasti-izi",
+        "https://iz.ru/2181851/v-mvd-nazvali-pravila-bezopasnosti-detei-v-internete-izi",
+        "https://iz.ru/2181866/vashington-obygral-reindzhers-v-matche-reguliarnogo-chempionata-nkhl-izi",
+        "https://iz.ru/2181869/pittsburg-proigral-kolambusu-v-matche-reguliarnogo-chempionata-nkhl-izi",
+        "https://iz.ru/2181897/nazvana-vakansiia-s-samoi-vysokoi-zarplatoi-v-moskve-dlia-sotrudnika-bez-opyta-izi",
+        "https://iz.ru/2181905/passazhirskii-samolet-podal-signal-bedstviia-vo-vremia-poleta-u-beregov-chili-izi",
+        "https://iz.ru/2181909/armiia-rossii-nochiu-nanesla-udar-po-obektam-portovoi-infrastruktury-ukrainy-izi",
+        "https://iz.ru/2180720/uchenye-vyiavili-sviaz-vitaminov-d2-i-d3-v-organizme-izi",
+        "https://iz.ru/2180772/analiz-krovi-vyiavil-rannii-priznak-bolezni-altcgeimera-pri-sindrome-dauna-izi",
+        "https://iz.ru/2180953/uchenye-rasskazali-o-roli-okislennykh-lipidov-pri-khronicheskom-vospalenii-izi",
+        "https://iz.ru/2181285/uchenye-izuchili-rol-silovykh-trenirovok-dlia-organizma-izi",
+        "https://iz.ru/2181301/narodnye-primety-na-10-oktiabria-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
   }
