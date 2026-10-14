@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:21:29.895Z",
+  "generatedAt": "2026-10-14T12:08:53.570Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-10-07": {
-      "totalChecked": 925,
-      "totalIzi": 207,
+      "totalChecked": 810,
+      "totalIzi": 186,
       "totalIiz": 1,
-      "totalAi": 208,
+      "totalAi": 187,
       "topLinks": [
-        "https://iz.ru/2179895/samolet-easyjet-ekstrenno-sel-v-niderlandakh-posle-podachi-signala-bedstviia-izi",
-        "https://iz.ru/2179897/sredniaia-pensiia-v-moskve-prevysila-27-tys-rublei-v-avguste-izi",
-        "https://iz.ru/2179918/lukashenko-pozdravil-putina-s-dnem-rozhdeniia-izi",
-        "https://iz.ru/2179920/siloviki-soobshchili-o-perebroske-vsu-defektnoi-artillerii-v-raion-sum-izi",
-        "https://iz.ru/2179930/odin-iz-ranenykh-pri-napadenii-v-spetcvagone-v-kbr-umer-izi",
-        "https://iz.ru/2179937/soldaty-vsu-starshe-60-let-sdalis-bez-boia-v-plen-rossiiskomu-boitcu-izi",
-        "https://iz.ru/2179945/rossiia-dostigla-polnoi-samoobespechennosti-kartofelem-izi",
-        "https://iz.ru/2179950/v-tatarstane-vosstanovili-dvizhenie-posle-obrusheniia-peshekhodnogo-perekhoda-izi",
-        "https://iz.ru/2179954/zhurnalist-iz-kipra-dopustil-usilenie-rossiiskikh-udarov-po-vpk-ukrainy-izi",
-        "https://iz.ru/2179959/v-kazakhstane-uvolili-eshche-odnogo-zamministra-oborony-posle-gibeli-14-voennykh-izi",
-        "https://iz.ru/2179961/voditel-avtobusa-udaril-rebenka-v-berezovskom-posle-spora-o-sdache-izi",
-        "https://iz.ru/2179968/messi-khotel-uiti-no-vernulsia-i-privel-argentinu-k-slave-istoriia-vozvrashcheniia-izi",
-        "https://iz.ru/2179976/mask-nazval-protesty-shkolnikov-vo-frantcii-medlennym-vtorzheniem-izi",
-        "https://iz.ru/2179978/ozhirenie-pri-dementcii-okazalos-sviazano-s-nizkim-riskom-smerti-izi",
-        "https://iz.ru/2179979/pastor-iz-iuar-nazval-12-i-13-oktiabria-datami-kontca-sveta-izi",
-        "https://iz.ru/2179984/zakharova-nazvala-preduprezhdenie-mid-rf-dlia-inostrantcev-v-kieve-predelno-iasnym-izi",
-        "https://iz.ru/2179986/v-ssha-priznali-preimushchestvo-rossiiskikh-istrebitelei-su-57-pered-ukrainskimi-f-16-izi",
-        "https://iz.ru/2180000/politico-soobshchila-o-sporakh-v-evrosoiuze-iz-za-dostupa-ukrainy-k-sredstvam-fonda-izi",
-        "https://iz.ru/2180001/mekhanizator-pogib-pri-atake-ukrainskogo-drona-na-traktor-v-kurskoi-oblasti-izi",
-        "https://iz.ru/2180009/deti-zabili-kamniami-kota-i-ptitc-v-moskve-izi"
+        "https://iz.ru/2180014/porsche-sokratit-40-upravlentcev-i-prodolzhit-investirovat-v-dvs-izi",
+        "https://iz.ru/2180016/fiziki-uvideli-sledy-kvarkov-v-materii-rannei-vselennoi-izi",
+        "https://iz.ru/2180021/v-ssha-vpervye-posle-vtoroi-mirovoi-voiny-kazniat-voennogo-cherez-rasstrel-izi",
+        "https://iz.ru/2180027/karta-spetcoperatcii-na-ukraine-7-oktiabria-izi",
+        "https://iz.ru/2180041/gref-sravnil-rossiiskii-biznes-rebenkom-dlia-gosudarstva-izi",
+        "https://iz.ru/2180043/nachalas-likvidatciia-posledstvii-ataki-na-tanker-v-chernom-more-chto-izvestno-izi",
+        "https://iz.ru/2180052/uchenye-soobshchili-o-sviazi-snizheniia-slukha-s-dementciei-izi",
+        "https://iz.ru/2180054/shkolnik-utonul-vo-vremia-ozdorovitelnoi-fizkultury-v-adygee-izi",
+        "https://iz.ru/2180057/uchenye-vpervye-uvideli-sviaz-perenosa-elektronov-i-protonov-s-vodoi-izi",
+        "https://iz.ru/2180059/na-fasade-doma-detstva-putina-v-peterburge-poiavilas-tcitata-o-schaste-izi",
+        "https://iz.ru/2180063/v-rst-oprovergli-soobshcheniia-o-massovykh-otkazakh-turetckikh-otelei-zaseliat-muzhchin-izi",
+        "https://iz.ru/2180064/rubio-iskliuchil-priobretenie-iranom-iadernogo-oruzhiia-v-budushchem-izi",
+        "https://iz.ru/2180067/evrokomissiia-vydelila-ukraine-eu124-mlrd-na-proizvodstvo-oruzhiia-izi",
+        "https://iz.ru/2180068/grazhdanin-gruzii-planiroval-sbyvat-za-rubezh-radioaktivnyi-uran-za-700-tys-izi",
+        "https://iz.ru/2180069/dvoe-postradavshikh-pri-chp-v-poezde-vladikavkaz-adler-nakhodiatsia-v-bolnitcakh-kbr-izi",
+        "https://iz.ru/2180076/rebenok-pogib-pri-raketnom-obstrele-vsu-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2180078/v-kremle-prokommentirovali-ispytaniia-novoi-ballisticheskoi-rakety-frantcii-izi",
+        "https://iz.ru/2180080/v-kremle-otcenili-ispytatelnyi-zapusk-frantcuzskoi-ballisticheskoi-rakety-izi",
+        "https://iz.ru/2180083/uchenye-rasskazali-o-novom-podkhode-k-borbe-s-bolezniu-parkinsona-izi",
+        "https://iz.ru/2180105/v-indii-predlozhili-plan-peremiriia-na-ukraine-iz-trekh-punktov-izi"
       ]
     },
     "2026-10-08": {
-      "totalChecked": 947,
-      "totalIzi": 206,
+      "totalChecked": 943,
+      "totalIzi": 205,
       "totalIiz": 2,
-      "totalAi": 208,
+      "totalAi": 207,
       "topLinks": [
-        "https://iz.ru/2179996/defitcit-sna-predlozhili-otcenivat-po-individualnym-privychkam-cheloveka-IZI",
         "https://iz.ru/2180098/narodnye-primety-na-8-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2180133/podlodka-kursk-khronika-poslednikh-chasov-i-spasatelnoi-operatcii-izi",
         "https://iz.ru/2180282/fizicheskaia-aktivnost-okazalas-vazhnoi-chastiu-kontrolia-khronicheskikh-boleznei-izi",
@@ -231,11 +230,12 @@
         "https://iz.ru/2180598/analitik-predupredil-o-priblizhenii-konflikta-na-ukraine-k-armageddonu-iz-za-nato-izi",
         "https://iz.ru/2180605/eksport-prodovolstviia-s-ukrainy-v-avguste-sokratilsia-na-225-izi",
         "https://iz.ru/2180609/na-klavu-koku-podali-isk-za-neuplatu-schetov-po-zhku-izi",
-        "https://iz.ru/2180613/volodin-predlozhil-schitat-vyvod-deneg-za-rubezh-otiagchaiushchim-obstoiatelstvom-izi"
+        "https://iz.ru/2180613/volodin-predlozhil-schitat-vyvod-deneg-za-rubezh-otiagchaiushchim-obstoiatelstvom-izi",
+        "https://iz.ru/2180615/sily-pvo-unichtozhili-dva-ukrainskikh-bespilotnika-nad-riazanskoi-oblastiu-izi"
       ]
     },
     "2026-10-09": {
-      "totalChecked": 957,
+      "totalChecked": 955,
       "totalIzi": 201,
       "totalIiz": 3,
       "totalAi": 204,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-14": {
-      "totalChecked": 239,
-      "totalIzi": 40,
+      "totalChecked": 548,
+      "totalIzi": 145,
       "totalIiz": 3,
-      "totalAi": 43,
+      "totalAi": 148,
       "topLinks": [
         "https://iz.ru/2183016/uchenye-nazvali-dopustimoe-vremia-dolgogo-sideniia-izi",
         "https://iz.ru/2183286/uchenye-sviazali-bessonnitcu-s-simptomami-depressii-izi",
