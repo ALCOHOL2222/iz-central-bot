@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:08:10.948Z",
+  "generatedAt": "2026-10-15T15:13:30.579Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-10-08": {
-      "totalChecked": 822,
-      "totalIzi": 192,
+      "totalChecked": 642,
+      "totalIzi": 158,
       "totalIiz": 1,
-      "totalAi": 193,
+      "totalAi": 159,
       "topLinks": [
-        "https://iz.ru/2180589/umerla-razrabotchik-po-dlia-vysadki-apollona-11-margaret-gamilton-izi",
-        "https://iz.ru/2180598/analitik-predupredil-o-priblizhenii-konflikta-na-ukraine-k-armageddonu-iz-za-nato-izi",
-        "https://iz.ru/2180605/eksport-prodovolstviia-s-ukrainy-v-avguste-sokratilsia-na-225-izi",
-        "https://iz.ru/2180609/na-klavu-koku-podali-isk-za-neuplatu-schetov-po-zhku-izi",
-        "https://iz.ru/2180613/volodin-predlozhil-schitat-vyvod-deneg-za-rubezh-otiagchaiushchim-obstoiatelstvom-izi",
-        "https://iz.ru/2180615/sily-pvo-unichtozhili-dva-ukrainskikh-bespilotnika-nad-riazanskoi-oblastiu-izi",
-        "https://iz.ru/2180625/reuters-uznalo-o-peregovorakh-rossii-i-ssha-po-severnomu-potoku-izi",
-        "https://iz.ru/2180627/tcentru-spetcialnogo-naznacheniia-fsb-rossii-ispolnilos-28-let-izi",
-        "https://iz.ru/2180632/v-kremle-zaiavili-ob-otsutstvii-tochnykh-dat-vizita-pashiniana-v-rossiiu-izi",
-        "https://iz.ru/2180640/prokuratura-nachala-proverku-posle-zaderzhki-skoroi-u-shlagbauma-v-novosibirske-izi",
-        "https://iz.ru/2180654/direktora-parka-patriot-vasileva-zapodozrili-v-poluchenii-krupnoi-vziatki-izi",
-        "https://iz.ru/2180660/v-krymu-nazvali-shkurnym-interesom-podderzhku-ukrainy-mertcem-izi",
-        "https://iz.ru/2180677/sudia-v-meksike-umer-posle-broska-restlera-na-ring-izi",
-        "https://iz.ru/2180685/uchenye-rasskazali-o-rannikh-priznakakh-riska-khronicheskoi-tazovoi-boli-izi",
-        "https://iz.ru/2180698/pliazhi-siriusa-otkryli-posle-ataki-bezekipazhnykh-katerov-na-tanker-izi",
-        "https://iz.ru/2180699/zakharova-otmetila-nesposobnost-zelenskogo-skryvat-masshtaby-korruptcii-v-strane-izi",
-        "https://iz.ru/2180711/vladeltcev-restorana-ubili-i-podozhgli-ikh-zavedenie-vo-vladivostoke-izi",
-        "https://iz.ru/2180721/uchenye-vyiavili-prepiatstviia-dlia-raznoobraznogo-pitaniia-izi",
-        "https://iz.ru/2180724/sem-grobov-i-tainstvennyi-iashchik-nashli-u-rezidentcii-gubernatora-severnoi-dakoty-izi",
-        "https://iz.ru/2180727/v-sovete-bezopasnosti-prokommentirovali-sozdanie-novogo-data-tcentra-v-armenii-izi"
+        "https://iz.ru/2180804/pisatelnitca-enn-karson-biografiia-izi",
+        "https://iz.ru/2180819/v-podmoskove-vremenno-propala-onlain-pokupka-biletov-na-avtobusy-izi",
+        "https://iz.ru/2180827/glava-mvd-litvy-predlozhil-kontrolirovat-marshrut-avtomobilei-rossiian-izi",
+        "https://iz.ru/2180834/zhitel-stavropolia-v-kachestve-vziatki-predlozhil-sotrudnikam-dps-dvukh-baranov-izi",
+        "https://iz.ru/2180838/v-rossii-dolia-it-otrasli-v-vvp-udvoilas-za-shest-let-izi",
+        "https://iz.ru/2180848/v-rf-za-10-let-na-23-sokratilos-kolichestvo-neschastnykh-sluchaev-na-proizvodstve-izi",
+        "https://iz.ru/2180860/astronomy-nashli-samuiu-moshchnuiu-radiogalaktiku-rannei-vselennoi-izi",
+        "https://iz.ru/2180862/khaibullov-rasskazal-o-budushchem-tcifrovykh-platform-vk-izi",
+        "https://iz.ru/2180866/teatr-na-ordynke-otkrylsia-posle-remonta-v-zamoskvoreche-izi",
+        "https://iz.ru/2180869/ispanetc-dzhonatan-alba-vozglavil-futbolnyi-klub-rodina-izi",
+        "https://iz.ru/2180871/moskvich-vybrosil-chetyrekh-kotov-s-20-etazha-izi",
+        "https://iz.ru/2180884/v-britanii-soobshchili-ob-obnaruzhenii-rossiei-uiazvimosti-ukrainskoi-pvo-izi",
+        "https://iz.ru/2180887/obviniaemogo-v-mnogomillionnom-moshennichestve-ekstradirovali-iz-oae-v-rossiiu-izi",
+        "https://iz.ru/2180889/posolstvo-rossii-soobshchilo-ob-otsutstvii-pogibshikh-pri-dtp-v-tokio-izi",
+        "https://iz.ru/2180894/uchenye-rasskazali-o-vozmozhnoi-sviazi-anoreksii-s-genom-khraneniia-zhira-izi",
+        "https://iz.ru/2180895/bespilotnik-vsu-atakoval-severnyi-promyshlennyi-uzel-omska-izi",
+        "https://iz.ru/2180904/sk-napravil-v-sud-delo-o-napadenii-kosmetologa-na-zhurnalistov-izvestii-izi",
+        "https://iz.ru/2180906/s-glavy-doma-s-maiakom-moniavy-sniali-vse-sudebnye-ogranicheniia-izi",
+        "https://iz.ru/2180908/sud-priznal-prava-zhukova-i-potekhina-na-sem-khitov-gruppy-ruki-vverkh-izi",
+        "https://iz.ru/2180915/uchenye-rasskazali-o-roli-belka-lmod1-v-vosstanovlenii-myshtc-izi"
       ]
     },
     "2026-10-09": {
-      "totalChecked": 952,
-      "totalIzi": 199,
+      "totalChecked": 943,
+      "totalIzi": 197,
       "totalIiz": 3,
-      "totalAi": 202,
+      "totalAi": 200,
       "topLinks": [
-        "https://iz.ru/2180664/uchenye-iskliuchili-sviaz-transzhirov-s-riskom-serdechnykh-zabolevanii-izi",
-        "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
         "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
         "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi",
@@ -231,17 +229,17 @@
         "https://iz.ru/2181231/v-stambule-vo-vremia-obrusheniia-zhilogo-doma-pogibli-piat-chelovek-izi",
         "https://iz.ru/2181233/putin-pribyl-na-sammit-sng-v-turkmenbashi-izi",
         "https://iz.ru/2181238/vs-rossii-raketnym-udarom-razrushili-most-cherez-oskol-na-kupianskom-napravlenii-izi",
-        "https://iz.ru/2181243/ukraine-ne-khvataet-67-mlrd-dlia-finansirovaniia-voennykh-raskhodov-v-2027-godu-izi"
+        "https://iz.ru/2181243/ukraine-ne-khvataet-67-mlrd-dlia-finansirovaniia-voennykh-raskhodov-v-2027-godu-izi",
+        "https://iz.ru/2181255/vs-rf-nanesli-udary-po-portovoi-infrastrukture-ukrainy-i-morskim-sudam-izi",
+        "https://iz.ru/2181256/armiia-rossii-porazila-sukhogruz-s-voennymi-gruzami-v-portu-nikolaeva-izi"
       ]
     },
     "2026-10-10": {
-      "totalChecked": 597,
-      "totalIzi": 176,
+      "totalChecked": 591,
+      "totalIzi": 174,
       "totalIiz": 2,
-      "totalAi": 178,
+      "totalAi": 176,
       "topLinks": [
-        "https://iz.ru/2180720/uchenye-vyiavili-sviaz-vitaminov-d2-i-d3-v-organizme-izi",
-        "https://iz.ru/2180772/analiz-krovi-vyiavil-rannii-priznak-bolezni-altcgeimera-pri-sindrome-dauna-izi",
         "https://iz.ru/2180953/uchenye-rasskazali-o-roli-okislennykh-lipidov-pri-khronicheskom-vospalenii-izi",
         "https://iz.ru/2181285/uchenye-izuchili-rol-silovykh-trenirovok-dlia-organizma-izi",
         "https://iz.ru/2181301/narodnye-primety-na-10-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,11 +257,13 @@
         "https://iz.ru/2181918/v-gosdume-soobshchili-ob-otsutstvii-sokrashchennogo-rabochego-dnia-30-dekabria-izi",
         "https://iz.ru/2181922/v-sumskoi-oblasti-unichtozhili-ofitcerov-vsu-iz-chisla-ideinykh-natcistov-izi",
         "https://iz.ru/2181924/shest-zhitelei-rostova-na-donu-obratilis-za-medpomoshchiu-iz-za-ataki-vsu-izi",
-        "https://iz.ru/2181930/sredstva-pvo-za-noch-sbili-560-ukrainskikh-bespilotnikov-nad-regionami-rf-izi"
+        "https://iz.ru/2181930/sredstva-pvo-za-noch-sbili-560-ukrainskikh-bespilotnikov-nad-regionami-rf-izi",
+        "https://iz.ru/2181931/reaktivnyi-dron-perekhvatchik-gadiuka-smozhet-sbivat-do-20-bpla-za-vylet-izi",
+        "https://iz.ru/2181933/reuters-zaiavilo-o-namerenii-ssha-bystro-soglasovat-predlozheniia-po-ukraine-izi"
       ]
     },
     "2026-10-11": {
-      "totalChecked": 510,
+      "totalChecked": 508,
       "totalIzi": 118,
       "totalIiz": 6,
       "totalAi": 124,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-15": {
-      "totalChecked": 316,
-      "totalIzi": 70,
+      "totalChecked": 622,
+      "totalIzi": 133,
       "totalIiz": 0,
-      "totalAi": 70,
+      "totalAi": 133,
       "topLinks": [
         "https://iz.ru/2183559/uchenye-ukazali-na-risk-ignorirovaniia-zhenshchin-s-igrovym-rasstroistvom-izi",
         "https://iz.ru/2183885/uchenye-otmetili-sposobnost-iaichnikov-meniatsia-posle-menopauzy-izi",
