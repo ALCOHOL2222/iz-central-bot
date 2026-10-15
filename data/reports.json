@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:05:46.353Z",
+  "generatedAt": "2026-10-15T04:54:48.134Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-10-07": {
-      "totalChecked": 549,
-      "totalIzi": 118,
+      "totalChecked": 516,
+      "totalIzi": 111,
       "totalIiz": 1,
-      "totalAi": 119,
+      "totalAi": 112,
       "topLinks": [
-        "https://iz.ru/2180436/bolgariia-namerena-priobresti-piat-dopolnitelnykh-zenitno-raketnykh-kompleksov-izi",
-        "https://iz.ru/2180447/rossiiskii-dizainer-gosha-rubchinskii-biografiia-izi",
-        "https://iz.ru/2180451/saldo-soobshchil-ob-unichtozhenii-vsu-mashin-s-gumanitarnoi-pomoshchiu-dlia-aleshek-izi",
-        "https://iz.ru/2180459/zhurnalist-viktor-levinzon-propal-v-lenoblasti-izi",
-        "https://iz.ru/2180475/stoimost-benzina-snizilas-v-27-regionakh-rossii-izi",
-        "https://iz.ru/2180486/tri-cheloveka-pogibli-v-rezultate-atak-na-aeroporty-v-saudovskoi-aravii-izi",
-        "https://iz.ru/2180499/moshenniki-stali-vymanivat-u-rossiian-dannye-pod-vidom-obnovleniia-gosuslug-izi",
         "https://iz.ru/2177262/sokrovishcha-ischezaiut-iz-zalov-kak-ogrableniia-meniaiut-muzei-evropy-izi",
         "https://iz.ru/2178929/anatomiia-krasoty-uchenye-obnaruzhili-dva-mekhanizma-esteticheskogo-vospriiatiia-izi",
         "https://iz.ru/2179010/pamiat-liubit-pauzy-uchenye-raskryli-polzu-spokoinogo-otdykha-izi",
@@ -175,16 +168,22 @@
         "https://iz.ru/2179856/armii-izrailia-prikazali-gotovitsia-k-voine-s-palestinoi-izi",
         "https://iz.ru/2179859/opros-pokazal-nezhelanie-bolshinstva-ukraintcev-vozvrashchatsia-iz-polshi-izi",
         "https://iz.ru/2179865/amerikanskaia-aktrisa-eva-mari-seint-biografiia-izi",
-        "https://iz.ru/2179870/messi-sygraet-proshchalnyi-match-za-argentinu-protiv-benina-izi"
+        "https://iz.ru/2179870/messi-sygraet-proshchalnyi-match-za-argentinu-protiv-benina-izi",
+        "https://iz.ru/2179875/v-op-dali-sovety-po-zashchite-detei-ot-travli-v-shkole-izi",
+        "https://iz.ru/2179879/matvienko-rasskazala-o-razvitii-sotrudnichestva-rossii-i-turkmenistana-izi",
+        "https://iz.ru/2179881/nazvany-prostye-dlia-nakhozhdeniia-raboty-otrasli-izi",
+        "https://iz.ru/2179895/samolet-easyjet-ekstrenno-sel-v-niderlandakh-posle-podachi-signala-bedstviia-izi",
+        "https://iz.ru/2179897/sredniaia-pensiia-v-moskve-prevysila-27-tys-rublei-v-avguste-izi",
+        "https://iz.ru/2179918/lukashenko-pozdravil-putina-s-dnem-rozhdeniia-izi",
+        "https://iz.ru/2179920/siloviki-soobshchili-o-perebroske-vsu-defektnoi-artillerii-v-raion-sum-izi"
       ]
     },
     "2026-10-08": {
-      "totalChecked": 915,
-      "totalIzi": 203,
+      "totalChecked": 896,
+      "totalIzi": 202,
       "totalIiz": 1,
-      "totalAi": 204,
+      "totalAi": 203,
       "topLinks": [
-        "https://iz.ru/2180488/gvardii-riadovoi-bukhtalko-vynes-s-polia-boia-piaterykh-ranenykh-sosluzhivtcev-izi",
         "https://iz.ru/2180509/krupneishaia-koloniia-pingvinov-v-antarktike-sokratilas-na-dve-treti-izi",
         "https://iz.ru/2180511/smi-soobshchili-o-vozmozhnom-krizise-v-es-iz-za-finansovykh-problem-vo-frantcii-izi",
         "https://iz.ru/2180516/smi-soobshchili-o-slozhnom-finansovom-polozhenii-zaderzhannogo-eks-glavy-razvedki-frg-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2180615/sily-pvo-unichtozhili-dva-ukrainskikh-bespilotnika-nad-riazanskoi-oblastiu-izi",
         "https://iz.ru/2180625/reuters-uznalo-o-peregovorakh-rossii-i-ssha-po-severnomu-potoku-izi",
         "https://iz.ru/2180627/tcentru-spetcialnogo-naznacheniia-fsb-rossii-ispolnilos-28-let-izi",
-        "https://iz.ru/2180632/v-kremle-zaiavili-ob-otsutstvii-tochnykh-dat-vizita-pashiniana-v-rossiiu-izi"
+        "https://iz.ru/2180632/v-kremle-zaiavili-ob-otsutstvii-tochnykh-dat-vizita-pashiniana-v-rossiiu-izi",
+        "https://iz.ru/2180640/prokuratura-nachala-proverku-posle-zaderzhki-skoroi-u-shlagbauma-v-novosibirske-izi"
       ]
     },
     "2026-10-09": {
@@ -375,13 +375,31 @@
       ]
     },
     "2026-10-15": {
-      "totalChecked": 98,
-      "totalIzi": 2,
+      "totalChecked": 183,
+      "totalIzi": 42,
       "totalIiz": 0,
-      "totalAi": 2,
+      "totalAi": 42,
       "topLinks": [
+        "https://iz.ru/2183559/uchenye-ukazali-na-risk-ignorirovaniia-zhenshchin-s-igrovym-rasstroistvom-izi",
+        "https://iz.ru/2183885/uchenye-otmetili-sposobnost-iaichnikov-meniatsia-posle-menopauzy-izi",
+        "https://iz.ru/2183914/dve-sistemy-smekha-kak-mozg-upravliaet-emotciiami-i-rechiu-izi",
+        "https://iz.ru/2183948/2026-10-15/uchenye-rasskazali-o-mekhanizme-ustoichivosti-raka-podzheludochnoi-k-lecheniiu-izi",
+        "https://iz.ru/2183972/uchenye-sviazali-usloviia-zhizni-s-psikhicheskim-zdorovem-detei-s-invalidnostiu-izi",
+        "https://iz.ru/2184064/uchenye-rasskazali-ob-effekte-io-io-pri-pokhudenii-izi",
         "https://iz.ru/2184392/2026-10-15/riadovoi-soldatov-prodolzhil-boi-s-raneniem-i-likvidiroval-troikh-protivnikov-izi",
-        "https://iz.ru/2184392/2026-10-15/riadovoi-soldatov-prodolzhil-boi-s-raneniem-i-likvidiroval-troikh-protivnikov-izi"
+        "https://iz.ru/2184426/glava-fbr-potreboval-izvinenii-ot-ms-now-za-lozhnoe-soobshchenie-o-vizite-v-rossiiu-izi",
+        "https://iz.ru/2184427/khusity-zaiavili-o-porazhenii-istrebitelia-vvs-saudovskoi-aravii-nad-jemenom-izi",
+        "https://iz.ru/2184429/tcska-oderzhal-pobedu-nad-rostovom-na-gruppovom-etape-kubka-rossii-izi",
+        "https://iz.ru/2184432/tramp-prigrozil-rasstrelom-vinovnym-v-utechkakh-sekretnoi-informatcii-izi",
+        "https://iz.ru/2184436/ekspert-soobshchil-o-vyplate-dvukh-pensii-v-dekabre-izi",
+        "https://iz.ru/2184438/postpred-rf-obvinil-zapad-v-dvoinykh-standartakh-po-ukrainskomu-krizisu-izi",
+        "https://iz.ru/2184439/moshenniki-poltora-goda-obmanyvali-zhitelia-moskvy-i-pokhishchali-ego-dengi-izi",
+        "https://iz.ru/2184440/ft-uznala-o-predlozhenii-ssha-razmorozit-chast-rossiiskikh-aktivov-izi",
+        "https://iz.ru/2184441/nyp-dopustila-poiavlenie-rossiiskogo-diztopliva-v-ssha-v-blizhaishie-dve-nedeli-izi",
+        "https://iz.ru/2184443/2026-10-15/plennyi-iz-vsu-rasskazal-o-premiiakh-sotrudnikam-ttck-za-poimku-liudei-izi",
+        "https://iz.ru/2184446/tramp-poobeshchal-iranu-bolshe-ne-ubivat-ego-liderov-izi",
+        "https://iz.ru/2184447/velikobritaniia-vydelit-ukraine-22-mln-na-remont-chernobylskoi-aes-izi",
+        "https://iz.ru/2184453/v-minobrnauki-predlozhili-vvesti-predoplatu-za-pervyi-semestr-obucheniia-v-vuze-izi"
       ]
     }
   }
