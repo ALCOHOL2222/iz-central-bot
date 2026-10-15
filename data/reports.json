@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:54:48.134Z",
+  "generatedAt": "2026-10-15T10:08:10.948Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,21 +179,11 @@
       ]
     },
     "2026-10-08": {
-      "totalChecked": 896,
-      "totalIzi": 202,
+      "totalChecked": 822,
+      "totalIzi": 192,
       "totalIiz": 1,
-      "totalAi": 203,
+      "totalAi": 193,
       "topLinks": [
-        "https://iz.ru/2180509/krupneishaia-koloniia-pingvinov-v-antarktike-sokratilas-na-dve-treti-izi",
-        "https://iz.ru/2180511/smi-soobshchili-o-vozmozhnom-krizise-v-es-iz-za-finansovykh-problem-vo-frantcii-izi",
-        "https://iz.ru/2180516/smi-soobshchili-o-slozhnom-finansovom-polozhenii-zaderzhannogo-eks-glavy-razvedki-frg-izi",
-        "https://iz.ru/2180528/bloomberg-raskrylo-prichinu-popadaniia-detalei-amerikanskogo-f-35-v-kitai-izi",
-        "https://iz.ru/2180532/ekspert-nazval-bezopasnoe-kolichestvo-vremeni-dlia-udeleniia-podrabotke-izi",
-        "https://iz.ru/2180534/moshenniki-zvoniat-rossiianam-pod-vidom-provaiderov-i-predlagaiut-smenit-tarif-izi",
-        "https://iz.ru/2180540/raschety-gaubitc-msta-s-unichtozhili-opornye-punkty-vsu-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2180570/khusity-zaiavili-ob-atake-na-aeroport-er-riiada-ballisticheskoi-raketoi-izi",
-        "https://iz.ru/2180577/vnuk-de-gollia-predlozhil-sposob-borby-s-evropeiskoi-propagandoi-izi",
-        "https://iz.ru/2180581/v-bundestage-zaiavili-o-razdache-milliardov-ukraine-vmesto-pomoshchi-nemtcam-izi",
         "https://iz.ru/2180589/umerla-razrabotchik-po-dlia-vysadki-apollona-11-margaret-gamilton-izi",
         "https://iz.ru/2180598/analitik-predupredil-o-priblizhenii-konflikta-na-ukraine-k-armageddonu-iz-za-nato-izi",
         "https://iz.ru/2180605/eksport-prodovolstviia-s-ukrainy-v-avguste-sokratilsia-na-225-izi",
@@ -203,7 +193,17 @@
         "https://iz.ru/2180625/reuters-uznalo-o-peregovorakh-rossii-i-ssha-po-severnomu-potoku-izi",
         "https://iz.ru/2180627/tcentru-spetcialnogo-naznacheniia-fsb-rossii-ispolnilos-28-let-izi",
         "https://iz.ru/2180632/v-kremle-zaiavili-ob-otsutstvii-tochnykh-dat-vizita-pashiniana-v-rossiiu-izi",
-        "https://iz.ru/2180640/prokuratura-nachala-proverku-posle-zaderzhki-skoroi-u-shlagbauma-v-novosibirske-izi"
+        "https://iz.ru/2180640/prokuratura-nachala-proverku-posle-zaderzhki-skoroi-u-shlagbauma-v-novosibirske-izi",
+        "https://iz.ru/2180654/direktora-parka-patriot-vasileva-zapodozrili-v-poluchenii-krupnoi-vziatki-izi",
+        "https://iz.ru/2180660/v-krymu-nazvali-shkurnym-interesom-podderzhku-ukrainy-mertcem-izi",
+        "https://iz.ru/2180677/sudia-v-meksike-umer-posle-broska-restlera-na-ring-izi",
+        "https://iz.ru/2180685/uchenye-rasskazali-o-rannikh-priznakakh-riska-khronicheskoi-tazovoi-boli-izi",
+        "https://iz.ru/2180698/pliazhi-siriusa-otkryli-posle-ataki-bezekipazhnykh-katerov-na-tanker-izi",
+        "https://iz.ru/2180699/zakharova-otmetila-nesposobnost-zelenskogo-skryvat-masshtaby-korruptcii-v-strane-izi",
+        "https://iz.ru/2180711/vladeltcev-restorana-ubili-i-podozhgli-ikh-zavedenie-vo-vladivostoke-izi",
+        "https://iz.ru/2180721/uchenye-vyiavili-prepiatstviia-dlia-raznoobraznogo-pitaniia-izi",
+        "https://iz.ru/2180724/sem-grobov-i-tainstvennyi-iashchik-nashli-u-rezidentcii-gubernatora-severnoi-dakoty-izi",
+        "https://iz.ru/2180727/v-sovete-bezopasnosti-prokommentirovali-sozdanie-novogo-data-tcentra-v-armenii-izi"
       ]
     },
     "2026-10-09": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-15": {
-      "totalChecked": 183,
-      "totalIzi": 42,
+      "totalChecked": 316,
+      "totalIzi": 70,
       "totalIiz": 0,
-      "totalAi": 42,
+      "totalAi": 70,
       "topLinks": [
         "https://iz.ru/2183559/uchenye-ukazali-na-risk-ignorirovaniia-zhenshchin-s-igrovym-rasstroistvom-izi",
         "https://iz.ru/2183885/uchenye-otmetili-sposobnost-iaichnikov-meniatsia-posle-menopauzy-izi",
