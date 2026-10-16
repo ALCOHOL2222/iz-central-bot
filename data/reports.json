@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:31:33.348Z",
+  "generatedAt": "2026-10-16T01:33:50.264Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,15 +151,11 @@
       ]
     },
     "2026-10-08": {
-      "totalChecked": 507,
-      "totalIzi": 111,
+      "totalChecked": 492,
+      "totalIzi": 107,
       "totalIiz": 1,
-      "totalAi": 112,
+      "totalAi": 108,
       "topLinks": [
-        "https://iz.ru/2181057/sily-pvo-za-den-sbili-113-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2181066/federatciia-futbola-azerbaidzhana-ne-podderzhala-prizyv-k-reforme-fifa-izi",
-        "https://iz.ru/2181083/vo-frantcii-uvelichilsia-razryv-mezhdu-le-pen-i-filippom-v-otcenkakh-izbiratelei-izi",
-        "https://iz.ru/2181091/sotrudnitca-mvd-sbila-malchika-na-peshekhodnom-perekhode-na-kubani-izi",
         "https://iz.ru/2181100/peskov-soglasilsia-s-rubio-v-otcenke-perspektiv-peregovorov-po-ukraine-izi",
         "https://iz.ru/2181109/zelenskii-obvinil-ssha-v-nezhelanii-vypolniat-zaprosy-ukrainy-izi",
         "https://iz.ru/2142945/ot-merilin-monro-do-korolevskoi-semi-s-kem-okazalis-rodstvennikami-znamenitosti-izi",
@@ -175,11 +171,15 @@
         "https://iz.ru/2180511/smi-soobshchili-o-vozmozhnom-krizise-v-es-iz-za-finansovykh-problem-vo-frantcii-izi",
         "https://iz.ru/2180516/smi-soobshchili-o-slozhnom-finansovom-polozhenii-zaderzhannogo-eks-glavy-razvedki-frg-izi",
         "https://iz.ru/2180528/bloomberg-raskrylo-prichinu-popadaniia-detalei-amerikanskogo-f-35-v-kitai-izi",
-        "https://iz.ru/2180532/ekspert-nazval-bezopasnoe-kolichestvo-vremeni-dlia-udeleniia-podrabotke-izi"
+        "https://iz.ru/2180532/ekspert-nazval-bezopasnoe-kolichestvo-vremeni-dlia-udeleniia-podrabotke-izi",
+        "https://iz.ru/2180534/moshenniki-zvoniat-rossiianam-pod-vidom-provaiderov-i-predlagaiut-smenit-tarif-izi",
+        "https://iz.ru/2180540/raschety-gaubitc-msta-s-unichtozhili-opornye-punkty-vsu-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2180570/khusity-zaiavili-ob-atake-na-aeroport-er-riiada-ballisticheskoi-raketoi-izi",
+        "https://iz.ru/2180577/vnuk-de-gollia-predlozhil-sposob-borby-s-evropeiskoi-propagandoi-izi"
       ]
     },
     "2026-10-09": {
-      "totalChecked": 925,
+      "totalChecked": 920,
       "totalIzi": 197,
       "totalIiz": 2,
       "totalAi": 199,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-10-15": {
-      "totalChecked": 933,
-      "totalIzi": 196,
+      "totalChecked": 947,
+      "totalIzi": 200,
       "totalIiz": 0,
-      "totalAi": 196,
+      "totalAi": 200,
       "topLinks": [
         "https://iz.ru/2183559/uchenye-ukazali-na-risk-ignorirovaniia-zhenshchin-s-igrovym-rasstroistvom-izi",
         "https://iz.ru/2183885/uchenye-otmetili-sposobnost-iaichnikov-meniatsia-posle-menopauzy-izi",
@@ -375,11 +375,19 @@
       ]
     },
     "2026-10-16": {
-      "totalChecked": 51,
-      "totalIzi": 2,
-      "totalIiz": 1,
-      "totalAi": 3,
+      "totalChecked": 132,
+      "totalIzi": 9,
+      "totalIiz": 2,
+      "totalAi": 11,
       "topLinks": [
+        "https://iz.ru/2184594/narodnye-primety-na-16-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2185027/2026-10-16/gvardii-mladshii-leitenant-korganov-zakhvatil-i-uderzhal-opornyi-punkt-vsu-izi",
+        "https://iz.ru/2185060/v-ntc-rossiia-predstavili-natcionalnyi-arkhitekturnyi-kod-strany-izi",
+        "https://iz.ru/2185075/v-adg-usomnilis-v-versii-ob-odinochnom-ispolnitele-podryva-severnykh-potokov-izi",
+        "https://iz.ru/2185081/mid-nazval-rossiiu-nadezhnym-postavshchikom-energonositelei-izi",
+        "https://iz.ru/2185087/posolstvo-rf-v-polshe-vozlozhilo-na-vsu-otvetstvennost-za-situatciiu-v-aleshkakh-izi",
+        "https://iz.ru/2185089/putin-predostavil-grazhdanstvo-rf-zhurnalistu-lorusso-i-khokkeistu-roiu-izi",
+        "https://iz.ru/2185092/shvetciia-ekstradirovala-v-ssha-rossiianina-po-delu-o-postavkakh-mikroelektroniki-izi",
         "https://iz.ru/2184594/narodnye-primety-na-16-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2185027/2026-10-16/gvardii-mladshii-leitenant-korganov-zakhvatil-i-uderzhal-opornyi-punkt-vsu-izi",
         "https://iz.ru/2185060/v-ntc-rossiia-predstavili-natcionalnyi-arkhitekturnyi-kod-strany-izi"
