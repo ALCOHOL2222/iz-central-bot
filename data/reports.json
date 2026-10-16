@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:22:59.477Z",
+  "generatedAt": "2026-10-16T12:38:59.754Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-10-09": {
-      "totalChecked": 865,
-      "totalIzi": 190,
+      "totalChecked": 713,
+      "totalIzi": 158,
       "totalIiz": 2,
-      "totalAi": 192,
+      "totalAi": 160,
       "topLinks": [
-        "https://iz.ru/2181201/v-mvd-nazvali-nezhelatelnye-dlia-khraneniia-v-telefone-dannye-izi",
-        "https://iz.ru/2181204/tri-cheloveka-postradali-v-dtp-s-reisovym-avtobusom-v-sverdlovskoi-oblasti-izi",
-        "https://iz.ru/2181206/v-minoborony-soobshchili-ob-otkaze-ot-meshaiushchikh-gotovit-soldat-trebovanii-v-khode-svo-izi",
-        "https://iz.ru/2181209/kiprskii-zhurnalist-predupredil-o-posledstviiakh-kritiki-zelenskim-rechi-rubio-izi",
-        "https://iz.ru/2181214/mesto-eks-premera-starmera-v-parlamente-britanii-zaimet-urozhenka-somali-izi",
-        "https://iz.ru/2181224/volontery-iz-kurkina-peredali-uchastnikam-svo-bolee-350-t-gumanitarnoi-pomoshchi-izi",
-        "https://iz.ru/2181231/v-stambule-vo-vremia-obrusheniia-zhilogo-doma-pogibli-piat-chelovek-izi",
-        "https://iz.ru/2181233/putin-pribyl-na-sammit-sng-v-turkmenbashi-izi",
-        "https://iz.ru/2181238/vs-rossii-raketnym-udarom-razrushili-most-cherez-oskol-na-kupianskom-napravlenii-izi",
-        "https://iz.ru/2181243/ukraine-ne-khvataet-67-mlrd-dlia-finansirovaniia-voennykh-raskhodov-v-2027-godu-izi",
-        "https://iz.ru/2181255/vs-rf-nanesli-udary-po-portovoi-infrastrukture-ukrainy-i-morskim-sudam-izi",
-        "https://iz.ru/2181256/armiia-rossii-porazila-sukhogruz-s-voennymi-gruzami-v-portu-nikolaeva-izi",
-        "https://iz.ru/2181257/nazvaniia-gorodov-dno-i-zima-voshli-v-spisok-samykh-neobychnykh-v-rossii-izi",
-        "https://iz.ru/2181268/perevozka-tela-kashpirovskogo-na-ukrainu-mogla-stoit-seme-300-tys-rublei-izi",
-        "https://iz.ru/2181269/analitik-merkuris-ukazal-na-popytki-sbu-skryt-uron-ot-udarov-vs-rf-po-ukraine-izi",
-        "https://iz.ru/2181271/putin-priglasil-liderov-sng-na-prednovogodnii-sammit-v-peterburge-izi",
-        "https://iz.ru/2181279/podruga-volochkovoi-otvetila-na-kritiku-snimkov-baleriny-s-fotoshopom-izi",
-        "https://iz.ru/2181282/moduli-data-tcentra-iandeksa-vyvedeny-iz-stroia-posle-ataki-bpla-v-kaluge-izi",
-        "https://iz.ru/2181284/gitler-mussolini-pobedil-na-vyborakh-mera-v-peru-izi",
-        "https://iz.ru/2181295/sledovatelia-obvinili-v-ischeznovenii-rolex-i-bulgari-lerchek-izi"
+        "https://iz.ru/2181378/sudebnye-pristavy-nachali-protcess-peredachi-docheri-alibasova-mladshego-byvshei-zhene-izi",
+        "https://iz.ru/2181384/rublev-proigral-137-i-raketke-mira-sakamoto-na-turnire-v-shankhae-izi",
+        "https://iz.ru/2181387/gosdep-ssha-predlozhil-10-mln-za-svedeniia-o-sotrudnikakh-rybaria-izi",
+        "https://iz.ru/2181395/putin-soobshchil-o-razrabotke-programmy-izucheniia-kaspiiskogo-moria-do-2030-goda-izi",
+        "https://iz.ru/2181398/prodazhu-okolo-40-mln-par-obuvi-presekli-v-rossii-blagodaria-markirovke-izi",
+        "https://iz.ru/2181413/putin-i-aliev-prodolzhili-obshchenie-posle-kaspiiskogo-ekologicheskogo-sammita-izi",
+        "https://iz.ru/2181416/uchenye-soobshchili-o-sviazi-bioritmov-s-kontrolem-sakhara-pri-diabete-izi",
+        "https://iz.ru/2181418/sovet-direktorov-lukoila-rekomendoval-dividendy-po-535-rublei-na-aktciiu-izi",
+        "https://iz.ru/2181421/putin-zavershil-vizit-v-turkmeniiu-posle-dvukh-sammitov-i-peregovorov-izi",
+        "https://iz.ru/2181425/nazvana-tcel-poezdki-osnovatelia-rybaria-v-chernogoriiu-izi",
+        "https://iz.ru/2181433/razrabotchiki-uvelichili-dalnost-porazheniia-tcelei-antidrona-arkhangel-3-izi",
+        "https://iz.ru/2181435/iurist-nazval-usloviia-dosrochnogo-polucheniia-pensionnykh-nakoplenii-izi",
+        "https://iz.ru/2181441/pravookhraniteli-polshi-prizvali-doveriat-tolko-proverennym-istochnikam-izi",
+        "https://iz.ru/2181447/trener-vasilev-soobshchil-o-podderzhke-perekhoda-syna-pliushchenko-v-sbornuiu-prezidentom-izi",
+        "https://iz.ru/2181454/dvukh-zhitelnitc-zaporozhskoi-oblasti-zaderzhali-po-delu-o-gosizmene-izi",
+        "https://iz.ru/2181469/uchenye-otkryli-novyi-vid-parazitov-ameb-na-dalnem-vostoke-izi",
+        "https://iz.ru/2181473/sledovatel-tulupov-ne-priznal-vinu-po-delu-o-propazhe-ukrashenii-lerchek-izi",
+        "https://iz.ru/2181477/knaisl-ne-iskliuchila-podgotovku-evropy-k-voine-protiv-rossii-izi",
+        "https://iz.ru/2181479/v-iandekse-ne-smogli-nazvat-sroki-vosstanovleniia-data-tcentrov-posle-atak-bpla-izi",
+        "https://iz.ru/2181482/ekspert-predupredil-o-riske-poteri-frantciei-kontrolia-nad-stoimostiu-zaimstvovanii-izi"
       ]
     },
     "2026-10-10": {
-      "totalChecked": 590,
-      "totalIzi": 173,
-      "totalIiz": 2,
-      "totalAi": 175,
+      "totalChecked": 588,
+      "totalIzi": 172,
+      "totalIiz": 1,
+      "totalAi": 173,
       "topLinks": [
-        "https://iz.ru/2181285/uchenye-izuchili-rol-silovykh-trenirovok-dlia-organizma-izi",
-        "https://iz.ru/2181301/narodnye-primety-na-10-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2181793/ushakov-raskryl-podrobnosti-podgotovki-razgovora-putina-i-trampa-izi",
         "https://iz.ru/2181806/zvinchuk-zaiavil-o-namerenii-podat-isk-k-vlastiam-chernogorii-iz-za-iziatoi-tekhniki-izi",
         "https://iz.ru/2181835/telegraph-soobshchila-ob-otkaze-ispanii-i-gretcii-ot-postavok-kievu-pac-2-izi",
@@ -231,11 +229,13 @@
         "https://iz.ru/2181930/sredstva-pvo-za-noch-sbili-560-ukrainskikh-bespilotnikov-nad-regionami-rf-izi",
         "https://iz.ru/2181931/reaktivnyi-dron-perekhvatchik-gadiuka-smozhet-sbivat-do-20-bpla-za-vylet-izi",
         "https://iz.ru/2181933/reuters-zaiavilo-o-namerenii-ssha-bystro-soglasovat-predlozheniia-po-ukraine-izi",
-        "https://iz.ru/2181934/v-adg-obiasnili-nesposobnost-nemtcev-zamenit-mertca-izi"
+        "https://iz.ru/2181934/v-adg-obiasnili-nesposobnost-nemtcev-zamenit-mertca-izi",
+        "https://iz.ru/2181936/sily-pvo-unichtozhili-15-dronov-vsu-na-podlete-k-moskve-izi",
+        "https://iz.ru/2181944/onishchenko-raskryl-prichiny-poiavleniia-osennei-depressii-izi"
       ]
     },
     "2026-10-11": {
-      "totalChecked": 504,
+      "totalChecked": 502,
       "totalIzi": 118,
       "totalIiz": 5,
       "totalAi": 123,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-10-14": {
-      "totalChecked": 1027,
+      "totalChecked": 1026,
       "totalIzi": 268,
       "totalIiz": 3,
       "totalAi": 271,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-16": {
-      "totalChecked": 243,
-      "totalIzi": 47,
+      "totalChecked": 556,
+      "totalIzi": 122,
       "totalIiz": 2,
-      "totalAi": 49,
+      "totalAi": 124,
       "topLinks": [
         "https://iz.ru/2184182/uchenye-raskryli-mekhanizm-vliianiia-stressa-na-plod-pri-beremennosti-izi",
         "https://iz.ru/2184544/uchenye-sviazali-fizicheskuiu-aktivnost-s-uluchsheniem-nastroeniia-pri-menopauze-izi",
