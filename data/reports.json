@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:23:19.438Z",
+  "generatedAt": "2026-10-16T23:48:45.854Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,19 +151,11 @@
       ]
     },
     "2026-10-09": {
-      "totalChecked": 563,
-      "totalIzi": 120,
+      "totalChecked": 536,
+      "totalIzi": 112,
       "totalIiz": 2,
-      "totalAi": 122,
+      "totalAi": 114,
       "topLinks": [
-        "https://iz.ru/2181619/mus-reshitelno-osudil-sanktcii-ssha-protiv-suda-izi",
-        "https://iz.ru/2181620/uchenye-soobshchili-o-vliianii-vospaleniia-kishechnika-na-rabotu-serdtca-izi",
-        "https://iz.ru/2181621/na-solntce-proizoshla-silnaia-vspyshka-klassa-m-izi",
-        "https://iz.ru/2181625/avtory-kanalov-v-makse-zarabotali-15-mln-rublei-na-donatakh-za-neskolko-dnei-izi",
-        "https://iz.ru/2181635/tcentrobank-zafiksiroval-zamedlenie-tempov-prirosta-nalichnykh-v-sentiabre-izi",
-        "https://iz.ru/2181646/sekretom-dolgoletiia-101-letnego-kitaitca-stali-gazirovka-i-massazhnoe-kreslo-izi",
-        "https://iz.ru/2181655/kovalchuk-ukazal-na-rol-dalnego-vostoka-v-vykhode-rossii-na-mirovye-rynki-izi",
-        "https://iz.ru/2181661/arina-averina-rasskazala-o-rasstavanii-s-figuristom-dmitriem-alievym-izi",
         "https://iz.ru/2181693/zakharova-soobshchila-ob-osvobozhdenii-avtorov-telegram-kanala-rybar-izi",
         "https://iz.ru/2181709/chto-proizoshlo-za-den-9-oktiabria-glavnoe-izi",
         "https://iz.ru/2181723/rossiiskaia-figuristka-trusova-pobedila-na-turnire-chellendzher-v-kazakhstane-izi",
@@ -175,11 +167,19 @@
         "https://iz.ru/2181748/es-utverdil-dvukhletnie-torgovye-preferentcii-dlia-80-eksporta-armenii-izi",
         "https://iz.ru/2181765/reuters-soobshchilo-ob-osuzhdenii-mertca-vizita-shredera-na-den-rozhdeniia-putina-izi",
         "https://iz.ru/2181779/nebenzia-zaiavil-ob-otsutstvii-predlozhenii-sotrudnichat-so-sledstviem-po-leiptcigu-izi",
-        "https://iz.ru/2173286/2026-09-09/den-rabotnika-selskogo-khoziaistva-2026-istoriia-traditcii-i-pozdravleniia-iiz"
+        "https://iz.ru/2173286/2026-09-09/den-rabotnika-selskogo-khoziaistva-2026-istoriia-traditcii-i-pozdravleniia-iiz",
+        "https://iz.ru/2179364/uchenye-raskryli-prichiny-sokhraneniia-boli-posle-lecheniia-endometrioza-izi",
+        "https://iz.ru/2180096/uchenye-sviazali-oslozhneniia-pri-beremennosti-s-riskom-boleznei-serdtca-i-pochek-izi",
+        "https://iz.ru/2180252/rannii-perekhod-k-menopauze-sviazali-s-trevogoi-i-depressiei-izi",
+        "https://iz.ru/2180664/uchenye-iskliuchili-sviaz-transzhirov-s-riskom-serdechnykh-zabolevanii-izi",
+        "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
+        "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
+        "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi"
       ]
     },
     "2026-10-10": {
-      "totalChecked": 581,
+      "totalChecked": 577,
       "totalIzi": 172,
       "totalIiz": 1,
       "totalAi": 173,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-10-11": {
-      "totalChecked": 491,
+      "totalChecked": 488,
       "totalIzi": 114,
       "totalIiz": 4,
       "totalAi": 118,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-10-12": {
-      "totalChecked": 932,
+      "totalChecked": 931,
       "totalIzi": 176,
       "totalIiz": 1,
       "totalAi": 177,
@@ -347,10 +347,10 @@
       ]
     },
     "2026-10-16": {
-      "totalChecked": 944,
-      "totalIzi": 177,
+      "totalChecked": 959,
+      "totalIzi": 178,
       "totalIiz": 4,
-      "totalAi": 181,
+      "totalAi": 182,
       "topLinks": [
         "https://iz.ru/2184182/uchenye-raskryli-mekhanizm-vliianiia-stressa-na-plod-pri-beremennosti-izi",
         "https://iz.ru/2184544/uchenye-sviazali-fizicheskuiu-aktivnost-s-uluchsheniem-nastroeniia-pri-menopauze-izi",
@@ -375,11 +375,25 @@
       ]
     },
     "2026-10-17": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 80,
+      "totalIzi": 11,
+      "totalIiz": 2,
+      "totalAi": 13,
+      "topLinks": [
+        "https://iz.ru/2185379/narodnye-primety-na-17-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2185666/riadovoi-abramenko-evakuiroval-ranenogo-voennosluzhashchego-s-peredovoi-izi",
+        "https://iz.ru/2185673/v-peterburge-umer-v-vozraste-74-let-dirizher-i-kompozitor-andrei-medvedev-izi",
+        "https://iz.ru/2185685/politolog-otcenil-znachenie-volchanskogo-kotla-dlia-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2185687/miller-sprognoziroval-dolgosrochnyi-kharakter-vysokikh-tcen-na-gaz-v-evrope-izi",
+        "https://iz.ru/2185379/narodnye-primety-na-17-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2185666/riadovoi-abramenko-evakuiroval-ranenogo-voennosluzhashchego-s-peredovoi-izi",
+        "https://iz.ru/2185673/v-peterburge-umer-v-vozraste-74-let-dirizher-i-kompozitor-andrei-medvedev-izi",
+        "https://iz.ru/2185681/ekspert-nazval-volchanskii-kotel-khorosho-splanirovannoi-operatciei-vs-rf-izi",
+        "https://iz.ru/2185685/politolog-otcenil-znachenie-volchanskogo-kotla-dlia-belgorodskoi-oblasti-izi",
+        "https://iz.ru/2185687/miller-sprognoziroval-dolgosrochnyi-kharakter-vysokikh-tcen-na-gaz-v-evrope-izi",
+        "https://iz.ru/2185694/na-zapade-ukrainy-unichtozhili-zavod-avtokomponentov-sebn-izi",
+        "https://iz.ru/2185696/sredniaia-strakhovaia-pensiia-v-rossii-vyrastet-pochti-na-26-tys-rublei-v-2027-godu-izi"
+      ]
     }
   }
 }
