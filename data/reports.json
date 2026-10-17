@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:54:25.703Z",
+  "generatedAt": "2026-10-17T17:21:58.287Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,31 +179,31 @@
       ]
     },
     "2026-10-10": {
-      "totalChecked": 476,
-      "totalIzi": 157,
+      "totalChecked": 424,
+      "totalIzi": 140,
       "totalIiz": 1,
-      "totalAi": 158,
+      "totalAi": 141,
       "topLinks": [
-        "https://iz.ru/2181931/reaktivnyi-dron-perekhvatchik-gadiuka-smozhet-sbivat-do-20-bpla-za-vylet-izi",
-        "https://iz.ru/2181933/reuters-zaiavilo-o-namerenii-ssha-bystro-soglasovat-predlozheniia-po-ukraine-izi",
-        "https://iz.ru/2181934/v-adg-obiasnili-nesposobnost-nemtcev-zamenit-mertca-izi",
-        "https://iz.ru/2181936/sily-pvo-unichtozhili-15-dronov-vsu-na-podlete-k-moskve-izi",
-        "https://iz.ru/2181944/onishchenko-raskryl-prichiny-poiavleniia-osennei-depressii-izi",
-        "https://iz.ru/2181959/v-rossii-znachitelno-sokratilos-chislo-moshennicheskikh-zvonkov-izi",
-        "https://iz.ru/2181966/dodik-zaiavil-o-namerenii-big-obsudit-stroitelstvo-gazoprovoda-dlia-gaza-iz-rf-izi",
-        "https://iz.ru/2181967/v-kuzbasse-proizoshlo-zemletriasenie-magnitudoi-49-izi",
-        "https://iz.ru/2181972/v-novosibirske-gruppa-deboshirov-izbila-devushku-v-trolleibuse-iz-za-mesta-izi",
-        "https://iz.ru/2181975/v-khersonskoi-oblasti-iz-za-obstrela-vsu-sgorel-tcentralnyi-khram-okruga-izi",
-        "https://iz.ru/2181977/nazvana-prichina-smerti-dizainera-kirilla-gasilina-izi",
-        "https://iz.ru/2181985/na-chukotke-sobaka-spasla-olenevoda-ot-medvedia-izi",
-        "https://iz.ru/2181986/ubiistvo-glavy-uik-pri-atake-bpla-v-khersonskoi-oblasti-stalo-povodom-dlia-dela-sk-izi",
-        "https://iz.ru/2181991/likhachev-ukazal-na-otsutstvie-u-finliandii-novoi-aes-iz-za-rastorgnutogo-kontrakta-izi",
-        "https://iz.ru/2181992/bespilotnik-upal-riadom-so-zdaniem-shkoly-v-donetcke-izi",
-        "https://iz.ru/2182001/belorussiia-zapretila-prodazhu-chaia-greenfield-iz-za-pleseni-izi",
-        "https://iz.ru/2182004/murashko-nazval-ozhirenie-faktorom-riska-tromboza-pri-sakharnom-diabete-izi",
         "https://iz.ru/2182006/v-paname-ne-menee-27-chelovek-postradali-pri-zemletriasenii-izi",
         "https://iz.ru/2182009/rezhim-chs-vveden-v-granitcakh-ulitc-rostova-na-donu-posle-nochnoi-ataki-vsu-izi",
-        "https://iz.ru/2182010/v-germanii-nazvali-gaz-rf-stolpom-blagopoluchiia-germanii-izi"
+        "https://iz.ru/2182010/v-germanii-nazvali-gaz-rf-stolpom-blagopoluchiia-germanii-izi",
+        "https://iz.ru/2182011/prichinoi-avariinoi-posadki-samoleta-v-zabaikale-stala-neispravnost-dvigatelia-izi",
+        "https://iz.ru/2182014/posle-ataki-bpla-v-rostovskoi-oblasti-zaderzhali-poezda-dalnego-sledovaniia-izi",
+        "https://iz.ru/2182017/v-rossii-zapretili-vodu-nabeglavi-i-riad-marok-gruzinskogo-vina-izi",
+        "https://iz.ru/2182019/zheleznodorozhnyi-most-povrezhden-pri-atake-bpla-v-brianskoi-oblasti-izi",
+        "https://iz.ru/2182022/v-orlovskoi-oblasti-povrezhdena-elektropodstantciia-iz-za-ataki-bpla-izi",
+        "https://iz.ru/2182023/vs-rf-v-lobanovke-zablagovremenno-lishali-protivnika-podvoza-snariadov-izi",
+        "https://iz.ru/2182024/doktor-miasnikov-predupredil-o-nesovmestimosti-dvukh-grupp-antibiotikov-s-alkogolem-izi",
+        "https://iz.ru/2182030/pilot-red-bull-ferstappen-vyigral-sprinterskuiu-gonku-na-gran-pri-singapura-izi",
+        "https://iz.ru/2182032/premer-finliandii-orpo-prizval-ostanovit-vydachu-turisticheskikh-viz-rossiianam-izi",
+        "https://iz.ru/2182035/sobianin-soobshchil-o-403-dronakh-letevshikh-k-moskovskomu-regionu-izi",
+        "https://iz.ru/2182039/aktrisa-kravetc-oprovergla-slukhi-ob-uslugakh-surrogatnoi-materi-izi",
+        "https://iz.ru/2182041/putin-s-ponimaniem-vosprinial-chast-predlozhenii-trampa-po-ukraine-izi",
+        "https://iz.ru/2182042/postradavshego-ot-napadeniia-medvedia-podrostka-dostavili-na-lechenie-v-moskvu-izi",
+        "https://iz.ru/2182051/pevitca-prikhodko-nazvala-naviazyvanie-ukrainskogo-iazyka-politicheskoi-manipuliatciei-izi",
+        "https://iz.ru/2182054/v-mvd-predupredili-o-novoi-skheme-moshennichestva-s-golosovaniem-za-znakomykh-izi",
+        "https://iz.ru/2182055/kaganovskaia-i-nekrasov-vziali-serebro-v-tantcakh-na-ldu-na-turnire-v-alma-ate-izi",
+        "https://iz.ru/2182061/deviat-chelovek-pogibli-pri-strelbe-v-pensilvanii-izi"
       ]
     },
     "2026-10-11": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-17": {
-      "totalChecked": 371,
-      "totalIzi": 109,
+      "totalChecked": 486,
+      "totalIzi": 118,
       "totalIiz": 3,
-      "totalAi": 112,
+      "totalAi": 121,
       "topLinks": [
         "https://iz.ru/2184526/2026-10-17/ekspert-predupredil-o-riske-pereplaty-iz-za-ekonomii-na-it-izi",
         "https://iz.ru/2184609/issledovateli-rasskazali-ob-izmenenii-riska-pishchevoi-allergii-po-mere-vzrosleniia-izi",
