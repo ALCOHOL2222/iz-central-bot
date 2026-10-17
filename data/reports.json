@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:48:45.854Z",
+  "generatedAt": "2026-10-17T04:41:37.513Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,21 +151,11 @@
       ]
     },
     "2026-10-09": {
-      "totalChecked": 536,
-      "totalIzi": 112,
+      "totalChecked": 493,
+      "totalIzi": 102,
       "totalIiz": 2,
-      "totalAi": 114,
+      "totalAi": 104,
       "topLinks": [
-        "https://iz.ru/2181693/zakharova-soobshchila-ob-osvobozhdenii-avtorov-telegram-kanala-rybar-izi",
-        "https://iz.ru/2181709/chto-proizoshlo-za-den-9-oktiabria-glavnoe-izi",
-        "https://iz.ru/2181723/rossiiskaia-figuristka-trusova-pobedila-na-turnire-chellendzher-v-kazakhstane-izi",
-        "https://iz.ru/2181724/mid-izrailia-osudil-nagrazhdenie-navi-pillei-nobelevskoi-premiei-mira-izi",
-        "https://iz.ru/2181732/zelenskii-priznal-znachitelnye-povrezhdeniia-energosistemy-na-ukraine-izi",
-        "https://iz.ru/2181736/osnovatel-rybar-zvinchuk-soobshchil-o-vozvrashchenii-domoi-izi",
-        "https://iz.ru/2181740/tramp-soobshchil-ob-uspeshnom-razgovore-s-putinym-izi",
-        "https://iz.ru/2181745/tcska-v-shestoi-raz-obygral-moskovskoe-dinamo-v-kkhl-izi",
-        "https://iz.ru/2181748/es-utverdil-dvukhletnie-torgovye-preferentcii-dlia-80-eksporta-armenii-izi",
-        "https://iz.ru/2181765/reuters-soobshchilo-ob-osuzhdenii-mertca-vizita-shredera-na-den-rozhdeniia-putina-izi",
         "https://iz.ru/2181779/nebenzia-zaiavil-ob-otsutstvii-predlozhenii-sotrudnichat-so-sledstviem-po-leiptcigu-izi",
         "https://iz.ru/2173286/2026-09-09/den-rabotnika-selskogo-khoziaistva-2026-istoriia-traditcii-i-pozdravleniia-iiz",
         "https://iz.ru/2179364/uchenye-raskryli-prichiny-sokhraneniia-boli-posle-lecheniia-endometrioza-izi",
@@ -175,11 +165,21 @@
         "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
         "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
-        "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi"
+        "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi",
+        "https://iz.ru/2181158/dvukh-grazhdan-latvii-zaderzhali-za-proniknovenie-na-bazu-vvs-velikobritanii-izi",
+        "https://iz.ru/2181164/nazvana-skhema-moshennikov-s-prodazhei-snegouborochnoi-tekhniki-v-regionakh-izi",
+        "https://iz.ru/2181166/v-minobrnauki-predlozhili-nachisliat-do-25-ballov-za-vysokie-rezultaty-ege-izi",
+        "https://iz.ru/2181168/v-op-predlozhili-besplatno-obuchat-ottcov-doshkolnikov-v-avtoshkole-izi",
+        "https://iz.ru/2181186/politico-soobshchila-o-riske-poteri-vremennoi-zashchity-dlia-100-tys-ukraintcev-v-ssha-izi",
+        "https://iz.ru/2181201/v-mvd-nazvali-nezhelatelnye-dlia-khraneniia-v-telefone-dannye-izi",
+        "https://iz.ru/2181204/tri-cheloveka-postradali-v-dtp-s-reisovym-avtobusom-v-sverdlovskoi-oblasti-izi",
+        "https://iz.ru/2181206/v-minoborony-soobshchili-ob-otkaze-ot-meshaiushchikh-gotovit-soldat-trebovanii-v-khode-svo-izi",
+        "https://iz.ru/2181209/kiprskii-zhurnalist-predupredil-o-posledstviiakh-kritiki-zelenskim-rechi-rubio-izi",
+        "https://iz.ru/2181214/mesto-eks-premera-starmera-v-parlamente-britanii-zaimet-urozhenka-somali-izi"
       ]
     },
     "2026-10-10": {
-      "totalChecked": 577,
+      "totalChecked": 568,
       "totalIzi": 172,
       "totalIiz": 1,
       "totalAi": 173,
@@ -235,7 +235,7 @@
       ]
     },
     "2026-10-12": {
-      "totalChecked": 931,
+      "totalChecked": 928,
       "totalIzi": 176,
       "totalIiz": 1,
       "totalAi": 177,
@@ -375,24 +375,31 @@
       ]
     },
     "2026-10-17": {
-      "totalChecked": 80,
-      "totalIzi": 11,
-      "totalIiz": 2,
-      "totalAi": 13,
+      "totalChecked": 173,
+      "totalIzi": 48,
+      "totalIiz": 3,
+      "totalAi": 51,
       "topLinks": [
-        "https://iz.ru/2185379/narodnye-primety-na-17-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2185666/riadovoi-abramenko-evakuiroval-ranenogo-voennosluzhashchego-s-peredovoi-izi",
-        "https://iz.ru/2185673/v-peterburge-umer-v-vozraste-74-let-dirizher-i-kompozitor-andrei-medvedev-izi",
-        "https://iz.ru/2185685/politolog-otcenil-znachenie-volchanskogo-kotla-dlia-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2185687/miller-sprognoziroval-dolgosrochnyi-kharakter-vysokikh-tcen-na-gaz-v-evrope-izi",
+        "https://iz.ru/2184526/2026-10-17/ekspert-predupredil-o-riske-pereplaty-iz-za-ekonomii-na-it-izi",
+        "https://iz.ru/2184609/issledovateli-rasskazali-ob-izmenenii-riska-pishchevoi-allergii-po-mere-vzrosleniia-izi",
+        "https://iz.ru/2184633/uchenye-izuchili-chastotu-psikhicheskikh-rasstroistv-u-perezhivshikh-nasilie-ot-partnera-izi",
+        "https://iz.ru/2184709/uchenye-raskryli-vazhnye-dlia-snizheniia-vesa-faktory-izi",
+        "https://iz.ru/2185285/2026-10-17/uchenye-soobshchili-o-sviazi-udaleniia-amiloida-s-menshim-povrezhdeniem-mozga-izi",
+        "https://iz.ru/2185321/2026-10-17/uchenye-rasskazali-o-sviazi-razmera-rakovykh-kletok-s-agressivnostiu-opukholei-izi",
         "https://iz.ru/2185379/narodnye-primety-na-17-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2185666/riadovoi-abramenko-evakuiroval-ranenogo-voennosluzhashchego-s-peredovoi-izi",
         "https://iz.ru/2185673/v-peterburge-umer-v-vozraste-74-let-dirizher-i-kompozitor-andrei-medvedev-izi",
         "https://iz.ru/2185681/ekspert-nazval-volchanskii-kotel-khorosho-splanirovannoi-operatciei-vs-rf-izi",
         "https://iz.ru/2185685/politolog-otcenil-znachenie-volchanskogo-kotla-dlia-belgorodskoi-oblasti-izi",
         "https://iz.ru/2185687/miller-sprognoziroval-dolgosrochnyi-kharakter-vysokikh-tcen-na-gaz-v-evrope-izi",
+        "https://iz.ru/2185692/bloomberg-uznalo-o-planakh-es-usilit-nabliudenie-za-arktikoi-izi",
         "https://iz.ru/2185694/na-zapade-ukrainy-unichtozhili-zavod-avtokomponentov-sebn-izi",
-        "https://iz.ru/2185696/sredniaia-strakhovaia-pensiia-v-rossii-vyrastet-pochti-na-26-tys-rublei-v-2027-godu-izi"
+        "https://iz.ru/2185695/kndr-ispytala-podvodnuiu-torpedu-cham-20-s-iskusstvennym-intellektom-izi",
+        "https://iz.ru/2185696/sredniaia-strakhovaia-pensiia-v-rossii-vyrastet-pochti-na-26-tys-rublei-v-2027-godu-izi",
+        "https://iz.ru/2185711/times-soobshchila-o-podgotovke-voennykh-koalitcii-zhelaiushchikh-k-perebroske-na-ukrainu-izi",
+        "https://iz.ru/2185718/onishchenko-obiasnil-perspektivy-peresadki-golovy-cheloveku-izi",
+        "https://iz.ru/2185724/tramp-otcenil-prezentatciiu-novoi-tesla-ilona-maska-izi",
+        "https://iz.ru/2185731/wsj-rasskazala-o-problemakh-ukrainy-s-perekhvatom-rossiiskikh-dronov-izi"
       ]
     }
   }
