@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:34:10.554Z",
+  "generatedAt": "2026-10-17T13:54:25.703Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,23 +179,11 @@
       ]
     },
     "2026-10-10": {
-      "totalChecked": 530,
-      "totalIzi": 169,
+      "totalChecked": 476,
+      "totalIzi": 157,
       "totalIiz": 1,
-      "totalAi": 170,
+      "totalAi": 158,
       "topLinks": [
-        "https://iz.ru/2181845/raschety-tornado-s-unichtozhili-mesta-razmeshcheniia-vsu-v-zaporozhskoi-oblasti-izi",
-        "https://iz.ru/2181851/v-mvd-nazvali-pravila-bezopasnosti-detei-v-internete-izi",
-        "https://iz.ru/2181866/vashington-obygral-reindzhers-v-matche-reguliarnogo-chempionata-nkhl-izi",
-        "https://iz.ru/2181869/pittsburg-proigral-kolambusu-v-matche-reguliarnogo-chempionata-nkhl-izi",
-        "https://iz.ru/2181897/nazvana-vakansiia-s-samoi-vysokoi-zarplatoi-v-moskve-dlia-sotrudnika-bez-opyta-izi",
-        "https://iz.ru/2181905/passazhirskii-samolet-podal-signal-bedstviia-vo-vremia-poleta-u-beregov-chili-izi",
-        "https://iz.ru/2181909/armiia-rossii-nochiu-nanesla-udar-po-obektam-portovoi-infrastruktury-ukrainy-izi",
-        "https://iz.ru/2181916/tramp-raskritikoval-norvegiiu-iz-za-otkaza-prisudit-emu-premiiu-mira-izi",
-        "https://iz.ru/2181918/v-gosdume-soobshchili-ob-otsutstvii-sokrashchennogo-rabochego-dnia-30-dekabria-izi",
-        "https://iz.ru/2181922/v-sumskoi-oblasti-unichtozhili-ofitcerov-vsu-iz-chisla-ideinykh-natcistov-izi",
-        "https://iz.ru/2181924/shest-zhitelei-rostova-na-donu-obratilis-za-medpomoshchiu-iz-za-ataki-vsu-izi",
-        "https://iz.ru/2181930/sredstva-pvo-za-noch-sbili-560-ukrainskikh-bespilotnikov-nad-regionami-rf-izi",
         "https://iz.ru/2181931/reaktivnyi-dron-perekhvatchik-gadiuka-smozhet-sbivat-do-20-bpla-za-vylet-izi",
         "https://iz.ru/2181933/reuters-zaiavilo-o-namerenii-ssha-bystro-soglasovat-predlozheniia-po-ukraine-izi",
         "https://iz.ru/2181934/v-adg-obiasnili-nesposobnost-nemtcev-zamenit-mertca-izi",
@@ -203,7 +191,19 @@
         "https://iz.ru/2181944/onishchenko-raskryl-prichiny-poiavleniia-osennei-depressii-izi",
         "https://iz.ru/2181959/v-rossii-znachitelno-sokratilos-chislo-moshennicheskikh-zvonkov-izi",
         "https://iz.ru/2181966/dodik-zaiavil-o-namerenii-big-obsudit-stroitelstvo-gazoprovoda-dlia-gaza-iz-rf-izi",
-        "https://iz.ru/2181967/v-kuzbasse-proizoshlo-zemletriasenie-magnitudoi-49-izi"
+        "https://iz.ru/2181967/v-kuzbasse-proizoshlo-zemletriasenie-magnitudoi-49-izi",
+        "https://iz.ru/2181972/v-novosibirske-gruppa-deboshirov-izbila-devushku-v-trolleibuse-iz-za-mesta-izi",
+        "https://iz.ru/2181975/v-khersonskoi-oblasti-iz-za-obstrela-vsu-sgorel-tcentralnyi-khram-okruga-izi",
+        "https://iz.ru/2181977/nazvana-prichina-smerti-dizainera-kirilla-gasilina-izi",
+        "https://iz.ru/2181985/na-chukotke-sobaka-spasla-olenevoda-ot-medvedia-izi",
+        "https://iz.ru/2181986/ubiistvo-glavy-uik-pri-atake-bpla-v-khersonskoi-oblasti-stalo-povodom-dlia-dela-sk-izi",
+        "https://iz.ru/2181991/likhachev-ukazal-na-otsutstvie-u-finliandii-novoi-aes-iz-za-rastorgnutogo-kontrakta-izi",
+        "https://iz.ru/2181992/bespilotnik-upal-riadom-so-zdaniem-shkoly-v-donetcke-izi",
+        "https://iz.ru/2182001/belorussiia-zapretila-prodazhu-chaia-greenfield-iz-za-pleseni-izi",
+        "https://iz.ru/2182004/murashko-nazval-ozhirenie-faktorom-riska-tromboza-pri-sakharnom-diabete-izi",
+        "https://iz.ru/2182006/v-paname-ne-menee-27-chelovek-postradali-pri-zemletriasenii-izi",
+        "https://iz.ru/2182009/rezhim-chs-vveden-v-granitcakh-ulitc-rostova-na-donu-posle-nochnoi-ataki-vsu-izi",
+        "https://iz.ru/2182010/v-germanii-nazvali-gaz-rf-stolpom-blagopoluchiia-germanii-izi"
       ]
     },
     "2026-10-11": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-17": {
-      "totalChecked": 256,
-      "totalIzi": 76,
+      "totalChecked": 371,
+      "totalIzi": 109,
       "totalIiz": 3,
-      "totalAi": 79,
+      "totalAi": 112,
       "topLinks": [
         "https://iz.ru/2184526/2026-10-17/ekspert-predupredil-o-riske-pereplaty-iz-za-ekonomii-na-it-izi",
         "https://iz.ru/2184609/issledovateli-rasskazali-ob-izmenenii-riska-pishchevoi-allergii-po-mere-vzrosleniia-izi",
