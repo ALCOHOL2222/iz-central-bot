@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:46:00.814Z",
+  "generatedAt": "2026-10-18T18:18:17.428Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,20 +179,11 @@
       ]
     },
     "2026-10-11": {
-      "totalChecked": 349,
-      "totalIzi": 74,
+      "totalChecked": 323,
+      "totalIzi": 65,
       "totalIiz": 4,
-      "totalAi": 78,
+      "totalAi": 69,
       "topLinks": [
-        "https://iz.ru/2182370/zhurnalist-rasskazal-o-reaktcii-okruzheniia-zelenskogo-na-slova-trampa-izi",
-        "https://iz.ru/2182377/dva-cheloveka-pogibli-i-13-postradali-pri-atakakh-vsu-na-lnr-izi",
-        "https://iz.ru/2182379/wsj-nazvala-nyneshnie-otnosheniia-trampa-i-zelenskogo-khudshimi-s-fevralia-2025-goda-izi",
-        "https://iz.ru/2182383/v-polshe-proshli-massovye-zaderzhaniia-na-fone-massovykh-napadenii-v-shkolakh-izi",
-        "https://iz.ru/2182385/professora-v-finliandii-vystupili-protiv-zakrytiia-programmy-russkogo-iazyka-izi",
-        "https://iz.ru/2182388/v-gruzii-dopustili-rasshirenie-ogranichenii-na-postavki-produktcii-v-rossiiu-izi",
-        "https://iz.ru/2182397/uchenye-dopustili-vymiraniia-chelovechestva-k-2100-godu-iz-za-ii-i-iadernoi-voiny-izi",
-        "https://iz.ru/2182399/servisy-iandeksa-nachali-vosstanavlivat-rabotu-posle-sboia-izi",
-        "https://iz.ru/2182404/amerikanskii-samolet-razvedchik-artemis-ii-kruzhil-nedaleko-ot-kryma-izi",
         "https://iz.ru/2182456/chto-proizoshlo-za-nedeliu-s-5-sentiabria-po-11-oktiabria-glavnoe-izi",
         "https://iz.ru/2182463/tcska-oderzhal-pobedu-nad-fk-rodina-i-stal-liderom-rpl-izi",
         "https://iz.ru/2182465/peskov-rasskazal-o-volnenii-za-debiutirovavshuiu-na-sorevnovaniiakh-doch-izi",
@@ -203,11 +194,20 @@
         "https://iz.ru/2179308/pokrov-presviatoi-bogoroditcy-2026-strogie-zaprety-vazhnogo-pravoslavnogo-prazdnika-iiz",
         "https://iz.ru/2180883/50-dobrye-otkrytki-s-dnem-devochek-krasivye-i-iarkie-kartinki-gifki-pozdravleniia-iiz",
         "https://iz.ru/2181379/uchenye-ukazali-na-vazhnost-sotcialnykh-setei-dlia-liudei-s-autizmom-izi",
-        "https://iz.ru/2181399/narodnye-primety-na-11-oktiabria-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2181399/narodnye-primety-na-11-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2181412/uchenye-vyiavili-sviaz-mezhdu-upotrebleniem-arakhisa-i-riskom-diabeta-izi",
+        "https://iz.ru/2181552/uchenye-sravnili-rol-kletchatki-i-belka-dlia-organizma-izi",
+        "https://iz.ru/2181567/2026-10-11/uchenye-sviazali-rastitelnuiu-dietu-so-snizheniem-zhira-v-pecheni-izi",
+        "https://iz.ru/2182180/v-polskom-iaroslave-proshel-piket-protiv-migrantov-posle-ubiistva-sviashchennika-izi",
+        "https://iz.ru/2182201/ekspert-nazvala-sposoby-prodleniia-sroka-sluzhby-starogo-smartfona-izi",
+        "https://iz.ru/2182204/samaya-moshhnaya-magnitnaya-burya-za-tri-mesyacza-dostigla-urovnya-g3-izi",
+        "https://iz.ru/2182209/rozy-stali-liderami-sredi-vvezennykh-v-rossiiu-tcvetov-izi",
+        "https://iz.ru/2182214/v-op-ottcam-dvukh-i-bolee-detei-predlozhili-besplatno-povyshat-kvalifikatciiu-izi",
+        "https://iz.ru/2182215/falkov-nazval-sroki-obucheniia-v-vuzakh-po-novoi-modeli-izi"
       ]
     },
     "2026-10-12": {
-      "totalChecked": 923,
+      "totalChecked": 920,
       "totalIzi": 176,
       "totalIiz": 1,
       "totalAi": 177,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-18": {
-      "totalChecked": 395,
-      "totalIzi": 109,
+      "totalChecked": 481,
+      "totalIzi": 113,
       "totalIiz": 4,
-      "totalAi": 113,
+      "totalAi": 117,
       "topLinks": [
         "https://iz.ru/2184813/uchenye-nashli-vozmozhnoe-obiasnenie-strakha-mozga-posle-travmy-izi",
         "https://iz.ru/2184849/50-luchshie-otkrytki-s-dnem-ottca-krasivye-kartinki-gifki-i-pozdravleniia-iiz",
