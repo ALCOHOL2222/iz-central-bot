@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:18:17.428Z",
+  "generatedAt": "2026-10-18T20:57:51.891Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,14 +179,11 @@
       ]
     },
     "2026-10-11": {
-      "totalChecked": 323,
-      "totalIzi": 65,
+      "totalChecked": 287,
+      "totalIzi": 62,
       "totalIiz": 4,
-      "totalAi": 69,
+      "totalAi": 66,
       "topLinks": [
-        "https://iz.ru/2182456/chto-proizoshlo-za-nedeliu-s-5-sentiabria-po-11-oktiabria-glavnoe-izi",
-        "https://iz.ru/2182463/tcska-oderzhal-pobedu-nad-fk-rodina-i-stal-liderom-rpl-izi",
-        "https://iz.ru/2182465/peskov-rasskazal-o-volnenii-za-debiutirovavshuiu-na-sorevnovaniiakh-doch-izi",
         "https://iz.ru/2182470/vo-frankfurte-na-maine-zaderzhali-63-cheloveka-posle-kontcerta-maksa-korzha-izi",
         "https://iz.ru/2182509/moskovskoe-dinamo-obygralo-ska-i-prervalo-seriiu-iz-shesti-porazhenii-v-kkhl-izi",
         "https://iz.ru/2182513/smi-soobshchili-o-masshtabnom-otkliuchenii-vody-v-kieve-izi",
@@ -203,11 +200,14 @@
         "https://iz.ru/2182204/samaya-moshhnaya-magnitnaya-burya-za-tri-mesyacza-dostigla-urovnya-g3-izi",
         "https://iz.ru/2182209/rozy-stali-liderami-sredi-vvezennykh-v-rossiiu-tcvetov-izi",
         "https://iz.ru/2182214/v-op-ottcam-dvukh-i-bolee-detei-predlozhili-besplatno-povyshat-kvalifikatciiu-izi",
-        "https://iz.ru/2182215/falkov-nazval-sroki-obucheniia-v-vuzakh-po-novoi-modeli-izi"
+        "https://iz.ru/2182215/falkov-nazval-sroki-obucheniia-v-vuzakh-po-novoi-modeli-izi",
+        "https://iz.ru/2182217/raketnyi-udar-po-aeroportu-er-riiada-chto-izvestno-izi",
+        "https://iz.ru/2182230/v-op-predlozhili-sdelat-31-dekabria-ofitcialnym-vykhodnym-dnem-izi",
+        "https://iz.ru/2182236/doch-zhirinovskogo-rasskazala-o-samykh-zapomnivshikhsia-vyskazyvaniiakh-ottca-izi"
       ]
     },
     "2026-10-12": {
-      "totalChecked": 920,
+      "totalChecked": 917,
       "totalIzi": 176,
       "totalIiz": 1,
       "totalAi": 177,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-18": {
-      "totalChecked": 481,
-      "totalIzi": 113,
+      "totalChecked": 563,
+      "totalIzi": 124,
       "totalIiz": 4,
-      "totalAi": 117,
+      "totalAi": 128,
       "topLinks": [
         "https://iz.ru/2184813/uchenye-nashli-vozmozhnoe-obiasnenie-strakha-mozga-posle-travmy-izi",
         "https://iz.ru/2184849/50-luchshie-otkrytki-s-dnem-ottca-krasivye-kartinki-gifki-i-pozdravleniia-iiz",
