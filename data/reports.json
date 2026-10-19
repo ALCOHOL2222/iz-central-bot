@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:23:34.583Z",
+  "generatedAt": "2026-10-19T01:32:05.846Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,13 +179,11 @@
       ]
     },
     "2026-10-12": {
-      "totalChecked": 899,
-      "totalIzi": 175,
+      "totalChecked": 879,
+      "totalIzi": 173,
       "totalIiz": 1,
-      "totalAi": 176,
+      "totalAi": 174,
       "topLinks": [
-        "https://iz.ru/2182546/v-minzdrave-rasskazali-o-profilaktike-sezonnykh-infektcii-oseniu-izi",
-        "https://iz.ru/2182554/smi-soobshchili-ob-ostanovke-dvizheniia-po-bosforu-iz-za-polomki-tankera-izi",
         "https://iz.ru/2182571/v-gd-zhertvam-moshennikov-nazvali-povyshaiushchie-shansy-na-vozvrat-deneg-deistviia-izi",
         "https://iz.ru/2182575/v-minprosveshcheniia-rasskazali-o-vozmozhnosti-poluchit-professiiu-posle-provala-oge-izi",
         "https://iz.ru/2182579/rossiianam-nazvali-kolichestvo-vykhodnykh-dnei-v-noiabre-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2182628/vs-rf-porazili-sudno-s-gruzami-v-portu-odessy-i-obekty-portovoi-infrastruktury-izi",
         "https://iz.ru/2182629/analitik-devis-soobshchil-o-nastuplenii-finalnoi-fazy-konflikta-na-ukraine-izi",
         "https://iz.ru/2182632/v-gosdume-nazvali-otvetstvennye-za-perevorot-na-ukraine-strany-izi",
-        "https://iz.ru/2182633/v-britanii-ulichili-zelenskogo-v-stremlenii-tcepliatsia-za-vlast-do-poslednego-izi"
+        "https://iz.ru/2182633/v-britanii-ulichili-zelenskogo-v-stremlenii-tcepliatsia-za-vlast-do-poslednego-izi",
+        "https://iz.ru/2182636/peskov-zaiavil-o-snizhenii-udarnogo-potentciala-kievskogo-rezhima-izi",
+        "https://iz.ru/2182640/vizovye-tcentry-kipra-vozobnovili-priem-dokumentov-v-rossii-izi"
       ]
     },
     "2026-10-13": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-10-18": {
-      "totalChecked": 566,
+      "totalChecked": 573,
       "totalIzi": 124,
       "totalIiz": 4,
       "totalAi": 128,
@@ -375,15 +375,26 @@
       ]
     },
     "2026-10-19": {
-      "totalChecked": 44,
-      "totalIzi": 3,
-      "totalIiz": 1,
-      "totalAi": 4,
+      "totalChecked": 124,
+      "totalIzi": 13,
+      "totalIiz": 2,
+      "totalAi": 15,
       "topLinks": [
         "https://iz.ru/2185268/narodnye-primety-na-19-oktiabria-2026-goda-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2186271/ldpr-predlozhila-povysit-shtrafy-za-narusheniia-v-zhkkh-do-200-tys-rublei-izi",
         "https://iz.ru/2186397/2026-10-19/serzhant-kardanov-s-raneniem-dostavil-oborudovanie-sviazi-k-mestu-naznacheniia-izi",
-        "https://iz.ru/2186433/zelenskii-dopustil-uchastie-v-vyborakh-vo-vremia-konflikta-izi"
+        "https://iz.ru/2186433/zelenskii-dopustil-uchastie-v-vyborakh-vo-vremia-konflikta-izi",
+        "https://iz.ru/2186438/rossiian-zhdut-16-vykhodnykh-i-prazdnichnykh-dnei-v-ianvare-2027-goda-izi",
+        "https://iz.ru/2186442/luna-zaiavila-ob-ushcherbe-dlia-amerikantcev-iz-za-konflikta-na-ukraine-izi",
+        "https://iz.ru/2186444/rossiiskie-bortcy-zavoevali-chetyre-medali-na-molodezhnom-chempionate-mira-izi",
+        "https://iz.ru/2186448/nerpa-kroshik-propadet-s-radarov-s-1-noiabria-izi",
+        "https://iz.ru/2186451/stas-mikhailov-oproverg-slukhi-o-razvode-s-zhenoi-izi",
+        "https://iz.ru/2185268/narodnye-primety-na-19-oktiabria-2026-goda-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2186271/ldpr-predlozhila-povysit-shtrafy-za-narusheniia-v-zhkkh-do-200-tys-rublei-izi",
+        "https://iz.ru/2186397/2026-10-19/serzhant-kardanov-s-raneniem-dostavil-oborudovanie-sviazi-k-mestu-naznacheniia-izi",
+        "https://iz.ru/2186433/zelenskii-dopustil-uchastie-v-vyborakh-vo-vremia-konflikta-izi",
+        "https://iz.ru/2186442/luna-zaiavila-ob-ushcherbe-dlia-amerikantcev-iz-za-konflikta-na-ukraine-izi",
+        "https://iz.ru/2186444/rossiiskie-bortcy-zavoevali-chetyre-medali-na-molodezhnom-chempionate-mira-izi"
       ]
     }
   }
