@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:13:56.540Z",
+  "generatedAt": "2026-10-20T11:50:51.376Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-10-13": {
-      "totalChecked": 812,
-      "totalIzi": 187,
+      "totalChecked": 686,
+      "totalIzi": 154,
       "totalIiz": 1,
-      "totalAi": 188,
+      "totalAi": 155,
       "topLinks": [
-        "https://iz.ru/2183228/v-tcb-rasskazali-o-preimushchestvakh-tcifrovogo-rublia-pri-perevodakh-deneg-izi",
-        "https://iz.ru/2183233/kurenkov-poblagodaril-kndr-za-pomoshch-v-osvobozhdenii-kurskoi-oblasti-izi",
-        "https://iz.ru/2183241/shabanov-i-iurov-pomogli-minnesote-obygrat-vegas-so-schetom-42-v-matche-nkhl-izi",
-        "https://iz.ru/2183242/v-mvd-obiasnili-poriadok-deistvii-po-vozvrashcheniiu-konfiskovannykh-voditelskikh-prav-izi",
-        "https://iz.ru/2183243/glavu-kompanii-tomska-obvinili-v-finansovykh-makhinatciiakh-na-660-mln-rublei-izi",
-        "https://iz.ru/2183244/novyi-gost-na-piure-i-pasty-iz-ovoshchei-vstupit-v-silu-v-rf-s-1-iiulia-2027-goda-izi",
-        "https://iz.ru/2183246/sinoptik-sprognoziroval-sentiabrskoe-teplo-v-moskve-16-i-17-oktiabria-izi",
-        "https://iz.ru/2183254/proizvodstvo-zerna-v-rossii-na-bolee-70-prevysilo-potreblenie-izi",
-        "https://iz.ru/2183256/v-bolgarii-zaiavili-ob-atake-bpla-po-sudam-azov-concord-i-chelsea-3-v-chernom-more-izi",
-        "https://iz.ru/2183258/v-mvf-zaiavili-o-blizkom-k-ischerpaniiu-zapase-prochnosti-mirovoi-ekonomiki-izi",
-        "https://iz.ru/2183262/bali-stolknulsia-s-ostroi-nekhvatkoi-benzina-izi",
-        "https://iz.ru/2183265/smi-uznali-o-nachale-evrokomissiei-podgotovki-23-go-paketa-sanktcii-protiv-rf-izi",
-        "https://iz.ru/2183268/otchislennym-za-distciplinu-zapretiat-snova-postupat-v-tot-zhe-vuz-piat-let-izi",
-        "https://iz.ru/2183270/ushla-iz-zhizni-89-letniaia-chempionka-sssr-i-trener-po-fekhtovaniiu-liudmila-kniazeva-izi",
-        "https://iz.ru/2183271/reuters-zaiavilo-o-priblizhenii-dizelnoi-sdelkoi-uregulirovaniia-na-ukraine-izi",
-        "https://iz.ru/2183272/vs-rossii-nanesli-gruppovye-udary-po-obektam-vpk-portam-i-sudam-ukrainy-izi",
-        "https://iz.ru/2183273/v-polshe-predlozhili-nakazyvat-za-obespechenie-nelegalnykh-migrantov-goriachei-edoi-izi",
-        "https://iz.ru/2183276/putin-zaiavil-o-prodolzhenii-podderzhki-storonnikov-traditcionnykh-tcennostei-izi",
-        "https://iz.ru/2183288/tela-propavshikh-ottca-i-syna-nashli-v-krasnoiarskom-krae-izi",
-        "https://iz.ru/2183292/deviat-rossiiskikh-turistov-evakuirovali-vertoletom-v-nepale-izi"
+        "https://iz.ru/2183367/karta-spetcoperatcii-na-ukraine-13-oktiabria-izi",
+        "https://iz.ru/2183368/posolstvo-rossii-nazvalo-piratstvom-zakhvat-tankera-df-peak-vms-frantcii-izi",
+        "https://iz.ru/2183375/ft-soobshchila-o-povyshenii-tcen-na-gaz-v-es-do-maksimuma-na-fone-konflikta-s-iranom-izi",
+        "https://iz.ru/2183389/v-akort-nazvali-naibolee-podeshevevshie-produkty-v-sentiabre-izi",
+        "https://iz.ru/2183392/v-rf-poiavitsia-zakonoproekt-o-zaprete-na-natcenku-za-detskii-tarif-v-taksi-izi",
+        "https://iz.ru/2183393/tramp-ukazal-na-chrezmernost-deistvii-ssha-v-otnoshenii-rukovodstva-irana-izi",
+        "https://iz.ru/2183403/formula-1-vpervye-spustia-pochti-30-let-vernetsia-v-afriku-izi",
+        "https://iz.ru/2183409/rossiian-na-mavrikii-prizvali-k-ostorozhnosti-na-fone-besporiadkov-izi",
+        "https://iz.ru/2183410/lukashenko-nazval-glupostiu-soobshcheniia-o-iakoby-planakh-probit-suvalkskii-koridor-izi",
+        "https://iz.ru/2183411/pri-tushenii-vozgoraniia-posle-ataki-bpla-v-brianskoi-oblasti-raneny-troe-pozharnykh-izi",
+        "https://iz.ru/2183425/v-tcb-zaiavili-ob-ispolzovanii-modeli-iz-rabot-laureatov-nobelevskoi-premii-izi",
+        "https://iz.ru/2183427/vo-frantcii-prizvali-ssha-otkliuchit-ukrainu-ot-starlink-za-udary-po-npz-rossii-izi",
+        "https://iz.ru/2183428/minfin-rossii-mozhet-popolnit-fnb-na-1-trln-rublei-v-2026-godu-izi",
+        "https://iz.ru/2183433/defitcit-sery-mozhet-privesti-k-rostu-mirovykh-tcen-na-edu-izi",
+        "https://iz.ru/2183436/golod-emotcii-i-kontrol-chto-schitat-normalnym-pishchevym-povedeniem-izi",
+        "https://iz.ru/2183438/srednii-chek-za-zimnii-otdykh-v-sochi-na-odnogo-sostavit-ot-85-do-95-tys-rublei-izi",
+        "https://iz.ru/2183445/v-sotcfonde-napomnili-o-poluchenii-dosrochnoi-pensii-u-chasti-rossiian-v-noiabre-izi",
+        "https://iz.ru/2183447/v-velikobritanii-snimut-film-o-sozdatelnitce-garri-pottera-dzhoan-rouling-izi",
+        "https://iz.ru/2183455/napavshemu-na-devochku-v-krasnoiarske-smeniat-statiu-na-pokushenie-na-ubiistvo-izi",
+        "https://iz.ru/2183459/ekspert-rasskazala-o-polze-zameny-nasyshchennykh-zhirov-v-ratcione-izi"
       ]
     },
     "2026-10-14": {
-      "totalChecked": 1024,
-      "totalIzi": 267,
+      "totalChecked": 1020,
+      "totalIzi": 265,
       "totalIiz": 3,
-      "totalAi": 270,
+      "totalAi": 268,
       "topLinks": [
-        "https://iz.ru/2183286/uchenye-sviazali-bessonnitcu-s-simptomami-depressii-izi",
-        "https://iz.ru/2183353/uchenye-izuchili-vliianie-dispraksii-na-sotcialnoe-vzaimodeistvie-detei-izi",
         "https://iz.ru/2183376/uchenye-rasskazali-ob-ukhudshenii-vnimaniia-iz-za-beskonechnogo-skrollinga-sotcsetei-izi",
         "https://iz.ru/2183460/narodnye-primety-na-14-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2183735/2026-10-14/mladshii-serzhant-ivanov-spas-ranenogo-tovarishcha-posle-podryva-na-mine-izi",
@@ -231,7 +229,9 @@
         "https://iz.ru/2183821/premer-latvii-zaiavil-o-nevozmozhnosti-zapretit-tranzit-rossiiskogo-zerna-izi",
         "https://iz.ru/2183827/v-gosdume-obiasnili-poriadok-vyplat-za-ukhod-za-pozhilymi-liudmi-izi",
         "https://iz.ru/2183828/kaprizov-dvazhdy-porazil-vorota-vinnipega-i-vozglavil-top-snaiperov-sezona-nkhl-izi",
-        "https://iz.ru/2183831/v-khabarovskom-krae-vozbudili-ugolovnoe-delo-posle-propazhi-dvukh-rybakov-izi"
+        "https://iz.ru/2183831/v-khabarovskom-krae-vozbudili-ugolovnoe-delo-posle-propazhi-dvukh-rybakov-izi",
+        "https://iz.ru/2183832/pulmonolog-zaiavil-o-zhizni-vosmi-millionov-rossiian-so-skrytoi-astmoi-izi",
+        "https://iz.ru/2183836/otkrytoe-gorenie-na-skladakh-v-rostovskoi-oblasti-likvidirovano-izi"
       ]
     },
     "2026-10-15": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-20": {
-      "totalChecked": 220,
-      "totalIzi": 35,
+      "totalChecked": 418,
+      "totalIzi": 42,
       "totalIiz": 2,
-      "totalAi": 37,
+      "totalAi": 44,
       "topLinks": [
         "https://iz.ru/2186544/uchenye-sviazali-sakhar-v-krasnom-miase-s-vysokim-riskom-diabeta-izi",
         "https://iz.ru/2186666/uchenye-raskryli-sviaz-glubokogo-sna-s-vyrabotkoi-gormona-rosta-izi",
@@ -399,7 +399,7 @@
         "https://iz.ru/2187107/v-gosdume-predlozhili-povysit-stipendii-do-urovnia-mrot-izi",
         "https://iz.ru/2187113/v-op-rasskazali-ob-izmeneniiakh-pravil-stazhirovki-s-2027-goda-izi",
         "https://iz.ru/2187123/uchastniki-milliona-prizov-napravili-bolee-200-mln-rublei-na-pomoshch-boitcam-svo-izi",
-        "https://iz.ru/2186544/uchenye-sviazali-sakhar-v-krasnom-miase-s-vysokim-riskom-diabeta-izi"
+        "https://iz.ru/2187128/mosbilet-priglashaet-na-ekskursiiu-po-istoricheskoi-usadbe-izmailovo-izi"
       ]
     }
   }
