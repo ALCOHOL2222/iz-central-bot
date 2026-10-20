@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:22:19.418Z",
+  "generatedAt": "2026-10-20T20:47:01.991Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,14 +179,11 @@
       ]
     },
     "2026-10-13": {
-      "totalChecked": 548,
-      "totalIzi": 120,
+      "totalChecked": 522,
+      "totalIzi": 117,
       "totalIiz": 1,
-      "totalAi": 121,
+      "totalAi": 118,
       "topLinks": [
-        "https://iz.ru/2183560/v-tcb-soobshchili-o-sokhranenii-investitcii-v-rf-vblizi-istoricheskikh-maksimumov-izi",
-        "https://iz.ru/2183562/zakharova-nazvala-otvetnye-udary-rossii-boleznennym-bumerangom-dlia-kieva-izi",
-        "https://iz.ru/2183573/riabkov-zaiavil-ob-otsutstvii-u-es-novykh-idei-dlia-sanktcii-protiv-rossii-izi",
         "https://iz.ru/2183584/uchenye-obnaruzhili-v-mozge-539-skrytykh-khimicheskikh-zon-izi",
         "https://iz.ru/2183593/v-brianskoi-oblasti-muzhchina-pogib-iz-za-sbroshennoi-s-bpla-vzryvchatki-izi",
         "https://iz.ru/2183595/uchenye-rasskazali-o-vliianii-kishechnykh-mikrobov-na-usvoenie-kalorii-izi",
@@ -203,11 +200,14 @@
         "https://iz.ru/2183714/glava-mid-polshi-vystupil-protiv-vozvrata-rossii-zamorozhennykh-aktivov-izi",
         "https://iz.ru/2183737/stalo-izvestno-o-smerti-zhalovavsheisia-na-domogatelstva-operatora-ukrainskikh-bpla-izi",
         "https://iz.ru/2182676/uchenye-vyiavili-uluchshenie-pokazatelei-vesa-u-detei-pri-otkaze-ot-sladkikh-napitkov-izi",
-        "https://iz.ru/2182693/uchenye-sviazali-tiazhelyi-dlitelnyi-covid-19-s-izmeneniiami-mikrobioma-legkikh-izi"
+        "https://iz.ru/2182693/uchenye-sviazali-tiazhelyi-dlitelnyi-covid-19-s-izmeneniiami-mikrobioma-legkikh-izi",
+        "https://iz.ru/2182772/uchenye-sviazali-pozitivnoe-vospitanie-s-chuvstvom-radosti-u-detei-izi",
+        "https://iz.ru/2182820/uchenye-izuchili-antibakterialnye-i-protivovospalitelnye-svoistva-vanilina-izi",
+        "https://iz.ru/2182835/uchenye-ukazali-na-polzu-dazhe-10-minut-fizicheskoi-aktivnosti-dlia-sna-izi"
       ]
     },
     "2026-10-14": {
-      "totalChecked": 1003,
+      "totalChecked": 1002,
       "totalIzi": 264,
       "totalIiz": 2,
       "totalAi": 266,
@@ -235,12 +235,11 @@
       ]
     },
     "2026-10-15": {
-      "totalChecked": 943,
-      "totalIzi": 200,
+      "totalChecked": 942,
+      "totalIzi": 199,
       "totalIiz": 0,
-      "totalAi": 200,
+      "totalAi": 199,
       "topLinks": [
-        "https://iz.ru/2183559/uchenye-ukazali-na-risk-ignorirovaniia-zhenshchin-s-igrovym-rasstroistvom-izi",
         "https://iz.ru/2183885/uchenye-otmetili-sposobnost-iaichnikov-meniatsia-posle-menopauzy-izi",
         "https://iz.ru/2183914/dve-sistemy-smekha-kak-mozg-upravliaet-emotciiami-i-rechiu-izi",
         "https://iz.ru/2183948/2026-10-15/uchenye-rasskazali-o-mekhanizme-ustoichivosti-raka-podzheludochnoi-k-lecheniiu-izi",
@@ -259,7 +258,8 @@
         "https://iz.ru/2184443/2026-10-15/plennyi-iz-vsu-rasskazal-o-premiiakh-sotrudnikam-ttck-za-poimku-liudei-izi",
         "https://iz.ru/2184446/tramp-poobeshchal-iranu-bolshe-ne-ubivat-ego-liderov-izi",
         "https://iz.ru/2184447/velikobritaniia-vydelit-ukraine-22-mln-na-remont-chernobylskoi-aes-izi",
-        "https://iz.ru/2184453/v-minobrnauki-predlozhili-vvesti-predoplatu-za-pervyi-semestr-obucheniia-v-vuze-izi"
+        "https://iz.ru/2184453/v-minobrnauki-predlozhili-vvesti-predoplatu-za-pervyi-semestr-obucheniia-v-vuze-izi",
+        "https://iz.ru/2184454/uchenyi-otcenil-teoreticheskii-predel-prodolzhitelnosti-zhizni-cheloveka-izi"
       ]
     },
     "2026-10-16": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-20": {
-      "totalChecked": 753,
-      "totalIzi": 138,
+      "totalChecked": 869,
+      "totalIzi": 197,
       "totalIiz": 2,
-      "totalAi": 140,
+      "totalAi": 199,
       "topLinks": [
         "https://iz.ru/2186544/uchenye-sviazali-sakhar-v-krasnom-miase-s-vysokim-riskom-diabeta-izi",
         "https://iz.ru/2186666/uchenye-raskryli-sviaz-glubokogo-sna-s-vyrabotkoi-gormona-rosta-izi",
