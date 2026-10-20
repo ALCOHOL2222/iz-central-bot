@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:14:00.059Z",
+  "generatedAt": "2026-10-20T00:31:57.523Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,17 +151,11 @@
       ]
     },
     "2026-10-12": {
-      "totalChecked": 524,
-      "totalIzi": 95,
+      "totalChecked": 479,
+      "totalIzi": 89,
       "totalIiz": 1,
-      "totalAi": 96,
+      "totalAi": 90,
       "topLinks": [
-        "https://iz.ru/2183105/reaktor-energobloka-aes-ruppur-v-bangladesh-vyshel-na-minimalnuiu-moshchnost-izi",
-        "https://iz.ru/2183115/odin-chelovek-pogib-i-chetvero-postradali-pri-atakakh-vsu-na-belgorodskuiu-oblast-izi",
-        "https://iz.ru/2183116/zhiteli-kieva-pozhalovalis-na-svoeobraznuiu-vodu-iz-kranov-izi",
-        "https://iz.ru/2183118/kallas-zaiavila-o-zhelanii-sokratit-vydachu-turisticheskikh-viz-rossiianam-izi",
-        "https://iz.ru/2183130/zhestokoe-ubiistvo-devushki-v-sudogde-i-smertelnyi-podzhog-v-saratovskoi-oblasti-glavnye-izi",
-        "https://iz.ru/2183135/rynok-v-kamenke-dneprovskoi-poluchil-povrezhdeniia-pri-atake-vsu-izi",
         "https://iz.ru/2181408/narodnye-primety-na-12-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2181475/za-zakrytymi-dveriami-uchenye-izuchili-chto-stoit-za-domashnim-nasiliem-izi",
         "https://iz.ru/2181527/uchenye-ukazali-na-riski-stremleniia-k-idealnomu-kachestvu-sna-izi",
@@ -175,16 +169,21 @@
         "https://iz.ru/2182591/na-ukraine-priznali-nesposobnost-vsu-protivostoiat-rossiiskim-geraniam-izi",
         "https://iz.ru/2182595/advokat-rasskazala-o-pravilakh-razdela-ipotechnoi-kvartiry-pri-razvode-izi",
         "https://iz.ru/2182596/khk-karolina-obygralfiladelfiyu-v-matche-regulyarnogo-chempionata-nkhl-izi",
-        "https://iz.ru/2182598/v-sane-prigrozili-prodolzhit-udary-po-aeroportu-er-riiada-izi"
+        "https://iz.ru/2182598/v-sane-prigrozili-prodolzhit-udary-po-aeroportu-er-riiada-izi",
+        "https://iz.ru/2182614/chto-proizoshlo-za-noch-12-oktiabria-glavnoe-izi",
+        "https://iz.ru/2182615/verkhovnyi-sud-rf-priznal-nezakonnym-lishenie-prav-voditelia-ne-za-rulem-izi",
+        "https://iz.ru/2182621/v-mvd-perechislili-rossiianam-priznaki-moshennicheskogo-perevoda-izi",
+        "https://iz.ru/2182623/lsm-uznal-o-nedovolstve-fermerov-latvii-ukrepleniem-granitcy-s-rossiei-izi",
+        "https://iz.ru/2182624/zhurnalistka-iz-ssha-prizvala-rassledovat-rol-starlink-v-atake-na-starobelsk-izi",
+        "https://iz.ru/2182625/v-mvd-podelilis-s-podrostkami-pravilami-zashchity-ot-moshennikov-izi"
       ]
     },
     "2026-10-13": {
-      "totalChecked": 874,
-      "totalIzi": 199,
+      "totalChecked": 868,
+      "totalIzi": 198,
       "totalIiz": 1,
-      "totalAi": 200,
+      "totalAi": 199,
       "topLinks": [
-        "https://iz.ru/2183133/2026-10-13/efreitor-kabunin-obnaruzhil-i-likvidiroval-gruppu-vsu-izi",
         "https://iz.ru/2183157/amerikanskii-akter-ar-dzhei-mitt-biografiia-izi",
         "https://iz.ru/2183165/vuchich-sprognoziroval-dalneishee-sblizhenie-trampa-s-rossiei-izi",
         "https://iz.ru/2183167/dmitriev-raskritikoval-reaktciiu-es-na-sdelku-rossii-i-ssha-po-dizeliu-izi",
@@ -203,7 +202,8 @@
         "https://iz.ru/2183243/glavu-kompanii-tomska-obvinili-v-finansovykh-makhinatciiakh-na-660-mln-rublei-izi",
         "https://iz.ru/2183244/novyi-gost-na-piure-i-pasty-iz-ovoshchei-vstupit-v-silu-v-rf-s-1-iiulia-2027-goda-izi",
         "https://iz.ru/2183246/sinoptik-sprognoziroval-sentiabrskoe-teplo-v-moskve-16-i-17-oktiabria-izi",
-        "https://iz.ru/2183254/proizvodstvo-zerna-v-rossii-na-bolee-70-prevysilo-potreblenie-izi"
+        "https://iz.ru/2183254/proizvodstvo-zerna-v-rossii-na-bolee-70-prevysilo-potreblenie-izi",
+        "https://iz.ru/2183256/v-bolgarii-zaiavili-ob-atake-bpla-po-sudam-azov-concord-i-chelsea-3-v-chernom-more-izi"
       ]
     },
     "2026-10-14": {
@@ -347,10 +347,10 @@
       ]
     },
     "2026-10-19": {
-      "totalChecked": 926,
-      "totalIzi": 199,
+      "totalChecked": 931,
+      "totalIzi": 200,
       "totalIiz": 2,
-      "totalAi": 201,
+      "totalAi": 202,
       "topLinks": [
         "https://iz.ru/2185268/narodnye-primety-na-19-oktiabria-2026-goda-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2185338/uchenye-raskryli-mekhanizm-vosstanovleniia-stareiushchikh-myshtc-izi",
@@ -375,11 +375,18 @@
       ]
     },
     "2026-10-20": {
-      "totalChecked": 0,
-      "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalChecked": 116,
+      "totalIzi": 4,
+      "totalIiz": 2,
+      "totalAi": 6,
+      "topLinks": [
+        "https://iz.ru/2186800/narodnye-primety-na-20-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2186800/narodnye-primety-na-20-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2187071/prokuratura-podala-isk-k-eks-glave-administratcii-rostova-na-16-mlrd-rublei-izi",
+        "https://iz.ru/2187078/v-op-predupredili-o-neobkhodimosti-detiam-do-14-let-imet-zagranpasport-s-2027-goda-izi",
+        "https://iz.ru/2187084/ft-nazvala-dva-varianta-predlozhenii-evropy-po-miru-na-ukraine-izi",
+        "https://iz.ru/2187088/zelenskii-poprosil-senatorov-ssha-dobitsia-otmeny-ogranichenii-dlia-ukrainy-izi"
+      ]
     }
   }
 }
