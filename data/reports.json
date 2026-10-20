@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:31:57.523Z",
+  "generatedAt": "2026-10-20T06:13:56.540Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,7 +151,7 @@
       ]
     },
     "2026-10-12": {
-      "totalChecked": 479,
+      "totalChecked": 474,
       "totalIzi": 89,
       "totalIiz": 1,
       "totalAi": 90,
@@ -179,22 +179,11 @@
       ]
     },
     "2026-10-13": {
-      "totalChecked": 868,
-      "totalIzi": 198,
+      "totalChecked": 812,
+      "totalIzi": 187,
       "totalIiz": 1,
-      "totalAi": 199,
+      "totalAi": 188,
       "topLinks": [
-        "https://iz.ru/2183157/amerikanskii-akter-ar-dzhei-mitt-biografiia-izi",
-        "https://iz.ru/2183165/vuchich-sprognoziroval-dalneishee-sblizhenie-trampa-s-rossiei-izi",
-        "https://iz.ru/2183167/dmitriev-raskritikoval-reaktciiu-es-na-sdelku-rossii-i-ssha-po-dizeliu-izi",
-        "https://iz.ru/2183172/v-gosdume-predlozhili-uskorit-povyshenie-mrot-do-35-tys-rublei-izi",
-        "https://iz.ru/2183178/prodiusera-laskovogo-maia-andreia-razina-pereobiavili-v-rozysk-izi",
-        "https://iz.ru/2183193/v-op-predlozhili-udvaivat-fiksirovannuiu-chast-strakhovoi-pensii-s-70-let-izi",
-        "https://iz.ru/2183208/v-gosdume-nazvali-imeiushchie-pravo-na-besplatnuiu-zemliu-kategorii-rossiian-izi",
-        "https://iz.ru/2183210/rospotrebnadzor-soobshchil-o-bolee-665-tys-sluchaev-orvi-i-grippa-v-rf-za-nedeliu-izi",
-        "https://iz.ru/2183214/pensii-za-noiabr-nachnut-vyplachivat-dosrochno-pered-dnem-narodnogo-edinstva-izi",
-        "https://iz.ru/2183218/muzhchina-pogib-posle-padeniia-s-amerikanskikh-gorok-v-parke-six-flags-v-ssha-izi",
-        "https://iz.ru/2183223/press-sekretar-gubernatora-primoria-ubezhal-ot-dvukh-medvedei-vo-vremia-rybalki-izi",
         "https://iz.ru/2183228/v-tcb-rasskazali-o-preimushchestvakh-tcifrovogo-rublia-pri-perevodakh-deneg-izi",
         "https://iz.ru/2183233/kurenkov-poblagodaril-kndr-za-pomoshch-v-osvobozhdenii-kurskoi-oblasti-izi",
         "https://iz.ru/2183241/shabanov-i-iurov-pomogli-minnesote-obygrat-vegas-so-schetom-42-v-matche-nkhl-izi",
@@ -203,7 +192,18 @@
         "https://iz.ru/2183244/novyi-gost-na-piure-i-pasty-iz-ovoshchei-vstupit-v-silu-v-rf-s-1-iiulia-2027-goda-izi",
         "https://iz.ru/2183246/sinoptik-sprognoziroval-sentiabrskoe-teplo-v-moskve-16-i-17-oktiabria-izi",
         "https://iz.ru/2183254/proizvodstvo-zerna-v-rossii-na-bolee-70-prevysilo-potreblenie-izi",
-        "https://iz.ru/2183256/v-bolgarii-zaiavili-ob-atake-bpla-po-sudam-azov-concord-i-chelsea-3-v-chernom-more-izi"
+        "https://iz.ru/2183256/v-bolgarii-zaiavili-ob-atake-bpla-po-sudam-azov-concord-i-chelsea-3-v-chernom-more-izi",
+        "https://iz.ru/2183258/v-mvf-zaiavili-o-blizkom-k-ischerpaniiu-zapase-prochnosti-mirovoi-ekonomiki-izi",
+        "https://iz.ru/2183262/bali-stolknulsia-s-ostroi-nekhvatkoi-benzina-izi",
+        "https://iz.ru/2183265/smi-uznali-o-nachale-evrokomissiei-podgotovki-23-go-paketa-sanktcii-protiv-rf-izi",
+        "https://iz.ru/2183268/otchislennym-za-distciplinu-zapretiat-snova-postupat-v-tot-zhe-vuz-piat-let-izi",
+        "https://iz.ru/2183270/ushla-iz-zhizni-89-letniaia-chempionka-sssr-i-trener-po-fekhtovaniiu-liudmila-kniazeva-izi",
+        "https://iz.ru/2183271/reuters-zaiavilo-o-priblizhenii-dizelnoi-sdelkoi-uregulirovaniia-na-ukraine-izi",
+        "https://iz.ru/2183272/vs-rossii-nanesli-gruppovye-udary-po-obektam-vpk-portam-i-sudam-ukrainy-izi",
+        "https://iz.ru/2183273/v-polshe-predlozhili-nakazyvat-za-obespechenie-nelegalnykh-migrantov-goriachei-edoi-izi",
+        "https://iz.ru/2183276/putin-zaiavil-o-prodolzhenii-podderzhki-storonnikov-traditcionnykh-tcennostei-izi",
+        "https://iz.ru/2183288/tela-propavshikh-ottca-i-syna-nashli-v-krasnoiarskom-krae-izi",
+        "https://iz.ru/2183292/deviat-rossiiskikh-turistov-evakuirovali-vertoletom-v-nepale-izi"
       ]
     },
     "2026-10-14": {
@@ -375,17 +375,31 @@
       ]
     },
     "2026-10-20": {
-      "totalChecked": 116,
-      "totalIzi": 4,
+      "totalChecked": 220,
+      "totalIzi": 35,
       "totalIiz": 2,
-      "totalAi": 6,
+      "totalAi": 37,
       "topLinks": [
+        "https://iz.ru/2186544/uchenye-sviazali-sakhar-v-krasnom-miase-s-vysokim-riskom-diabeta-izi",
+        "https://iz.ru/2186666/uchenye-raskryli-sviaz-glubokogo-sna-s-vyrabotkoi-gormona-rosta-izi",
+        "https://iz.ru/2186702/uchenye-vyiavili-v-mozge-sviazannye-s-oblegcheniem-depressii-sviazi-izi",
+        "https://iz.ru/2186738/uchenye-vyiavili-sviaz-scheta-vslukh-ili-pro-sebia-s-diametrom-zrachkov-izi",
         "https://iz.ru/2186800/narodnye-primety-na-20-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2186800/narodnye-primety-na-20-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2186841/chernaia-smert-srednevekovoi-evrope-privela-k-sokrashcheniiu-raznoobraziia-rastenii-izi",
+        "https://iz.ru/2186862/uchenye-uznali-o-sviazi-mezhdu-psikhoterapiei-pri-beremennosti-i-razvitiem-ploda-izi",
         "https://iz.ru/2187071/prokuratura-podala-isk-k-eks-glave-administratcii-rostova-na-16-mlrd-rublei-izi",
         "https://iz.ru/2187078/v-op-predupredili-o-neobkhodimosti-detiam-do-14-let-imet-zagranpasport-s-2027-goda-izi",
         "https://iz.ru/2187084/ft-nazvala-dva-varianta-predlozhenii-evropy-po-miru-na-ukraine-izi",
-        "https://iz.ru/2187088/zelenskii-poprosil-senatorov-ssha-dobitsia-otmeny-ogranichenii-dlia-ukrainy-izi"
+        "https://iz.ru/2187088/zelenskii-poprosil-senatorov-ssha-dobitsia-otmeny-ogranichenii-dlia-ukrainy-izi",
+        "https://iz.ru/2187093/zhiteli-ukrainy-nachali-massovo-uezzhat-iz-strany-pered-zimoi-izi",
+        "https://iz.ru/2187098/stal-izvesten-vozmozhnyi-kandidat-na-post-vrio-gubernatora-primoria-izi",
+        "https://iz.ru/2187103/v-rostrude-nazvali-otrasli-s-naibolshim-chislom-tiazhelykh-i-smertelnykh-travm-izi",
+        "https://iz.ru/2187104/v-sovfede-sprognozirovali-sokhranenie-kliuchevoi-stavki-na-urovne-14-izi",
+        "https://iz.ru/2187105/moshenniki-stali-rassylat-rossiianam-soobshcheniia-ot-imeni-gosvedomstv-izi",
+        "https://iz.ru/2187107/v-gosdume-predlozhili-povysit-stipendii-do-urovnia-mrot-izi",
+        "https://iz.ru/2187113/v-op-rasskazali-ob-izmeneniiakh-pravil-stazhirovki-s-2027-goda-izi",
+        "https://iz.ru/2187123/uchastniki-milliona-prizov-napravili-bolee-200-mln-rublei-na-pomoshch-boitcam-svo-izi",
+        "https://iz.ru/2186544/uchenye-sviazali-sakhar-v-krasnom-miase-s-vysokim-riskom-diabeta-izi"
       ]
     }
   }
