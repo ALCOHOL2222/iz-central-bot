@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-21T05:04:16.128Z",
+  "generatedAt": "2026-10-21T10:21:14.049Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 66,
+    "fetchedUrlSets": 67,
     "failedFetches": 0,
-    "childLocs": 66,
-    "visitedCount": 67
+    "childLocs": 67,
+    "visitedCount": 68
   },
   "days": {
     "2026-10-08": {
@@ -179,31 +179,31 @@
       ]
     },
     "2026-10-14": {
-      "totalChecked": 925,
-      "totalIzi": 257,
+      "totalChecked": 844,
+      "totalIzi": 224,
       "totalIiz": 2,
-      "totalAi": 259,
+      "totalAi": 226,
       "topLinks": [
-        "https://iz.ru/2183803/potreblenie-alkogolia-v-rossii-dostiglo-istoricheskogo-minimuma-za-30-let-izi",
-        "https://iz.ru/2183809/velikobritaniia-uskorit-postavki-ukraine-raket-lmm-na-13-mln-izi",
-        "https://iz.ru/2183811/bolgariia-i-rumyniia-predlozhat-nato-usilit-obmen-razveddannymi-izi",
-        "https://iz.ru/2183814/voennosluzhashchii-rasskazal-o-begstve-vsu-iz-lidino-posle-pervykh-poter-izi",
-        "https://iz.ru/2183819/it-i-koll-tcentry-stali-liderami-po-chislu-udalennykh-vakansii-v-rossii-izi",
-        "https://iz.ru/2183821/premer-latvii-zaiavil-o-nevozmozhnosti-zapretit-tranzit-rossiiskogo-zerna-izi",
-        "https://iz.ru/2183827/v-gosdume-obiasnili-poriadok-vyplat-za-ukhod-za-pozhilymi-liudmi-izi",
-        "https://iz.ru/2183828/kaprizov-dvazhdy-porazil-vorota-vinnipega-i-vozglavil-top-snaiperov-sezona-nkhl-izi",
-        "https://iz.ru/2183831/v-khabarovskom-krae-vozbudili-ugolovnoe-delo-posle-propazhi-dvukh-rybakov-izi",
-        "https://iz.ru/2183832/pulmonolog-zaiavil-o-zhizni-vosmi-millionov-rossiian-so-skrytoi-astmoi-izi",
-        "https://iz.ru/2183836/otkrytoe-gorenie-na-skladakh-v-rostovskoi-oblasti-likvidirovano-izi",
-        "https://iz.ru/2183838/na-ukraine-soobshchili-ob-unichtozhenii-poslednego-logisticheskogo-tcentra-epitcentra-izi",
-        "https://iz.ru/2183840/tramp-obiavil-o-planakh-nachat-masshtabnuiu-geologorazvedku-v-grenlandii-izi",
-        "https://iz.ru/2183842/sily-pvo-nochiu-sbili-20-bespilotnikov-nad-kaluzhskoi-oblastiu-izi",
-        "https://iz.ru/2183844/vs-rossii-porazili-tcentr-obrabotki-dannykh-ukrsibbanka-v-kieve-izi",
-        "https://iz.ru/2183845/tovarooborot-rossii-i-kitaia-vyros-na-bolee-chem-30-v-2026-godu-izi",
-        "https://iz.ru/2183848/popytka-ataki-dronov-vsu-na-moskvu-stala-odnoi-iz-krupneishikh-za-dva-goda-izi",
-        "https://iz.ru/2183849/analitik-khenningsen-nazval-udarom-po-evrope-i-ukraine-sdelku-ssha-i-rossii-izi",
-        "https://iz.ru/2183850/putin-otmetil-vazhnost-rasshireniia-dialoga-i-sotrudnichestva-v-sfere-tek-izi",
-        "https://iz.ru/2183852/mikhalkov-predlozhil-prostit-uekhavshikh-posle-nachala-svo-rossiian-pri-raskaianii-izi"
+        "https://iz.ru/2183886/devushka-ubila-pogremushkoi-svoiu-novorozhdennuiu-doch-v-krasnodarskom-krae-izi",
+        "https://iz.ru/2183887/samolet-air-india-sovershil-ekstrennuiu-posle-signala-o-zakhvate-izi",
+        "https://iz.ru/2183888/rumyniia-podniala-dva-istrebitelia-i-vertolet-iz-za-vozdushnykh-tcelei-u-granitcy-izi",
+        "https://iz.ru/2183894/transportnaia-prokuratura-nachala-proverku-iz-za-ogranichenii-v-aeroportakh-moskvy-izi",
+        "https://iz.ru/2183895/v-minzdrave-otcenili-zapasy-zhiznenno-vazhnykh-lekarstv-v-rossii-izi",
+        "https://iz.ru/2183901/kitai-uvelichil-eksport-avto-na-519-v-ianvare-sentiabre-izi",
+        "https://iz.ru/2183903/le-pen-zaiavila-ob-utrate-doveriia-stran-es-k-fon-der-liaien-izi",
+        "https://iz.ru/2183911/plennyi-rasskazal-o-sovetakh-instruktorov-vsu-sdavatsia-v-plen-rossiiskim-voennym-izi",
+        "https://iz.ru/2183918/voennyi-ekspert-dzherelievskii-predrek-vsu-katastrofu-iz-za-otkliucheniia-starlink-izi",
+        "https://iz.ru/2183922/zamglavy-administratcii-taganroga-stal-figurantom-ugolovnogo-dela-o-vziatke-izi",
+        "https://iz.ru/2183924/cnn-uznal-o-vozmozhnoi-otmene-transliatcii-kazni-eks-voennogo-iz-ssha-izi",
+        "https://iz.ru/2183926/na-ukraine-soobshchili-o-problemakh-s-bpla-iz-za-ogranichenii-starlink-izi",
+        "https://iz.ru/2183928/uchenye-rasskazali-o-potentciale-spetcii-v-issledovaniiakh-diabeta-izi",
+        "https://iz.ru/2183936/rospotrebnadzor-nazval-glavnoe-pravilo-opytnogo-gribnika-izi",
+        "https://iz.ru/2183937/iaponiia-zaprosila-u-rossii-svedeniia-o-zaderzhanii-zhurnalista-na-sakhaline-izi",
+        "https://iz.ru/2183944/pdiddy-gospitalizirovali-s-travmoi-golovy-ot-udara-ob-dvukhiarusnuiu-krovat-izi",
+        "https://iz.ru/2183945/v-gelendzhike-i-novorossiiske-vveli-rezhim-povyshennoi-gotovnosti-posle-ataki-bek-izi",
+        "https://iz.ru/2183946/v-irlandii-otvergli-initciativu-germanii-po-ogranicheniiu-viz-dlia-rossiian-izi",
+        "https://iz.ru/2183947/polzovateli-pozhalovalis-na-massovyi-sboi-v-runete-izi",
+        "https://iz.ru/2183949/voennyi-ekspert-ukazal-na-bespomoshchnost-vsu-pri-otkliuchenii-starlink-izi"
       ]
     },
     "2026-10-15": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 235,
-      "totalIzi": 61,
+      "totalChecked": 402,
+      "totalIzi": 89,
       "totalIiz": 2,
-      "totalAi": 63,
+      "totalAi": 91,
       "topLinks": [
         "https://iz.ru/2187182/uchenye-ukazali-na-polzu-zelenykh-uchastkov-vozle-doma-so-snizheniem-riska-dementcii-izi",
         "https://iz.ru/2187203/uchenye-ukazali-na-polzu-khodby-pri-bolezni-altcgeimera-izi",
