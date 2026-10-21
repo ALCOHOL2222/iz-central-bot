@@ -1,43 +1,15 @@
 {
-  "generatedAt": "2026-10-20T20:47:01.991Z",
+  "generatedAt": "2026-10-21T00:05:06.519Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 66,
-    "failedFetches": 0,
+    "fetchedUrlSets": 65,
+    "failedFetches": 1,
     "childLocs": 66,
     "visitedCount": 67
   },
   "days": {
-    "2026-10-07": {
-      "totalChecked": 516,
-      "totalIzi": 111,
-      "totalIiz": 1,
-      "totalAi": 112,
-      "topLinks": [
-        "https://iz.ru/2177262/sokrovishcha-ischezaiut-iz-zalov-kak-ogrableniia-meniaiut-muzei-evropy-izi",
-        "https://iz.ru/2178929/anatomiia-krasoty-uchenye-obnaruzhili-dva-mekhanizma-esteticheskogo-vospriiatiia-izi",
-        "https://iz.ru/2179010/pamiat-liubit-pauzy-uchenye-raskryli-polzu-spokoinogo-otdykha-izi",
-        "https://iz.ru/2179335/uchenye-obnaruzhili-sviaz-neskolkikh-neblagopriiatnykh-faktorov-s-rannei-smertnostiu-izi",
-        "https://iz.ru/2179349/uchenye-obnaruzhili-polzu-khodby-pri-khobl-dazhe-na-zagriaznennom-vozdukhe-izi",
-        "https://iz.ru/2179387/narodnye-primety-na-7-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2179421/uchenye-nashli-sviaz-vospaleniia-pri-ozhirenii-s-vyborom-bolee-legkoi-edy-izi",
-        "https://iz.ru/2179467/uchenye-sviazali-skorost-khodby-s-legkimi-kognitivnymi-narusheniiami-izi",
-        "https://iz.ru/2179842/ronaldu-obiavil-o-prodolzhenii-karery-v-sbornoi-portugalii-izi",
-        "https://iz.ru/2179856/armii-izrailia-prikazali-gotovitsia-k-voine-s-palestinoi-izi",
-        "https://iz.ru/2179859/opros-pokazal-nezhelanie-bolshinstva-ukraintcev-vozvrashchatsia-iz-polshi-izi",
-        "https://iz.ru/2179865/amerikanskaia-aktrisa-eva-mari-seint-biografiia-izi",
-        "https://iz.ru/2179870/messi-sygraet-proshchalnyi-match-za-argentinu-protiv-benina-izi",
-        "https://iz.ru/2179875/v-op-dali-sovety-po-zashchite-detei-ot-travli-v-shkole-izi",
-        "https://iz.ru/2179879/matvienko-rasskazala-o-razvitii-sotrudnichestva-rossii-i-turkmenistana-izi",
-        "https://iz.ru/2179881/nazvany-prostye-dlia-nakhozhdeniia-raboty-otrasli-izi",
-        "https://iz.ru/2179895/samolet-easyjet-ekstrenno-sel-v-niderlandakh-posle-podachi-signala-bedstviia-izi",
-        "https://iz.ru/2179897/sredniaia-pensiia-v-moskve-prevysila-27-tys-rublei-v-avguste-izi",
-        "https://iz.ru/2179918/lukashenko-pozdravil-putina-s-dnem-rozhdeniia-izi",
-        "https://iz.ru/2179920/siloviki-soobshchili-o-perebroske-vsu-defektnoi-artillerii-v-raion-sum-izi"
-      ]
-    },
     "2026-10-08": {
       "totalChecked": 477,
       "totalIzi": 105,
@@ -179,35 +151,35 @@
       ]
     },
     "2026-10-13": {
-      "totalChecked": 522,
-      "totalIzi": 117,
+      "totalChecked": 464,
+      "totalIzi": 103,
       "totalIiz": 1,
-      "totalAi": 118,
+      "totalAi": 104,
       "topLinks": [
-        "https://iz.ru/2183584/uchenye-obnaruzhili-v-mozge-539-skrytykh-khimicheskikh-zon-izi",
-        "https://iz.ru/2183593/v-brianskoi-oblasti-muzhchina-pogib-iz-za-sbroshennoi-s-bpla-vzryvchatki-izi",
-        "https://iz.ru/2183595/uchenye-rasskazali-o-vliianii-kishechnykh-mikrobov-na-usvoenie-kalorii-izi",
-        "https://iz.ru/2183600/posla-belgii-v-moskve-vyzvali-v-mid-rossii-izi",
-        "https://iz.ru/2183607/riabkov-dopustil-novyi-raund-konsultatcii-rossii-i-ssha-do-kontca-goda-izi",
-        "https://iz.ru/2183617/marsokhod-perseverance-ustanovil-rekord-po-dalnosti-poezdok-za-predelami-zemli-izi",
-        "https://iz.ru/2183624/reuters-uznal-o-planakh-germanii-sozdat-rezerv-gaza-za-schet-sbora-s-grazhdan-izi",
-        "https://iz.ru/2183630/vrach-nazvala-poleznye-dlia-zdorovia-oseniu-privychki-izi",
-        "https://iz.ru/2183633/anthropic-predupredila-ob-ugroze-samovosproizvodiashchikhsia-ii-virusov-izi",
-        "https://iz.ru/2183660/iandeks-taksi-poobeshchal-vyplatit-voditeliam-dengi-za-vse-vypolnennye-zakazy-izi",
-        "https://iz.ru/2183661/tramp-obvinil-khusitov-v-popytkakh-podniat-tceny-na-neft-pered-vyborami-v-ssha-izi",
-        "https://iz.ru/2183693/umer-pochetnyi-prezident-fk-arsenal-ken-fraiar-v-vozraste-92-let-izi",
-        "https://iz.ru/2183704/samosval-razdavil-mat-s-rebenkom-i-novye-podrobnosti-ubiistva-eks-mera-samary-glavnye-proisshestviia-izi",
-        "https://iz.ru/2183714/glava-mid-polshi-vystupil-protiv-vozvrata-rossii-zamorozhennykh-aktivov-izi",
         "https://iz.ru/2183737/stalo-izvestno-o-smerti-zhalovavsheisia-na-domogatelstva-operatora-ukrainskikh-bpla-izi",
         "https://iz.ru/2182676/uchenye-vyiavili-uluchshenie-pokazatelei-vesa-u-detei-pri-otkaze-ot-sladkikh-napitkov-izi",
         "https://iz.ru/2182693/uchenye-sviazali-tiazhelyi-dlitelnyi-covid-19-s-izmeneniiami-mikrobioma-legkikh-izi",
         "https://iz.ru/2182772/uchenye-sviazali-pozitivnoe-vospitanie-s-chuvstvom-radosti-u-detei-izi",
         "https://iz.ru/2182820/uchenye-izuchili-antibakterialnye-i-protivovospalitelnye-svoistva-vanilina-izi",
-        "https://iz.ru/2182835/uchenye-ukazali-na-polzu-dazhe-10-minut-fizicheskoi-aktivnosti-dlia-sna-izi"
+        "https://iz.ru/2182835/uchenye-ukazali-na-polzu-dazhe-10-minut-fizicheskoi-aktivnosti-dlia-sna-izi",
+        "https://iz.ru/2182859/narodnye-primety-na-13-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2183133/2026-10-13/efreitor-kabunin-obnaruzhil-i-likvidiroval-gruppu-vsu-izi",
+        "https://iz.ru/2183157/amerikanskii-akter-ar-dzhei-mitt-biografiia-izi",
+        "https://iz.ru/2183165/vuchich-sprognoziroval-dalneishee-sblizhenie-trampa-s-rossiei-izi",
+        "https://iz.ru/2183167/dmitriev-raskritikoval-reaktciiu-es-na-sdelku-rossii-i-ssha-po-dizeliu-izi",
+        "https://iz.ru/2183172/v-gosdume-predlozhili-uskorit-povyshenie-mrot-do-35-tys-rublei-izi",
+        "https://iz.ru/2183178/prodiusera-laskovogo-maia-andreia-razina-pereobiavili-v-rozysk-izi",
+        "https://iz.ru/2183193/v-op-predlozhili-udvaivat-fiksirovannuiu-chast-strakhovoi-pensii-s-70-let-izi",
+        "https://iz.ru/2183208/v-gosdume-nazvali-imeiushchie-pravo-na-besplatnuiu-zemliu-kategorii-rossiian-izi",
+        "https://iz.ru/2183210/rospotrebnadzor-soobshchil-o-bolee-665-tys-sluchaev-orvi-i-grippa-v-rf-za-nedeliu-izi",
+        "https://iz.ru/2183214/pensii-za-noiabr-nachnut-vyplachivat-dosrochno-pered-dnem-narodnogo-edinstva-izi",
+        "https://iz.ru/2183218/muzhchina-pogib-posle-padeniia-s-amerikanskikh-gorok-v-parke-six-flags-v-ssha-izi",
+        "https://iz.ru/2183223/press-sekretar-gubernatora-primoria-ubezhal-ot-dvukh-medvedei-vo-vremia-rybalki-izi",
+        "https://iz.ru/2183228/v-tcb-rasskazali-o-preimushchestvakh-tcifrovogo-rublia-pri-perevodakh-deneg-izi"
       ]
     },
     "2026-10-14": {
-      "totalChecked": 1002,
+      "totalChecked": 982,
       "totalIzi": 264,
       "totalIiz": 2,
       "totalAi": 266,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-10-20": {
-      "totalChecked": 869,
-      "totalIzi": 197,
+      "totalChecked": 895,
+      "totalIzi": 212,
       "totalIiz": 2,
-      "totalAi": 199,
+      "totalAi": 214,
       "topLinks": [
         "https://iz.ru/2186544/uchenye-sviazali-sakhar-v-krasnom-miase-s-vysokim-riskom-diabeta-izi",
         "https://iz.ru/2186666/uchenye-raskryli-sviaz-glubokogo-sna-s-vyrabotkoi-gormona-rosta-izi",
@@ -400,6 +372,21 @@
         "https://iz.ru/2187113/v-op-rasskazali-ob-izmeneniiakh-pravil-stazhirovki-s-2027-goda-izi",
         "https://iz.ru/2187123/uchastniki-milliona-prizov-napravili-bolee-200-mln-rublei-na-pomoshch-boitcam-svo-izi",
         "https://iz.ru/2187128/mosbilet-priglashaet-na-ekskursiiu-po-istoricheskoi-usadbe-izmailovo-izi"
+      ]
+    },
+    "2026-10-21": {
+      "totalChecked": 54,
+      "totalIzi": 6,
+      "totalIiz": 1,
+      "totalAi": 7,
+      "topLinks": [
+        "https://iz.ru/2187230/narodnye-primety-na-21-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2187631/minzdrav-vkliuchil-pervichnyi-biliarnyi-kholangit-v-perechen-orfannykh-zabolevanii-izi",
+        "https://iz.ru/2187660/tramp-zaiavil-o-nespravedlivom-obrashchenii-s-marin-le-pen-izi",
+        "https://iz.ru/2187666/axios-uznal-o-podgotovke-ssha-pochvy-dlia-trekhstoronnikh-peregovorov-po-ukraine-izi",
+        "https://iz.ru/2187667/spacex-uvelichila-kvartalnuiu-vyruchku-na-161-izi",
+        "https://iz.ru/2187669/pszh-pobedil-barselonu-matche-v-ligi-chempionov-so-schetom-42-izi",
+        "https://iz.ru/2187673/efreitor-rozhnev-spas-zhizn-ranenomu-sosluzhivtcu-pod-ognem-dronov-izi"
       ]
     }
   }
