@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:29:08.746Z",
+  "generatedAt": "2026-10-21T20:21:28.501Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,35 +179,35 @@
       ]
     },
     "2026-10-14": {
-      "totalChecked": 692,
-      "totalIzi": 172,
+      "totalChecked": 553,
+      "totalIzi": 139,
       "totalIiz": 2,
-      "totalAi": 174,
+      "totalAi": 141,
       "topLinks": [
-        "https://iz.ru/2184065/uchenye-rasskazali-o-novom-sposobe-zameny-ugleroda-azotom-v-molekulakh-izi",
-        "https://iz.ru/2184068/v-novorossiiske-obnaruzheny-neznachitelnye-vybrosy-nefteproduktov-izi",
-        "https://iz.ru/2184076/ekspert-zaiavil-o-vstuplenii-v-aktivnuiu-fazu-likvidatcii-dvukh-kotlov-v-zone-svo-izi",
-        "https://iz.ru/2184078/putin-ukazal-na-novyi-uroven-kiberugroz-na-fone-gibridnoi-vneshnei-agressii-izi",
-        "https://iz.ru/2184080/sud-v-moskve-zaochno-prigovoril-k-godu-kolonii-glavreda-mediazony-smirnova-izi",
-        "https://iz.ru/2184088/moshenniki-pytalis-obmanut-blogera-dianu-koval-posylkoi-ot-umershego-ottca-izi",
-        "https://iz.ru/2184097/v-aeroportu-niurnberga-obiavili-chs-iz-za-oshibki-pilota-izi",
-        "https://iz.ru/2184101/chast-sotrudnikov-saudi-aramco-pereveli-na-udalennuiu-rabotu-posle-ataki-khusitov-izi",
-        "https://iz.ru/2184102/finliandiia-vpervye-nachala-eksport-sinteticheskogo-topliva-v-evropu-izi",
-        "https://iz.ru/2184109/v-kitae-zaiavili-o-zapozdalom-otvete-iaponii-na-vizit-putina-na-kurily-izi",
-        "https://iz.ru/2184118/meloni-prizvala-es-opredelitsia-s-chetkim-mandatom-dlia-peregovorov-po-ukraine-izi",
-        "https://iz.ru/2184121/riutte-zaiavil-ob-otsutstvii-neposredstvennoi-ugrozy-dlia-nato-so-storony-rossii-izi",
-        "https://iz.ru/2184125/muzhchina-chut-ne-zadushil-chuzhogo-rebenka-v-joshkar-ole-iz-za-detskoi-ssory-izi",
-        "https://iz.ru/2184142/v-gosdume-zaverili-o-polnoi-zashchishchennosti-krupneishikh-bankov-rossii-izi",
-        "https://iz.ru/2184143/uchenye-soobshchili-o-vozmozhnoi-sverkhnovoi-v-rannei-vselennoi-izi",
-        "https://iz.ru/2184151/v-rezultate-ataki-bpla-v-saratovskoi-oblasti-pogib-chelovek-izi",
-        "https://iz.ru/2184158/landtag-saksonii-ankhalt-progolosoval-za-otmenu-sanktcii-protiv-rossii-izi",
-        "https://iz.ru/2184168/v-izraile-pri-vzryve-na-zavode-intel-postradali-tri-cheloveka-izi",
-        "https://iz.ru/2184170/uchenye-rasskazali-o-roli-slukha-v-osvoenii-inostrannykh-zvukov-izi",
-        "https://iz.ru/2184173/v-zdaniiakh-verkhovnoi-rady-propali-elektrichestvo-i-voda-vo-vremia-otcheta-klichko-izi"
+        "https://iz.ru/2184345/mat-repera-navai-nazvala-ego-zaderzhanie-v-kazakhstane-podstavoi-izi",
+        "https://iz.ru/2184350/napavshikh-na-krokus-boevikov-vooruzhili-batalkhadzhintcy-izi",
+        "https://iz.ru/2184355/chto-proizoshlo-za-den-14-oktiabria-glavnoe-izi",
+        "https://iz.ru/2184358/fbr-oproverglo-poezdku-svoego-direktora-kesha-patela-v-rossiiu-izi",
+        "https://iz.ru/2184395/v-iandekse-rasskazali-o-vosstanovlenii-raboty-bolshinstva-ai-servisov-izi",
+        "https://iz.ru/2175595/50-s-pokrovom-presviatoi-bogoroditcy-svetlye-pravoslavnye-otkrytki-i-pozdravleniia-iiz",
+        "https://iz.ru/2183016/uchenye-nazvali-dopustimoe-vremia-dolgogo-sideniia-izi",
+        "https://iz.ru/2183286/uchenye-sviazali-bessonnitcu-s-simptomami-depressii-izi",
+        "https://iz.ru/2183353/uchenye-izuchili-vliianie-dispraksii-na-sotcialnoe-vzaimodeistvie-detei-izi",
+        "https://iz.ru/2183376/uchenye-rasskazali-ob-ukhudshenii-vnimaniia-iz-za-beskonechnogo-skrollinga-sotcsetei-izi",
+        "https://iz.ru/2183460/narodnye-primety-na-14-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2183735/2026-10-14/mladshii-serzhant-ivanov-spas-ranenogo-tovarishcha-posle-podryva-na-mine-izi",
+        "https://iz.ru/2183761/2026-10-14/pozhiznennyi-prezident-futbolnogo-kluba-arsenal-ken-fraiar-biografiia-izi",
+        "https://iz.ru/2183769/britanskii-ledokol-hms-protector-vernulsia-v-port-iz-za-polomki-dvigatelei-izi",
+        "https://iz.ru/2183770/barselona-razgromila-galatasarai-v-matche-ligi-chempionov-izi",
+        "https://iz.ru/2183776/golyshenkova-rasskazala-o-luchshem-sposobe-vystroit-shkolnoe-raspisanie-izi",
+        "https://iz.ru/2183782/na-pliazhe-baltiiskogo-moria-v-polshe-nashli-fragmenty-neopoznannogo-obekta-izi",
+        "https://iz.ru/2183788/zhurnalist-zaiavil-o-posviashchennosti-tcru-v-plan-podryva-severnykh-potokov-izi",
+        "https://iz.ru/2183803/potreblenie-alkogolia-v-rossii-dostiglo-istoricheskogo-minimuma-za-30-let-izi",
+        "https://iz.ru/2183809/velikobritaniia-uskorit-postavki-ukraine-raket-lmm-na-13-mln-izi"
       ]
     },
     "2026-10-15": {
-      "totalChecked": 930,
+      "totalChecked": 906,
       "totalIzi": 194,
       "totalIiz": 0,
       "totalAi": 194,
@@ -235,12 +235,11 @@
       ]
     },
     "2026-10-16": {
-      "totalChecked": 958,
-      "totalIzi": 178,
+      "totalChecked": 955,
+      "totalIzi": 177,
       "totalIiz": 4,
-      "totalAi": 182,
+      "totalAi": 181,
       "topLinks": [
-        "https://iz.ru/2184182/uchenye-raskryli-mekhanizm-vliianiia-stressa-na-plod-pri-beremennosti-izi",
         "https://iz.ru/2184544/uchenye-sviazali-fizicheskuiu-aktivnost-s-uluchsheniem-nastroeniia-pri-menopauze-izi",
         "https://iz.ru/2184582/uchenye-uznali-o-sviazi-bessonnitcy-s-narusheniem-reaktcii-na-strakh-izi",
         "https://iz.ru/2184594/narodnye-primety-na-16-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,7 +258,8 @@
         "https://iz.ru/2185121/britantcev-prizvali-podgotovitsia-k-blekautam-vpervye-s-1970-kh-godov-izi",
         "https://iz.ru/2185124/uitkoff-kushner-i-vens-prizyvali-zelenskogo-ne-bit-po-rossiiskim-npz-izi",
         "https://iz.ru/2185126/cnn-soobshchil-ob-ischerpanii-zapasov-raket-dlia-patriot-na-ukraine-izi",
-        "https://iz.ru/2185128/gai-smozhet-avtomaticheski-prekrashchat-deistvie-voditelskikh-prav-s-marta-2027-goda-izi"
+        "https://iz.ru/2185128/gai-smozhet-avtomaticheski-prekrashchat-deistvie-voditelskikh-prav-s-marta-2027-goda-izi",
+        "https://iz.ru/2185132/rostekh-soobshchil-ob-uvelichenii-vypuska-upravliaemykh-snariadov-krasnopol-izi"
       ]
     },
     "2026-10-17": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 728,
-      "totalIzi": 132,
+      "totalChecked": 1014,
+      "totalIzi": 205,
       "totalIiz": 2,
-      "totalAi": 134,
+      "totalAi": 207,
       "topLinks": [
         "https://iz.ru/2187182/uchenye-ukazali-na-polzu-zelenykh-uchastkov-vozle-doma-so-snizheniem-riska-dementcii-izi",
         "https://iz.ru/2187203/uchenye-ukazali-na-polzu-khodby-pri-bolezni-altcgeimera-izi",
