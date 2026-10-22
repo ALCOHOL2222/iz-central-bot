@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:26:20.746Z",
+  "generatedAt": "2026-10-22T15:32:13.522Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-10-15": {
-      "totalChecked": 716,
-      "totalIzi": 152,
+      "totalChecked": 582,
+      "totalIzi": 121,
       "totalIiz": 0,
-      "totalAi": 152,
+      "totalAi": 121,
       "topLinks": [
-        "https://iz.ru/2184614/v-germanii-zaiavili-o-nevozmozhnosti-sushchestvovaniia-ukrainy-bez-pomoshchi-berlina-izi",
-        "https://iz.ru/2184619/forum-smi-v-krymu-nachalsia-s-vozlozheniia-k-memorialnoi-doske-voenkora-fedorchaka-izi",
-        "https://iz.ru/2184620/v-ofise-mezhdunarodnoi-tcerkvi-saentologii-nashli-podozritelnye-napitki-i-bady-izi",
-        "https://iz.ru/2184623/v-podmoskove-mototcikly-smogut-besplatno-parkovatsia-na-platnykh-stoiankakh-izi",
-        "https://iz.ru/2184637/v-poltavskoi-oblasti-povrezhden-gazodobyvaiushchii-obekt-naftogaza-izi",
-        "https://iz.ru/2184651/pri-pozhare-na-sudne-u-poberezhia-rumynii-propali-vosem-chelovek-izi",
-        "https://iz.ru/2184661/v-kuzbasse-predlozhili-razmeshchat-data-tcentry-v-otrabotannykh-ugolnykh-karerakh-izi",
-        "https://iz.ru/2184667/karta-spetcoperatcii-na-ukraine-15-oktiabria-izi",
-        "https://iz.ru/2184679/v-finliandii-v-ianvare-razoshliut-zhiteliam-broshiury-o-podgotovke-k-chs-izi",
-        "https://iz.ru/2184682/v-ator-rasskazali-o-polozhenii-rossiiskikh-turistov-v-mavrikii-na-fone-besporiadkov-izi",
-        "https://iz.ru/2184692/dmitriev-zaiavil-o-stremlenii-ilona-maska-dobitsia-mira-izi",
-        "https://iz.ru/2184693/v-mok-soobshchili-o-sokhranenii-vozmozhnosti-kvalifikatcii-gimnastok-rf-na-olimpiadu-izi",
-        "https://iz.ru/2184703/iampolskaia-vystupila-protiv-voskresheniia-umershikh-akterov-s-pomoshchiu-ii-izi",
-        "https://iz.ru/2184713/mertc-vystupil-protiv-peredachi-rossiiskikh-aktivov-pod-kontrol-ssha-izi",
-        "https://iz.ru/2184714/uchenye-soobshchili-o-pochti-dvukratnom-roste-chastoty-insultov-do-55-let-izi",
-        "https://iz.ru/2184715/rossiiskuiu-kompaniiu-komika-saburova-likvidiruiut-izi",
-        "https://iz.ru/2184722/politolog-denisov-zaiavil-o-vozmozhnom-vnutripoliticheskom-krizise-na-ukraine-izi",
-        "https://iz.ru/2184726/boitcy-vs-rossii-zachistili-logisticheskii-uzel-vsu-na-volchanskom-napravlenii-izi",
-        "https://iz.ru/2184737/oae-peredali-rossii-troikh-obiavlennykh-v-mezhdunarodnyi-rozysk-obviniaemykh-izi",
-        "https://iz.ru/2184740/uchenye-soobshchili-o-snizhenii-fizicheskikh-vozmozhnostei-do-40-let-izi"
+        "https://iz.ru/2184822/putin-otmetil-vedushchuiu-rol-uchastnikov-delovoi-rossii-v-ekonomike-strany-izi",
+        "https://iz.ru/2184826/putin-prizval-biznes-iz-donbassa-zadavat-voprosy-po-rabote-v-neprostykh-usloviiakh-izi",
+        "https://iz.ru/2184830/putin-nazval-suverenitet-strany-zalogom-konkurentosposobnosti-biznesa-izi",
+        "https://iz.ru/2184850/putin-podcherknul-vazhnost-nadezhnoi-zashchity-pensionnykh-nakoplenii-izi",
+        "https://iz.ru/2184856/uchenye-otmeniat-visokosnye-sekundy-pri-izmerenii-vremeni-izi",
+        "https://iz.ru/2184857/putin-nazval-otlozhennye-investitcionnye-vychety-realnoi-podderzhkoi-biznesa-izi",
+        "https://iz.ru/2184862/uchenye-soobshchili-o-vozmozhnoi-roli-peptida-p3-v-bolezni-altcgeimera-izi",
+        "https://iz.ru/2184874/vlasti-kuzbassa-rassmatrivaiut-novyi-vodnyi-marshrut-dlia-eksporta-cherez-arktiku-izi",
+        "https://iz.ru/2184881/rossiia-voshla-v-top-20-krupneishikh-mirovykh-postavshchikov-prodovolstviia-izi",
+        "https://iz.ru/2184886/uchenye-soobshchili-ob-umenshenii-radiusa-luny-na-45-metrov-izi",
+        "https://iz.ru/2184904/putin-nazval-demografiiu-odnim-iz-glavnykh-prioritetov-rossii-izi",
+        "https://iz.ru/2184911/chto-proizoshlo-za-den-15-oktiabria-glavno-izi",
+        "https://iz.ru/2184922/putin-prizval-kiev-dumat-o-posledstviiakh-izi",
+        "https://iz.ru/2184941/v-minfine-zaiavili-ob-ukhudshenii-situatcii-s-mirovymi-zapasami-topliva-izi",
+        "https://iz.ru/2184942/spetcpredstavitel-trampa-vyskazalsia-ob-uchastii-rossiian-v-olimpiade-2028-izi",
+        "https://iz.ru/2184943/shvydkoi-nazval-premiiu-evraziia-instrumentom-ukrepleniia-sviazei-mezhdu-narodami-izi",
+        "https://iz.ru/2184946/peskov-nazval-russkii-iazyk-sredstvom-sokhraneniia-obshchnosti-v-evrazii-izi",
+        "https://iz.ru/2184969/na-stavropole-sud-vzyskal-aktivy-eks-glavy-otdeleniia-pfr-na-158-mln-rublei-izi",
+        "https://iz.ru/2185004/mertc-otkazalsia-ukhodit-v-otstavku-na-fone-porazheniia-khds-na-regionalnykh-vyborakh-izi",
+        "https://iz.ru/2185018/redkuiu-knigu-o-garri-pottere-s-oshibkami-prodali-na-auktcione-za-400-tys-izi"
       ]
     },
     "2026-10-16": {
-      "totalChecked": 946,
-      "totalIzi": 175,
+      "totalChecked": 934,
+      "totalIzi": 174,
       "totalIiz": 3,
-      "totalAi": 178,
+      "totalAi": 177,
       "topLinks": [
-        "https://iz.ru/2184653/2026-10-16/uchenye-rasskazali-o-mekhanizme-dolgovechnosti-serdechnykh-klapanov-izi",
         "https://iz.ru/2185027/2026-10-16/gvardii-mladshii-leitenant-korganov-zakhvatil-i-uderzhal-opornyi-punkt-vsu-izi",
         "https://iz.ru/2185060/v-ntc-rossiia-predstavili-natcionalnyi-arkhitekturnyi-kod-strany-izi",
         "https://iz.ru/2185075/v-adg-usomnilis-v-versii-ob-odinochnom-ispolnitele-podryva-severnykh-potokov-izi",
@@ -231,17 +230,16 @@
         "https://iz.ru/2185132/rostekh-soobshchil-ob-uvelichenii-vypuska-upravliaemykh-snariadov-krasnopol-izi",
         "https://iz.ru/2185133/v-kremle-nazvali-rossiiu-odnoi-iz-samykh-vysokotekhnologichnykh-stran-mira-izi",
         "https://iz.ru/2185134/tramp-zaiavil-o-priostanovke-prodazhi-boepripasov-soiuznikam-ssha-izi",
-        "https://iz.ru/2185136/pri-atake-bpla-v-rostovskoi-oblasti-proizoshel-pozhar-odin-postradavshii-izi"
+        "https://iz.ru/2185136/pri-atake-bpla-v-rostovskoi-oblasti-proizoshel-pozhar-odin-postradavshii-izi",
+        "https://iz.ru/2185137/knaisl-nazvala-filmy-brat-i-brat-2-obiazatelnymi-k-prosmotru-izi"
       ]
     },
     "2026-10-17": {
-      "totalChecked": 584,
-      "totalIzi": 124,
+      "totalChecked": 580,
+      "totalIzi": 122,
       "totalIiz": 3,
-      "totalAi": 127,
+      "totalAi": 125,
       "topLinks": [
-        "https://iz.ru/2184633/uchenye-izuchili-chastotu-psikhicheskikh-rasstroistv-u-perezhivshikh-nasilie-ot-partnera-izi",
-        "https://iz.ru/2184709/uchenye-raskryli-vazhnye-dlia-snizheniia-vesa-faktory-izi",
         "https://iz.ru/2185285/2026-10-17/uchenye-soobshchili-o-sviazi-udaleniia-amiloida-s-menshim-povrezhdeniem-mozga-izi",
         "https://iz.ru/2185321/2026-10-17/uchenye-rasskazali-o-sviazi-razmera-rakovykh-kletok-s-agressivnostiu-opukholei-izi",
         "https://iz.ru/2185379/narodnye-primety-na-17-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,11 +257,13 @@
         "https://iz.ru/2185724/tramp-otcenil-prezentatciiu-novoi-tesla-ilona-maska-izi",
         "https://iz.ru/2185731/wsj-rasskazala-o-problemakh-ukrainy-s-perekhvatom-rossiiskikh-dronov-izi",
         "https://iz.ru/2185733/vsu-otstupili-k-slaviansku-i-kramatorsku-posle-poteri-dvukh-naselennykh-punktov-izi",
-        "https://iz.ru/2185741/bratia-zapashnye-nazvali-tigriat-bolshogo-moskovskogo-tcirka-bobom-i-marli-izi"
+        "https://iz.ru/2185741/bratia-zapashnye-nazvali-tigriat-bolshogo-moskovskogo-tcirka-bobom-i-marli-izi",
+        "https://iz.ru/2185744/lesnoi-pozhar-v-kalifornii-povredil-shest-zhilykh-domov-izi",
+        "https://iz.ru/2185747/umer-rabotavshii-nad-koshmarom-pered-rozhdestvom-animator-loid-prais-izi"
       ]
     },
     "2026-10-18": {
-      "totalChecked": 572,
+      "totalChecked": 571,
       "totalIzi": 124,
       "totalIiz": 4,
       "totalAi": 128,
@@ -291,7 +291,7 @@
       ]
     },
     "2026-10-19": {
-      "totalChecked": 931,
+      "totalChecked": 927,
       "totalIzi": 200,
       "totalIiz": 2,
       "totalAi": 202,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-22": {
-      "totalChecked": 432,
-      "totalIzi": 91,
+      "totalChecked": 743,
+      "totalIzi": 162,
       "totalIiz": 2,
-      "totalAi": 93,
+      "totalAi": 164,
       "topLinks": [
         "https://iz.ru/2187289/uchenye-raskryli-prichiny-mozgovogo-tumana-pri-depressii-izi",
         "https://iz.ru/2187458/uchenye-uznali-ob-izmenenii-mozgom-prioritetov-po-mere-vzrosleniia-izi",
