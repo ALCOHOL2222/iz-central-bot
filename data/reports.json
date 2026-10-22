@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T20:18:53.937Z",
+  "generatedAt": "2026-10-22T23:34:07.892Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 68
   },
   "days": {
-    "2026-10-09": {
-      "totalChecked": 482,
-      "totalIzi": 101,
-      "totalIiz": 2,
-      "totalAi": 103,
-      "topLinks": [
-        "https://iz.ru/2173286/2026-09-09/den-rabotnika-selskogo-khoziaistva-2026-istoriia-traditcii-i-pozdravleniia-iiz",
-        "https://iz.ru/2179364/uchenye-raskryli-prichiny-sokhraneniia-boli-posle-lecheniia-endometrioza-izi",
-        "https://iz.ru/2180096/uchenye-sviazali-oslozhneniia-pri-beremennosti-s-riskom-boleznei-serdtca-i-pochek-izi",
-        "https://iz.ru/2180252/rannii-perekhod-k-menopauze-sviazali-s-trevogoi-i-depressiei-izi",
-        "https://iz.ru/2180664/uchenye-iskliuchili-sviaz-transzhirov-s-riskom-serdechnykh-zabolevanii-izi",
-        "https://iz.ru/2180690/uchenye-vyiasnili-mekhanizm-raboty-krovotoka-v-kletkakh-pecheni-izi",
-        "https://iz.ru/2180995/narodnye-primety-na-9-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2181140/v-kharkove-74-letniaia-zhenshchina-poluchila-perelomy-posle-tolchka-sotrudnika-ttck-izi",
-        "https://iz.ru/2181144/ft-uznala-o-planakh-starbucks-kupit-set-chipotle-za-41-mlrd-izi",
-        "https://iz.ru/2181158/dvukh-grazhdan-latvii-zaderzhali-za-proniknovenie-na-bazu-vvs-velikobritanii-izi",
-        "https://iz.ru/2181164/nazvana-skhema-moshennikov-s-prodazhei-snegouborochnoi-tekhniki-v-regionakh-izi",
-        "https://iz.ru/2181166/v-minobrnauki-predlozhili-nachisliat-do-25-ballov-za-vysokie-rezultaty-ege-izi",
-        "https://iz.ru/2181168/v-op-predlozhili-besplatno-obuchat-ottcov-doshkolnikov-v-avtoshkole-izi",
-        "https://iz.ru/2181186/politico-soobshchila-o-riske-poteri-vremennoi-zashchity-dlia-100-tys-ukraintcev-v-ssha-izi",
-        "https://iz.ru/2181201/v-mvd-nazvali-nezhelatelnye-dlia-khraneniia-v-telefone-dannye-izi",
-        "https://iz.ru/2181204/tri-cheloveka-postradali-v-dtp-s-reisovym-avtobusom-v-sverdlovskoi-oblasti-izi",
-        "https://iz.ru/2181206/v-minoborony-soobshchili-ob-otkaze-ot-meshaiushchikh-gotovit-soldat-trebovanii-v-khode-svo-izi",
-        "https://iz.ru/2181209/kiprskii-zhurnalist-predupredil-o-posledstviiakh-kritiki-zelenskim-rechi-rubio-izi",
-        "https://iz.ru/2181214/mesto-eks-premera-starmera-v-parlamente-britanii-zaimet-urozhenka-somali-izi",
-        "https://iz.ru/2181224/volontery-iz-kurkina-peredali-uchastnikam-svo-bolee-350-t-gumanitarnoi-pomoshchi-izi"
-      ]
-    },
     "2026-10-10": {
       "totalChecked": 304,
       "totalIzi": 88,
@@ -207,31 +179,31 @@
       ]
     },
     "2026-10-16": {
-      "totalChecked": 893,
-      "totalIzi": 173,
+      "totalChecked": 842,
+      "totalIzi": 159,
       "totalIiz": 3,
-      "totalAi": 176,
+      "totalAi": 162,
       "topLinks": [
-        "https://iz.ru/2185060/v-ntc-rossiia-predstavili-natcionalnyi-arkhitekturnyi-kod-strany-izi",
-        "https://iz.ru/2185075/v-adg-usomnilis-v-versii-ob-odinochnom-ispolnitele-podryva-severnykh-potokov-izi",
-        "https://iz.ru/2185081/mid-nazval-rossiiu-nadezhnym-postavshchikom-energonositelei-izi",
-        "https://iz.ru/2185087/posolstvo-rf-v-polshe-vozlozhilo-na-vsu-otvetstvennost-za-situatciiu-v-aleshkakh-izi",
-        "https://iz.ru/2185089/putin-predostavil-grazhdanstvo-rf-zhurnalistu-lorusso-i-khokkeistu-roiu-izi",
-        "https://iz.ru/2185092/shvetciia-ekstradirovala-v-ssha-rossiianina-po-delu-o-postavkakh-mikroelektroniki-izi",
-        "https://iz.ru/2185097/moshenniki-pridumali-novuiu-skhemu-obmana-s-arendoi-parkingov-izi",
-        "https://iz.ru/2185098/kosmonavt-vagner-rasskazal-o-problemakh-so-snom-na-mks-izi",
-        "https://iz.ru/2185112/tesla-predstavila-novyi-roadster-s-vozmozhnostiu-poleta-izi",
-        "https://iz.ru/2185118/kitaiskii-uchenyi-dopustil-izmenenie-kharaktera-posle-peresadki-serdtca-izi",
-        "https://iz.ru/2185121/britantcev-prizvali-podgotovitsia-k-blekautam-vpervye-s-1970-kh-godov-izi",
-        "https://iz.ru/2185124/uitkoff-kushner-i-vens-prizyvali-zelenskogo-ne-bit-po-rossiiskim-npz-izi",
-        "https://iz.ru/2185126/cnn-soobshchil-ob-ischerpanii-zapasov-raket-dlia-patriot-na-ukraine-izi",
-        "https://iz.ru/2185128/gai-smozhet-avtomaticheski-prekrashchat-deistvie-voditelskikh-prav-s-marta-2027-goda-izi",
         "https://iz.ru/2185132/rostekh-soobshchil-ob-uvelichenii-vypuska-upravliaemykh-snariadov-krasnopol-izi",
         "https://iz.ru/2185133/v-kremle-nazvali-rossiiu-odnoi-iz-samykh-vysokotekhnologichnykh-stran-mira-izi",
         "https://iz.ru/2185134/tramp-zaiavil-o-priostanovke-prodazhi-boepripasov-soiuznikam-ssha-izi",
         "https://iz.ru/2185136/pri-atake-bpla-v-rostovskoi-oblasti-proizoshel-pozhar-odin-postradavshii-izi",
         "https://iz.ru/2185137/knaisl-nazvala-filmy-brat-i-brat-2-obiazatelnymi-k-prosmotru-izi",
-        "https://iz.ru/2185138/moskvichi-iz-dvizheniia-seti-dlia-svoikh-otpravili-boitcam-bolee-50-t-gumpomoshchi-izi"
+        "https://iz.ru/2185138/moskvichi-iz-dvizheniia-seti-dlia-svoikh-otpravili-boitcam-bolee-50-t-gumpomoshchi-izi",
+        "https://iz.ru/2185142/nad-rostovskoi-oblastiu-unichtozhili-okolo-50-bpla-i-raketu-izi",
+        "https://iz.ru/2185144/v-kongresse-prigrozili-vedomstvam-ssha-posledstviiami-iz-za-ogranichenii-starlink-izi",
+        "https://iz.ru/2185148/ukraina-zadolzhala-6674-mlrd-za-obsluzhivanie-vneshnego-gosdolga-v-2027-godu-izi",
+        "https://iz.ru/2185152/v-britanii-obratili-vnimanie-na-eshche-bolshee-usilenie-rossii-za-vremia-konflikta-izi",
+        "https://iz.ru/2185153/vs-rf-atakovali-chetyre-sklada-vooruzheniia-vsu-v-zaporozhe-i-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2185155/putin-dal-grazhdanstvo-rossii-dvum-khokkeistam-pisatelnitce-i-eshche-23-liudiam-izi",
+        "https://iz.ru/2185158/novyi-press-sekretar-belogo-doma-opravdala-plokhoi-brifing-nekhvatkoi-vremeni-izi",
+        "https://iz.ru/2185159/lidery-evrosoiuza-ne-smogli-soglasovat-biudzhet-na-2028-2034-gody-izi",
+        "https://iz.ru/2185162/tramp-ukazal-na-otsutstvie-nuzhdy-v-svoem-pomilovanii-iz-za-iakoby-nevinovnosti-izi",
+        "https://iz.ru/2185171/analitik-merkuris-zaiavil-ob-opaseniiakh-zapada-iz-za-deistvii-zelenskogo-izi",
+        "https://iz.ru/2185176/medvedev-zaiavil-o-priznanii-zelenskogo-v-ssha-pomekhoi-miru-izi",
+        "https://iz.ru/2185182/otetc-30-raz-udaril-rebenka-i-utopil-ego-v-vanne-v-orenburgskoi-oblasti-izi",
+        "https://iz.ru/2185192/astronomy-nashli-pervuiu-zelenuiu-zvezdu-i-odnogo-iz-samykh-krasnykh-belykh-karlikov-izi",
+        "https://iz.ru/2185193/lavrov-predupredil-ob-ugroze-tcvetnykh-revoliutcii-dlia-liuboi-strany-izi"
       ]
     },
     "2026-10-17": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-10-22": {
-      "totalChecked": 1015,
-      "totalIzi": 224,
+      "totalChecked": 1092,
+      "totalIzi": 238,
       "totalIiz": 4,
-      "totalAi": 228,
+      "totalAi": 242,
       "topLinks": [
         "https://iz.ru/2187289/uchenye-raskryli-prichiny-mozgovogo-tumana-pri-depressii-izi",
         "https://iz.ru/2187458/uchenye-uznali-ob-izmenenii-mozgom-prioritetov-po-mere-vzrosleniia-izi",
@@ -400,6 +372,18 @@
         "https://iz.ru/2188391/v-rossii-s-2027-goda-vvedut-novye-ogranicheniia-na-trud-podrostkov-izi",
         "https://iz.ru/2188398/dva-pustykh-passazhirskikh-vagona-stolknulis-na-stantcii-v-kemerovskoi-oblasti-izi",
         "https://iz.ru/2188400/v-mvd-soobshchili-o-trebovanii-moshennikov-sniat-dengi-cherez-bankomat-izi"
+      ]
+    },
+    "2026-10-23": {
+      "totalChecked": 72,
+      "totalIzi": 2,
+      "totalIiz": 2,
+      "totalAi": 4,
+      "topLinks": [
+        "https://iz.ru/2188599/narodnye-primety-na-23-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2189043/reuters-soobshchilo-ob-uvelichenii-postavok-nefti-stranami-blizhnego-vostoka-v-indiiu-izi",
+        "https://iz.ru/2189048/minenergo-potrebnost-v-importnom-benzine-snizhaetsia-ego-obem-v-rossii-mal-izi",
+        "https://iz.ru/2188599/narodnye-primety-na-23-oktiabria-chto-mozhno-i-nelzia-delat-iiz"
       ]
     }
   }
