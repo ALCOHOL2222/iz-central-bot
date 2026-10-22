@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:04:11.596Z",
+  "generatedAt": "2026-10-22T10:26:20.746Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,42 +179,39 @@
       ]
     },
     "2026-10-15": {
-      "totalChecked": 821,
-      "totalIzi": 170,
+      "totalChecked": 716,
+      "totalIzi": 152,
       "totalIiz": 0,
-      "totalAi": 170,
+      "totalAi": 152,
       "topLinks": [
-        "https://iz.ru/2184485/letevshii-iz-tuluzy-v-kan-vo-frantcii-samolet-volotea-podal-signal-bedstviia-izi",
-        "https://iz.ru/2184486/kiprskii-zhurnalist-ukazal-na-nervnyy-sryv-u-zelenskogo-izi",
-        "https://iz.ru/2184495/mototciklist-iz-rossii-pogib-v-dtp-na-trasse-sukkhumvit-v-pattaie-izi",
-        "https://iz.ru/2184496/v-pakistane-17-uchenikov-i-odin-uchitel-pogibli-pri-obrushenii-kryshi-v-shkole-izi",
-        "https://iz.ru/2184527/vyshel-pervyi-treiler-novykh-khronik-narnii-grety-gervig-izi",
-        "https://iz.ru/2184530/zelenskii-zaiavil-o-vozobnovlenii-udarov-po-rossiiskim-npz-izi",
-        "https://iz.ru/2184532/wp-uznala-ob-ugroze-ssha-ne-davat-ukraine-razveddannye-iz-za-udarov-po-npz-izi",
-        "https://iz.ru/2184536/masshtabnye-obyski-u-saentologov-v-rossii-chto-izvestno-izi",
-        "https://iz.ru/2184543/v-energodare-posle-udara-bespilotnikov-zagorelsia-stroitelnyi-magazin-izi",
-        "https://iz.ru/2184553/dva-cheloveka-postradali-pri-pozhare-v-angare-v-podmoskovnom-podolske-izi",
-        "https://iz.ru/2184556/novak-dopustil-nachalo-postavok-rossiiskogo-diztopliva-v-ssha-cherez-dve-nedeli-izi",
-        "https://iz.ru/2184567/v-mid-rf-zaiavili-o-signalakh-nato-i-es-o-posledstviiakh-izoliatcii-kaliningrada-izi",
-        "https://iz.ru/2184570/pogransluzhba-kirgizii-proverit-vse-obstoiatelstva-prokhozhdeniia-kontrolia-navai-izi",
-        "https://iz.ru/2184574/byvshii-glavnyi-trener-sbornoi-danii-po-futbolu-iukhansson-umer-v-vozraste-83-let-izi",
-        "https://iz.ru/2184576/uchenye-rasskazali-o-sviazi-raiona-prozhivaniia-so-zdorovem-posle-raka-izi",
-        "https://iz.ru/2184578/premer-latvii-prizval-evropeitcev-otkazatsia-ot-bokala-piva-v-god-radi-ukrainy-izi",
-        "https://iz.ru/2184603/novak-soobshchil-ob-otsutstvii-peregovorov-po-prodleniiu-litcenzii-ssha-na-dizel-izi",
-        "https://iz.ru/2184610/uchenye-soobshchili-o-sviazi-epilepsii-s-riskom-dementcii-do-65-let-izi",
         "https://iz.ru/2184614/v-germanii-zaiavili-o-nevozmozhnosti-sushchestvovaniia-ukrainy-bez-pomoshchi-berlina-izi",
-        "https://iz.ru/2184619/forum-smi-v-krymu-nachalsia-s-vozlozheniia-k-memorialnoi-doske-voenkora-fedorchaka-izi"
+        "https://iz.ru/2184619/forum-smi-v-krymu-nachalsia-s-vozlozheniia-k-memorialnoi-doske-voenkora-fedorchaka-izi",
+        "https://iz.ru/2184620/v-ofise-mezhdunarodnoi-tcerkvi-saentologii-nashli-podozritelnye-napitki-i-bady-izi",
+        "https://iz.ru/2184623/v-podmoskove-mototcikly-smogut-besplatno-parkovatsia-na-platnykh-stoiankakh-izi",
+        "https://iz.ru/2184637/v-poltavskoi-oblasti-povrezhden-gazodobyvaiushchii-obekt-naftogaza-izi",
+        "https://iz.ru/2184651/pri-pozhare-na-sudne-u-poberezhia-rumynii-propali-vosem-chelovek-izi",
+        "https://iz.ru/2184661/v-kuzbasse-predlozhili-razmeshchat-data-tcentry-v-otrabotannykh-ugolnykh-karerakh-izi",
+        "https://iz.ru/2184667/karta-spetcoperatcii-na-ukraine-15-oktiabria-izi",
+        "https://iz.ru/2184679/v-finliandii-v-ianvare-razoshliut-zhiteliam-broshiury-o-podgotovke-k-chs-izi",
+        "https://iz.ru/2184682/v-ator-rasskazali-o-polozhenii-rossiiskikh-turistov-v-mavrikii-na-fone-besporiadkov-izi",
+        "https://iz.ru/2184692/dmitriev-zaiavil-o-stremlenii-ilona-maska-dobitsia-mira-izi",
+        "https://iz.ru/2184693/v-mok-soobshchili-o-sokhranenii-vozmozhnosti-kvalifikatcii-gimnastok-rf-na-olimpiadu-izi",
+        "https://iz.ru/2184703/iampolskaia-vystupila-protiv-voskresheniia-umershikh-akterov-s-pomoshchiu-ii-izi",
+        "https://iz.ru/2184713/mertc-vystupil-protiv-peredachi-rossiiskikh-aktivov-pod-kontrol-ssha-izi",
+        "https://iz.ru/2184714/uchenye-soobshchili-o-pochti-dvukratnom-roste-chastoty-insultov-do-55-let-izi",
+        "https://iz.ru/2184715/rossiiskuiu-kompaniiu-komika-saburova-likvidiruiut-izi",
+        "https://iz.ru/2184722/politolog-denisov-zaiavil-o-vozmozhnom-vnutripoliticheskom-krizise-na-ukraine-izi",
+        "https://iz.ru/2184726/boitcy-vs-rossii-zachistili-logisticheskii-uzel-vsu-na-volchanskom-napravlenii-izi",
+        "https://iz.ru/2184737/oae-peredali-rossii-troikh-obiavlennykh-v-mezhdunarodnyi-rozysk-obviniaemykh-izi",
+        "https://iz.ru/2184740/uchenye-soobshchili-o-snizhenii-fizicheskikh-vozmozhnostei-do-40-let-izi"
       ]
     },
     "2026-10-16": {
-      "totalChecked": 955,
-      "totalIzi": 177,
-      "totalIiz": 4,
-      "totalAi": 181,
+      "totalChecked": 946,
+      "totalIzi": 175,
+      "totalIiz": 3,
+      "totalAi": 178,
       "topLinks": [
-        "https://iz.ru/2184544/uchenye-sviazali-fizicheskuiu-aktivnost-s-uluchsheniem-nastroeniia-pri-menopauze-izi",
-        "https://iz.ru/2184582/uchenye-uznali-o-sviazi-bessonnitcy-s-narusheniem-reaktcii-na-strakh-izi",
-        "https://iz.ru/2184594/narodnye-primety-na-16-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2184653/2026-10-16/uchenye-rasskazali-o-mekhanizme-dolgovechnosti-serdechnykh-klapanov-izi",
         "https://iz.ru/2185027/2026-10-16/gvardii-mladshii-leitenant-korganov-zakhvatil-i-uderzhal-opornyi-punkt-vsu-izi",
         "https://iz.ru/2185060/v-ntc-rossiia-predstavili-natcionalnyi-arkhitekturnyi-kod-strany-izi",
@@ -231,17 +228,18 @@
         "https://iz.ru/2185124/uitkoff-kushner-i-vens-prizyvali-zelenskogo-ne-bit-po-rossiiskim-npz-izi",
         "https://iz.ru/2185126/cnn-soobshchil-ob-ischerpanii-zapasov-raket-dlia-patriot-na-ukraine-izi",
         "https://iz.ru/2185128/gai-smozhet-avtomaticheski-prekrashchat-deistvie-voditelskikh-prav-s-marta-2027-goda-izi",
-        "https://iz.ru/2185132/rostekh-soobshchil-ob-uvelichenii-vypuska-upravliaemykh-snariadov-krasnopol-izi"
+        "https://iz.ru/2185132/rostekh-soobshchil-ob-uvelichenii-vypuska-upravliaemykh-snariadov-krasnopol-izi",
+        "https://iz.ru/2185133/v-kremle-nazvali-rossiiu-odnoi-iz-samykh-vysokotekhnologichnykh-stran-mira-izi",
+        "https://iz.ru/2185134/tramp-zaiavil-o-priostanovke-prodazhi-boepripasov-soiuznikam-ssha-izi",
+        "https://iz.ru/2185136/pri-atake-bpla-v-rostovskoi-oblasti-proizoshel-pozhar-odin-postradavshii-izi"
       ]
     },
     "2026-10-17": {
-      "totalChecked": 588,
-      "totalIzi": 126,
+      "totalChecked": 584,
+      "totalIzi": 124,
       "totalIiz": 3,
-      "totalAi": 129,
+      "totalAi": 127,
       "topLinks": [
-        "https://iz.ru/2184526/2026-10-17/ekspert-predupredil-o-riske-pereplaty-iz-za-ekonomii-na-it-izi",
-        "https://iz.ru/2184609/issledovateli-rasskazali-ob-izmenenii-riska-pishchevoi-allergii-po-mere-vzrosleniia-izi",
         "https://iz.ru/2184633/uchenye-izuchili-chastotu-psikhicheskikh-rasstroistv-u-perezhivshikh-nasilie-ot-partnera-izi",
         "https://iz.ru/2184709/uchenye-raskryli-vazhnye-dlia-snizheniia-vesa-faktory-izi",
         "https://iz.ru/2185285/2026-10-17/uchenye-soobshchili-o-sviazi-udaleniia-amiloida-s-menshim-povrezhdeniem-mozga-izi",
@@ -259,7 +257,9 @@
         "https://iz.ru/2185711/times-soobshchila-o-podgotovke-voennykh-koalitcii-zhelaiushchikh-k-perebroske-na-ukrainu-izi",
         "https://iz.ru/2185718/onishchenko-obiasnil-perspektivy-peresadki-golovy-cheloveku-izi",
         "https://iz.ru/2185724/tramp-otcenil-prezentatciiu-novoi-tesla-ilona-maska-izi",
-        "https://iz.ru/2185731/wsj-rasskazala-o-problemakh-ukrainy-s-perekhvatom-rossiiskikh-dronov-izi"
+        "https://iz.ru/2185731/wsj-rasskazala-o-problemakh-ukrainy-s-perekhvatom-rossiiskikh-dronov-izi",
+        "https://iz.ru/2185733/vsu-otstupili-k-slaviansku-i-kramatorsku-posle-poteri-dvukh-naselennykh-punktov-izi",
+        "https://iz.ru/2185741/bratia-zapashnye-nazvali-tigriat-bolshogo-moskovskogo-tcirka-bobom-i-marli-izi"
       ]
     },
     "2026-10-18": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 1076,
+      "totalChecked": 1077,
       "totalIzi": 229,
       "totalIiz": 2,
       "totalAi": 231,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-22": {
-      "totalChecked": 182,
-      "totalIzi": 35,
+      "totalChecked": 432,
+      "totalIzi": 91,
       "totalIiz": 2,
-      "totalAi": 37,
+      "totalAi": 93,
       "topLinks": [
         "https://iz.ru/2187289/uchenye-raskryli-prichiny-mozgovogo-tumana-pri-depressii-izi",
         "https://iz.ru/2187458/uchenye-uznali-ob-izmenenii-mozgom-prioritetov-po-mere-vzrosleniia-izi",
@@ -399,7 +399,7 @@
         "https://iz.ru/2188390/tramp-predlozhil-pereimenovat-tikhii-okean-v-amerikanskii-izi",
         "https://iz.ru/2188391/v-rossii-s-2027-goda-vvedut-novye-ogranicheniia-na-trud-podrostkov-izi",
         "https://iz.ru/2188398/dva-pustykh-passazhirskikh-vagona-stolknulis-na-stantcii-v-kemerovskoi-oblasti-izi",
-        "https://iz.ru/2188405/moshenniki-pridumali-novuiu-skhemu-obmana-rossiian-cherez-bankomaty-izi"
+        "https://iz.ru/2188400/v-mvd-soobshchili-o-trebovanii-moshennikov-sniat-dengi-cherez-bankomat-izi"
       ]
     }
   }
