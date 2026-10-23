@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:26:53.543Z",
+  "generatedAt": "2026-10-23T23:19:53.933Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 68
   },
   "days": {
-    "2026-10-10": {
-      "totalChecked": 304,
-      "totalIzi": 88,
-      "totalIiz": 1,
-      "totalAi": 89,
-      "topLinks": [
-        "https://iz.ru/2180720/uchenye-vyiavili-sviaz-vitaminov-d2-i-d3-v-organizme-izi",
-        "https://iz.ru/2180772/analiz-krovi-vyiavil-rannii-priznak-bolezni-altcgeimera-pri-sindrome-dauna-izi",
-        "https://iz.ru/2180953/uchenye-rasskazali-o-roli-okislennykh-lipidov-pri-khronicheskom-vospalenii-izi",
-        "https://iz.ru/2181285/uchenye-izuchili-rol-silovykh-trenirovok-dlia-organizma-izi",
-        "https://iz.ru/2181301/narodnye-primety-na-10-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2181793/ushakov-raskryl-podrobnosti-podgotovki-razgovora-putina-i-trampa-izi",
-        "https://iz.ru/2181806/zvinchuk-zaiavil-o-namerenii-podat-isk-k-vlastiam-chernogorii-iz-za-iziatoi-tekhniki-izi",
-        "https://iz.ru/2181835/telegraph-soobshchila-ob-otkaze-ispanii-i-gretcii-ot-postavok-kievu-pac-2-izi",
-        "https://iz.ru/2181845/raschety-tornado-s-unichtozhili-mesta-razmeshcheniia-vsu-v-zaporozhskoi-oblasti-izi",
-        "https://iz.ru/2181851/v-mvd-nazvali-pravila-bezopasnosti-detei-v-internete-izi",
-        "https://iz.ru/2181866/vashington-obygral-reindzhers-v-matche-reguliarnogo-chempionata-nkhl-izi",
-        "https://iz.ru/2181869/pittsburg-proigral-kolambusu-v-matche-reguliarnogo-chempionata-nkhl-izi",
-        "https://iz.ru/2181897/nazvana-vakansiia-s-samoi-vysokoi-zarplatoi-v-moskve-dlia-sotrudnika-bez-opyta-izi",
-        "https://iz.ru/2181905/passazhirskii-samolet-podal-signal-bedstviia-vo-vremia-poleta-u-beregov-chili-izi",
-        "https://iz.ru/2181909/armiia-rossii-nochiu-nanesla-udar-po-obektam-portovoi-infrastruktury-ukrainy-izi",
-        "https://iz.ru/2181916/tramp-raskritikoval-norvegiiu-iz-za-otkaza-prisudit-emu-premiiu-mira-izi",
-        "https://iz.ru/2181918/v-gosdume-soobshchili-ob-otsutstvii-sokrashchennogo-rabochego-dnia-30-dekabria-izi",
-        "https://iz.ru/2181922/v-sumskoi-oblasti-unichtozhili-ofitcerov-vsu-iz-chisla-ideinykh-natcistov-izi",
-        "https://iz.ru/2181924/shest-zhitelei-rostova-na-donu-obratilis-za-medpomoshchiu-iz-za-ataki-vsu-izi",
-        "https://iz.ru/2181930/sredstva-pvo-za-noch-sbili-560-ukrainskikh-bespilotnikov-nad-regionami-rf-izi"
-      ]
-    },
     "2026-10-11": {
       "totalChecked": 258,
       "totalIzi": 59,
@@ -207,31 +179,31 @@
       ]
     },
     "2026-10-17": {
-      "totalChecked": 525,
-      "totalIzi": 111,
+      "totalChecked": 460,
+      "totalIzi": 86,
       "totalIiz": 2,
-      "totalAi": 113,
+      "totalAi": 88,
       "topLinks": [
-        "https://iz.ru/2185711/times-soobshchila-o-podgotovke-voennykh-koalitcii-zhelaiushchikh-k-perebroske-na-ukrainu-izi",
-        "https://iz.ru/2185718/onishchenko-obiasnil-perspektivy-peresadki-golovy-cheloveku-izi",
-        "https://iz.ru/2185724/tramp-otcenil-prezentatciiu-novoi-tesla-ilona-maska-izi",
-        "https://iz.ru/2185731/wsj-rasskazala-o-problemakh-ukrainy-s-perekhvatom-rossiiskikh-dronov-izi",
-        "https://iz.ru/2185733/vsu-otstupili-k-slaviansku-i-kramatorsku-posle-poteri-dvukh-naselennykh-punktov-izi",
-        "https://iz.ru/2185741/bratia-zapashnye-nazvali-tigriat-bolshogo-moskovskogo-tcirka-bobom-i-marli-izi",
-        "https://iz.ru/2185744/lesnoi-pozhar-v-kalifornii-povredil-shest-zhilykh-domov-izi",
-        "https://iz.ru/2185747/umer-rabotavshii-nad-koshmarom-pered-rozhdestvom-animator-loid-prais-izi",
-        "https://iz.ru/2185752/prodazhi-slaboalkogolnykh-napitkov-v-rossii-upali-na-58-izi",
-        "https://iz.ru/2185758/voditel-fury-na-severe-moskvy-pogib-za-rulem-i-vrezalsia-v-machtu-osveshcheniia-izi",
-        "https://iz.ru/2185768/chislo-vrachei-po-sportivnoi-meditcine-v-rossii-planiruiut-uvelichit-do-25-tys-izi",
-        "https://iz.ru/2185774/ministr-oborony-finliandii-prizval-ne-speshit-so-sbivaniem-rossiiskikh-samoletov-izi",
-        "https://iz.ru/2185776/v-op-zaiavili-o-neobkhodimosti-smenit-imia-synu-maska-dlia-polucheniia-grazhdanstva-rf-izi",
-        "https://iz.ru/2185781/rossiian-v-2027-godu-zhdut-sem-korotkikh-rabochikh-nedel-izi",
-        "https://iz.ru/2185783/madiar-nazval-razblokirovku-sredstv-dlia-vengrii-usloviem-odobreniia-biudzheta-es-izi",
-        "https://iz.ru/2185787/kolorado-obygral-pittsburg-v-matche-nkhl-izi",
-        "https://iz.ru/2185796/armiia-rossii-nanesla-udar-po-elektropodstantcii-v-zhitomire-izi",
-        "https://iz.ru/2185800/futbolist-barnaulskogo-dinamo-daniil-vinter-pogib-v-dtp-izi",
-        "https://iz.ru/2185806/sily-pvo-unichtozhili-610-ukrainskikh-bespilotnikov-za-noch-izi",
-        "https://iz.ru/2185816/vs-rf-porazili-kombinat-zaporozhstal-i-zaporozhtransformator-izi"
+        "https://iz.ru/2185867/v-rossii-podesheveli-svinina-i-slivochnoe-maslo-s-nachala-goda-izi",
+        "https://iz.ru/2185875/bolee-27-tys-dronov-vsu-napravlialis-k-moskovskomu-regionu-za-nedeliu-izi",
+        "https://iz.ru/2185882/vdova-voenkora-eremina-raskryla-dvoinoi-smysl-ego-pesni-o-motorole-izi",
+        "https://iz.ru/2185885/ft-khusity-okruzhili-tretii-po-velichine-gorod-jemena-taiz-izi",
+        "https://iz.ru/2185886/dmitriev-otcenil-shagi-ssha-na-ukraine-slovami-shakh-i-mat-izi",
+        "https://iz.ru/2185888/britanskie-istrebiteli-dvazhdy-vstretili-neopoznannye-obekty-nad-severnym-morem-izi",
+        "https://iz.ru/2185889/uchenye-raskryli-glavnuiu-funktciiu-muzhskoi-borody-izi",
+        "https://iz.ru/2185890/putin-poruchil-vkliuchit-pokazateli-podderzhki-boitcov-svo-v-natcproekty-izi",
+        "https://iz.ru/2185892/sily-pvo-sbili-snariad-himars-i-654-bespilotnika-vsu-za-sutki-v-zone-svo-izi",
+        "https://iz.ru/2185896/tramp-obiasnil-ispolzovanie-makiiazha-nezhelaniem-vygliadet-mertvetcom-izi",
+        "https://iz.ru/2185898/mnogodetnym-semiam-razreshat-besplatnyi-proezd-po-platnym-trassam-pri-lechenii-izi",
+        "https://iz.ru/2185900/putin-poruchil-podrobno-obiasniat-grazhdanam-prichiny-otkaza-v-sotcvyplatakh-izi",
+        "https://iz.ru/2185906/2026-10-17/ekonomist-nazvala-rost-sprosa-na-rabotnikov-starshego-vozrasta-novoi-normoi-izi",
+        "https://iz.ru/2185907/foto-tela-v-sunduke-pomoglo-raskryt-ubiistvo-zhenshchiny-v-brianskoi-oblasti-izi",
+        "https://iz.ru/2185934/plakat-s-rossiiankoi-melnikovoi-poiavilsia-na-chm-po-gimnastike-v-rotterdame-izi",
+        "https://iz.ru/2185937/ranenykh-pri-atake-vsu-v-lnr-dostavili-v-bolnitcu-na-poputnom-transporte-izi",
+        "https://iz.ru/2185949/warner-bros-zaregistrirovala-v-rossii-tovarnye-znaki-po-garri-potteru-izi",
+        "https://iz.ru/2185957/frolova-stala-liderom-posle-korotkoi-programmy-na-turnire-v-kazani-izi",
+        "https://iz.ru/2185973/fakel-oderzhal-pervuiu-pobedu-v-rpl-s-oktiabria-2024-goda-izi",
+        "https://iz.ru/2185997/muzhchina-podorvalsia-na-sbroshennoi-s-bpla-vzryvchatke-v-kurskom-sele-izi"
       ]
     },
     "2026-10-18": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-10-23": {
-      "totalChecked": 981,
-      "totalIzi": 164,
+      "totalChecked": 1057,
+      "totalIzi": 176,
       "totalIiz": 2,
-      "totalAi": 166,
+      "totalAi": 178,
       "topLinks": [
         "https://iz.ru/2187915/uchenye-sviazali-nizkuiu-fizicheskuiu-aktivnost-s-riskom-kognitivnykh-zabolevanii-izi",
         "https://iz.ru/2188502/uchenye-usomnilis-vo-vrede-gadzhetov-dlia-detei-izi",
@@ -400,6 +372,19 @@
         "https://iz.ru/2189076/mvd-predupredilo-o-novoi-skheme-obmana-s-ustanovkoi-feikovykh-prilozhenii-izi",
         "https://iz.ru/2189077/v-ran-nazvali-oslablennyi-immunitet-faktorom-zarazheniia-virusom-shamonda-izi",
         "https://iz.ru/2189078/smi-uznali-o-peregovorakh-spacex-ob-arende-80-tys-sotovykh-vyshek-v-ssha-izi"
+      ]
+    },
+    "2026-10-24": {
+      "totalChecked": 54,
+      "totalIzi": 3,
+      "totalIiz": 2,
+      "totalAi": 5,
+      "topLinks": [
+        "https://iz.ru/2189265/narodnye-primety-na-24-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2189768/starshii-leitenant-nasurdinov-spas-artilleristov-ot-udara-bpla-tcenoi-raneniia-izi",
+        "https://iz.ru/2189780/minobrnauki-predlozhilo-izmenit-poriadok-priema-na-platnoe-obuchenie-izi",
+        "https://iz.ru/2189265/narodnye-primety-na-24-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2189768/starshii-leitenant-nasurdinov-spas-artilleristov-ot-udara-bpla-tcenoi-raneniia-izi"
       ]
     }
   }
