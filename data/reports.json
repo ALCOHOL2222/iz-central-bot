@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:46:49.781Z",
+  "generatedAt": "2026-10-24T19:40:05.116Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -207,18 +207,11 @@
       ]
     },
     "2026-10-18": {
-      "totalChecked": 508,
-      "totalIzi": 109,
+      "totalChecked": 485,
+      "totalIzi": 102,
       "totalIiz": 2,
-      "totalAi": 111,
+      "totalAi": 104,
       "topLinks": [
-        "https://iz.ru/2186116/starsheklassnikov-v-rossii-nachnut-obuchat-primeneniiu-iskusstvennogo-intellekta-izi",
-        "https://iz.ru/2186120/tramp-nazval-budushchie-resheniia-po-sanktciiam-protiv-rf-poleznymi-dlia-vsego-mira-izi",
-        "https://iz.ru/2186123/v-parizhe-protestuiushchie-razgromili-magaziny-na-bulvare-madzhenta-izi",
-        "https://iz.ru/2186127/v-evroparlamente-prizvali-zapretit-vydachu-viz-rossiianam-izi",
-        "https://iz.ru/2186128/na-zaporozhskoi-aes-soobshchili-o-napriazhennoi-obstanovke-v-raione-stantcii-izi",
-        "https://iz.ru/2186131/ukrainskii-plennyi-zaiavil-ob-ustalosti-zhitelei-strany-ot-boevykh-deistvii-izi",
-        "https://iz.ru/2186137/moshenniki-nachali-obmanyvat-rossiian-cherez-chaty-s-sosediami-izi",
         "https://iz.ru/2186141/novak-dopustil-vozobnovlenie-postavok-gaza-po-odnoi-nitke-severnogo-potoka-izi",
         "https://iz.ru/2186145/vyplatu-pri-rozhdenii-rebenka-s-fevralia-2027-goda-uvelichat-do-304-tys-rublei-izi",
         "https://iz.ru/2186153/rossiianam-rasskazali-o-vyplatakh-za-noiabr-s-uchetom-prazdnichnogo-dnia-izi",
@@ -231,7 +224,14 @@
         "https://iz.ru/2186169/odin-iz-logisticheskikh-tcentrov-ozon-v-peterburge-zagorelsia-posle-ataki-bpla-izi",
         "https://iz.ru/2186171/vsu-atakovali-raketami-grazhdanskuiu-infrastrukturu-orlovskoi-oblasti-izi",
         "https://iz.ru/2186177/sk-vozbudil-delo-o-terakte-posle-ataki-bpla-na-peterburg-i-lenoblast-izi",
-        "https://iz.ru/2186183/odin-chelovek-pogib-i-piat-postradali-pri-atake-bpla-na-peterburg-izi"
+        "https://iz.ru/2186183/odin-chelovek-pogib-i-piat-postradali-pri-atake-bpla-na-peterburg-izi",
+        "https://iz.ru/2186188/v-litve-obiavili-krasnyi-uroven-opasnosti-iz-za-vozdushnoi-ugrozy-izi",
+        "https://iz.ru/2186191/chislo-postradavshikh-pri-atake-bpla-v-lenoblasti-vyroslo-do-10-izi",
+        "https://iz.ru/2186201/v-aeroportu-pulkovo-passazhirov-ukryli-v-bezopasnykh-mestakh-vo-vremia-naleta-bpla-izi",
+        "https://iz.ru/2186209/v-parizhe-vo-vremia-massovykh-protestov-zaderzhali-rekordnye-855-chelovek-izi",
+        "https://iz.ru/2186210/na-ukraine-nazvali-sputniki-rassvet-glavnoi-tekhnologicheskoi-ugrozoi-dlia-strany-izi",
+        "https://iz.ru/2186215/peskov-pozdravil-rossiian-s-dnem-ottca-i-napomnil-ob-otvetstvennosti-izi",
+        "https://iz.ru/2186216/glava-rspp-prizval-sozdat-novye-tekhnologii-dlia-zashchity-predpriiatii-i-gorodov-izi"
       ]
     },
     "2026-10-19": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-24": {
-      "totalChecked": 431,
-      "totalIzi": 105,
+      "totalChecked": 511,
+      "totalIzi": 125,
       "totalIiz": 2,
-      "totalAi": 107,
+      "totalAi": 127,
       "topLinks": [
         "https://iz.ru/2188636/issledovateli-rasskazali-o-vrede-ispolzovaniia-telefona-pered-snom-izi",
         "https://iz.ru/2188680/ledianye-vanny-posle-trenirovok-pomogaet-li-kholod-pri-vosstanovlenii-myshtc-izi",
