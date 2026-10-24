@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:19:53.933Z",
+  "generatedAt": "2026-10-24T01:47:51.051Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,13 +179,11 @@
       ]
     },
     "2026-10-17": {
-      "totalChecked": 460,
-      "totalIzi": 86,
+      "totalChecked": 442,
+      "totalIzi": 84,
       "totalIiz": 2,
-      "totalAi": 88,
+      "totalAi": 86,
       "topLinks": [
-        "https://iz.ru/2185867/v-rossii-podesheveli-svinina-i-slivochnoe-maslo-s-nachala-goda-izi",
-        "https://iz.ru/2185875/bolee-27-tys-dronov-vsu-napravlialis-k-moskovskomu-regionu-za-nedeliu-izi",
         "https://iz.ru/2185882/vdova-voenkora-eremina-raskryla-dvoinoi-smysl-ego-pesni-o-motorole-izi",
         "https://iz.ru/2185885/ft-khusity-okruzhili-tretii-po-velichine-gorod-jemena-taiz-izi",
         "https://iz.ru/2185886/dmitriev-otcenil-shagi-ssha-na-ukraine-slovami-shakh-i-mat-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2185949/warner-bros-zaregistrirovala-v-rossii-tovarnye-znaki-po-garri-potteru-izi",
         "https://iz.ru/2185957/frolova-stala-liderom-posle-korotkoi-programmy-na-turnire-v-kazani-izi",
         "https://iz.ru/2185973/fakel-oderzhal-pervuiu-pobedu-v-rpl-s-oktiabria-2024-goda-izi",
-        "https://iz.ru/2185997/muzhchina-podorvalsia-na-sbroshennoi-s-bpla-vzryvchatke-v-kurskom-sele-izi"
+        "https://iz.ru/2185997/muzhchina-podorvalsia-na-sbroshennoi-s-bpla-vzryvchatke-v-kurskom-sele-izi",
+        "https://iz.ru/2186042/vuchich-vysmeial-opponentov-i-obvinil-ikh-v-popytkakh-raskolot-serbiiu-izi",
+        "https://iz.ru/2186043/otetc-pogibshego-v-egipte-rebenka-soobshchil-o-pomoshchi-diplomatov-s-repatriatciei-izi"
       ]
     },
     "2026-10-18": {
@@ -375,16 +375,31 @@
       ]
     },
     "2026-10-24": {
-      "totalChecked": 54,
-      "totalIzi": 3,
+      "totalChecked": 107,
+      "totalIzi": 23,
       "totalIiz": 2,
-      "totalAi": 5,
+      "totalAi": 25,
       "topLinks": [
         "https://iz.ru/2189265/narodnye-primety-na-24-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2189768/starshii-leitenant-nasurdinov-spas-artilleristov-ot-udara-bpla-tcenoi-raneniia-izi",
         "https://iz.ru/2189780/minobrnauki-predlozhilo-izmenit-poriadok-priema-na-platnoe-obuchenie-izi",
+        "https://iz.ru/2189790/tramp-sprognoziroval-rezkoe-padenie-tcen-na-neft-izi",
+        "https://iz.ru/2189800/provedenie-intervideniia-v-saudovskoi-aravii-predlozhili-perenesti-na-2027-god-izi",
+        "https://iz.ru/2189801/openai-usilila-izoliatciiu-ii-modelei-posle-vyiavlennykh-uiazvimostei-izi",
+        "https://iz.ru/2189806/v-ran-oprovergli-ugrozu-novoi-pandemii-covid-19-iz-za-shtamma-stratus-izi",
+        "https://iz.ru/2189807/na-ukraine-ukazali-na-padenie-rozhdaemosti-na-17-izi",
+        "https://iz.ru/2189818/sbornaia-rossii-do-15-let-vystupit-na-turnire-fifa-vpervye-s-2022-goda-izi",
+        "https://iz.ru/2189819/v-britanii-prizvali-ukrainu-priniat-trebovaniia-rf-dlia-zaversheniia-konflikta-izi",
+        "https://iz.ru/2188636/issledovateli-rasskazali-o-vrede-ispolzovaniia-telefona-pered-snom-izi",
+        "https://iz.ru/2188680/ledianye-vanny-posle-trenirovok-pomogaet-li-kholod-pri-vosstanovlenii-myshtc-izi",
         "https://iz.ru/2189265/narodnye-primety-na-24-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2189768/starshii-leitenant-nasurdinov-spas-artilleristov-ot-udara-bpla-tcenoi-raneniia-izi"
+        "https://iz.ru/2189768/starshii-leitenant-nasurdinov-spas-artilleristov-ot-udara-bpla-tcenoi-raneniia-izi",
+        "https://iz.ru/2189780/minobrnauki-predlozhilo-izmenit-poriadok-priema-na-platnoe-obuchenie-izi",
+        "https://iz.ru/2189790/tramp-sprognoziroval-rezkoe-padenie-tcen-na-neft-izi",
+        "https://iz.ru/2189800/provedenie-intervideniia-v-saudovskoi-aravii-predlozhili-perenesti-na-2027-god-izi",
+        "https://iz.ru/2189801/openai-usilila-izoliatciiu-ii-modelei-posle-vyiavlennykh-uiazvimostei-izi",
+        "https://iz.ru/2189806/v-ran-oprovergli-ugrozu-novoi-pandemii-covid-19-iz-za-shtamma-stratus-izi",
+        "https://iz.ru/2189807/na-ukraine-ukazali-na-padenie-rozhdaemosti-na-17-izi"
       ]
     }
   }
