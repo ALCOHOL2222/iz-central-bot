@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:30:13.888Z",
+  "generatedAt": "2026-10-24T12:52:19.505Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,17 +179,11 @@
       ]
     },
     "2026-10-17": {
-      "totalChecked": 383,
-      "totalIzi": 70,
+      "totalChecked": 312,
+      "totalIzi": 64,
       "totalIiz": 2,
-      "totalAi": 72,
+      "totalAi": 66,
       "topLinks": [
-        "https://iz.ru/2185949/warner-bros-zaregistrirovala-v-rossii-tovarnye-znaki-po-garri-potteru-izi",
-        "https://iz.ru/2185957/frolova-stala-liderom-posle-korotkoi-programmy-na-turnire-v-kazani-izi",
-        "https://iz.ru/2185973/fakel-oderzhal-pervuiu-pobedu-v-rpl-s-oktiabria-2024-goda-izi",
-        "https://iz.ru/2185997/muzhchina-podorvalsia-na-sbroshennoi-s-bpla-vzryvchatke-v-kurskom-sele-izi",
-        "https://iz.ru/2186042/vuchich-vysmeial-opponentov-i-obvinil-ikh-v-popytkakh-raskolot-serbiiu-izi",
-        "https://iz.ru/2186043/otetc-pogibshego-v-egipte-rebenka-soobshchil-o-pomoshchi-diplomatov-s-repatriatciei-izi",
         "https://iz.ru/2186045/lokomotiv-doma-sygral-vnichiu-s-krasnodarom-izi",
         "https://iz.ru/2060209/narodnye-primety-na-17-marta-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2184526/2026-10-17/ekspert-predupredil-o-riske-pereplaty-iz-za-ekonomii-na-it-izi",
@@ -203,7 +197,13 @@
         "https://iz.ru/2185673/v-peterburge-umer-v-vozraste-74-let-dirizher-i-kompozitor-andrei-medvedev-izi",
         "https://iz.ru/2185681/ekspert-nazval-volchanskii-kotel-khorosho-splanirovannoi-operatciei-vs-rf-izi",
         "https://iz.ru/2185685/politolog-otcenil-znachenie-volchanskogo-kotla-dlia-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2185687/miller-sprognoziroval-dolgosrochnyi-kharakter-vysokikh-tcen-na-gaz-v-evrope-izi"
+        "https://iz.ru/2185687/miller-sprognoziroval-dolgosrochnyi-kharakter-vysokikh-tcen-na-gaz-v-evrope-izi",
+        "https://iz.ru/2185692/bloomberg-uznalo-o-planakh-es-usilit-nabliudenie-za-arktikoi-izi",
+        "https://iz.ru/2185694/na-zapade-ukrainy-unichtozhili-zavod-avtokomponentov-sebn-izi",
+        "https://iz.ru/2185695/kndr-ispytala-podvodnuiu-torpedu-cham-20-s-iskusstvennym-intellektom-izi",
+        "https://iz.ru/2185696/sredniaia-strakhovaia-pensiia-v-rossii-vyrastet-pochti-na-26-tys-rublei-v-2027-godu-izi",
+        "https://iz.ru/2185711/times-soobshchila-o-podgotovke-voennykh-koalitcii-zhelaiushchikh-k-perebroske-na-ukrainu-izi",
+        "https://iz.ru/2185718/onishchenko-obiasnil-perspektivy-peresadki-golovy-cheloveku-izi"
       ]
     },
     "2026-10-18": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-10-19": {
-      "totalChecked": 912,
+      "totalChecked": 909,
       "totalIzi": 197,
       "totalIiz": 1,
       "totalAi": 198,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-24": {
-      "totalChecked": 194,
-      "totalIzi": 40,
+      "totalChecked": 331,
+      "totalIzi": 76,
       "totalIiz": 2,
-      "totalAi": 42,
+      "totalAi": 78,
       "topLinks": [
         "https://iz.ru/2188636/issledovateli-rasskazali-o-vrede-ispolzovaniia-telefona-pered-snom-izi",
         "https://iz.ru/2188680/ledianye-vanny-posle-trenirovok-pomogaet-li-kholod-pri-vosstanovlenii-myshtc-izi",
