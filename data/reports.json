@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:51:20.621Z",
+  "generatedAt": "2026-10-25T16:44:10.587Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,13 +179,11 @@
       ]
     },
     "2026-10-18": {
-      "totalChecked": 318,
-      "totalIzi": 64,
+      "totalChecked": 287,
+      "totalIzi": 62,
       "totalIiz": 2,
-      "totalAi": 66,
+      "totalAi": 64,
       "topLinks": [
-        "https://iz.ru/2186367/glava-minenergo-ssha-ukazal-na-poisk-trampom-innovatcii-v-dialoge-po-ukraine-izi",
-        "https://iz.ru/2186368/zelenskii-zaiavil-ob-obrechennosti-ukrainy-na-proval-v-sluchae-poteri-podderzhki-ssha-izi",
         "https://iz.ru/2184813/uchenye-nashli-vozmozhnoe-obiasnenie-strakha-mozga-posle-travmy-izi",
         "https://iz.ru/2184849/50-luchshie-otkrytki-s-dnem-ottca-krasivye-kartinki-gifki-i-pozdravleniia-iiz",
         "https://iz.ru/2185221/uchenye-vyiavili-sviaz-mezhdu-ultraobrabotannymi-produktami-i-priznakami-insulta-izi",
@@ -203,26 +201,17 @@
         "https://iz.ru/2186102/vo-floride-za-god-zafiksirovali-vtoroi-smertelnyi-sluchai-napadeniia-alligatora-izi",
         "https://iz.ru/2186106/makron-poobeshchal-nakazat-uchastnikov-besporiadkov-vo-frantcii-izi",
         "https://iz.ru/2186109/zolo-obiasnil-zaderzhanie-v-donetcke-futbolkoi-s-zapreshchennoi-simvolikoi-izi",
-        "https://iz.ru/2186116/starsheklassnikov-v-rossii-nachnut-obuchat-primeneniiu-iskusstvennogo-intellekta-izi"
+        "https://iz.ru/2186116/starsheklassnikov-v-rossii-nachnut-obuchat-primeneniiu-iskusstvennogo-intellekta-izi",
+        "https://iz.ru/2186120/tramp-nazval-budushchie-resheniia-po-sanktciiam-protiv-rf-poleznymi-dlia-vsego-mira-izi",
+        "https://iz.ru/2186123/v-parizhe-protestuiushchie-razgromili-magaziny-na-bulvare-madzhenta-izi"
       ]
     },
     "2026-10-19": {
-      "totalChecked": 900,
-      "totalIzi": 196,
+      "totalChecked": 843,
+      "totalIzi": 185,
       "totalIiz": 1,
-      "totalAi": 197,
+      "totalAi": 186,
       "topLinks": [
-        "https://iz.ru/2186397/2026-10-19/serzhant-kardanov-s-raneniem-dostavil-oborudovanie-sviazi-k-mestu-naznacheniia-izi",
-        "https://iz.ru/2186433/zelenskii-dopustil-uchastie-v-vyborakh-vo-vremia-konflikta-izi",
-        "https://iz.ru/2186438/rossiian-zhdut-16-vykhodnykh-i-prazdnichnykh-dnei-v-ianvare-2027-goda-izi",
-        "https://iz.ru/2186442/luna-zaiavila-ob-ushcherbe-dlia-amerikantcev-iz-za-konflikta-na-ukraine-izi",
-        "https://iz.ru/2186444/rossiiskie-bortcy-zavoevali-chetyre-medali-na-molodezhnom-chempionate-mira-izi",
-        "https://iz.ru/2186448/nerpa-kroshik-propadet-s-radarov-s-1-noiabria-izi",
-        "https://iz.ru/2186451/stas-mikhailov-oproverg-slukhi-o-razvode-s-zhenoi-izi",
-        "https://iz.ru/2186453/onishchenko-prizval-zapretit-veipy-iz-za-vovlecheniia-detei-v-kurenie-izi",
-        "https://iz.ru/2186455/pri-lechenii-tuberkuleza-rossiiane-smogut-nakhoditsia-na-bolnichnom-do-goda-izi",
-        "https://iz.ru/2186460/ritter-obiasnil-prichiny-dizelnoi-sdelki-mezhdu-rossiei-i-ssha-izi",
-        "https://iz.ru/2186464/priamaia-liniia-i-press-konferentciia-putina-proidut-v-dekabre-izi",
         "https://iz.ru/2186468/razin-dobilsia-v-turtcii-resheniia-po-pravam-na-pesni-laskovogo-maia-izi",
         "https://iz.ru/2186469/ukraina-vyplatit-pochti-95-mlrd-po-vneshnemu-gosdolgu-za-10-let-izi",
         "https://iz.ru/2186471/v-britanii-sviazali-protesty-vo-frantcii-s-politicheskim-krizisom-makrona-izi",
@@ -231,7 +220,18 @@
         "https://iz.ru/2186483/kurenkov-pribyl-v-novosibirsk-s-rabochim-vizitom-izi",
         "https://iz.ru/2186489/peskov-nazval-veroiatnyi-srok-vizita-modi-v-rossiiu-izi",
         "https://iz.ru/2186492/v-moskve-vyiavili-territorii-s-vysokoi-prirodnoi-tcennostiu-izi",
-        "https://iz.ru/2186503/zhitelnitca-kryma-zaderzhana-za-peredachu-gur-svedenii-ob-obektakh-pvo-izi"
+        "https://iz.ru/2186503/zhitelnitca-kryma-zaderzhana-za-peredachu-gur-svedenii-ob-obektakh-pvo-izi",
+        "https://iz.ru/2186506/v-gosdume-rasskazali-o-dolgovoi-nagruzke-na-ukraintcev-izi",
+        "https://iz.ru/2186525/sud-prigovoril-zhitelnitcu-sterlitamaka-k-chetyrem-godam-za-podgotovku-terakta-izi",
+        "https://iz.ru/2186533/ministr-transporta-andrei-nikitin-biografiia-izi",
+        "https://iz.ru/2186547/gubernator-primorskogo-kraia-oleg-kozhemiako-biografiia-izi",
+        "https://iz.ru/2186548/unherd-predpolozhil-o-shoke-v-evrope-iz-za-mirnoi-sdelki-po-ukraine-izi",
+        "https://iz.ru/2186549/astronomy-rasskazali-o-zagadochnykh-uzelkakh-v-ostatke-sverkhnovoi-1181-goda-izi",
+        "https://iz.ru/2186552/peskov-raziasnil-poriadok-raboty-vitce-premerov-do-ukazov-prezidenta-izi",
+        "https://iz.ru/2186604/uchenye-rasskazali-o-zashchite-pamiati-myshei-ot-posledstvii-izbytka-soli-izi",
+        "https://iz.ru/2186605/glava-rosaviatcii-dmitrii-iadrov-biografiia-izi",
+        "https://iz.ru/2186611/karta-spetcoperatcii-na-ukraine-19-oktiabria-izi",
+        "https://iz.ru/2186615/v-gd-anonsirovali-utverzhdenie-kandidatur-vitce-premerov-i-glavy-mintransa-rf-izi"
       ]
     },
     "2026-10-20": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-25": {
-      "totalChecked": 278,
-      "totalIzi": 42,
+      "totalChecked": 455,
+      "totalIzi": 97,
       "totalIiz": 5,
-      "totalAi": 47,
+      "totalAi": 102,
       "topLinks": [
         "https://iz.ru/2187470/50-luchshie-otkrytki-s-dnem-avtomobilista-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
         "https://iz.ru/2189148/zdorovyi-mozg-zavisit-ot-okruzheniia-kak-otnosheniia-vliiaiut-na-psikhiku-izi",
