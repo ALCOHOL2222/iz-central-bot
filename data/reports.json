@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:22:48.754Z",
+  "generatedAt": "2026-10-25T11:51:20.621Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,14 +179,11 @@
       ]
     },
     "2026-10-18": {
-      "totalChecked": 355,
-      "totalIzi": 67,
+      "totalChecked": 318,
+      "totalIzi": 64,
       "totalIiz": 2,
-      "totalAi": 69,
+      "totalAi": 66,
       "topLinks": [
-        "https://iz.ru/2186342/mvd-napravilo-842-resheniia-o-zaprete-vezda-v-rossiiu-posle-reida-na-severe-moskvy-izi",
-        "https://iz.ru/2186347/bessent-nazval-oprometchivymi-obvineniia-zelenskogo-v-adres-ssha-po-starlink-izi",
-        "https://iz.ru/2186365/chetvero-uchastnikov-komandy-kvn-vneseny-v-bazu-ukrainskogo-saita-mirotvoretc-izi",
         "https://iz.ru/2186367/glava-minenergo-ssha-ukazal-na-poisk-trampom-innovatcii-v-dialoge-po-ukraine-izi",
         "https://iz.ru/2186368/zelenskii-zaiavil-ob-obrechennosti-ukrainy-na-proval-v-sluchae-poteri-podderzhki-ssha-izi",
         "https://iz.ru/2184813/uchenye-nashli-vozmozhnoe-obiasnenie-strakha-mozga-posle-travmy-izi",
@@ -203,11 +200,14 @@
         "https://iz.ru/2186089/v-belom-dome-obiasnili-otkaz-ot-novykh-sanktcii-protiv-rossii-izi",
         "https://iz.ru/2186091/podozhzhennaia-vo-vremia-besporiadkov-kolokolnia-zdaniia-merii-obrushilas-v-limozhe-izi",
         "https://iz.ru/2186092/dzho-kent-prizval-ssha-prekratit-podderzhku-ukrainy-radi-zaversheniia-konflikta-izi",
-        "https://iz.ru/2186102/vo-floride-za-god-zafiksirovali-vtoroi-smertelnyi-sluchai-napadeniia-alligatora-izi"
+        "https://iz.ru/2186102/vo-floride-za-god-zafiksirovali-vtoroi-smertelnyi-sluchai-napadeniia-alligatora-izi",
+        "https://iz.ru/2186106/makron-poobeshchal-nakazat-uchastnikov-besporiadkov-vo-frantcii-izi",
+        "https://iz.ru/2186109/zolo-obiasnil-zaderzhanie-v-donetcke-futbolkoi-s-zapreshchennoi-simvolikoi-izi",
+        "https://iz.ru/2186116/starsheklassnikov-v-rossii-nachnut-obuchat-primeneniiu-iskusstvennogo-intellekta-izi"
       ]
     },
     "2026-10-19": {
-      "totalChecked": 904,
+      "totalChecked": 900,
       "totalIzi": 196,
       "totalIiz": 1,
       "totalAi": 197,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-10-24": {
-      "totalChecked": 570,
+      "totalChecked": 569,
       "totalIzi": 150,
       "totalIiz": 2,
       "totalAi": 152,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-25": {
-      "totalChecked": 214,
-      "totalIzi": 30,
+      "totalChecked": 278,
+      "totalIzi": 42,
       "totalIiz": 5,
-      "totalAi": 35,
+      "totalAi": 47,
       "topLinks": [
         "https://iz.ru/2187470/50-luchshie-otkrytki-s-dnem-avtomobilista-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
         "https://iz.ru/2189148/zdorovyi-mozg-zavisit-ot-okruzheniia-kak-otnosheniia-vliiaiut-na-psikhiku-izi",
@@ -397,9 +397,9 @@
         "https://iz.ru/2190188/chto-proizoshlo-za-noch-25-oktiabria-glavnoe-izi",
         "https://iz.ru/2190209/minimum-12-chelovek-poluchili-raneniia-pri-strelbe-vblizi-stadiona-v-tallakhassi-izi",
         "https://iz.ru/2190211/mask-liniia-fronta-vsu-nemedlenno-rukhnet-v-sluchae-otkliucheniia-kievu-starlink-izi",
-        "https://iz.ru/2180938/30-dobrye-otkrytki-s-mezhdunarodnym-dnem-teshchi-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
-        "https://iz.ru/2187470/50-luchshie-otkrytki-s-dnem-avtomobilista-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
-        "https://iz.ru/2189148/zdorovyi-mozg-zavisit-ot-okruzheniia-kak-otnosheniia-vliiaiut-na-psikhiku-izi"
+        "https://iz.ru/2190221/peskov-ukazal-na-nereshitelnost-es-po-naznacheniiu-peregovorshchika-po-ukraine-izi",
+        "https://iz.ru/2190222/v-sovfede-zaiavili-o-prebyvanii-ukrainy-v-sostoianii-poluraspada-izi",
+        "https://iz.ru/2190231/v-gosdume-rasskazali-o-vozvrashchenii-v-rossiiu-okolo-70-relokantov-izi"
       ]
     }
   }
