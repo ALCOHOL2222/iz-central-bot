@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:40:18.470Z",
+  "generatedAt": "2026-10-25T01:22:51.816Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,21 +179,11 @@
       ]
     },
     "2026-10-18": {
-      "totalChecked": 430,
-      "totalIzi": 86,
+      "totalChecked": 412,
+      "totalIzi": 76,
       "totalIiz": 2,
-      "totalAi": 88,
+      "totalAi": 78,
       "topLinks": [
-        "https://iz.ru/2186209/v-parizhe-vo-vremia-massovykh-protestov-zaderzhali-rekordnye-855-chelovek-izi",
-        "https://iz.ru/2186210/na-ukraine-nazvali-sputniki-rassvet-glavnoi-tekhnologicheskoi-ugrozoi-dlia-strany-izi",
-        "https://iz.ru/2186215/peskov-pozdravil-rossiian-s-dnem-ottca-i-napomnil-ob-otvetstvennosti-izi",
-        "https://iz.ru/2186216/glava-rspp-prizval-sozdat-novye-tekhnologii-dlia-zashchity-predpriiatii-i-gorodov-izi",
-        "https://iz.ru/2186217/khudozhnitca-i-dizainer-katia-beliavskaia-umerla-ot-insulta-izi",
-        "https://iz.ru/2186220/v-ran-predupredili-o-roste-smertnosti-iz-za-ustoichivosti-bakterii-k-antibiotikam-izi",
-        "https://iz.ru/2186222/botaniki-nazvali-novyi-vid-rasteniia-v-chest-lionelia-messi-izi",
-        "https://iz.ru/2186223/armiia-rossii-porazila-rezervuar-i-tcisterny-s-gsm-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2186225/pogibshii-pri-atake-bpla-v-peterburge-nakhodilsia-v-avtomobile-izi",
-        "https://iz.ru/2186227/peskov-nazval-udary-vsu-po-rossii-proiavleniem-agonii-kieva-izi",
         "https://iz.ru/2186229/italiiu-vsled-za-frantciei-okhvatila-volna-ulichnykh-protestov-izi",
         "https://iz.ru/2186231/peskov-zaiavil-o-postoiannykh-otvetakh-rossii-na-udary-ukrainy-izi",
         "https://iz.ru/2186236/sviashchennik-pogib-ot-upavshego-kresta-vo-vremia-messy-v-ekvadore-izi",
@@ -203,11 +193,21 @@
         "https://iz.ru/2186265/v-saudovskoi-aravii-pri-krushenii-vertoleta-pogibli-dva-cheloveka-izi",
         "https://iz.ru/2186272/vens-predupredil-o-roste-tcen-na-benzin-v-ssha-pri-ukhode-iz-ormuzskogo-proliva-izi",
         "https://iz.ru/2186276/v-odesse-proizoshel-vzryv-izi",
-        "https://iz.ru/2186342/mvd-napravilo-842-resheniia-o-zaprete-vezda-v-rossiiu-posle-reida-na-severe-moskvy-izi"
+        "https://iz.ru/2186342/mvd-napravilo-842-resheniia-o-zaprete-vezda-v-rossiiu-posle-reida-na-severe-moskvy-izi",
+        "https://iz.ru/2186347/bessent-nazval-oprometchivymi-obvineniia-zelenskogo-v-adres-ssha-po-starlink-izi",
+        "https://iz.ru/2186365/chetvero-uchastnikov-komandy-kvn-vneseny-v-bazu-ukrainskogo-saita-mirotvoretc-izi",
+        "https://iz.ru/2186367/glava-minenergo-ssha-ukazal-na-poisk-trampom-innovatcii-v-dialoge-po-ukraine-izi",
+        "https://iz.ru/2186368/zelenskii-zaiavil-ob-obrechennosti-ukrainy-na-proval-v-sluchae-poteri-podderzhki-ssha-izi",
+        "https://iz.ru/2184813/uchenye-nashli-vozmozhnoe-obiasnenie-strakha-mozga-posle-travmy-izi",
+        "https://iz.ru/2184849/50-luchshie-otkrytki-s-dnem-ottca-krasivye-kartinki-gifki-i-pozdravleniia-iiz",
+        "https://iz.ru/2185221/uchenye-vyiavili-sviaz-mezhdu-ultraobrabotannymi-produktami-i-priznakami-insulta-izi",
+        "https://iz.ru/2185249/narodnye-primety-na-18-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2185263/uchenye-sviazali-priemy-pishchi-nochiu-s-povyshennym-riskom-boleznei-pecheni-izi",
+        "https://iz.ru/2185394/2026-10-18/uchenye-rasskazali-o-sposobe-usilit-immunnye-kletki-dlia-borby-s-rakom-izi"
       ]
     },
     "2026-10-19": {
-      "totalChecked": 909,
+      "totalChecked": 907,
       "totalIzi": 197,
       "totalIiz": 1,
       "totalAi": 198,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 1079,
+      "totalChecked": 1077,
       "totalIzi": 229,
       "totalIiz": 2,
       "totalAi": 231,
@@ -375,15 +375,18 @@
       ]
     },
     "2026-10-25": {
-      "totalChecked": 51,
-      "totalIzi": 4,
-      "totalIiz": 3,
-      "totalAi": 7,
+      "totalChecked": 73,
+      "totalIzi": 5,
+      "totalIiz": 5,
+      "totalAi": 10,
       "topLinks": [
         "https://iz.ru/2187470/50-luchshie-otkrytki-s-dnem-avtomobilista-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
         "https://iz.ru/2189260/narodnye-primety-na-25-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2190131/boetc-mma-petr-ian-pobedil-meraba-dvalishvili-i-zashchitil-titul-ufc-izi",
         "https://iz.ru/2190132/boetc-mma-evloev-proigral-volkanovski-v-glavnom-boiu-na-turnire-ufc-333-v-abu-dabi-izi",
+        "https://iz.ru/2190139/niu-dzhersi-obygral-los-andzheles-blagodaria-golu-i-peredache-gritciuka-izi",
+        "https://iz.ru/2180938/30-dobrye-otkrytki-s-mezhdunarodnym-dnem-teshchi-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
+        "https://iz.ru/2187470/50-luchshie-otkrytki-s-dnem-avtomobilista-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
         "https://iz.ru/2189260/narodnye-primety-na-25-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2190131/boetc-mma-petr-ian-pobedil-meraba-dvalishvili-i-zashchitil-titul-ufc-izi",
         "https://iz.ru/2190132/boetc-mma-evloev-proigral-volkanovski-v-glavnom-boiu-na-turnire-ufc-333-v-abu-dabi-izi"
