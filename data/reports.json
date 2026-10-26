@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:44:49.379Z",
+  "generatedAt": "2026-10-26T01:24:31.398Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,13 +179,11 @@
       ]
     },
     "2026-10-19": {
-      "totalChecked": 759,
-      "totalIzi": 169,
+      "totalChecked": 739,
+      "totalIzi": 167,
       "totalIiz": 1,
-      "totalAi": 170,
+      "totalAi": 168,
       "topLinks": [
-        "https://iz.ru/2186604/uchenye-rasskazali-o-zashchite-pamiati-myshei-ot-posledstvii-izbytka-soli-izi",
-        "https://iz.ru/2186605/glava-rosaviatcii-dmitrii-iadrov-biografiia-izi",
         "https://iz.ru/2186611/karta-spetcoperatcii-na-ukraine-19-oktiabria-izi",
         "https://iz.ru/2186615/v-gd-anonsirovali-utverzhdenie-kandidatur-vitce-premerov-i-glavy-mintransa-rf-izi",
         "https://iz.ru/2186633/neirobiologi-nashli-skhodstvo-mezhdu-rabotoi-mozga-i-ideiami-freida-izi",
@@ -203,7 +201,9 @@
         "https://iz.ru/2186690/premer-frantcii-obiavil-o-nachale-masshtabnykh-rassledovanii-protestov-v-strane-izi",
         "https://iz.ru/2186693/deti-baffetta-zadumalis-o-raspredelenii-sostoianiia-ottca-izi",
         "https://iz.ru/2186699/akter-boris-shcherbakov-otrubil-chast-paltca-pri-rabotakh-v-stoliarnoi-masterskoi-izi",
-        "https://iz.ru/2186718/pushilin-rasskazal-o-perebrasyvanii-podrazdelenii-vsu-v-kramatorsk-i-slaviansk-izi"
+        "https://iz.ru/2186718/pushilin-rasskazal-o-perebrasyvanii-podrazdelenii-vsu-v-kramatorsk-i-slaviansk-izi",
+        "https://iz.ru/2186719/politolog-otcenil-posrednicheskuiu-rol-kitaia-v-konflikte-na-ukraine-izi",
+        "https://iz.ru/2186720/tokaev-poruchil-sovershit-masshtabnuiu-reformu-vooruzhennykh-sil-kazakhstana-izi"
       ]
     },
     "2026-10-20": {
@@ -235,7 +235,7 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 1078,
+      "totalChecked": 1077,
       "totalIzi": 229,
       "totalIiz": 2,
       "totalAi": 231,
@@ -375,16 +375,23 @@
       ]
     },
     "2026-10-26": {
-      "totalChecked": 68,
-      "totalIzi": 8,
+      "totalChecked": 90,
+      "totalIzi": 15,
       "totalIiz": 2,
-      "totalAi": 10,
+      "totalAi": 17,
       "topLinks": [
         "https://iz.ru/2189182/narodnye-primety-na-26-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2190465/shankhai-dregons-obygral-spartak-v-matche-kkhl-izi",
         "https://iz.ru/2190466/smi-soobshchili-o-vossozdanii-drevnerimskogo-stekla-s-effektom-izmeneniia-tcveta-izi",
         "https://iz.ru/2190476/nikishin-podpisal-odnoletnii-kontrakt-s-karolinoi-kharrikeinz-izi",
+        "https://iz.ru/2190477/polskii-deputat-obvinil-zelenskogo-v-zatiagivanii-konflikta-na-ukraine-izi",
+        "https://iz.ru/2190479/smi-soobshhili-o-padenii-kapitalizaczii-krupnejshikh-lyuksovykh-brendov-na-251-mlrd-izi",
         "https://iz.ru/2190480/rossiianam-rasskazali-o-sposobe-poluchit-medpomoshch-bez-registratcii-izi",
+        "https://iz.ru/2190484/iliiana-jotova-lidiruet-na-vyborakh-prezidenta-bolgarii-izi",
+        "https://iz.ru/2190487/v-ssha-pri-vzryve-na-zavode-pacific-seafood-nachalsia-pozhar-s-utechkoi-ammiaka-izi",
+        "https://iz.ru/2190493/skhod-vagonov-poezda-s-posleduiushchim-vozgoraniem-proizoshel-v-sverdlovskoi-oblasti-izi",
+        "https://iz.ru/2190494/nazvany-regiony-rossii-s-samoi-dostupnoi-arendoi-zhilia-izi",
+        "https://iz.ru/2190497/wsj-uznala-o-zhelanii-administratcii-trampa-vydvinut-orbana-na-post-genseka-oon-izi",
         "https://iz.ru/2189182/narodnye-primety-na-26-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2190465/shankhai-dregons-obygral-spartak-v-matche-kkhl-izi",
         "https://iz.ru/2190466/smi-soobshchili-o-vossozdanii-drevnerimskogo-stekla-s-effektom-izmeneniia-tcveta-izi",
