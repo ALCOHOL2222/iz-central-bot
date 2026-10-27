@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:59:52.440Z",
+  "generatedAt": "2026-10-27T23:06:59.943Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 68
   },
   "days": {
-    "2026-10-14": {
-      "totalChecked": 516,
-      "totalIzi": 134,
-      "totalIiz": 2,
-      "totalAi": 136,
-      "topLinks": [
-        "https://iz.ru/2175595/50-s-pokrovom-presviatoi-bogoroditcy-svetlye-pravoslavnye-otkrytki-i-pozdravleniia-iiz",
-        "https://iz.ru/2183016/uchenye-nazvali-dopustimoe-vremia-dolgogo-sideniia-izi",
-        "https://iz.ru/2183286/uchenye-sviazali-bessonnitcu-s-simptomami-depressii-izi",
-        "https://iz.ru/2183353/uchenye-izuchili-vliianie-dispraksii-na-sotcialnoe-vzaimodeistvie-detei-izi",
-        "https://iz.ru/2183376/uchenye-rasskazali-ob-ukhudshenii-vnimaniia-iz-za-beskonechnogo-skrollinga-sotcsetei-izi",
-        "https://iz.ru/2183460/narodnye-primety-na-14-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2183735/2026-10-14/mladshii-serzhant-ivanov-spas-ranenogo-tovarishcha-posle-podryva-na-mine-izi",
-        "https://iz.ru/2183761/2026-10-14/pozhiznennyi-prezident-futbolnogo-kluba-arsenal-ken-fraiar-biografiia-izi",
-        "https://iz.ru/2183769/britanskii-ledokol-hms-protector-vernulsia-v-port-iz-za-polomki-dvigatelei-izi",
-        "https://iz.ru/2183770/barselona-razgromila-galatasarai-v-matche-ligi-chempionov-izi",
-        "https://iz.ru/2183776/golyshenkova-rasskazala-o-luchshem-sposobe-vystroit-shkolnoe-raspisanie-izi",
-        "https://iz.ru/2183782/na-pliazhe-baltiiskogo-moria-v-polshe-nashli-fragmenty-neopoznannogo-obekta-izi",
-        "https://iz.ru/2183788/zhurnalist-zaiavil-o-posviashchennosti-tcru-v-plan-podryva-severnykh-potokov-izi",
-        "https://iz.ru/2183803/potreblenie-alkogolia-v-rossii-dostiglo-istoricheskogo-minimuma-za-30-let-izi",
-        "https://iz.ru/2183809/velikobritaniia-uskorit-postavki-ukraine-raket-lmm-na-13-mln-izi",
-        "https://iz.ru/2183811/bolgariia-i-rumyniia-predlozhat-nato-usilit-obmen-razveddannymi-izi",
-        "https://iz.ru/2183814/voennosluzhashchii-rasskazal-o-begstve-vsu-iz-lidino-posle-pervykh-poter-izi",
-        "https://iz.ru/2183819/it-i-koll-tcentry-stali-liderami-po-chislu-udalennykh-vakansii-v-rossii-izi",
-        "https://iz.ru/2183821/premer-latvii-zaiavil-o-nevozmozhnosti-zapretit-tranzit-rossiiskogo-zerna-izi",
-        "https://iz.ru/2183827/v-gosdume-obiasnili-poriadok-vyplat-za-ukhod-za-pozhilymi-liudmi-izi"
-      ]
-    },
     "2026-10-15": {
       "totalChecked": 474,
       "totalIzi": 100,
@@ -207,35 +179,35 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 956,
-      "totalIzi": 201,
+      "totalChecked": 884,
+      "totalIzi": 188,
       "totalIiz": 1,
-      "totalAi": 202,
+      "totalAi": 189,
       "topLinks": [
-        "https://iz.ru/2187719/v-44-regionakh-rossii-zakliuchili-125-soglashenii-o-stabilizatcii-tcen-na-toplivo-izi",
-        "https://iz.ru/2187725/bordiuzha-zaiavil-o-popytkakh-kieva-vtianut-es-v-priamoi-konflikt-s-rossiei-izi",
-        "https://iz.ru/2187727/2026-10-21/rossiianam-nazvali-minimalnyi-vznos-na-pensionnoe-strakhovanie-v-2026-godu-izi",
-        "https://iz.ru/2187730/politico-soobshchila-ob-opasenii-evropy-v-simpatii-trampa-k-rossii-izi",
-        "https://iz.ru/2187731/wsj-uznala-o-planakh-anthropic-potratit-750-mlrd-na-vychislitelnye-resursy-izi",
-        "https://iz.ru/2187733/sily-pvo-otrazili-ataku-21-bespilotnika-na-kaluzhskuiu-oblast-izi",
-        "https://iz.ru/2187734/mosbilet-priglashaet-na-vystavku-kod-belinskogo-v-muzei-pushkina-izi",
-        "https://iz.ru/2187740/wsj-uznala-o-zhelanii-trampa-provesti-ialtinskuiu-konferentciiu-s-liderami-rf-i-knr-izi",
-        "https://iz.ru/2187745/na-kipre-zaiavili-o-podgotovke-zelenskim-pochvy-dlia-pokidaniia-svoego-posta-izi",
-        "https://iz.ru/2187785/endokrinolog-matveeva-dala-sovety-po-profilaktike-iododefitcita-izi",
-        "https://iz.ru/2187786/v-podmoskove-vrachi-spasli-novorozhdennogo-vesom-367-g-izi",
-        "https://iz.ru/2187788/zaderzhannyi-naemnik-rasskazal-o-sluzhbe-v-vsu-i-uchastii-v-konfliktakh-za-rubezhom-izi",
-        "https://iz.ru/2187792/premer-norvegii-soobshchil-o-planakh-uitkoffa-vernutsia-v-oslo-posle-vstrechi-v-rf-izi",
         "https://iz.ru/2187799/politolog-nazval-nerealnym-dlia-es-sochetanie-podderzhki-kieva-i-stabilnosti-izi",
         "https://iz.ru/2187803/astronomy-izmerili-kolichestvo-geliia-iz-pervykh-minut-posle-bolshogo-vzryva-izi",
         "https://iz.ru/2187810/rubio-ukazal-na-stremlenie-ssha-naiti-balans-v-voprose-antirossiiskikh-sanktcii-izi",
         "https://iz.ru/2187813/novak-anonsiroval-otpravku-v-ssha-pervogo-tankera-s-dizelem-v-ssha-22-oktiabria-izi",
         "https://iz.ru/2187818/iaroslav-mogilnikov-vpervye-rasskazal-o-rasstavanii-s-annoi-peresild-izi",
         "https://iz.ru/2187819/bolshinstvo-delegatcii-podtverdili-uchastie-v-sammite-rossiia-afrika-izi",
-        "https://iz.ru/2187839/teleskop-evklid-sluchaino-obnaruzhil-novuiu-kometu-izi"
+        "https://iz.ru/2187839/teleskop-evklid-sluchaino-obnaruzhil-novuiu-kometu-izi",
+        "https://iz.ru/2187846/nazvany-samye-populiarnye-kitaiskie-bu-avtomobili-v-rossii-izi",
+        "https://iz.ru/2187858/uchenye-soobshchili-ob-izmeneniiakh-sostava-tela-do-vyiavleniia-raka-podzheludochnoi-izi",
+        "https://iz.ru/2187865/v-avstralii-odobrili-zakonoproekt-o-prevrashchenii-tel-umershikh-liudei-v-kompost-izi",
+        "https://iz.ru/2187881/uchenye-soobshchili-o-novom-sposobe-zashchity-mozga-pri-bolezni-altcgeimera-izi",
+        "https://iz.ru/2187905/chainyi-vopros-kak-privychnyi-napitok-sviazali-so-zdorovem-sosudov-izi",
+        "https://iz.ru/2187913/gutcan-poblagodaril-kollegu-iz-kndr-za-vklad-boitcov-v-osvobozhdenie-kurskoi-oblasti-izi",
+        "https://iz.ru/2187921/tramp-zaiavil-ob-otsutstvii-obmena-na-khabbarda-izi",
+        "https://iz.ru/2187927/kto-takoi-stiven-khabbard-za-chto-amerikantca-osudili-v-rossii-i-pochemu-osvobodili-izi",
+        "https://iz.ru/2187941/rossiiane-stali-reguliarno-suditsia-s-kuriashchimi-doma-sosediami-izi",
+        "https://iz.ru/2187944/uchenye-vydelili-novyi-podtip-depressii-izi",
+        "https://iz.ru/2187945/lider-pszh-kvaratckheliia-porval-krestoobraznuiu-sviazku-v-matche-s-barselonoi-izi",
+        "https://iz.ru/2187951/fon-der-lyajen-otkazalas-ot-smyagcheniya-energeticheskikh-sankczij-es-protiv-rossii-izi",
+        "https://iz.ru/2187953/v-cheliabinske-sosedi-peredavali-edu-zapertoi-pensionerke-cherez-balkon-izi"
       ]
     },
     "2026-10-22": {
-      "totalChecked": 1087,
+      "totalChecked": 1085,
       "totalIzi": 236,
       "totalIiz": 4,
       "totalAi": 240,
@@ -263,7 +235,7 @@
       ]
     },
     "2026-10-23": {
-      "totalChecked": 1057,
+      "totalChecked": 1056,
       "totalIzi": 176,
       "totalIiz": 2,
       "totalAi": 178,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-10-27": {
-      "totalChecked": 911,
-      "totalIzi": 121,
+      "totalChecked": 967,
+      "totalIzi": 124,
       "totalIiz": 2,
-      "totalAi": 123,
+      "totalAi": 126,
       "topLinks": [
         "https://iz.ru/2190612/uchenye-izuchili-povedenie-mozga-pri-bolezni-altcgeimera-izi",
         "https://iz.ru/2190659/narodnye-primety-na-27-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -400,6 +372,16 @@
         "https://iz.ru/2191186/v-izraile-otkrylis-izbiratelnye-uchastki-na-parlamentskikh-vyborakh-izi",
         "https://iz.ru/2191188/dve-kompanii-knr-prekratili-partnerstvo-s-mbappe-posle-ego-shutki-pro-mao-tczeduna-izi",
         "https://iz.ru/2191196/vladeltcam-mira-kvestov-mozhet-grozit-konfiskatciia-biznesa-za-finansirovanie-vsu-izi"
+      ]
+    },
+    "2026-10-28": {
+      "totalChecked": 97,
+      "totalIzi": 0,
+      "totalIiz": 2,
+      "totalAi": 2,
+      "topLinks": [
+        "https://iz.ru/2188193/50-dobrye-otkrytki-s-dnem-babushek-i-dedushek-kartinki-gifki-i-pozdravleniia-iiz",
+        "https://iz.ru/2188193/50-dobrye-otkrytki-s-dnem-babushek-i-dedushek-kartinki-gifki-i-pozdravleniia-iiz"
       ]
     }
   }
