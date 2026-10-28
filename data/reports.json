@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T23:06:59.943Z",
+  "generatedAt": "2026-10-28T02:29:07.725Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,15 +179,11 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 884,
-      "totalIzi": 188,
+      "totalChecked": 866,
+      "totalIzi": 184,
       "totalIiz": 1,
-      "totalAi": 189,
+      "totalAi": 185,
       "topLinks": [
-        "https://iz.ru/2187799/politolog-nazval-nerealnym-dlia-es-sochetanie-podderzhki-kieva-i-stabilnosti-izi",
-        "https://iz.ru/2187803/astronomy-izmerili-kolichestvo-geliia-iz-pervykh-minut-posle-bolshogo-vzryva-izi",
-        "https://iz.ru/2187810/rubio-ukazal-na-stremlenie-ssha-naiti-balans-v-voprose-antirossiiskikh-sanktcii-izi",
-        "https://iz.ru/2187813/novak-anonsiroval-otpravku-v-ssha-pervogo-tankera-s-dizelem-v-ssha-22-oktiabria-izi",
         "https://iz.ru/2187818/iaroslav-mogilnikov-vpervye-rasskazal-o-rasstavanii-s-annoi-peresild-izi",
         "https://iz.ru/2187819/bolshinstvo-delegatcii-podtverdili-uchastie-v-sammite-rossiia-afrika-izi",
         "https://iz.ru/2187839/teleskop-evklid-sluchaino-obnaruzhil-novuiu-kometu-izi",
@@ -203,7 +199,11 @@
         "https://iz.ru/2187944/uchenye-vydelili-novyi-podtip-depressii-izi",
         "https://iz.ru/2187945/lider-pszh-kvaratckheliia-porval-krestoobraznuiu-sviazku-v-matche-s-barselonoi-izi",
         "https://iz.ru/2187951/fon-der-lyajen-otkazalas-ot-smyagcheniya-energeticheskikh-sankczij-es-protiv-rossii-izi",
-        "https://iz.ru/2187953/v-cheliabinske-sosedi-peredavali-edu-zapertoi-pensionerke-cherez-balkon-izi"
+        "https://iz.ru/2187953/v-cheliabinske-sosedi-peredavali-edu-zapertoi-pensionerke-cherez-balkon-izi",
+        "https://iz.ru/2187958/zakharova-zaiavila-ob-otsutstvii-dannykh-o-postradavshikh-rossiianakh-v-evrope-izi",
+        "https://iz.ru/2187962/siluanov-zaiavil-o-neobkhodimosti-novykh-kreditov-dlia-rossiiskoi-ekonomiki-izi",
+        "https://iz.ru/2187966/mid-rf-vyzval-vremennogo-poverennogo-v-delakh-latvii-izi",
+        "https://iz.ru/2187984/siluanov-soobshchil-o-perevypolnenie-plana-po-dividendam-goskompanii-izi"
       ]
     },
     "2026-10-22": {
@@ -375,12 +375,14 @@
       ]
     },
     "2026-10-28": {
-      "totalChecked": 97,
-      "totalIzi": 0,
+      "totalChecked": 115,
+      "totalIzi": 2,
       "totalIiz": 2,
-      "totalAi": 2,
+      "totalAi": 4,
       "topLinks": [
         "https://iz.ru/2188193/50-dobrye-otkrytki-s-dnem-babushek-i-dedushek-kartinki-gifki-i-pozdravleniia-iiz",
+        "https://iz.ru/2191768/glava-minenergo-ssha-obiasnil-tcel-dizelnoi-sdelki-s-rossiei-izi",
+        "https://iz.ru/2191771/parlamentskie-vybory-v-izraile-zavershilis-iavkoi-777-izi",
         "https://iz.ru/2188193/50-dobrye-otkrytki-s-dnem-babushek-i-dedushek-kartinki-gifki-i-pozdravleniia-iiz"
       ]
     }
