@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T02:29:07.725Z",
+  "generatedAt": "2026-10-28T09:52:57.925Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,42 +179,39 @@
       ]
     },
     "2026-10-21": {
-      "totalChecked": 866,
-      "totalIzi": 184,
+      "totalChecked": 757,
+      "totalIzi": 167,
       "totalIiz": 1,
-      "totalAi": 185,
+      "totalAi": 168,
       "topLinks": [
-        "https://iz.ru/2187818/iaroslav-mogilnikov-vpervye-rasskazal-o-rasstavanii-s-annoi-peresild-izi",
-        "https://iz.ru/2187819/bolshinstvo-delegatcii-podtverdili-uchastie-v-sammite-rossiia-afrika-izi",
-        "https://iz.ru/2187839/teleskop-evklid-sluchaino-obnaruzhil-novuiu-kometu-izi",
-        "https://iz.ru/2187846/nazvany-samye-populiarnye-kitaiskie-bu-avtomobili-v-rossii-izi",
-        "https://iz.ru/2187858/uchenye-soobshchili-ob-izmeneniiakh-sostava-tela-do-vyiavleniia-raka-podzheludochnoi-izi",
-        "https://iz.ru/2187865/v-avstralii-odobrili-zakonoproekt-o-prevrashchenii-tel-umershikh-liudei-v-kompost-izi",
-        "https://iz.ru/2187881/uchenye-soobshchili-o-novom-sposobe-zashchity-mozga-pri-bolezni-altcgeimera-izi",
-        "https://iz.ru/2187905/chainyi-vopros-kak-privychnyi-napitok-sviazali-so-zdorovem-sosudov-izi",
-        "https://iz.ru/2187913/gutcan-poblagodaril-kollegu-iz-kndr-za-vklad-boitcov-v-osvobozhdenie-kurskoi-oblasti-izi",
-        "https://iz.ru/2187921/tramp-zaiavil-ob-otsutstvii-obmena-na-khabbarda-izi",
-        "https://iz.ru/2187927/kto-takoi-stiven-khabbard-za-chto-amerikantca-osudili-v-rossii-i-pochemu-osvobodili-izi",
-        "https://iz.ru/2187941/rossiiane-stali-reguliarno-suditsia-s-kuriashchimi-doma-sosediami-izi",
-        "https://iz.ru/2187944/uchenye-vydelili-novyi-podtip-depressii-izi",
-        "https://iz.ru/2187945/lider-pszh-kvaratckheliia-porval-krestoobraznuiu-sviazku-v-matche-s-barselonoi-izi",
-        "https://iz.ru/2187951/fon-der-lyajen-otkazalas-ot-smyagcheniya-energeticheskikh-sankczij-es-protiv-rossii-izi",
-        "https://iz.ru/2187953/v-cheliabinske-sosedi-peredavali-edu-zapertoi-pensionerke-cherez-balkon-izi",
-        "https://iz.ru/2187958/zakharova-zaiavila-ob-otsutstvii-dannykh-o-postradavshikh-rossiianakh-v-evrope-izi",
         "https://iz.ru/2187962/siluanov-zaiavil-o-neobkhodimosti-novykh-kreditov-dlia-rossiiskoi-ekonomiki-izi",
         "https://iz.ru/2187966/mid-rf-vyzval-vremennogo-poverennogo-v-delakh-latvii-izi",
-        "https://iz.ru/2187984/siluanov-soobshchil-o-perevypolnenie-plana-po-dividendam-goskompanii-izi"
+        "https://iz.ru/2187984/siluanov-soobshchil-o-perevypolnenie-plana-po-dividendam-goskompanii-izi",
+        "https://iz.ru/2188001/banki-s-marta-2027-goda-nachnut-blokirovat-perevody-s-ustroistv-s-vredonosnym-po-izi",
+        "https://iz.ru/2188016/vernut-iasnost-chto-uchenye-uznali-o-tumane-v-golove-posle-lecheniia-raka-izi",
+        "https://iz.ru/2188018/chislo-postradavshikh-pri-atake-vsu-na-avtobus-v-lnr-vyroslo-do-piati-izi",
+        "https://iz.ru/2188044/bakanov-soobshchil-o-gotovnosti-raket-dlia-dostavki-oborudovaniia-aes-na-lunu-izi",
+        "https://iz.ru/2188070/ushakov-dopustil-vkliuchenie-sammita-rf-ssha-i-knr-v-programmu-ates-izi",
+        "https://iz.ru/2188071/ushakov-zaiavil-chto-putin-poblagodaril-melaniiu-tramp-za-posrednichestvo-po-aleshkam-izi",
+        "https://iz.ru/2188072/sledstvie-poprosilo-vernut-v-sizo-generala-malkova-po-delu-o-khishchenii-topliva-izi",
+        "https://iz.ru/2188076/glava-mid-armenii-iskliuchil-vozvrashchenie-strany-v-odkb-izi",
+        "https://iz.ru/2188083/uchenye-omolodili-kletki-cheloveka-na-60-let-izi",
+        "https://iz.ru/2188091/v-ssha-ukazali-na-sposobnost-davleniia-trampa-pomoch-zelenskomu-zakliuchit-mir-izi",
+        "https://iz.ru/2188111/natcbank-ukrainy-oproverg-soobshcheniia-ob-otstavke-pyshnogo-izi",
+        "https://iz.ru/2188112/shokhin-ne-iskliuchil-sokhranenie-kliuchevoi-stavki-na-zasedanii-tcentrobanka-23-oktiabria-izi",
+        "https://iz.ru/2188129/ushakov-dopustil-provedenie-novogo-raunda-peregovorov-po-ukraine-v-abu-dabi-izi",
+        "https://iz.ru/2188148/sboi-v-ritme-kak-geneticheskaia-karta-pomozhet-vyiavliat-opasnye-aritmii-izi",
+        "https://iz.ru/2188158/uchenye-sviazali-nezrelye-kletki-mozga-s-ukhudsheniem-myshleniia-pri-epilepsii-izi",
+        "https://iz.ru/2188162/propavshego-v-tundre-62-letnego-ottca-troikh-detei-nashli-zhivym-spustia-10-dnei-izi",
+        "https://iz.ru/2188163/akter-vladislav-toldykov-biografiia-izi"
       ]
     },
     "2026-10-22": {
-      "totalChecked": 1085,
-      "totalIzi": 236,
-      "totalIiz": 4,
-      "totalAi": 240,
+      "totalChecked": 1079,
+      "totalIzi": 234,
+      "totalIiz": 3,
+      "totalAi": 237,
       "topLinks": [
-        "https://iz.ru/2187832/narodnye-primety-na-22-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2187872/uchenye-sviazali-upotreblenie-fruktov-so-snizheniem-riska-depressii-u-podrostkov-izi",
-        "https://iz.ru/2187888/uchenye-podcherknuli-polzu-progulok-v-lesu-dlia-podniatiia-nastroeniia-izi",
         "https://iz.ru/2188188/gorod-kotoryi-ne-mog-perestat-tantcevat-zagadka-1518-goda-izi",
         "https://iz.ru/2188329/pentagon-zaiavil-o-sozdanii-komandovaniia-avtonomnykh-sistem-k-2027-godu-izi",
         "https://iz.ru/2188348/ushakov-peregovory-putina-i-uitkoffa-prodolzhalis-pochti-tri-chasa-izi",
@@ -231,16 +228,18 @@
         "https://iz.ru/2188398/dva-pustykh-passazhirskikh-vagona-stolknulis-na-stantcii-v-kemerovskoi-oblasti-izi",
         "https://iz.ru/2188400/v-mvd-soobshchili-o-trebovanii-moshennikov-sniat-dengi-cherez-bankomat-izi",
         "https://iz.ru/2188405/moshenniki-pridumali-novuiu-skhemu-obmana-rossiian-cherez-bankomaty-izi",
-        "https://iz.ru/2188408/moshenniki-nachali-ispolzovat-besporiadki-vo-frantcii-dlia-obmana-rossiian-izi"
+        "https://iz.ru/2188408/moshenniki-nachali-ispolzovat-besporiadki-vo-frantcii-dlia-obmana-rossiian-izi",
+        "https://iz.ru/2188409/bordiuzha-nazval-vstuplenie-ukrainy-v-es-ugrozoi-dlia-evrosoiuza-izi",
+        "https://iz.ru/2188410/v-turtcii-vyrazili-gotovnost-predostavit-ploshchadku-dlia-peregovorov-po-ukraine-izi",
+        "https://iz.ru/2188411/chto-proizoshlo-za-noch-22-oktiabria-glavnoe-izi"
       ]
     },
     "2026-10-23": {
-      "totalChecked": 1056,
-      "totalIzi": 176,
+      "totalChecked": 1054,
+      "totalIzi": 175,
       "totalIiz": 2,
-      "totalAi": 178,
+      "totalAi": 177,
       "topLinks": [
-        "https://iz.ru/2187915/uchenye-sviazali-nizkuiu-fizicheskuiu-aktivnost-s-riskom-kognitivnykh-zabolevanii-izi",
         "https://iz.ru/2188502/uchenye-usomnilis-vo-vrede-gadzhetov-dlia-detei-izi",
         "https://iz.ru/2188533/vrachi-podcherknuli-vazhnost-fizicheskoi-aktivnosti-pri-menopauze-izi",
         "https://iz.ru/2188599/narodnye-primety-na-23-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -259,11 +258,12 @@
         "https://iz.ru/2189075/maslennikov-zaiavil-o-stremlenii-zapada-kontrolirovat-morskie-marshruty-izi",
         "https://iz.ru/2189076/mvd-predupredilo-o-novoi-skheme-obmana-s-ustanovkoi-feikovykh-prilozhenii-izi",
         "https://iz.ru/2189077/v-ran-nazvali-oslablennyi-immunitet-faktorom-zarazheniia-virusom-shamonda-izi",
-        "https://iz.ru/2189078/smi-uznali-o-peregovorakh-spacex-ob-arende-80-tys-sotovykh-vyshek-v-ssha-izi"
+        "https://iz.ru/2189078/smi-uznali-o-peregovorakh-spacex-ob-arende-80-tys-sotovykh-vyshek-v-ssha-izi",
+        "https://iz.ru/2189079/voennye-rossii-i-uzbekistana-obmenialis-opytom-na-uchenii-khamkorlik-2026-izi"
       ]
     },
     "2026-10-24": {
-      "totalChecked": 568,
+      "totalChecked": 565,
       "totalIzi": 150,
       "totalIiz": 2,
       "totalAi": 152,
@@ -375,14 +375,30 @@
       ]
     },
     "2026-10-28": {
-      "totalChecked": 115,
-      "totalIzi": 2,
+      "totalChecked": 327,
+      "totalIzi": 29,
       "totalIiz": 2,
-      "totalAi": 4,
+      "totalAi": 31,
       "topLinks": [
         "https://iz.ru/2188193/50-dobrye-otkrytki-s-dnem-babushek-i-dedushek-kartinki-gifki-i-pozdravleniia-iiz",
+        "https://iz.ru/2191240/vrachi-prizvali-uchityvat-zhenskie-osobennosti-pri-profilaktike-boleznei-serdtca-izi",
+        "https://iz.ru/2191277/uchenye-otmetili-polzu-kliukvennogo-soka-dlia-zdorovia-zubov-izi",
+        "https://iz.ru/2191308/uchenye-rasskazali-o-prichinakh-vozrastnoi-slabosti-izi",
         "https://iz.ru/2191768/glava-minenergo-ssha-obiasnil-tcel-dizelnoi-sdelki-s-rossiei-izi",
         "https://iz.ru/2191771/parlamentskie-vybory-v-izraile-zavershilis-iavkoi-777-izi",
+        "https://iz.ru/2191775/arsenal-ustupil-flitvudu-i-vybyl-iz-kubka-angliiskoi-ligi-izi",
+        "https://iz.ru/2191777/ukrainskaia-kompaniia-novaia-pochta-zapustila-chastnuiu-pvo-izi",
+        "https://iz.ru/2191779/ovechkin-i-eshche-chetyre-rossiiskikh-khokkeista-popali-v-bazu-gur-ukrainy-izi",
+        "https://iz.ru/2191790/telegraph-zaiavila-o-raskole-v-es-posle-razgovora-putina-so-stubbom-i-stere-izi",
+        "https://iz.ru/2191808/moskovskii-sud-podtverdil-zakonnost-lisheniia-prav-za-peredachu-mashiny-pianomu-voditeliu-izi",
+        "https://iz.ru/2191822/liaisan-misharina-stala-pervym-zamestitelem-khudruka-mkht-imeni-chekhova-izi",
+        "https://iz.ru/2191837/raskhody-ssha-na-voinu-s-iranom-prevysili-47-mlrd-izi",
+        "https://iz.ru/2191838/v-ssha-zaiavili-ob-ubezhdenii-rossiei-evropy-v-bespoleznosti-konflikta-na-ukraine-izi",
+        "https://iz.ru/2191839/riabkov-otmetil-otsutstvie-politicheskikh-uslovii-v-pomoshchi-afrike-so-storony-rossii-izi",
+        "https://iz.ru/2191845/tokaev-prizval-nachat-stroitelstvo-aes-balkhash-uzhe-v-2027-godu-izi",
+        "https://iz.ru/2191862/ubiitcy-kriptobiznesmena-novaka-v-oae-planirovali-prestuplenie-pochti-polgoda-izi",
+        "https://iz.ru/2191878/fon-der-liaien-ne-otvetila-prokurature-es-po-delu-o-vaktcinakh-pfizer-izi",
+        "https://iz.ru/2191890/murashko-zaiavil-o-snizhenii-letalnosti-v-klinikakh-do-40-blagodaria-ii-izi",
         "https://iz.ru/2188193/50-dobrye-otkrytki-s-dnem-babushek-i-dedushek-kartinki-gifki-i-pozdravleniia-iiz"
       ]
     }
