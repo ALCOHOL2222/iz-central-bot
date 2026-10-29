@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T21:49:04.443Z",
+  "generatedAt": "2026-10-29T01:59:36.344Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,41 +179,39 @@
       ]
     },
     "2026-10-22": {
-      "totalChecked": 921,
-      "totalIzi": 204,
+      "totalChecked": 855,
+      "totalIzi": 186,
       "totalIiz": 3,
-      "totalAi": 207,
+      "totalAi": 189,
       "topLinks": [
-        "https://iz.ru/2188468/trutnev-naznachen-pomoshchnikom-prezidenta-rossii-izi",
-        "https://iz.ru/2188479/krasnov-vyskazalsia-za-rasshirenie-kontaktov-sudov-rf-i-knr-pri-rassmotrenii-del-izi",
-        "https://iz.ru/2188485/issledovateli-rasskazali-o-vlianii-nevesomosti-na-serdtce-izi",
-        "https://iz.ru/2188488/na-ukraine-stali-prodavat-voennoobiazannym-muzhchinam-detei-dlia-emigratcii-izi",
-        "https://iz.ru/2188489/fedor-dostoevskii-stanet-postoiannym-politicheskim-ekspertom-izi",
-        "https://iz.ru/2188495/finskii-politik-mema-priznalsia-v-poluchenii-ugroz-iz-za-prizyvov-k-miru-izi",
-        "https://iz.ru/2188503/mid-armenii-iskliuchil-provoz-khimikatov-i-oruzhiia-po-marshrutu-trampa-izi",
-        "https://iz.ru/2188508/bolshoi-mozg-i-drevnie-belki-kak-uchenye-uznali-denisovtca-izi",
-        "https://iz.ru/2188510/prezident-chekhii-obvinil-trampa-v-sryve-sdelkoi-s-rf-iakoby-progressa-po-ukraine-izi",
-        "https://iz.ru/2188513/pravitelstvo-rossii-anonsirovalo-pervoe-zasedanie-v-obnovlennom-sostave-izi",
-        "https://iz.ru/2188514/dmitriev-zaiavil-o-neizbezhnom-vosstanovlenii-sotrudnichestva-rossii-i-evropy-izi",
-        "https://iz.ru/2188515/rosgvardeitcy-v-zone-svo-prisoedinilis-k-pamiatnoi-aktcii-v-den-belykh-zhuravlei-izi",
-        "https://iz.ru/2188517/sily-pvo-unichtozhili-1226-ukrainskikh-bespilotnikov-za-sutki-v-zone-svo-izi",
-        "https://iz.ru/2188521/armiia-rossii-porazila-ispolzuemye-vsu-energeticheskie-i-transportnye-obekty-izi",
-        "https://iz.ru/2188528/trusova-i-semenenko-poluchili-priglasheniia-na-gran-pri-v-ssha-i-finliandii-izi",
-        "https://iz.ru/2188535/sud-v-moskve-otklonil-zhalobu-euroclear-na-vzyskanie-eu200-mlrd-po-isku-tcb-izi",
-        "https://iz.ru/2188541/sustavy-i-obmen-zhirov-uchenye-proverili-novyi-podkhod-k-lecheniiu-artrita-izi",
-        "https://iz.ru/2188543/istorik-opisal-istoki-i-transformatciiu-mnogovekovogo-protivostoianiia-britanii-s-rf-izi",
         "https://iz.ru/2188555/peskov-zaiavil-ob-otsutstvii-sostava-peregovornoi-gruppy-rossii-po-ukraine-izi",
-        "https://iz.ru/2188557/zhiteli-italii-rasskazali-o-posledstviiakh-toplivnogo-krizisa-izi"
+        "https://iz.ru/2188557/zhiteli-italii-rasskazali-o-posledstviiakh-toplivnogo-krizisa-izi",
+        "https://iz.ru/2188558/peskov-otmetil-interesy-rf-v-resheniiakh-po-inostrannym-kompaniiam-izi",
+        "https://iz.ru/2188575/uchenye-nashli-v-indonezii-schitavshikhsia-ischeznuvshimi-iadovitykh-lori-izi",
+        "https://iz.ru/2188583/uchenye-ne-nashli-obshchei-sviazi-ultrapererabotannoi-edy-s-rakom-kishechnika-izi",
+        "https://iz.ru/2188596/vozvrashchenie-v-shkolnyi-khor-kultovyi-serial-poluchit-prodolzhenie-izi",
+        "https://iz.ru/2188597/v-mid-rf-rasskazali-ob-izuchenii-peredannykh-uitkoffom-dokumentov-po-ukraine-izi",
+        "https://iz.ru/2188600/uchenye-soobshchili-o-sposobnosti-izbytka-rnk-narushat-vyrabotku-energii-v-kletkakh-izi",
+        "https://iz.ru/2188606/krasnov-nazval-poleznoi-sovmestnuiu-borbu-rf-i-knr-s-kiberprestupnostiu-izi",
+        "https://iz.ru/2188607/v-kaluzhskoi-oblasti-zhurnalistku-osudili-za-prizyvy-k-terrorizmu-izi",
+        "https://iz.ru/2188625/vorobev-anonsiroval-novye-stantcii-metro-v-podmoskove-izi",
+        "https://iz.ru/2188626/lukashenko-poblagodaril-rossiiu-za-podderzhanie-sovmestnoi-gruppirovki-voisk-izi",
+        "https://iz.ru/2188630/v-obse-zaiavili-ob-okhote-kievskogo-rezhima-na-rossiiskikh-zhurnalistov-izi",
+        "https://iz.ru/2188633/shag-za-shagom-kak-ezhednevnaia-khodba-sviazana-s-vnimaniem-i-samokontrolem-izi",
+        "https://iz.ru/2188639/v-orenburgskoi-oblasti-dvukhletnii-malchik-podavilsia-pelmenem-i-umer-izi",
+        "https://iz.ru/2188657/zelenskii-proslezilsia-vo-vremia-interviu-i-pozhalovalsia-na-nedosyp-izi",
+        "https://iz.ru/2188661/mosfilm-ne-daval-razresheniia-na-ispolzovanie-postera-filma-idi-smotri-izi",
+        "https://iz.ru/2188671/vo-frantcii-otozvali-politceiskikh-iz-otpuskov-pered-aktciiami-protesta-24-oktiabria-izi",
+        "https://iz.ru/2188684/belousov-uskorennaia-militarizatciia-evropy-osobenno-opasna-izi",
+        "https://iz.ru/2188689/prokuratura-initciirovala-ugolovnoe-delo-protiv-mikhaila-zygaria-izi"
       ]
     },
     "2026-10-23": {
-      "totalChecked": 1052,
-      "totalIzi": 175,
+      "totalChecked": 1046,
+      "totalIzi": 173,
       "totalIiz": 2,
-      "totalAi": 177,
+      "totalAi": 175,
       "topLinks": [
-        "https://iz.ru/2188502/uchenye-usomnilis-vo-vrede-gadzhetov-dlia-detei-izi",
-        "https://iz.ru/2188533/vrachi-podcherknuli-vazhnost-fizicheskoi-aktivnosti-pri-menopauze-izi",
         "https://iz.ru/2188599/narodnye-primety-na-23-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2189043/reuters-soobshchilo-ob-uvelichenii-postavok-nefti-stranami-blizhnego-vostoka-v-indiiu-izi",
         "https://iz.ru/2189048/minenergo-potrebnost-v-importnom-benzine-snizhaetsia-ego-obem-v-rossii-mal-izi",
@@ -231,7 +229,9 @@
         "https://iz.ru/2189076/mvd-predupredilo-o-novoi-skheme-obmana-s-ustanovkoi-feikovykh-prilozhenii-izi",
         "https://iz.ru/2189077/v-ran-nazvali-oslablennyi-immunitet-faktorom-zarazheniia-virusom-shamonda-izi",
         "https://iz.ru/2189078/smi-uznali-o-peregovorakh-spacex-ob-arende-80-tys-sotovykh-vyshek-v-ssha-izi",
-        "https://iz.ru/2189079/voennye-rossii-i-uzbekistana-obmenialis-opytom-na-uchenii-khamkorlik-2026-izi"
+        "https://iz.ru/2189079/voennye-rossii-i-uzbekistana-obmenialis-opytom-na-uchenii-khamkorlik-2026-izi",
+        "https://iz.ru/2189081/kambodzha-vydala-rossii-dvukh-nakhodivshikhsia-v-mezhdunarodnom-rozyske-grazhdan-izi",
+        "https://iz.ru/2189095/posol-rf-predupredil-o-riskakh-zaderzhanij-i-vysylok-rossiyan-v-chernogorii-izi"
       ]
     },
     "2026-10-24": {
@@ -263,7 +263,7 @@
       ]
     },
     "2026-10-25": {
-      "totalChecked": 576,
+      "totalChecked": 574,
       "totalIzi": 128,
       "totalIiz": 4,
       "totalAi": 132,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-10-28": {
-      "totalChecked": 1114,
+      "totalChecked": 1150,
       "totalIzi": 150,
       "totalIiz": 1,
       "totalAi": 151,
@@ -375,11 +375,14 @@
       ]
     },
     "2026-10-29": {
-      "totalChecked": 0,
+      "totalChecked": 116,
       "totalIzi": 0,
-      "totalIiz": 0,
-      "totalAi": 0,
-      "topLinks": []
+      "totalIiz": 2,
+      "totalAi": 2,
+      "topLinks": [
+        "https://iz.ru/2192341/narodnye-primety-na-29-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2192341/narodnye-primety-na-29-oktiabria-chto-mozhno-i-nelzia-delat-iiz"
+      ]
     }
   }
 }
