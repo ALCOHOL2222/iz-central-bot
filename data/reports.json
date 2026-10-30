@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T07:21:25.141Z",
+  "generatedAt": "2026-10-30T14:23:09.160Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,35 +179,35 @@
       ]
     },
     "2026-10-23": {
-      "totalChecked": 731,
-      "totalIzi": 113,
+      "totalChecked": 577,
+      "totalIzi": 96,
       "totalIiz": 1,
-      "totalAi": 114,
+      "totalAi": 97,
       "topLinks": [
-        "https://iz.ru/2189411/tcb-soprovodil-reshenie-po-stavke-memom-s-kotenkom-v-dospekhakh-izi",
-        "https://iz.ru/2189412/nabiullina-zaiavila-ob-otsutstvii-riskov-dlia-finansovoi-stabilnosti-ekonomiki-rf-izi",
-        "https://iz.ru/2189421/pochti-80-mlrd-rublei-vydeliat-na-infrastrukturu-vuzov-i-kapremont-obshchezhitii-izi",
-        "https://iz.ru/2189427/eks-deputata-gosdumy-olega-mikhailova-vnesli-v-reestr-ekstremistov-izi",
-        "https://iz.ru/2189428/voz-prokommentirovala-pervyi-sluchai-smerti-cheloveka-ot-virusa-shamonda-izi",
-        "https://iz.ru/2189431/v-finliandii-raskritikovali-zelenskogo-za-neblagodarnost-usiliiam-trampa-izi",
-        "https://iz.ru/2189445/2026-10-23/ivana-zolo-oshtrafovali-za-demonstratciiu-simvoliki-satanistov-izi",
-        "https://iz.ru/2189452/mer-nazvalo-ozhidaemym-reshenie-tcb-sokhranit-stavku-na-urovne-14-izi",
-        "https://iz.ru/2189486/ekspert-po-ii-predrek-globalnye-posledstviia-zapreta-deepseek-v-gossetiakh-ssha-izi",
-        "https://iz.ru/2189538/ottca-megan-markl-zapodozrili-v-khranenii-detskoi-pornografii-chto-izvestno-izi",
-        "https://iz.ru/2189548/trekhletniaia-devochka-umerla-posle-udaleniia-adenoidov-v-cherepovtce-izi",
-        "https://iz.ru/2189549/evrosoiuz-rasschityvaet-vziat-okolo-eu47-mlrd-iz-zaprosa-kieva-na-2027-god-izi",
-        "https://iz.ru/2189550/frantcuzskii-politik-filippo-sravnil-flag-es-s-triapkoi-i-prizval-k-frexit-izi",
-        "https://iz.ru/2189580/ozil-prizval-fifa-vernut-rossiiskie-komandy-na-mezhdunarodnye-turniry-izi",
-        "https://iz.ru/2189584/rossiiane-zimoi-smogut-otpravitsia-priamymi-reisami-v-40-stran-izi",
-        "https://iz.ru/2189652/2026-10-23/traktor-obygral-ak-bars-i-vpervye-za-mesiatc-vyigral-domashnii-match-v-kkhl-izi",
-        "https://iz.ru/2189663/lantratova-nazvala-pomoshch-zhiteliam-glavnoi-zadachei-gumanitarnoi-missii-v-aleshkakh-izi",
         "https://iz.ru/2189673/putin-prisvoil-zvanie-vospitavshei-11-detei-zhitelnitce-brianskoi-oblasti-izi",
         "https://iz.ru/2189682/melaniia-tramp-biografiia-izi",
-        "https://iz.ru/2189692/glava-nvidia-predlozhil-sdelat-kazakhstan-khabom-mirovogo-fizicheskogo-ii-izi"
+        "https://iz.ru/2189692/glava-nvidia-predlozhil-sdelat-kazakhstan-khabom-mirovogo-fizicheskogo-ii-izi",
+        "https://iz.ru/2189705/v-rossii-predlozhili-vvesti-edinyi-obrazetc-udostovereniia-uchitelia-izi",
+        "https://iz.ru/2189721/mask-zaiavil-ob-otmyvanii-deneg-cherez-ukrainu-dlia-politicheskikh-kampanii-v-ssha-izi",
+        "https://iz.ru/2189739/minobrnauki-sokhranilo-minimalnye-bally-ege-dlia-postupleniia-v-vuzy-izi",
+        "https://iz.ru/2189747/ashan-snial-s-prodazhi-partiiu-konfet-rot-front-posle-zhaloby-na-lichinok-izi",
+        "https://iz.ru/2189775/rossiianka-liudmila-roshchina-stala-vtoroi-v-lichnom-mnogobore-na-chm-v-rotterdame-izi",
+        "https://iz.ru/2187915/uchenye-sviazali-nizkuiu-fizicheskuiu-aktivnost-s-riskom-kognitivnykh-zabolevanii-izi",
+        "https://iz.ru/2188502/uchenye-usomnilis-vo-vrede-gadzhetov-dlia-detei-izi",
+        "https://iz.ru/2188533/vrachi-podcherknuli-vazhnost-fizicheskoi-aktivnosti-pri-menopauze-izi",
+        "https://iz.ru/2188599/narodnye-primety-na-23-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2189043/reuters-soobshchilo-ob-uvelichenii-postavok-nefti-stranami-blizhnego-vostoka-v-indiiu-izi",
+        "https://iz.ru/2189048/minenergo-potrebnost-v-importnom-benzine-snizhaetsia-ego-obem-v-rossii-mal-izi",
+        "https://iz.ru/2189049/srednie-zarplatnye-predlozheniia-v-rossii-za-god-vyrosli-na-20-izi",
+        "https://iz.ru/2189051/zvezda-filma-chuzhoi-tom-skerrit-skonchalsia-na-94-m-godu-zhizni-izi",
+        "https://iz.ru/2189054/amerikanskii-akter-tom-skerrit-biografiia-izi",
+        "https://iz.ru/2189056/moshenniki-pridumali-novuiu-skhemu-s-fiktivnymi-obrashcheniiami-v-rosfinmonitoring-izi",
+        "https://iz.ru/2189059/grushko-nazval-v-eu18-trln-tcenu-militarizatcii-evropy-i-otkaza-ot-dialoga-izi",
+        "https://iz.ru/2189060/v-gosdume-predupredili-o-vozmozhnykh-sboiakh-v-rabote-rossiiskikh-saitov-izi"
       ]
     },
     "2026-10-24": {
-      "totalChecked": 553,
+      "totalChecked": 541,
       "totalIzi": 146,
       "totalIiz": 1,
       "totalAi": 147,
@@ -235,12 +235,11 @@
       ]
     },
     "2026-10-25": {
-      "totalChecked": 562,
-      "totalIzi": 126,
+      "totalChecked": 557,
+      "totalIzi": 125,
       "totalIiz": 3,
-      "totalAi": 129,
+      "totalAi": 128,
       "topLinks": [
-        "https://iz.ru/2189491/uchenye-vyiavili-novye-sviazi-genetiki-s-zhirovoi-bolezniu-pecheni-izi",
         "https://iz.ru/2190131/boetc-mma-petr-ian-pobedil-meraba-dvalishvili-i-zashchitil-titul-ufc-izi",
         "https://iz.ru/2190132/boetc-mma-evloev-proigral-volkanovski-v-glavnom-boiu-na-turnire-ufc-333-v-abu-dabi-izi",
         "https://iz.ru/2190139/niu-dzhersi-obygral-los-andzheles-blagodaria-golu-i-peredache-gritciuka-izi",
@@ -259,17 +258,16 @@
         "https://iz.ru/2190234/amerikanskii-ofitcer-predrek-porazhenie-kieva-dazhe-posle-vosstanovleniia-starlink-izi",
         "https://iz.ru/2190239/na-ukraine-na-102-m-godu-zhizni-umer-poslednii-veteran-divizii-ss-galichina-izi",
         "https://iz.ru/2190241/bard-i-dissident-petr-starchik-biografiia-izi",
-        "https://iz.ru/2190247/mid-rf-sviazal-ukhudshenie-otnoshenii-s-norvegiei-s-kursom-oslo-izi"
+        "https://iz.ru/2190247/mid-rf-sviazal-ukhudshenie-otnoshenii-s-norvegiei-s-kursom-oslo-izi",
+        "https://iz.ru/2190254/tri-cheloveka-postradali-pri-atake-bpla-na-avtobus-marshruta-moskva-melitopol-izi"
       ]
     },
     "2026-10-26": {
-      "totalChecked": 907,
-      "totalIzi": 172,
+      "totalChecked": 897,
+      "totalIzi": 170,
       "totalIiz": 1,
-      "totalAi": 173,
+      "totalAi": 171,
       "topLinks": [
-        "https://iz.ru/2189541/it-spetcialisty-stali-rezhe-rasschityvat-na-pribavku-pri-smene-raboty-izi",
-        "https://iz.ru/2189613/uchenye-vyiavili-sviaz-mezhdu-fizicheskimi-uprazhneniiami-i-bolezniu-parkinsona-izi",
         "https://iz.ru/2190465/shankhai-dregons-obygral-spartak-v-matche-kkhl-izi",
         "https://iz.ru/2190466/smi-soobshchili-o-vossozdanii-drevnerimskogo-stekla-s-effektom-izmeneniia-tcveta-izi",
         "https://iz.ru/2190476/nikishin-podpisal-odnoletnii-kontrakt-s-karolinoi-kharrikeinz-izi",
@@ -287,7 +285,9 @@
         "https://iz.ru/2190526/v-mvd-predupredili-o-novoi-skheme-moshennichestva-s-oplatoi-zakaza-izi",
         "https://iz.ru/2190536/v-mvd-nazvali-maksimalnyi-srok-deistviia-mezhdunarodnykh-voditelskikh-prav-izi",
         "https://iz.ru/2190542/cnn-brasil-uznal-ob-analogichnoi-lule-da-silve-prosbe-bolsonaru-prodlit-vybory-izi",
-        "https://iz.ru/2190546/mosbilet-sostavil-podborku-spektaklei-po-proizvedeniiam-mariny-tcvetaevoi-izi"
+        "https://iz.ru/2190546/mosbilet-sostavil-podborku-spektaklei-po-proizvedeniiam-mariny-tcvetaevoi-izi",
+        "https://iz.ru/2190549/moskovskim-predprinimateliam-dostupny-programmy-lgotnogo-finansirovaniia-izi",
+        "https://iz.ru/2190552/goly-kaprizova-i-shabanova-pomogli-minnesote-pobedit-vankuver-izi"
       ]
     },
     "2026-10-27": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-10-29": {
-      "totalChecked": 1106,
+      "totalChecked": 1105,
       "totalIzi": 154,
       "totalIiz": 2,
       "totalAi": 156,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-30": {
-      "totalChecked": 317,
-      "totalIzi": 46,
+      "totalChecked": 651,
+      "totalIzi": 130,
       "totalIiz": 2,
-      "totalAi": 48,
+      "totalAi": 132,
       "topLinks": [
         "https://iz.ru/2191577/uchenyi-obiasnil-vliianie-korotkogo-svetovogo-dnia-na-organizm-izi",
         "https://iz.ru/2192012/uchenye-obiasnili-posledstviia-mnogochasovoi-raboty-za-kompiuterom-izi",
