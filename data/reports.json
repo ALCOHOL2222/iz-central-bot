@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:58:15.657Z",
+  "generatedAt": "2026-10-31T12:47:47.094Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,43 +179,39 @@
       ]
     },
     "2026-10-24": {
-      "totalChecked": 321,
-      "totalIzi": 88,
+      "totalChecked": 285,
+      "totalIzi": 75,
       "totalIiz": 1,
-      "totalAi": 89,
+      "totalAi": 76,
       "topLinks": [
-        "https://iz.ru/2190087/krylia-sovetov-obygrali-rubin-v-matche-rpl-izi",
-        "https://iz.ru/2190091/ekspert-obiasnil-nevozmozhnost-polnogo-udaleniia-lichnykh-dannykh-iz-seti-izi",
-        "https://iz.ru/2190092/minenergo-rossii-podtverdilo-informatciiu-ob-otkliucheniiakh-sveta-na-iuge-izi",
-        "https://iz.ru/2190094/tri-cheloveka-postradali-pri-atake-ukrainskogo-bpla-na-shebekino-izi",
-        "https://iz.ru/2190097/dva-cheloveka-pogibli-pri-atake-drona-vsu-na-mikroavtobus-v-brianskoi-oblasti-izi",
-        "https://iz.ru/2190098/chto-proizoshlo-za-den-24-oktiabria-glavnoe-izi",
-        "https://iz.ru/2190101/na-demonstratcii-protiv-rosta-tcen-vyshli-410-tys-chelovek-po-vsei-frantcii-izi",
-        "https://iz.ru/2190102/kolichestvo-postradavshikh-pri-atake-vsu-na-dom-v-sverdlovske-vozroslo-do-shesti-izi",
-        "https://iz.ru/2190105/dvizhenie-ansar-alla-soobshchilo-ob-udare-po-aeroportu-v-er-riiade-izi",
-        "https://iz.ru/2190106/sk-vozbudil-ugolovnoe-delo-posle-dtp-s-shestiu-pogibshimi-v-eao-izi",
-        "https://iz.ru/2190107/mask-obvinil-vsu-v-narushenii-uslovii-ispolzovaniia-sistemy-starlink-izi",
-        "https://iz.ru/2190114/ispanetc-artiga-pokinul-post-glavnogo-trenera-rubina-izi",
-        "https://iz.ru/2190117/boetc-mma-volkov-v-den-rozhdeniia-pobedil-kunieva-na-turnire-ufc-v-abu-dabi-izi",
         "https://iz.ru/2188636/issledovateli-rasskazali-o-vrede-ispolzovaniia-telefona-pered-snom-izi",
         "https://iz.ru/2188680/ledianye-vanny-posle-trenirovok-pomogaet-li-kholod-pri-vosstanovlenii-myshtc-izi",
         "https://iz.ru/2188707/issledovateli-sviazali-kachestvo-pitaniia-s-chastotoi-simptomov-depressii-u-pozhilykh-izi",
         "https://iz.ru/2188839/trenirovki-perestali-prinosit-rezultat-eksperty-uznali-kak-preodolet-plato-izi",
         "https://iz.ru/2189265/narodnye-primety-na-24-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2189768/starshii-leitenant-nasurdinov-spas-artilleristov-ot-udara-bpla-tcenoi-raneniia-izi",
-        "https://iz.ru/2189780/minobrnauki-predlozhilo-izmenit-poriadok-priema-na-platnoe-obuchenie-izi"
+        "https://iz.ru/2189780/minobrnauki-predlozhilo-izmenit-poriadok-priema-na-platnoe-obuchenie-izi",
+        "https://iz.ru/2189790/tramp-sprognoziroval-rezkoe-padenie-tcen-na-neft-izi",
+        "https://iz.ru/2189800/provedenie-intervideniia-v-saudovskoi-aravii-predlozhili-perenesti-na-2027-god-izi",
+        "https://iz.ru/2189801/openai-usilila-izoliatciiu-ii-modelei-posle-vyiavlennykh-uiazvimostei-izi",
+        "https://iz.ru/2189806/v-ran-oprovergli-ugrozu-novoi-pandemii-covid-19-iz-za-shtamma-stratus-izi",
+        "https://iz.ru/2189807/na-ukraine-ukazali-na-padenie-rozhdaemosti-na-17-izi",
+        "https://iz.ru/2189813/v-bavarii-zagorelsia-chainyi-domik-gitlera-kelshtainkhaus-izi",
+        "https://iz.ru/2189818/sbornaia-rossii-do-15-let-vystupit-na-turnire-fifa-vpervye-s-2022-goda-izi",
+        "https://iz.ru/2189819/v-britanii-prizvali-ukrainu-priniat-trebovaniia-rf-dlia-zaversheniia-konflikta-izi",
+        "https://iz.ru/2189828/repkin-nazval-nevozmozhnoi-denuklearizatciiu-kndr-iz-za-deistvii-ssha-izi",
+        "https://iz.ru/2189835/mvd-predupredilo-o-moshennicheskikh-skhemakh-pri-oformlenii-zagranpasportov-izi",
+        "https://iz.ru/2189837/rospotrebnadzor-predupredil-o-riske-paralicha-pri-poliomielite-izi",
+        "https://iz.ru/2189850/v-mvd-rasskazali-o-sposobe-proverit-pasport-na-deistvitelnost-izi",
+        "https://iz.ru/2189855/minprosveshcheniia-opredelilo-daty-shkolnykh-kanikul-na-uchebnyi-god-izi"
       ]
     },
     "2026-10-25": {
-      "totalChecked": 553,
-      "totalIzi": 125,
+      "totalChecked": 530,
+      "totalIzi": 121,
       "totalIiz": 3,
-      "totalAi": 128,
+      "totalAi": 124,
       "topLinks": [
-        "https://iz.ru/2190131/boetc-mma-petr-ian-pobedil-meraba-dvalishvili-i-zashchitil-titul-ufc-izi",
-        "https://iz.ru/2190132/boetc-mma-evloev-proigral-volkanovski-v-glavnom-boiu-na-turnire-ufc-333-v-abu-dabi-izi",
-        "https://iz.ru/2190139/niu-dzhersi-obygral-los-andzheles-blagodaria-golu-i-peredache-gritciuka-izi",
-        "https://iz.ru/2190144/el-mundo-soobshchila-o-besporiadkakh-posle-aktcii-protesta-v-barselone-izi",
         "https://iz.ru/2190158/v-minzdrave-prizvali-rossiian-ne-peredavat-drugim-liudiam-meditcinskie-dannye-izi",
         "https://iz.ru/2190162/smi-nazvali-posledstviia-dlia-nato-posle-popytki-zapada-nanesti-porazhenie-rossii-izi",
         "https://iz.ru/2190167/onishchenko-predupredil-ob-ugroze-evropeiskikh-virusov-zhivotnykh-izi",
@@ -231,7 +227,11 @@
         "https://iz.ru/2190239/na-ukraine-na-102-m-godu-zhizni-umer-poslednii-veteran-divizii-ss-galichina-izi",
         "https://iz.ru/2190241/bard-i-dissident-petr-starchik-biografiia-izi",
         "https://iz.ru/2190247/mid-rf-sviazal-ukhudshenie-otnoshenii-s-norvegiei-s-kursom-oslo-izi",
-        "https://iz.ru/2190254/tri-cheloveka-postradali-pri-atake-bpla-na-avtobus-marshruta-moskva-melitopol-izi"
+        "https://iz.ru/2190254/tri-cheloveka-postradali-pri-atake-bpla-na-avtobus-marshruta-moskva-melitopol-izi",
+        "https://iz.ru/2190256/prichinoi-smerti-barda-i-kompozitora-petra-starchika-stala-prodolzhitelnaia-bolezn-izi",
+        "https://iz.ru/2190257/ushakov-nazval-pervuiu-vstrechu-rf-ssha-i-ukrainy-pristrelochnoi-izi",
+        "https://iz.ru/2190258/reper-misha-mavashi-biografiia-izi",
+        "https://iz.ru/2190266/fk-dinamo-makhachkala-potrebovalo-ot-zenita-izvinenii-za-epigrammu-izi"
       ]
     },
     "2026-10-26": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-31": {
-      "totalChecked": 205,
-      "totalIzi": 21,
+      "totalChecked": 343,
+      "totalIzi": 73,
       "totalIiz": 2,
-      "totalAi": 23,
+      "totalAi": 75,
       "topLinks": [
         "https://iz.ru/2192746/uchenye-raskryli-skrytyi-faktor-riska-pri-normalnom-davlenii-izi",
         "https://iz.ru/2192985/uchenye-rasskazali-o-tiazhelykh-simptomakh-menopauzy-u-autichnykh-zhenshchin-izi",
@@ -392,14 +392,14 @@
         "https://iz.ru/2194071/prankerov-vovana-i-leksusa-vnesli-v-bazu-gur-ukrainy-izi",
         "https://iz.ru/2194072/gosdolg-ukrainy-vyros-v-130-raz-za-20-let-i-dostig-2126-mlrd-izi",
         "https://iz.ru/2194129/poezd-soshel-s-relsov-posle-stolknoveniia-s-medvedem-v-iaponii-izi",
-        "https://iz.ru/2192746/uchenye-raskryli-skrytyi-faktor-riska-pri-normalnom-davlenii-izi",
-        "https://iz.ru/2192985/uchenye-rasskazali-o-tiazhelykh-simptomakh-menopauzy-u-autichnykh-zhenshchin-izi",
-        "https://iz.ru/2193412/uchenye-rasskazali-ob-osobennostiakh-raka-kishechnika-u-molodykh-liudei-izi",
-        "https://iz.ru/2193460/uchenye-vyiavili-novye-geneticheskie-faktory-bolezni-altcgeimera-izi",
-        "https://iz.ru/2193464/narodnye-primety-na-31-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2193654/2026-10-31/v-rossii-khotiat-ogranichit-rost-platy-za-kommunalnye-uslugi-infliatciei-izi",
-        "https://iz.ru/2194050/rzhd-izmeniat-pravila-vozvrata-biletov-na-poezda-s-1-dekabria-izi",
-        "https://iz.ru/2194061/politolog-otcenil-povedenie-kallas-vo-vremia-perepalki-v-kanade-izi"
+        "https://iz.ru/2194134/armiia-rossii-porazila-sukhogruz-s-imushchestvom-dlia-vsu-v-chernom-more-izi",
+        "https://iz.ru/2194135/vs-rf-nochiu-porazili-tetc-6-v-kieve-izi",
+        "https://iz.ru/2194136/mvd-predupredilo-o-skhemakh-obmana-v-feikovykh-onlain-magazinakh-izi",
+        "https://iz.ru/2194140/klub-nkhl-tampa-bei-laitning-otkazalsia-obmenivat-nikitu-kucherova-izi",
+        "https://iz.ru/2194141/v-germanii-vozmutilis-bezumnomu-resheniiu-evrokomissii-po-rossiiskomu-gazu-izi",
+        "https://iz.ru/2194142/politolog-usomnilsia-v-nalichii-u-zelenskogo-predlozhenii-dlia-peregovorov-s-rossiei-izi",
+        "https://iz.ru/2194143/sily-pvo-unichtozhili-chetyre-bpla-nad-tulskoi-oblastiu-izi",
+        "https://iz.ru/2194144/sily-pvo-unichtozhili-433-ukrainskikh-drona-nad-regionami-rossii-izi"
       ]
     }
   }
