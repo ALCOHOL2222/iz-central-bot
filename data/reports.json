@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:47:47.094Z",
+  "generatedAt": "2026-10-31T17:55:24.416Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -207,17 +207,11 @@
       ]
     },
     "2026-10-25": {
-      "totalChecked": 530,
-      "totalIzi": 121,
+      "totalChecked": 476,
+      "totalIzi": 115,
       "totalIiz": 3,
-      "totalAi": 124,
+      "totalAi": 118,
       "topLinks": [
-        "https://iz.ru/2190158/v-minzdrave-prizvali-rossiian-ne-peredavat-drugim-liudiam-meditcinskie-dannye-izi",
-        "https://iz.ru/2190162/smi-nazvali-posledstviia-dlia-nato-posle-popytki-zapada-nanesti-porazhenie-rossii-izi",
-        "https://iz.ru/2190167/onishchenko-predupredil-ob-ugroze-evropeiskikh-virusov-zhivotnykh-izi",
-        "https://iz.ru/2190182/v-minprosveshcheniia-predlozhili-dat-uchiteliam-vozmozhnost-poluchit-dopobrazovanie-izi",
-        "https://iz.ru/2190186/raskhody-ukrainy-na-konflikt-v-2027-godu-sostaviat-473-mln-v-den-izi",
-        "https://iz.ru/2190188/chto-proizoshlo-za-noch-25-oktiabria-glavnoe-izi",
         "https://iz.ru/2190209/minimum-12-chelovek-poluchili-raneniia-pri-strelbe-vblizi-stadiona-v-tallakhassi-izi",
         "https://iz.ru/2190211/mask-liniia-fronta-vsu-nemedlenno-rukhnet-v-sluchae-otkliucheniia-kievu-starlink-izi",
         "https://iz.ru/2190221/peskov-ukazal-na-nereshitelnost-es-po-naznacheniiu-peregovorshchika-po-ukraine-izi",
@@ -231,7 +225,13 @@
         "https://iz.ru/2190256/prichinoi-smerti-barda-i-kompozitora-petra-starchika-stala-prodolzhitelnaia-bolezn-izi",
         "https://iz.ru/2190257/ushakov-nazval-pervuiu-vstrechu-rf-ssha-i-ukrainy-pristrelochnoi-izi",
         "https://iz.ru/2190258/reper-misha-mavashi-biografiia-izi",
-        "https://iz.ru/2190266/fk-dinamo-makhachkala-potrebovalo-ot-zenita-izvinenii-za-epigrammu-izi"
+        "https://iz.ru/2190266/fk-dinamo-makhachkala-potrebovalo-ot-zenita-izvinenii-za-epigrammu-izi",
+        "https://iz.ru/2190271/karta-spetcoperatcii-na-ukraine-25-oktiabria-izi",
+        "https://iz.ru/2190274/opros-pokazal-negativnoe-otnoshenie-bolee-62-poliakov-k-zelenskomu-izi",
+        "https://iz.ru/2190289/predstavitel-mavashi-nazval-slukhami-soobshcheniia-o-prichine-smerti-repera-izi",
+        "https://iz.ru/2190290/kreativnyi-prodiuser-seriala-spetcy-rasskazala-o-slazhennoi-rabote-s-fsb-izi",
+        "https://iz.ru/2190291/vsu-nanesli-udar-po-promyshlennoi-zone-v-eltce-izi",
+        "https://iz.ru/2190301/filimonov-nazval-tvorchestvo-mavashi-istochnikom-sily-dlia-mnogikh-liudei-izi"
       ]
     },
     "2026-10-26": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-10-31": {
-      "totalChecked": 343,
-      "totalIzi": 73,
+      "totalChecked": 434,
+      "totalIzi": 88,
       "totalIiz": 2,
-      "totalAi": 75,
+      "totalAi": 90,
       "topLinks": [
         "https://iz.ru/2192746/uchenye-raskryli-skrytyi-faktor-riska-pri-normalnom-davlenii-izi",
         "https://iz.ru/2192985/uchenye-rasskazali-o-tiazhelykh-simptomakh-menopauzy-u-autichnykh-zhenshchin-izi",
