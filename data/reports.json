@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T07:45:08.736Z",
+  "generatedAt": "2026-11-01T15:22:24.910Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,22 +179,11 @@
       ]
     },
     "2026-10-25": {
-      "totalChecked": 342,
-      "totalIzi": 75,
+      "totalChecked": 289,
+      "totalIzi": 64,
       "totalIiz": 3,
-      "totalAi": 78,
+      "totalAi": 67,
       "topLinks": [
-        "https://iz.ru/2190393/v-lipetckoi-oblasti-pri-udare-vsu-po-promzone-povrezhdeno-osteklenie-domov-izi",
-        "https://iz.ru/2190397/dmitriev-zaiavil-o-dvizhenii-evropy-k-samounichtozheniiu-iz-za-chinovnikov-izi",
-        "https://iz.ru/2190400/zhitel-samary-v-techenie-trekh-let-pytalsia-vernut-ugnannyi-bmw-za-12-mln-rublei-izi",
-        "https://iz.ru/2190402/tramp-zaiavil-ob-otsutstvii-udarov-ssha-po-iranu-segodnia-izi",
-        "https://iz.ru/2190405/armiia-rossii-unichtozhila-nazemnykh-robotov-vsu-v-khersonskoi-oblasti-izi",
-        "https://iz.ru/2190408/krymchanin-chetyre-goda-sudilsia-s-magazinom-posle-otkaza-prodat-energetiki-izi",
-        "https://iz.ru/2190415/prezident-mongolii-nazval-minsk-raem-na-zemle-izi",
-        "https://iz.ru/2190424/volchitca-iuma-stala-talismanom-boitcov-otriada-rus-v-donbasse-izi",
-        "https://iz.ru/2190428/zenit-obygral-dinamo-makhachkala-so-schetom-20-izi",
-        "https://iz.ru/2190430/litva-vydelit-eu110-tys-na-perenos-zakhoroneniia-sovetskikh-voinov-izi",
-        "https://iz.ru/2190448/moskovskii-tcska-obygral-ska-so-schetom-31-v-matche-chempionata-kkhl-izi",
         "https://iz.ru/2180938/30-dobrye-otkrytki-s-mezhdunarodnym-dnem-teshchi-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
         "https://iz.ru/2187470/50-luchshie-otkrytki-s-dnem-avtomobilista-kartinki-gifki-i-dushevnye-pozdravleniia-iiz",
         "https://iz.ru/2189148/zdorovyi-mozg-zavisit-ot-okruzheniia-kak-otnosheniia-vliiaiut-na-psikhiku-izi",
@@ -203,23 +192,26 @@
         "https://iz.ru/2189491/uchenye-vyiavili-novye-sviazi-genetiki-s-zhirovoi-bolezniu-pecheni-izi",
         "https://iz.ru/2190131/boetc-mma-petr-ian-pobedil-meraba-dvalishvili-i-zashchitil-titul-ufc-izi",
         "https://iz.ru/2190132/boetc-mma-evloev-proigral-volkanovski-v-glavnom-boiu-na-turnire-ufc-333-v-abu-dabi-izi",
-        "https://iz.ru/2190139/niu-dzhersi-obygral-los-andzheles-blagodaria-golu-i-peredache-gritciuka-izi"
+        "https://iz.ru/2190139/niu-dzhersi-obygral-los-andzheles-blagodaria-golu-i-peredache-gritciuka-izi",
+        "https://iz.ru/2190144/el-mundo-soobshchila-o-besporiadkakh-posle-aktcii-protesta-v-barselone-izi",
+        "https://iz.ru/2190158/v-minzdrave-prizvali-rossiian-ne-peredavat-drugim-liudiam-meditcinskie-dannye-izi",
+        "https://iz.ru/2190162/smi-nazvali-posledstviia-dlia-nato-posle-popytki-zapada-nanesti-porazhenie-rossii-izi",
+        "https://iz.ru/2190167/onishchenko-predupredil-ob-ugroze-evropeiskikh-virusov-zhivotnykh-izi",
+        "https://iz.ru/2190182/v-minprosveshcheniia-predlozhili-dat-uchiteliam-vozmozhnost-poluchit-dopobrazovanie-izi",
+        "https://iz.ru/2190186/raskhody-ukrainy-na-konflikt-v-2027-godu-sostaviat-473-mln-v-den-izi",
+        "https://iz.ru/2190188/chto-proizoshlo-za-noch-25-oktiabria-glavnoe-izi",
+        "https://iz.ru/2190209/minimum-12-chelovek-poluchili-raneniia-pri-strelbe-vblizi-stadiona-v-tallakhassi-izi",
+        "https://iz.ru/2190211/mask-liniia-fronta-vsu-nemedlenno-rukhnet-v-sluchae-otkliucheniia-kievu-starlink-izi",
+        "https://iz.ru/2190221/peskov-ukazal-na-nereshitelnost-es-po-naznacheniiu-peregovorshchika-po-ukraine-izi",
+        "https://iz.ru/2190222/v-sovfede-zaiavili-o-prebyvanii-ukrainy-v-sostoianii-poluraspada-izi"
       ]
     },
     "2026-10-26": {
-      "totalChecked": 891,
-      "totalIzi": 170,
+      "totalChecked": 858,
+      "totalIzi": 162,
       "totalIiz": 1,
-      "totalAi": 171,
+      "totalAi": 163,
       "topLinks": [
-        "https://iz.ru/2190465/shankhai-dregons-obygral-spartak-v-matche-kkhl-izi",
-        "https://iz.ru/2190466/smi-soobshchili-o-vossozdanii-drevnerimskogo-stekla-s-effektom-izmeneniia-tcveta-izi",
-        "https://iz.ru/2190476/nikishin-podpisal-odnoletnii-kontrakt-s-karolinoi-kharrikeinz-izi",
-        "https://iz.ru/2190477/polskii-deputat-obvinil-zelenskogo-v-zatiagivanii-konflikta-na-ukraine-izi",
-        "https://iz.ru/2190479/smi-soobshhili-o-padenii-kapitalizaczii-krupnejshikh-lyuksovykh-brendov-na-251-mlrd-izi",
-        "https://iz.ru/2190480/rossiianam-rasskazali-o-sposobe-poluchit-medpomoshch-bez-registratcii-izi",
-        "https://iz.ru/2190484/iliiana-jotova-lidiruet-na-vyborakh-prezidenta-bolgarii-izi",
-        "https://iz.ru/2190487/v-ssha-pri-vzryve-na-zavode-pacific-seafood-nachalsia-pozhar-s-utechkoi-ammiaka-izi",
         "https://iz.ru/2190493/skhod-vagonov-poezda-s-posleduiushchim-vozgoraniem-proizoshel-v-sverdlovskoi-oblasti-izi",
         "https://iz.ru/2190494/nazvany-regiony-rossii-s-samoi-dostupnoi-arendoi-zhilia-izi",
         "https://iz.ru/2190497/wsj-uznala-o-zhelanii-administratcii-trampa-vydvinut-orbana-na-post-genseka-oon-izi",
@@ -231,7 +223,15 @@
         "https://iz.ru/2190542/cnn-brasil-uznal-ob-analogichnoi-lule-da-silve-prosbe-bolsonaru-prodlit-vybory-izi",
         "https://iz.ru/2190546/mosbilet-sostavil-podborku-spektaklei-po-proizvedeniiam-mariny-tcvetaevoi-izi",
         "https://iz.ru/2190549/moskovskim-predprinimateliam-dostupny-programmy-lgotnogo-finansirovaniia-izi",
-        "https://iz.ru/2190552/goly-kaprizova-i-shabanova-pomogli-minnesote-pobedit-vankuver-izi"
+        "https://iz.ru/2190552/goly-kaprizova-i-shabanova-pomogli-minnesote-pobedit-vankuver-izi",
+        "https://iz.ru/2190555/ii-claude-bez-vedoma-sozdatelei-poluchil-dannye-o-golosakh-izbiratelei-dzhordzhii-izi",
+        "https://iz.ru/2190559/minoborony-vs-rossii-porazili-elektropodstantciiu-v-khmelnitckoi-oblasti-izi",
+        "https://iz.ru/2190564/politico-nazvalo-frantciiu-novym-bolnym-chelovekom-evropy-izi",
+        "https://iz.ru/2190566/samolet-iak-130m-osnastili-kompleksom-zashchity-ot-zenitnykh-raket-izi",
+        "https://iz.ru/2190570/bloger-lerchek-ozhidaet-priglasheniia-iz-kitaiskoi-kliniki-izi",
+        "https://iz.ru/2190577/sredstva-pvo-za-noch-sbili-290-ukrainskikh-bpla-nad-regionami-rossii-izi",
+        "https://iz.ru/2190583/v-voronezhe-posle-ataki-bpla-proizoshlo-vozgoranie-v-delovom-tcentre-izi",
+        "https://iz.ru/2190584/20-vagonov-gruzovogo-poezda-soshli-s-relsov-v-sverdlovskoi-oblasti-izi"
       ]
     },
     "2026-10-27": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-11-01": {
-      "totalChecked": 216,
-      "totalIzi": 50,
+      "totalChecked": 340,
+      "totalIzi": 109,
       "totalIiz": 2,
-      "totalAi": 52,
+      "totalAi": 111,
       "topLinks": [
         "https://iz.ru/2191328/psikhologi-rasskazali-o-sposobakh-zabotitsia-o-sebe-po-mere-nastupleniia-zimy-izi",
         "https://iz.ru/2193391/narodnye-primety-na-1-noiabria-chto-mozhno-i-nelzia-delat-iiz",
