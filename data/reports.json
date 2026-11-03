@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:01:20.059Z",
+  "generatedAt": "2026-11-03T15:20:53.438Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-10-27": {
-      "totalChecked": 747,
-      "totalIzi": 92,
+      "totalChecked": 510,
+      "totalIzi": 62,
       "totalIiz": 1,
-      "totalAi": 93,
+      "totalAi": 63,
       "topLinks": [
-        "https://iz.ru/2191289/general-niderlandov-prizval-gotovitsia-k-krupnomasshtabnomu-konfliktu-izi",
-        "https://iz.ru/2191296/armiia-rossii-porazila-transportnuiu-infrastrukturu-i-sklady-vsu-izi",
-        "https://iz.ru/2191314/propavshuiu-posle-ssory-s-molodym-chelovekom-moskvichku-nashli-mertvoi-izi",
-        "https://iz.ru/2191315/umerla-khudozhnitca-multfilmov-volk-i-telenok-i-irina-kostrina-izi",
-        "https://iz.ru/2191321/mer-kieva-klichko-opublikoval-kadry-povrezhdenii-iuzhnogo-mosta-cherez-dnepr-izi",
-        "https://iz.ru/2191336/opublikovany-kadry-momenta-skhoda-tramvaya-s-relsov-v-moskve-izi",
-        "https://iz.ru/2191356/sevmorput-mozhet-pereiti-na-kruglogodichnuiu-rabotu-v-nachale-2027-goda-izi",
-        "https://iz.ru/2191359/v-gosdume-nazvali-slova-ombudsmena-ukrainy-gosudarstvennym-genotcidom-russkikh-izi",
-        "https://iz.ru/2191375/italiia-mogla-otlozhit-voennuiu-pomoshch-ukraine-do-vyborov-v-ssha-izi",
-        "https://iz.ru/2191386/putin-prizval-ne-zloupotrebliat-zelenoi-povestkoi-v-politicheskikh-tceliakh-izi",
-        "https://iz.ru/2191415/v-mvd-perechislili-priznaki-vovlecheniia-detei-v-opasnye-internet-soobshchestva-izi",
-        "https://iz.ru/2191427/chetyre-cheloveka-pogibli-i-vosem-postradali-pri-atakakh-vsu-na-lnr-izi",
-        "https://iz.ru/2191429/v-edinoi-rossii-poobeshchali-reshit-problemu-spisaniia-dolgov-uchastnikov-svo-izi",
-        "https://iz.ru/2191439/aktera-noa-uaili-priznali-samym-seksualnym-muzhchinoi-2026-goda-izi",
-        "https://iz.ru/2191440/mbappe-izvinilsia-pered-kitaiskimi-bolelshchikami-za-slova-o-mao-tczedune-izi",
-        "https://iz.ru/2191449/putin-zaiavil-o-prodvizhenii-rossiei-v-briks-novoi-investplatformy-izi",
-        "https://iz.ru/2191454/la-liga-izvinilas-pered-kitaiskimi-bolelshchikami-za-skandal-s-mbappe-izi",
-        "https://iz.ru/2191467/v-anape-muzhchina-napal-s-nozhom-na-parikmakhera-izi",
-        "https://iz.ru/2191547/peskov-zaiavil-ob-otkaze-evropy-ot-dialoga-po-ukrainskomu-uregulirovaniiu-izi",
-        "https://iz.ru/2191568/hbo-raskryla-imena-akterov-na-roli-lili-i-dzheimsa-potter-i-charli-uizli-izi"
+        "https://iz.ru/2190612/uchenye-izuchili-povedenie-mozga-pri-bolezni-altcgeimera-izi",
+        "https://iz.ru/2190659/narodnye-primety-na-27-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2190732/uchenye-rasskazali-o-genetike-piati-glavnykh-chert-lichnosti-izi",
+        "https://iz.ru/2190779/uchenye-rasskazali-o-sviazi-menopauzy-s-trevozhnostiu-izi",
+        "https://iz.ru/2191077/sud-prigovoril-urozhentca-ukrainy-k-25-godam-za-pokushenie-na-chinovnika-izi",
+        "https://iz.ru/2191110/syn-bolsonaru-otkazalsia-dobivatsia-annulirovaniia-vyborov-v-brazilii-izi",
+        "https://iz.ru/2191113/futbolist-garri-kein-biografiia-izi",
+        "https://iz.ru/2191116/iamal-stal-trekhkratnym-obladatelem-trofeia-kopa-izi",
+        "https://iz.ru/2191119/2026-10-27/deputat-estonii-zaprosil-otchet-o-raskhodakh-na-konferentciiu-po-ukraine-izi",
+        "https://iz.ru/2191120/v-gd-prizvali-sdelat-mery-podderzhki-dostupnymi-dlia-kazhdoi-semi-izi",
+        "https://iz.ru/2191124/sibiga-raskritikoval-ideiu-vydvizheniia-orbana-na-post-genseka-oon-izi",
+        "https://iz.ru/2191153/khristoforu-raskritikoval-zaiavleniia-zelenskogo-v-adres-glavy-pentagona-izi",
+        "https://iz.ru/2191157/rossiianam-perechisliat-detskie-posobiia-v-nachale-noiabria-izi",
+        "https://iz.ru/2191168/nachalnika-inzhenernoi-sluzhby-brigady-vsu-likvidirovali-v-sumskoi-oblasti-izi",
+        "https://iz.ru/2191170/skoplenie-boitcov-roty-shkval-vsu-unichtozhili-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2191182/v-brianskoi-oblasti-pri-atake-vsu-pogib-muzhchina-i-raneny-shest-chelovek-izi",
+        "https://iz.ru/2191183/indeks-mosbirzhi-prevysil-2500-punktov-vpervye-s-iiunia-izi",
+        "https://iz.ru/2191186/v-izraile-otkrylis-izbiratelnye-uchastki-na-parlamentskikh-vyborakh-izi",
+        "https://iz.ru/2191188/dve-kompanii-knr-prekratili-partnerstvo-s-mbappe-posle-ego-shutki-pro-mao-tczeduna-izi",
+        "https://iz.ru/2191196/vladeltcam-mira-kvestov-mozhet-grozit-konfiskatciia-biznesa-za-finansirovanie-vsu-izi"
       ]
     },
     "2026-10-28": {
-      "totalChecked": 1141,
-      "totalIzi": 148,
+      "totalChecked": 1114,
+      "totalIzi": 147,
       "totalIiz": 1,
-      "totalAi": 149,
+      "totalAi": 148,
       "topLinks": [
-        "https://iz.ru/2191308/uchenye-rasskazali-o-prichinakh-vozrastnoi-slabosti-izi",
         "https://iz.ru/2191768/glava-minenergo-ssha-obiasnil-tcel-dizelnoi-sdelki-s-rossiei-izi",
         "https://iz.ru/2191771/parlamentskie-vybory-v-izraile-zavershilis-iavkoi-777-izi",
         "https://iz.ru/2191775/arsenal-ustupil-flitvudu-i-vybyl-iz-kubka-angliiskoi-ligi-izi",
@@ -231,17 +230,16 @@
         "https://iz.ru/2191896/armeniia-nachala-postavki-fruktov-i-iagod-v-oman-izi",
         "https://iz.ru/2191903/v-samare-zaderzhali-ostavivshuiu-mladentca-na-pomoike-zhenshchinu-izi",
         "https://iz.ru/2191916/sovet-federatcii-ratifitciroval-soglashenie-o-sotrudnichestve-rossii-s-burkina-faso-izi",
-        "https://iz.ru/2191920/lainer-villa-vie-odyssey-prerval-krugosvetku-iz-za-rosta-tcen-na-toplivo-izi"
+        "https://iz.ru/2191920/lainer-villa-vie-odyssey-prerval-krugosvetku-iz-za-rosta-tcen-na-toplivo-izi",
+        "https://iz.ru/2191922/astronomy-obnaruzhili-dva-koltca-oblomkov-planet-u-mertvoi-zvezdy-izi"
       ]
     },
     "2026-10-29": {
-      "totalChecked": 1105,
-      "totalIzi": 154,
+      "totalChecked": 1100,
+      "totalIzi": 152,
       "totalIiz": 2,
-      "totalAi": 156,
+      "totalAi": 154,
       "topLinks": [
-        "https://iz.ru/2191377/uchenye-rasskazali-o-vozmozhnoi-zashchite-mozga-ot-bolezni-altcgeimera-izi",
-        "https://iz.ru/2191408/uchenye-rasskazali-o-vliianii-trenirovok-na-nervnuiu-sistemu-serdtca-izi",
         "https://iz.ru/2191894/uchenye-sviazali-aktivnye-igry-na-ulitce-so-zdorovem-detei-izi",
         "https://iz.ru/2191970/uchenye-izuchili-sluchai-fizicheskogo-nasiliia-nad-detmi-izi",
         "https://iz.ru/2192169/uchenye-sostavili-kartu-stareniia-krovenosnykh-sosudov-izi",
@@ -259,16 +257,17 @@
         "https://iz.ru/2192582/sily-pvo-sbili-170-bpla-za-noch-nad-kaluzhskoi-oblastiu-izi",
         "https://iz.ru/2192584/britanskii-analitik-ukazal-na-paniku-vlastei-ukrainy-posle-udarov-vs-rf-po-kievu-izi",
         "https://iz.ru/2192585/armiia-rossii-porazila-sudno-s-gruzom-dlia-vsu-v-chernom-more-izi",
-        "https://iz.ru/2192586/na-territorii-cheliabinskoi-oblasti-obiavili-rezhim-bespilotnoi-opasnosti-izi"
+        "https://iz.ru/2192586/na-territorii-cheliabinskoi-oblasti-obiavili-rezhim-bespilotnoi-opasnosti-izi",
+        "https://iz.ru/2192589/odin-chelovek-pogib-i-sem-raneny-v-rezultate-ataki-vsu-na-belgorodskuiu-oblast-izi",
+        "https://iz.ru/2192596/mvd-predupredilo-o-moshennicheskoi-skheme-s-otmenoi-skrytoi-podpiski-izi"
       ]
     },
     "2026-10-30": {
-      "totalChecked": 1020,
-      "totalIzi": 176,
+      "totalChecked": 1015,
+      "totalIzi": 175,
       "totalIiz": 2,
-      "totalAi": 178,
+      "totalAi": 177,
       "topLinks": [
-        "https://iz.ru/2191577/uchenyi-obiasnil-vliianie-korotkogo-svetovogo-dnia-na-organizm-izi",
         "https://iz.ru/2192012/uchenye-obiasnili-posledstviia-mnogochasovoi-raboty-za-kompiuterom-izi",
         "https://iz.ru/2192065/uchenye-obiasnili-vliianie-sravneniia-sebia-s-drugimi-na-psikhiku-podrostkov-izi",
         "https://iz.ru/2192097/kogda-ozhivaiut-koshmary-10-filmov-dlia-vechera-khellouina-izi",
@@ -287,7 +286,8 @@
         "https://iz.ru/2193343/pulkovo-prinial-27-napravliavshikhsia-v-moskvu-reisov-v-kachestve-zapasnogo-aerodroma-izi",
         "https://iz.ru/2193345/bespilotniki-vsu-atakovali-samarskuiu-oblast-izi",
         "https://iz.ru/2193346/v-gosdume-predlozhili-davat-skidki-na-zhku-za-uchastie-v-subbotnikakh-izi",
-        "https://iz.ru/2193350/nochnaia-ataka-bespilotnikov-na-moskvu-stala-samoi-masshtabnoi-v-oktiabre-izi"
+        "https://iz.ru/2193350/nochnaia-ataka-bespilotnikov-na-moskvu-stala-samoi-masshtabnoi-v-oktiabre-izi",
+        "https://iz.ru/2193356/nochnaia-massirovannaia-ataka-dronov-vsu-na-moskvu-chto-izvestno-izi"
       ]
     },
     "2026-10-31": {
@@ -319,12 +319,11 @@
       ]
     },
     "2026-11-01": {
-      "totalChecked": 496,
-      "totalIzi": 144,
+      "totalChecked": 495,
+      "totalIzi": 143,
       "totalIiz": 2,
-      "totalAi": 146,
+      "totalAi": 145,
       "topLinks": [
-        "https://iz.ru/2191328/psikhologi-rasskazali-o-sposobakh-zabotitsia-o-sebe-po-mere-nastupleniia-zimy-izi",
         "https://iz.ru/2193391/narodnye-primety-na-1-noiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2193484/uchenye-rasskazali-o-sviazi-povtornogo-skrininga-i-riska-prezhdevremennykh-rodov-izi",
         "https://iz.ru/2193526/uchenye-rasskazali-o-vliianii-orekhov-na-massu-tela-izi",
@@ -343,7 +342,8 @@
         "https://iz.ru/2194416/armiia-rossii-porazila-morskoe-sudno-s-gruzami-dlia-vsu-iugo-zapadnee-odessy-izi",
         "https://iz.ru/2194417/v-chernogorii-nazvali-vvedenie-viz-dlia-rossiian-ekonomicheskim-samoubiistvom-izi",
         "https://iz.ru/2194418/armiia-rossii-porazila-obekty-upravleniia-dvizheniem-na-stantcii-v-sumskoi-oblasti-izi",
-        "https://iz.ru/2194419/sily-pvo-za-noch-sbili-235-ukrainskikh-bespilotnikov-nad-regionami-rossii-izi"
+        "https://iz.ru/2194419/sily-pvo-za-noch-sbili-235-ukrainskikh-bespilotnikov-nad-regionami-rossii-izi",
+        "https://iz.ru/2194420/chislo-pensionerov-v-rossii-prevysilo-405-mln-chelovek-izi"
       ]
     },
     "2026-11-02": {
@@ -375,21 +375,31 @@
       ]
     },
     "2026-11-03": {
-      "totalChecked": 196,
-      "totalIzi": 8,
+      "totalChecked": 668,
+      "totalIzi": 152,
       "totalIiz": 2,
-      "totalAi": 10,
+      "totalAi": 154,
       "topLinks": [
         "https://iz.ru/2194793/narodnye-primety-na-3-noiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2194797/uchenye-ukazali-na-opasnost-ekstremalnykh-temperatur-pri-khronicheskikh-bolezniakh-izi",
         "https://iz.ru/2194923/uchenye-uznali-ob-izmenenii-pishchevogo-povedeniia-pri-kontakte-s-bakteriiami-izi",
         "https://iz.ru/2194949/uchenye-sviazali-zhizn-v-odinochestve-s-riskom-smerti-izi",
         "https://iz.ru/2195121/uchenye-raskryli-mekhanizm-nakopleniia-plokhogo-kholesterina-v-krovi-izi",
-        "https://iz.ru/2194793/narodnye-primety-na-3-noiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2194797/uchenye-ukazali-na-opasnost-ekstremalnykh-temperatur-pri-khronicheskikh-bolezniakh-izi",
-        "https://iz.ru/2194923/uchenye-uznali-ob-izmenenii-pishchevogo-povedeniia-pri-kontakte-s-bakteriiami-izi",
-        "https://iz.ru/2194949/uchenye-sviazali-zhizn-v-odinochestve-s-riskom-smerti-izi",
-        "https://iz.ru/2195121/uchenye-raskryli-mekhanizm-nakopleniia-plokhogo-kholesterina-v-krovi-izi"
+        "https://iz.ru/2195378/openai-naniala-eks-ministra-armii-ssha-dlia-razvitiia-ii-v-sfere-natcbezopasnosti-izi",
+        "https://iz.ru/2195381/tramp-nazval-sushchimi-kopeikami-raskhody-v-30-mlrd-na-voinu-s-iranom-izi",
+        "https://iz.ru/2195382/sotcfond-dosrochno-perechislit-rabotaiushchim-roditeliam-posobie-po-ukhodu-za-rebenkom-izi",
+        "https://iz.ru/2195383/popavshie-v-plen-v-kharkovskoi-oblasti-soldaty-vsu-stali-lgat-o-mobilizatcii-izi",
+        "https://iz.ru/2195384/vs-rossii-porazili-portovuiu-infrastrukturu-i-morskie-suda-v-odesskoi-oblasti-izi",
+        "https://iz.ru/2195386/mvd-rossii-zafiksirovalo-25-obrashchenii-za-ubezhishchem-ot-grazhdan-ssha-i-kanady-izi",
+        "https://iz.ru/2195387/v-iaroslavle-infrastruktura-npz-poluchila-povrezhdeniia-posle-ataki-bpla-izi",
+        "https://iz.ru/2195388/dmitriev-prokommentiroval-protesty-u-tainoi-tiurmy-v-kievskoi-oblasti-izi",
+        "https://iz.ru/2195392/mendel-nazvala-mobilizatciiu-na-ukraine-pytkoi-i-istochnikom-vziatok-izi",
+        "https://iz.ru/2195394/avtomobilnoe-dvizhenie-po-krymskomu-mostu-bylo-perekryto-pochti-vosem-chasov-izi",
+        "https://iz.ru/2195397/endokrinolog-predupredila-rossiian-o-sokrashchenii-zhizni-pri-metabolicheskom-sindrome-izi",
+        "https://iz.ru/2195398/vs-rossii-porazili-ladyzhenskuiu-tes-v-vinnitckoi-oblasti-izi",
+        "https://iz.ru/2195402/administratora-telegram-kanala-v-zabaikale-osudili-na-deviat-let-za-natcizm-izi",
+        "https://iz.ru/2195405/v-sevastopole-ogranichili-podachu-elektroenergii-posle-atak-vsu-izi",
+        "https://iz.ru/2195408/klishas-nazval-chastnuiu-tiurmu-pod-kievom-itogom-evropeiskogo-vybora-ukrainy-izi"
       ]
     }
   }
