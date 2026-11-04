@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:30:02.834Z",
+  "generatedAt": "2026-11-04T18:12:47.526Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -179,40 +179,39 @@
       ]
     },
     "2026-10-28": {
-      "totalChecked": 940,
-      "totalIzi": 130,
+      "totalChecked": 791,
+      "totalIzi": 97,
       "totalIiz": 1,
-      "totalAi": 131,
+      "totalAi": 98,
       "topLinks": [
-        "https://iz.ru/2191916/sovet-federatcii-ratifitciroval-soglashenie-o-sotrudnichestve-rossii-s-burkina-faso-izi",
-        "https://iz.ru/2191920/lainer-villa-vie-odyssey-prerval-krugosvetku-iz-za-rosta-tcen-na-toplivo-izi",
-        "https://iz.ru/2191922/astronomy-obnaruzhili-dva-koltca-oblomkov-planet-u-mertvoi-zvezdy-izi",
-        "https://iz.ru/2191926/sredstva-pvo-sbili-dve-rakety-bolshoi-dalnosti-i-617-bpla-za-sutki-izi",
-        "https://iz.ru/2191934/zhitel-cheliabinska-ubil-suprugu-i-rebenka-posle-ssory-izi",
-        "https://iz.ru/2191935/likhachev-nazval-kandidatury-grossi-i-orbana-na-post-genseka-oon-privlekatelnymi-izi",
-        "https://iz.ru/2191944/uchenye-izuchili-mikrochastitcy-v-paketirovannom-chae-izi",
-        "https://iz.ru/2191947/karta-spetcoperatcii-na-ukraine-28-oktiabria-izi",
-        "https://iz.ru/2191953/v-rossii-opredelili-strategicheskie-obekty-dlia-zashchity-ot-atak-ukrainy-izi",
-        "https://iz.ru/2191956/zelenskii-obespokoilsia-vozmozhnym-ekonomicheskim-brakom-rossii-i-ssha-izi",
-        "https://iz.ru/2191962/ne-menee-46-chelovek-pogibli-pri-stolknovenii-poezdov-v-ispanii-chto-izvestno-izi",
-        "https://iz.ru/2191963/ministr-kozlov-prizval-k-spravedlivoi-razrabotke-resursov-afriki-izi",
-        "https://iz.ru/2191966/na-ukraine-uznali-o-strakhe-zelenskogo-pered-vstrechei-liderov-rf-ssha-i-kitaia-izi",
-        "https://iz.ru/2191974/belyi-medved-napal-na-dorozhnogo-rabochego-na-bukhte-sever-na-taimyre-izi",
-        "https://iz.ru/2191981/posol-serra-leone-predlozhil-rossiianam-vyrashchivat-kofe-i-kakao-v-afrike-izi",
-        "https://iz.ru/2191982/v-iakutii-podrostka-prigovorili-k-piati-godam-za-ubiistvo-rovesnika-molotkom-izi",
-        "https://iz.ru/2191985/razvedka-ssha-podtverdila-sushchestvovanie-kitaiskogo-kosmoplana-po-snimku-maxar-izi",
-        "https://iz.ru/2191993/real-madrid-prines-izvineniia-kitaiskomu-narodu-za-vyskazyvaniia-mbappe-izi",
-        "https://iz.ru/2192001/prikliucheniia-mamontenka-v-poiskakh-mamy-pokazhut-v-turtcii-izi",
-        "https://iz.ru/2192011/kondrashov-otmetil-privychku-zapada-govorit-ob-afrike-svysoka-izi"
+        "https://iz.ru/2192134/kravchenko-obvinil-poimannykh-v-avstrii-boitcov-gur-v-podgotovke-pokusheniia-na-nego-izi",
+        "https://iz.ru/2192142/minoborony-rf-pokazalo-kadry-vziatiia-pod-kontrol-alisovki-i-barilovki-izi",
+        "https://iz.ru/2192148/posolstvo-rf-vyrazilo-soboleznovaniia-postradavshim-ot-zhd-katastrofy-v-ispanii-izi",
+        "https://iz.ru/2192156/iurii-dud-obzhaloval-zaochnyi-arest-po-delu-o-propagande-terrorizma-izi",
+        "https://iz.ru/2192163/ft-uznala-ob-izmenenii-pozitcii-ssha-po-ustupkam-ukrainy-izi",
+        "https://iz.ru/2192185/putin-nazval-predprinimatelia-maska-genialnym-chelovekom-izi",
+        "https://iz.ru/2192195/putin-soobshchil-o-tesnykh-kontaktakh-rossii-i-ssha-v-kosmicheskoi-sfere-izi",
+        "https://iz.ru/2192205/nikas-safronov-reshil-peredat-kvartiru-v-tcentre-moskvy-pod-muzei-izi",
+        "https://iz.ru/2192217/vlasti-andalusii-obiavili-traur-po-pogibshim-v-zheleznodorozhnoi-katastrofe-izi",
+        "https://iz.ru/2192225/2026-10-28/kreml-soobshchit-o-date-trekhstoronnikh-peregovorov-v-abu-dabi-posle-ee-opredeleniia-izi",
+        "https://iz.ru/2192233/vsu-atakovali-dronom-passazhirskii-poezd-na-stantcii-klintcy-v-brianskoi-oblasti-izi",
+        "https://iz.ru/2192234/v-bolshom-teatre-vystupili-za-peredachu-prav-na-balety-grigorovicha-gosudarstvu-izi",
+        "https://iz.ru/2192253/prokuratura-zaprosila-13-let-tiurmy-dlia-vora-v-zakone-gii-sverdlovskogo-izi",
+        "https://iz.ru/2192264/murashko-zaiavil-o-samoi-nizkoi-mladencheskoi-smertnosti-v-rf-sredi-krupnykh-stran-izi",
+        "https://iz.ru/2192266/tcivilev-ukazal-na-neobkhodimost-energeticheskoi-spravedlivosti-v-otnoshenii-afriki-izi",
+        "https://iz.ru/2192270/zakharova-nazvala-slova-zelenskogo-o-proiskhozhdenii-ukrainy-bredom-izi",
+        "https://iz.ru/2192287/ubiistvo-semi-v-cheliabinske-i-pozhar-s-zhertvami-glavnye-proisshestviia-28-oktiabria-izi",
+        "https://iz.ru/2192300/premer-tanzanii-rasskazal-o-vozmozhnykh-sferakh-sotrudnichestva-s-rossiei-izi",
+        "https://iz.ru/2192303/putin-zaiavil-o-gotovnosti-rossii-pomogat-afrike-v-borbe-s-terrorizmom-izi",
+        "https://iz.ru/2192319/zelenskii-poobeshchal-ne-atakovat-suda-s-rossiiskim-dizelem-dlia-ssha-izi"
       ]
     },
     "2026-10-29": {
-      "totalChecked": 1098,
-      "totalIzi": 151,
+      "totalChecked": 1091,
+      "totalIzi": 150,
       "totalIiz": 2,
-      "totalAi": 153,
+      "totalAi": 152,
       "topLinks": [
-        "https://iz.ru/2191970/uchenye-izuchili-sluchai-fizicheskogo-nasiliia-nad-detmi-izi",
         "https://iz.ru/2192169/uchenye-sostavili-kartu-stareniia-krovenosnykh-sosudov-izi",
         "https://iz.ru/2192325/uchenye-vyiavili-sposob-umensheniia-boli-pri-artrite-izi",
         "https://iz.ru/2192341/narodnye-primety-na-29-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
@@ -231,18 +230,16 @@
         "https://iz.ru/2192586/na-territorii-cheliabinskoi-oblasti-obiavili-rezhim-bespilotnoi-opasnosti-izi",
         "https://iz.ru/2192589/odin-chelovek-pogib-i-sem-raneny-v-rezultate-ataki-vsu-na-belgorodskuiu-oblast-izi",
         "https://iz.ru/2192596/mvd-predupredilo-o-moshennicheskoi-skheme-s-otmenoi-skrytoi-podpiski-izi",
-        "https://iz.ru/2192600/bespilotniki-vsu-atakovali-permskii-krai-izi"
+        "https://iz.ru/2192600/bespilotniki-vsu-atakovali-permskii-krai-izi",
+        "https://iz.ru/2192606/avtoiurist-voropaev-otcenil-neobkhodimost-zameny-reziny-v-noiabre-izi"
       ]
     },
     "2026-10-30": {
-      "totalChecked": 1013,
-      "totalIzi": 175,
+      "totalChecked": 1007,
+      "totalIzi": 172,
       "totalIiz": 2,
-      "totalAi": 177,
+      "totalAi": 174,
       "topLinks": [
-        "https://iz.ru/2192012/uchenye-obiasnili-posledstviia-mnogochasovoi-raboty-za-kompiuterom-izi",
-        "https://iz.ru/2192065/uchenye-obiasnili-vliianie-sravneniia-sebia-s-drugimi-na-psikhiku-podrostkov-izi",
-        "https://iz.ru/2192097/kogda-ozhivaiut-koshmary-10-filmov-dlia-vechera-khellouina-izi",
         "https://iz.ru/2192136/uchenye-nazvali-effektivnye-sposoby-borby-s-boliu-v-poiasnitce-izi",
         "https://iz.ru/2192688/uchenye-otcenili-vliianie-zapreta-telefonov-v-shkolakh-na-psikhiku-podrostkov-izi",
         "https://iz.ru/2192726/uchenye-sviazali-zhizn-riadom-s-ochagom-zagriazneniia-vody-s-redkim-zabolevaniem-mozga-izi",
@@ -259,7 +256,10 @@
         "https://iz.ru/2193345/bespilotniki-vsu-atakovali-samarskuiu-oblast-izi",
         "https://iz.ru/2193346/v-gosdume-predlozhili-davat-skidki-na-zhku-za-uchastie-v-subbotnikakh-izi",
         "https://iz.ru/2193350/nochnaia-ataka-bespilotnikov-na-moskvu-stala-samoi-masshtabnoi-v-oktiabre-izi",
-        "https://iz.ru/2193356/nochnaia-massirovannaia-ataka-dronov-vsu-na-moskvu-chto-izvestno-izi"
+        "https://iz.ru/2193356/nochnaia-massirovannaia-ataka-dronov-vsu-na-moskvu-chto-izvestno-izi",
+        "https://iz.ru/2193357/v-sevastopole-zaderzhali-podozrevaemogo-v-peredache-dannykh-o-voennykh-obektakh-vsu-izi",
+        "https://iz.ru/2193359/komandovanie-vsu-otmenilo-otpuska-voennym-iz-za-poter-v-kharkovskoi-oblasti-izi",
+        "https://iz.ru/2193360/gumanitarnaia-missiia-v-aleshkakh-prokhodit-bez-narushenii-rezhima-tishiny-izi"
       ]
     },
     "2026-10-31": {
@@ -347,7 +347,7 @@
       ]
     },
     "2026-11-03": {
-      "totalChecked": 886,
+      "totalChecked": 885,
       "totalIzi": 180,
       "totalIiz": 2,
       "totalAi": 182,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-11-04": {
-      "totalChecked": 259,
-      "totalIzi": 44,
+      "totalChecked": 619,
+      "totalIzi": 88,
       "totalIiz": 3,
-      "totalAi": 47,
+      "totalAi": 91,
       "topLinks": [
         "https://iz.ru/2195426/uchenye-raskryli-mekhanizm-sviazi-kishechnoi-bakterii-s-kolorektalnym-rakom-izi",
         "https://iz.ru/2195453/narodnye-primety-na-4-noiabria-chto-mozhno-i-nelzia-delat-iiz",
