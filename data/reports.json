@@ -1,43 +1,15 @@
 {
-  "generatedAt": "2026-11-03T15:20:53.438Z",
+  "generatedAt": "2026-11-04T01:35:30.031Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 67,
-    "failedFetches": 0,
+    "fetchedUrlSets": 61,
+    "failedFetches": 6,
     "childLocs": 67,
     "visitedCount": 68
   },
   "days": {
-    "2026-10-21": {
-      "totalChecked": 539,
-      "totalIzi": 115,
-      "totalIiz": 1,
-      "totalAi": 116,
-      "topLinks": [
-        "https://iz.ru/2051762/aktery-tom-kholland-i-zendeia-sygrali-svadbu-chto-izvestno-izi",
-        "https://iz.ru/2187182/uchenye-ukazali-na-polzu-zelenykh-uchastkov-vozle-doma-so-snizheniem-riska-dementcii-izi",
-        "https://iz.ru/2187203/uchenye-ukazali-na-polzu-khodby-pri-bolezni-altcgeimera-izi",
-        "https://iz.ru/2187224/uchenye-sviazali-dostup-k-semeinomu-vrachu-s-vyzhivaemostiu-pri-rake-grudi-izi",
-        "https://iz.ru/2187230/narodnye-primety-na-21-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2187234/uchenye-obnaruzhili-sviazannye-s-priznakami-diabeta-golosovye-patterny-izi",
-        "https://iz.ru/2187308/issledovateli-podcherknuli-polzu-korotkoi-meditatcii-dlia-uverennosti-v-sebe-izi",
-        "https://iz.ru/2187385/uchenye-otmetili-vozmozhnost-izbezhat-posledstviia-stressa-posle-travmy-izi",
-        "https://iz.ru/2187631/minzdrav-vkliuchil-pervichnyi-biliarnyi-kholangit-v-perechen-orfannykh-zabolevanii-izi",
-        "https://iz.ru/2187660/tramp-zaiavil-o-nespravedlivom-obrashchenii-s-marin-le-pen-izi",
-        "https://iz.ru/2187666/axios-uznal-o-podgotovke-ssha-pochvy-dlia-trekhstoronnikh-peregovorov-po-ukraine-izi",
-        "https://iz.ru/2187667/spacex-uvelichila-kvartalnuiu-vyruchku-na-161-izi",
-        "https://iz.ru/2187669/pszh-pobedil-barselonu-matche-v-ligi-chempionov-so-schetom-42-izi",
-        "https://iz.ru/2187673/efreitor-rozhnev-spas-zhizn-ranenomu-sosluzhivtcu-pod-ognem-dronov-izi",
-        "https://iz.ru/2187674/wsj-soobshchila-o-reshenii-maska-ogranichit-dostup-ukrainy-k-starlink-izi",
-        "https://iz.ru/2187679/moshenniki-nachali-prodavat-rossiianam-poddelnye-zhd-bilety-so-skidkoi-izi",
-        "https://iz.ru/2187684/2026-10-21/vo-frantcii-okonchatelno-otmenili-zakon-o-rabotorgovle-vremen-liudovika-xiv-izi",
-        "https://iz.ru/2187685/v-minprosveshcheniia-utverdili-pravila-otcenki-povedeniia-shkolnikov-izi",
-        "https://iz.ru/2187686/v-rezultate-udarov-bpla-v-dnr-pogibla-mirnaia-zhitelnitca-izi",
-        "https://iz.ru/2187690/mask-priznalsia-v-uvlechenii-vlastiu-v-belom-dome-izi"
-      ]
-    },
     "2026-10-22": {
       "totalChecked": 547,
       "totalIzi": 119,
@@ -179,7 +151,7 @@
       ]
     },
     "2026-10-27": {
-      "totalChecked": 510,
+      "totalChecked": 485,
       "totalIzi": 62,
       "totalIiz": 1,
       "totalAi": 63,
@@ -207,19 +179,11 @@
       ]
     },
     "2026-10-28": {
-      "totalChecked": 1114,
-      "totalIzi": 147,
+      "totalChecked": 1008,
+      "totalIzi": 139,
       "totalIiz": 1,
-      "totalAi": 148,
+      "totalAi": 140,
       "topLinks": [
-        "https://iz.ru/2191768/glava-minenergo-ssha-obiasnil-tcel-dizelnoi-sdelki-s-rossiei-izi",
-        "https://iz.ru/2191771/parlamentskie-vybory-v-izraile-zavershilis-iavkoi-777-izi",
-        "https://iz.ru/2191775/arsenal-ustupil-flitvudu-i-vybyl-iz-kubka-angliiskoi-ligi-izi",
-        "https://iz.ru/2191777/ukrainskaia-kompaniia-novaia-pochta-zapustila-chastnuiu-pvo-izi",
-        "https://iz.ru/2191779/ovechkin-i-eshche-chetyre-rossiiskikh-khokkeista-popali-v-bazu-gur-ukrainy-izi",
-        "https://iz.ru/2191790/telegraph-zaiavila-o-raskole-v-es-posle-razgovora-putina-so-stubbom-i-stere-izi",
-        "https://iz.ru/2191808/moskovskii-sud-podtverdil-zakonnost-lisheniia-prav-za-peredachu-mashiny-pianomu-voditeliu-izi",
-        "https://iz.ru/2191822/liaisan-misharina-stala-pervym-zamestitelem-khudruka-mkht-imeni-chekhova-izi",
         "https://iz.ru/2191837/raskhody-ssha-na-voinu-s-iranom-prevysili-47-mlrd-izi",
         "https://iz.ru/2191838/v-ssha-zaiavili-ob-ubezhdenii-rossiei-evropy-v-bespoleznosti-konflikta-na-ukraine-izi",
         "https://iz.ru/2191839/riabkov-otmetil-otsutstvie-politicheskikh-uslovii-v-pomoshchi-afrike-so-storony-rossii-izi",
@@ -231,7 +195,15 @@
         "https://iz.ru/2191903/v-samare-zaderzhali-ostavivshuiu-mladentca-na-pomoike-zhenshchinu-izi",
         "https://iz.ru/2191916/sovet-federatcii-ratifitciroval-soglashenie-o-sotrudnichestve-rossii-s-burkina-faso-izi",
         "https://iz.ru/2191920/lainer-villa-vie-odyssey-prerval-krugosvetku-iz-za-rosta-tcen-na-toplivo-izi",
-        "https://iz.ru/2191922/astronomy-obnaruzhili-dva-koltca-oblomkov-planet-u-mertvoi-zvezdy-izi"
+        "https://iz.ru/2191922/astronomy-obnaruzhili-dva-koltca-oblomkov-planet-u-mertvoi-zvezdy-izi",
+        "https://iz.ru/2191926/sredstva-pvo-sbili-dve-rakety-bolshoi-dalnosti-i-617-bpla-za-sutki-izi",
+        "https://iz.ru/2191934/zhitel-cheliabinska-ubil-suprugu-i-rebenka-posle-ssory-izi",
+        "https://iz.ru/2191935/likhachev-nazval-kandidatury-grossi-i-orbana-na-post-genseka-oon-privlekatelnymi-izi",
+        "https://iz.ru/2191944/uchenye-izuchili-mikrochastitcy-v-paketirovannom-chae-izi",
+        "https://iz.ru/2191947/karta-spetcoperatcii-na-ukraine-28-oktiabria-izi",
+        "https://iz.ru/2191953/v-rossii-opredelili-strategicheskie-obekty-dlia-zashchity-ot-atak-ukrainy-izi",
+        "https://iz.ru/2191956/zelenskii-obespokoilsia-vozmozhnym-ekonomicheskim-brakom-rossii-i-ssha-izi",
+        "https://iz.ru/2191962/ne-menee-46-chelovek-pogibli-pri-stolknovenii-poezdov-v-ispanii-chto-izvestno-izi"
       ]
     },
     "2026-10-29": {
@@ -375,10 +347,10 @@
       ]
     },
     "2026-11-03": {
-      "totalChecked": 668,
-      "totalIzi": 152,
+      "totalChecked": 886,
+      "totalIzi": 180,
       "totalIiz": 2,
-      "totalAi": 154,
+      "totalAi": 182,
       "topLinks": [
         "https://iz.ru/2194793/narodnye-primety-na-3-noiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2194797/uchenye-ukazali-na-opasnost-ekstremalnykh-temperatur-pri-khronicheskikh-bolezniakh-izi",
@@ -400,6 +372,34 @@
         "https://iz.ru/2195402/administratora-telegram-kanala-v-zabaikale-osudili-na-deviat-let-za-natcizm-izi",
         "https://iz.ru/2195405/v-sevastopole-ogranichili-podachu-elektroenergii-posle-atak-vsu-izi",
         "https://iz.ru/2195408/klishas-nazval-chastnuiu-tiurmu-pod-kievom-itogom-evropeiskogo-vybora-ukrainy-izi"
+      ]
+    },
+    "2026-11-04": {
+      "totalChecked": 130,
+      "totalIzi": 17,
+      "totalIiz": 3,
+      "totalAi": 20,
+      "topLinks": [
+        "https://iz.ru/2195453/narodnye-primety-na-4-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2195922/galatasarai-obygral-shtutgart-v-lch-blagodaria-dubliu-batrakova-izi",
+        "https://iz.ru/2195927/osushchestvivshie-ataku-na-binance-khakery-gotovilis-s-iiunia-2026-goda-izi",
+        "https://iz.ru/2195932/v-britanii-nazvali-polshu-bananovoi-respublikoi-iz-za-spora-po-ks-izi",
+        "https://iz.ru/2195938/v-norvegii-udivilis-resheniiu-sbornoi-strany-otkazatsia-ot-igr-s-uchastiem-rossii-izi",
+        "https://iz.ru/2195948/wsj-soobshchila-o-novom-plane-nato-s-udarami-vglub-rossii-izi",
+        "https://iz.ru/2195955/samye-vysokie-pensii-v-sentiabre-2026-goda-zafiksirovali-na-chukotke-izi",
+        "https://iz.ru/2195960/v-op-predlozhili-osnastit-detskimi-kreslami-polovinu-karsheringa-izi",
+        "https://iz.ru/2195962/v-mid-rf-podtverdili-aktualnost-predlozheniia-o-perenose-shtab-kvartiry-oon-v-sochi-izi",
+        "https://iz.ru/2186536/50-otkrytki-s-dnem-narodnogo-edinstva-krasivye-kartinki-gifki-i-pozdravleniia-iiz",
+        "https://iz.ru/2195453/narodnye-primety-na-4-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2195922/galatasarai-obygral-shtutgart-v-lch-blagodaria-dubliu-batrakova-izi",
+        "https://iz.ru/2195927/osushchestvivshie-ataku-na-binance-khakery-gotovilis-s-iiunia-2026-goda-izi",
+        "https://iz.ru/2195932/v-britanii-nazvali-polshu-bananovoi-respublikoi-iz-za-spora-po-ks-izi",
+        "https://iz.ru/2195938/v-norvegii-udivilis-resheniiu-sbornoi-strany-otkazatsia-ot-igr-s-uchastiem-rossii-izi",
+        "https://iz.ru/2195948/wsj-soobshchila-o-novom-plane-nato-s-udarami-vglub-rossii-izi",
+        "https://iz.ru/2195955/samye-vysokie-pensii-v-sentiabre-2026-goda-zafiksirovali-na-chukotke-izi",
+        "https://iz.ru/2195960/v-op-predlozhili-osnastit-detskimi-kreslami-polovinu-karsheringa-izi",
+        "https://iz.ru/2195962/v-mid-rf-podtverdili-aktualnost-predlozheniia-o-perenose-shtab-kvartiry-oon-v-sochi-izi",
+        "https://iz.ru/2195971/nyt-uznala-ob-obsuzhdenii-venesueloi-i-ssha-voennogo-soglasheniia-izi"
       ]
     }
   }
