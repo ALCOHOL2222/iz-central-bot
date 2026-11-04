@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T01:35:30.031Z",
+  "generatedAt": "2026-11-04T09:30:02.834Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
     "fetchedIndexes": 1,
-    "fetchedUrlSets": 61,
-    "failedFetches": 6,
+    "fetchedUrlSets": 67,
+    "failedFetches": 0,
     "childLocs": 67,
     "visitedCount": 68
   },
@@ -179,20 +179,11 @@
       ]
     },
     "2026-10-28": {
-      "totalChecked": 1008,
-      "totalIzi": 139,
+      "totalChecked": 940,
+      "totalIzi": 130,
       "totalIiz": 1,
-      "totalAi": 140,
+      "totalAi": 131,
       "topLinks": [
-        "https://iz.ru/2191837/raskhody-ssha-na-voinu-s-iranom-prevysili-47-mlrd-izi",
-        "https://iz.ru/2191838/v-ssha-zaiavili-ob-ubezhdenii-rossiei-evropy-v-bespoleznosti-konflikta-na-ukraine-izi",
-        "https://iz.ru/2191839/riabkov-otmetil-otsutstvie-politicheskikh-uslovii-v-pomoshchi-afrike-so-storony-rossii-izi",
-        "https://iz.ru/2191845/tokaev-prizval-nachat-stroitelstvo-aes-balkhash-uzhe-v-2027-godu-izi",
-        "https://iz.ru/2191862/ubiitcy-kriptobiznesmena-novaka-v-oae-planirovali-prestuplenie-pochti-polgoda-izi",
-        "https://iz.ru/2191878/fon-der-liaien-ne-otvetila-prokurature-es-po-delu-o-vaktcinakh-pfizer-izi",
-        "https://iz.ru/2191890/murashko-zaiavil-o-snizhenii-letalnosti-v-klinikakh-do-40-blagodaria-ii-izi",
-        "https://iz.ru/2191896/armeniia-nachala-postavki-fruktov-i-iagod-v-oman-izi",
-        "https://iz.ru/2191903/v-samare-zaderzhali-ostavivshuiu-mladentca-na-pomoike-zhenshchinu-izi",
         "https://iz.ru/2191916/sovet-federatcii-ratifitciroval-soglashenie-o-sotrudnichestve-rossii-s-burkina-faso-izi",
         "https://iz.ru/2191920/lainer-villa-vie-odyssey-prerval-krugosvetku-iz-za-rosta-tcen-na-toplivo-izi",
         "https://iz.ru/2191922/astronomy-obnaruzhili-dva-koltca-oblomkov-planet-u-mertvoi-zvezdy-izi",
@@ -203,16 +194,24 @@
         "https://iz.ru/2191947/karta-spetcoperatcii-na-ukraine-28-oktiabria-izi",
         "https://iz.ru/2191953/v-rossii-opredelili-strategicheskie-obekty-dlia-zashchity-ot-atak-ukrainy-izi",
         "https://iz.ru/2191956/zelenskii-obespokoilsia-vozmozhnym-ekonomicheskim-brakom-rossii-i-ssha-izi",
-        "https://iz.ru/2191962/ne-menee-46-chelovek-pogibli-pri-stolknovenii-poezdov-v-ispanii-chto-izvestno-izi"
+        "https://iz.ru/2191962/ne-menee-46-chelovek-pogibli-pri-stolknovenii-poezdov-v-ispanii-chto-izvestno-izi",
+        "https://iz.ru/2191963/ministr-kozlov-prizval-k-spravedlivoi-razrabotke-resursov-afriki-izi",
+        "https://iz.ru/2191966/na-ukraine-uznali-o-strakhe-zelenskogo-pered-vstrechei-liderov-rf-ssha-i-kitaia-izi",
+        "https://iz.ru/2191974/belyi-medved-napal-na-dorozhnogo-rabochego-na-bukhte-sever-na-taimyre-izi",
+        "https://iz.ru/2191981/posol-serra-leone-predlozhil-rossiianam-vyrashchivat-kofe-i-kakao-v-afrike-izi",
+        "https://iz.ru/2191982/v-iakutii-podrostka-prigovorili-k-piati-godam-za-ubiistvo-rovesnika-molotkom-izi",
+        "https://iz.ru/2191985/razvedka-ssha-podtverdila-sushchestvovanie-kitaiskogo-kosmoplana-po-snimku-maxar-izi",
+        "https://iz.ru/2191993/real-madrid-prines-izvineniia-kitaiskomu-narodu-za-vyskazyvaniia-mbappe-izi",
+        "https://iz.ru/2192001/prikliucheniia-mamontenka-v-poiskakh-mamy-pokazhut-v-turtcii-izi",
+        "https://iz.ru/2192011/kondrashov-otmetil-privychku-zapada-govorit-ob-afrike-svysoka-izi"
       ]
     },
     "2026-10-29": {
-      "totalChecked": 1100,
-      "totalIzi": 152,
+      "totalChecked": 1098,
+      "totalIzi": 151,
       "totalIiz": 2,
-      "totalAi": 154,
+      "totalAi": 153,
       "topLinks": [
-        "https://iz.ru/2191894/uchenye-sviazali-aktivnye-igry-na-ulitce-so-zdorovem-detei-izi",
         "https://iz.ru/2191970/uchenye-izuchili-sluchai-fizicheskogo-nasiliia-nad-detmi-izi",
         "https://iz.ru/2192169/uchenye-sostavili-kartu-stareniia-krovenosnykh-sosudov-izi",
         "https://iz.ru/2192325/uchenye-vyiavili-sposob-umensheniia-boli-pri-artrite-izi",
@@ -231,11 +230,12 @@
         "https://iz.ru/2192585/armiia-rossii-porazila-sudno-s-gruzom-dlia-vsu-v-chernom-more-izi",
         "https://iz.ru/2192586/na-territorii-cheliabinskoi-oblasti-obiavili-rezhim-bespilotnoi-opasnosti-izi",
         "https://iz.ru/2192589/odin-chelovek-pogib-i-sem-raneny-v-rezultate-ataki-vsu-na-belgorodskuiu-oblast-izi",
-        "https://iz.ru/2192596/mvd-predupredilo-o-moshennicheskoi-skheme-s-otmenoi-skrytoi-podpiski-izi"
+        "https://iz.ru/2192596/mvd-predupredilo-o-moshennicheskoi-skheme-s-otmenoi-skrytoi-podpiski-izi",
+        "https://iz.ru/2192600/bespilotniki-vsu-atakovali-permskii-krai-izi"
       ]
     },
     "2026-10-30": {
-      "totalChecked": 1015,
+      "totalChecked": 1013,
       "totalIzi": 175,
       "totalIiz": 2,
       "totalAi": 177,
@@ -263,7 +263,7 @@
       ]
     },
     "2026-10-31": {
-      "totalChecked": 512,
+      "totalChecked": 509,
       "totalIzi": 96,
       "totalIiz": 2,
       "totalAi": 98,
@@ -375,12 +375,17 @@
       ]
     },
     "2026-11-04": {
-      "totalChecked": 130,
-      "totalIzi": 17,
+      "totalChecked": 259,
+      "totalIzi": 44,
       "totalIiz": 3,
-      "totalAi": 20,
+      "totalAi": 47,
       "topLinks": [
+        "https://iz.ru/2195426/uchenye-raskryli-mekhanizm-sviazi-kishechnoi-bakterii-s-kolorektalnym-rakom-izi",
         "https://iz.ru/2195453/narodnye-primety-na-4-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2195458/uchenye-vyiavili-sposobnost-mozga-vystraivat-kartu-chelovecheskikh-emotcii-izi",
+        "https://iz.ru/2195558/uchenye-sviazali-ekstremalnuiu-zharu-s-psikhicheskim-zdorovem-izi",
+        "https://iz.ru/2195570/uchenye-izuchili-vliianie-gormonalnoi-terapii-na-zdorove-serdtca-zhenshchin-izi",
+        "https://iz.ru/2195719/uchenye-uznali-o-vliianii-lishnego-vesa-na-protcess-stareniia-mozga-izi",
         "https://iz.ru/2195922/galatasarai-obygral-shtutgart-v-lch-blagodaria-dubliu-batrakova-izi",
         "https://iz.ru/2195927/osushchestvivshie-ataku-na-binance-khakery-gotovilis-s-iiunia-2026-goda-izi",
         "https://iz.ru/2195932/v-britanii-nazvali-polshu-bananovoi-respublikoi-iz-za-spora-po-ks-izi",
@@ -389,17 +394,12 @@
         "https://iz.ru/2195955/samye-vysokie-pensii-v-sentiabre-2026-goda-zafiksirovali-na-chukotke-izi",
         "https://iz.ru/2195960/v-op-predlozhili-osnastit-detskimi-kreslami-polovinu-karsheringa-izi",
         "https://iz.ru/2195962/v-mid-rf-podtverdili-aktualnost-predlozheniia-o-perenose-shtab-kvartiry-oon-v-sochi-izi",
-        "https://iz.ru/2186536/50-otkrytki-s-dnem-narodnogo-edinstva-krasivye-kartinki-gifki-i-pozdravleniia-iiz",
-        "https://iz.ru/2195453/narodnye-primety-na-4-noiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2195922/galatasarai-obygral-shtutgart-v-lch-blagodaria-dubliu-batrakova-izi",
-        "https://iz.ru/2195927/osushchestvivshie-ataku-na-binance-khakery-gotovilis-s-iiunia-2026-goda-izi",
-        "https://iz.ru/2195932/v-britanii-nazvali-polshu-bananovoi-respublikoi-iz-za-spora-po-ks-izi",
-        "https://iz.ru/2195938/v-norvegii-udivilis-resheniiu-sbornoi-strany-otkazatsia-ot-igr-s-uchastiem-rossii-izi",
-        "https://iz.ru/2195948/wsj-soobshchila-o-novom-plane-nato-s-udarami-vglub-rossii-izi",
-        "https://iz.ru/2195955/samye-vysokie-pensii-v-sentiabre-2026-goda-zafiksirovali-na-chukotke-izi",
-        "https://iz.ru/2195960/v-op-predlozhili-osnastit-detskimi-kreslami-polovinu-karsheringa-izi",
-        "https://iz.ru/2195962/v-mid-rf-podtverdili-aktualnost-predlozheniia-o-perenose-shtab-kvartiry-oon-v-sochi-izi",
-        "https://iz.ru/2195971/nyt-uznala-ob-obsuzhdenii-venesueloi-i-ssha-voennogo-soglasheniia-izi"
+        "https://iz.ru/2195964/v-mid-zaiavili-o-narushenii-mezhdunarodnykh-prav-pri-peremeshchenii-aktivov-iz-euroclear-izi",
+        "https://iz.ru/2195971/nyt-uznala-ob-obsuzhdenii-venesueloi-i-ssha-voennogo-soglasheniia-izi",
+        "https://iz.ru/2195981/sud-moskvy-zaochno-arestoval-general-leitenanta-vsu-bargilevicha-izi",
+        "https://iz.ru/2196010/nazvan-reiting-samykh-vysokooplachivaemykh-professii-moskvy-izi",
+        "https://iz.ru/2196011/vashington-proigral-dallasu-v-matche-nkhl-izi",
+        "https://iz.ru/2196016/mosgorsud-rassmotrit-zhalobu-na-prigovor-lerchek-v-zakrytom-rezhime-izi"
       ]
     }
   }
