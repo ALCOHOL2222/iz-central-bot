@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:05:57.035Z",
+  "generatedAt": "2026-11-06T18:08:16.514Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,18 +151,11 @@
       ]
     },
     "2026-10-29": {
-      "totalChecked": 663,
-      "totalIzi": 84,
+      "totalChecked": 554,
+      "totalIzi": 77,
       "totalIiz": 1,
-      "totalAi": 85,
+      "totalAi": 78,
       "topLinks": [
-        "https://iz.ru/2193021/lantratova-soobshchila-o-pribytii-ombudsmena-ukrainy-v-belorussiiu-izi",
-        "https://iz.ru/2193041/semi-pogibshikh-pri-raketnoi-atake-na-orel-poluchat-bolee-15-mln-rublei-izi",
-        "https://iz.ru/2193087/psikholog-dala-prostye-sovety-po-borbe-s-osennei-ustalostiu-izi",
-        "https://iz.ru/2193089/ekaterinburgskii-avtomobilist-obygral-torpedo-v-matche-chempionata-kkhl-izi",
-        "https://iz.ru/2193093/magnitogorskii-metallurg-ustupil-sibiri-v-matche-reguliarnogo-chempionata-kkhl-izi",
-        "https://iz.ru/2193095/chto-proizoshlo-za-den-29-oktiabria-glavnoe-izi",
-        "https://iz.ru/2193136/gosduma-priniala-v-i-chtenii-popravki-v-nalogovyi-kodeks-v-ramkakh-biudzheta-izi",
         "https://iz.ru/2191377/uchenye-rasskazali-o-vozmozhnoi-zashchite-mozga-ot-bolezni-altcgeimera-izi",
         "https://iz.ru/2191408/uchenye-rasskazali-o-vliianii-trenirovok-na-nervnuiu-sistemu-serdtca-izi",
         "https://iz.ru/2191894/uchenye-sviazali-aktivnye-igry-na-ulitce-so-zdorovem-detei-izi",
@@ -175,20 +168,22 @@
         "https://iz.ru/2192549/oklady-rabotnikov-federalnykh-vedomstv-s-2027-goda-vyrastut-vdvoe-izi",
         "https://iz.ru/2192559/bloomberg-uvidelo-v-sammite-rossiia-afrika-poslanie-putina-zapadu-izi",
         "https://iz.ru/2192573/pentagon-otklonil-zapros-o-proverke-starlink-na-ukraine-izi",
-        "https://iz.ru/2192575/s-artura-smolianinova-ne-smogli-vzyskat-dolgi-po-kreditu-izi"
+        "https://iz.ru/2192575/s-artura-smolianinova-ne-smogli-vzyskat-dolgi-po-kreditu-izi",
+        "https://iz.ru/2192576/v-mid-rossii-otcenili-posledstviia-uzhestocheniia-vizovogo-rezhima-dlia-rossiian-izi",
+        "https://iz.ru/2192577/khegset-uvolil-glavnogo-voennogo-planirovshchika-pentagona-izi",
+        "https://iz.ru/2192581/google-vyplatila-v-rossii-bolee-168-mlrd-rublei-shtrafov-izi",
+        "https://iz.ru/2192582/sily-pvo-sbili-170-bpla-za-noch-nad-kaluzhskoi-oblastiu-izi",
+        "https://iz.ru/2192584/britanskii-analitik-ukazal-na-paniku-vlastei-ukrainy-posle-udarov-vs-rf-po-kievu-izi",
+        "https://iz.ru/2192585/armiia-rossii-porazila-sudno-s-gruzom-dlia-vsu-v-chernom-more-izi",
+        "https://iz.ru/2192586/na-territorii-cheliabinskoi-oblasti-obiavili-rezhim-bespilotnoi-opasnosti-izi"
       ]
     },
     "2026-10-30": {
-      "totalChecked": 978,
-      "totalIzi": 168,
+      "totalChecked": 899,
+      "totalIzi": 163,
       "totalIiz": 1,
-      "totalAi": 169,
+      "totalAi": 164,
       "topLinks": [
-        "https://iz.ru/2193287/v-roskosmose-oprovergli-konservatciiu-rossiiskogo-modulia-zvezda-na-mks-izi",
-        "https://iz.ru/2193288/zarplaty-vyshe-200-tys-rublei-poluchili-rabotniki-chetyrekh-otraslei-izi",
-        "https://iz.ru/2193296/patrushev-predupredil-o-vozmozhnykh-diversiiakh-protiv-tankerov-s-rossiiskim-dizelem-izi",
-        "https://iz.ru/2193301/kallas-otkazalas-ukhodit-s-diskussii-posle-nameka-moderatora-izi",
-        "https://iz.ru/2193311/general-silviia-priznalsia-v-utechke-sekretnykh-dannykh-ob-ukraine-i-irane-izi",
         "https://iz.ru/2193329/rossiianam-obiasnili-usloviia-polucheniia-srochnoi-pensionnoi-vyplaty-izi",
         "https://iz.ru/2193334/professor-nazvala-prichiny-smeny-familii-rossiiankami-v-ssha-izi",
         "https://iz.ru/2193343/pulkovo-prinial-27-napravliavshikhsia-v-moskvu-reisov-v-kachestve-zapasnogo-aerodroma-izi",
@@ -203,11 +198,16 @@
         "https://iz.ru/2193370/vs-rf-porazili-predpriiatie-po-bespilotnikam-fanplit-v-kieve-izi",
         "https://iz.ru/2193375/sily-pvo-za-noch-sbili-1043-ukrainskikh-bpla-nad-regionami-rossii-izi",
         "https://iz.ru/2193378/bespilotniki-vsu-atakovali-grazhdanskuiu-infrastrukturu-v-samarskoi-oblasti-izi",
-        "https://iz.ru/2193379/fns-aprobiruet-sistemnyi-kontrol-za-sokrytiem-dokhodov-samozaniatymi-izi"
+        "https://iz.ru/2193379/fns-aprobiruet-sistemnyi-kontrol-za-sokrytiem-dokhodov-samozaniatymi-izi",
+        "https://iz.ru/2193380/fnpr-otpravila-pervyi-gruzovik-gumanitarnoi-pomoshchi-zhiteliam-aleshek-izi",
+        "https://iz.ru/2193385/moshenniki-nachali-vorovat-dengi-rossiian-pod-predlogom-podarkov-ot-marketpleisov-izi",
+        "https://iz.ru/2193386/modernizatciiu-atomnogo-kreisera-petr-velikii-priznali-netcelesoobraznoi-izi",
+        "https://iz.ru/2193388/es-zakupil-rossiiskoe-file-mintaia-na-rekordnye-pochti-164-mln-za-leto-izi",
+        "https://iz.ru/2193389/zhurnalist-bouz-ukazal-na-vazhnost-zaiavleniia-putina-o-gotovnosti-k-voine-izi"
       ]
     },
     "2026-10-31": {
-      "totalChecked": 497,
+      "totalChecked": 496,
       "totalIzi": 94,
       "totalIiz": 2,
       "totalAi": 96,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-11-06": {
-      "totalChecked": 434,
-      "totalIzi": 68,
+      "totalChecked": 728,
+      "totalIzi": 117,
       "totalIiz": 2,
-      "totalAi": 70,
+      "totalAi": 119,
       "topLinks": [
         "https://iz.ru/2196528/uchenye-rasskazali-o-nizkom-urovne-psikhologicheskogo-blagopoluchiia-molodezhi-izi",
         "https://iz.ru/2196541/uchenye-predupredili-o-roste-chisla-sluchaev-insulta-u-podrostkov-izi",
