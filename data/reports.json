@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:12:38.817Z",
+  "generatedAt": "2026-11-06T02:39:34.532Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,23 +151,11 @@
       ]
     },
     "2026-10-29": {
-      "totalChecked": 803,
-      "totalIzi": 107,
+      "totalChecked": 760,
+      "totalIzi": 95,
       "totalIiz": 1,
-      "totalAi": 108,
+      "totalAi": 96,
       "topLinks": [
-        "https://iz.ru/2192806/lantratova-raskryla-podrobnosti-podgotovki-gumanitarnoi-operatcii-v-aleshkakh-izi",
-        "https://iz.ru/2192810/astronomy-obnaruzhili-vozmozhnuiu-novuiu-karlikovuiu-planetu-za-plutonom-izi",
-        "https://iz.ru/2192811/advokat-rasskazala-o-sostoianii-fedoseevoi-shukshinoi-izi",
-        "https://iz.ru/2192820/lukashenko-zaiavil-o-gotovnosti-belorussii-podderzhivat-bratskie-narody-izi",
-        "https://iz.ru/2192821/zhitel-konstantinovki-tri-mesiatca-chislilsia-pogibshim-izi",
-        "https://iz.ru/2192828/claude-nachal-trebovat-podtverzhdenie-lichnosti-u-polzovatelei-iz-rossii-izi",
-        "https://iz.ru/2192830/uchenye-prizvali-priznat-izmenenie-klimata-ugrozoi-zdoroviu-liudei-izi",
-        "https://iz.ru/2192833/pentagon-pytaetsia-razgadat-tainu-vzlomannykh-na-voennykh-bazakh-morozilok-izi",
-        "https://iz.ru/2192835/katastrofa-poezdov-v-ispanii-stala-samoi-smertonosnoi-v-es-za-13-let-izi",
-        "https://iz.ru/2192836/zakharova-obvinila-administratciiu-obamy-v-predatelstve-ukraintcev-izi",
-        "https://iz.ru/2192839/v-sovfede-predlozhili-vyrashchivat-v-rossii-gorkii-khmel-dlia-piva-izi",
-        "https://iz.ru/2192842/glava-minfina-soobshchil-o-dvoinoi-indeksatcii-strakhovykh-pensii-v-sleduiushchem-godu-izi",
         "https://iz.ru/2192863/italiantca-zapodozrili-v-ubiistve-dvoiurodnogo-brata-ponchikom-s-kremom-izi",
         "https://iz.ru/2192880/v-rossii-nachnut-vkliuchat-privivku-ot-vpch-v-natckalendar-v-2027-godu-izi",
         "https://iz.ru/2192885/siluanov-zaiavil-o-prorabotke-postupivshikh-predlozhenii-po-federalnomu-biudzhetu-izi",
@@ -175,11 +163,23 @@
         "https://iz.ru/2192909/prolezhavshuiu-polveka-vo-ldakh-bochku-piva-obnaruzhili-v-italii-izi",
         "https://iz.ru/2192930/uchenye-raskryli-mekhanizm-rosta-agressivnoi-opukholi-mozga-izi",
         "https://iz.ru/2192942/muzhchina-pogib-v-energodare-v-rezultate-ataki-bespilotnika-izi",
-        "https://iz.ru/2192967/bloger-trubenkova-rasskazala-o-finansovom-konflikte-s-byvshim-muzhem-posle-razvoda-izi"
+        "https://iz.ru/2192967/bloger-trubenkova-rasskazala-o-finansovom-konflikte-s-byvshim-muzhem-posle-razvoda-izi",
+        "https://iz.ru/2192972/byvshii-futbolist-sbornoi-frantcii-tangi-ndombele-pereidet-v-rubin-izi",
+        "https://iz.ru/2192990/gibel-devochki-iz-za-shkafa-i-okhotnika-ot-medvedia-glavnye-proisshestviia-29-oktiabria-izi",
+        "https://iz.ru/2192997/minimum-11-chelovek-postradali-v-dtp-s-marshrutkoi-i-gruzovikom-na-stavropole-izi",
+        "https://iz.ru/2193021/lantratova-soobshchila-o-pribytii-ombudsmena-ukrainy-v-belorussiiu-izi",
+        "https://iz.ru/2193041/semi-pogibshikh-pri-raketnoi-atake-na-orel-poluchat-bolee-15-mln-rublei-izi",
+        "https://iz.ru/2193087/psikholog-dala-prostye-sovety-po-borbe-s-osennei-ustalostiu-izi",
+        "https://iz.ru/2193089/ekaterinburgskii-avtomobilist-obygral-torpedo-v-matche-chempionata-kkhl-izi",
+        "https://iz.ru/2193093/magnitogorskii-metallurg-ustupil-sibiri-v-matche-reguliarnogo-chempionata-kkhl-izi",
+        "https://iz.ru/2193095/chto-proizoshlo-za-den-29-oktiabria-glavnoe-izi",
+        "https://iz.ru/2193136/gosduma-priniala-v-i-chtenii-popravki-v-nalogovyi-kodeks-v-ramkakh-biudzheta-izi",
+        "https://iz.ru/2191377/uchenye-rasskazali-o-vozmozhnoi-zashchite-mozga-ot-bolezni-altcgeimera-izi",
+        "https://iz.ru/2191408/uchenye-rasskazali-o-vliianii-trenirovok-na-nervnuiu-sistemu-serdtca-izi"
       ]
     },
     "2026-10-30": {
-      "totalChecked": 999,
+      "totalChecked": 995,
       "totalIzi": 168,
       "totalIiz": 2,
       "totalAi": 170,
@@ -375,15 +375,28 @@
       ]
     },
     "2026-11-06": {
-      "totalChecked": 84,
-      "totalIzi": 2,
+      "totalChecked": 175,
+      "totalIzi": 15,
       "totalIiz": 2,
-      "totalAi": 4,
+      "totalAi": 17,
       "topLinks": [
+        "https://iz.ru/2196528/uchenye-rasskazali-o-nizkom-urovne-psikhologicheskogo-blagopoluchiia-molodezhi-izi",
+        "https://iz.ru/2196541/uchenye-predupredili-o-roste-chisla-sluchaev-insulta-u-podrostkov-izi",
+        "https://iz.ru/2196598/uchenye-rasskazali-o-sviazi-narushenii-pamiati-s-riskom-dementcii-izi",
         "https://iz.ru/2196662/narodnye-primety-na-6-noiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2197005/smi-soobshchili-o-vozmozhnom-ukhode-rubio-s-posta-radi-uchastiia-v-vyborakh-prezidenta-izi",
+        "https://iz.ru/2197007/pellegrini-zaiavil-ob-izmotannosti-evropy-ukrainskim-konfliktom-izi",
+        "https://iz.ru/2197046/klichko-posovetoval-kievlianam-gotovitsia-k-tiazheloi-zime-izi",
+        "https://iz.ru/2197055/kurbatov-zaiavil-o-vozmozhnostiakh-iihf-meniat-format-chm-posle-vozvrashcheniia-rossii-izi",
+        "https://iz.ru/2196528/uchenye-rasskazali-o-nizkom-urovne-psikhologicheskogo-blagopoluchiia-molodezhi-izi",
+        "https://iz.ru/2196541/uchenye-predupredili-o-roste-chisla-sluchaev-insulta-u-podrostkov-izi",
+        "https://iz.ru/2196549/uchenye-uznali-o-sviazi-upotrebleniia-sladkikh-produktov-s-riskom-raka-grudi-izi",
+        "https://iz.ru/2196598/uchenye-rasskazali-o-sviazi-narushenii-pamiati-s-riskom-dementcii-izi",
         "https://iz.ru/2196662/narodnye-primety-na-6-noiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2197005/smi-soobshchili-o-vozmozhnom-ukhode-rubio-s-posta-radi-uchastiia-v-vyborakh-prezidenta-izi"
+        "https://iz.ru/2197005/smi-soobshchili-o-vozmozhnom-ukhode-rubio-s-posta-radi-uchastiia-v-vyborakh-prezidenta-izi",
+        "https://iz.ru/2197007/pellegrini-zaiavil-ob-izmotannosti-evropy-ukrainskim-konfliktom-izi",
+        "https://iz.ru/2197046/klichko-posovetoval-kievlianam-gotovitsia-k-tiazheloi-zime-izi",
+        "https://iz.ru/2197055/kurbatov-zaiavil-o-vozmozhnostiakh-iihf-meniat-format-chm-posle-vozvrashcheniia-rossii-izi"
       ]
     }
   }
