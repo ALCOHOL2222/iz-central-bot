@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:08:16.514Z",
+  "generatedAt": "2026-11-06T23:20:35.826Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 68
   },
   "days": {
-    "2026-10-24": {
-      "totalChecked": 285,
-      "totalIzi": 75,
-      "totalIiz": 1,
-      "totalAi": 76,
-      "topLinks": [
-        "https://iz.ru/2188636/issledovateli-rasskazali-o-vrede-ispolzovaniia-telefona-pered-snom-izi",
-        "https://iz.ru/2188680/ledianye-vanny-posle-trenirovok-pomogaet-li-kholod-pri-vosstanovlenii-myshtc-izi",
-        "https://iz.ru/2188707/issledovateli-sviazali-kachestvo-pitaniia-s-chastotoi-simptomov-depressii-u-pozhilykh-izi",
-        "https://iz.ru/2188839/trenirovki-perestali-prinosit-rezultat-eksperty-uznali-kak-preodolet-plato-izi",
-        "https://iz.ru/2189265/narodnye-primety-na-24-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2189768/starshii-leitenant-nasurdinov-spas-artilleristov-ot-udara-bpla-tcenoi-raneniia-izi",
-        "https://iz.ru/2189780/minobrnauki-predlozhilo-izmenit-poriadok-priema-na-platnoe-obuchenie-izi",
-        "https://iz.ru/2189790/tramp-sprognoziroval-rezkoe-padenie-tcen-na-neft-izi",
-        "https://iz.ru/2189800/provedenie-intervideniia-v-saudovskoi-aravii-predlozhili-perenesti-na-2027-god-izi",
-        "https://iz.ru/2189801/openai-usilila-izoliatciiu-ii-modelei-posle-vyiavlennykh-uiazvimostei-izi",
-        "https://iz.ru/2189806/v-ran-oprovergli-ugrozu-novoi-pandemii-covid-19-iz-za-shtamma-stratus-izi",
-        "https://iz.ru/2189807/na-ukraine-ukazali-na-padenie-rozhdaemosti-na-17-izi",
-        "https://iz.ru/2189813/v-bavarii-zagorelsia-chainyi-domik-gitlera-kelshtainkhaus-izi",
-        "https://iz.ru/2189818/sbornaia-rossii-do-15-let-vystupit-na-turnire-fifa-vpervye-s-2022-goda-izi",
-        "https://iz.ru/2189819/v-britanii-prizvali-ukrainu-priniat-trebovaniia-rf-dlia-zaversheniia-konflikta-izi",
-        "https://iz.ru/2189828/repkin-nazval-nevozmozhnoi-denuklearizatciiu-kndr-iz-za-deistvii-ssha-izi",
-        "https://iz.ru/2189835/mvd-predupredilo-o-moshennicheskikh-skhemakh-pri-oformlenii-zagranpasportov-izi",
-        "https://iz.ru/2189837/rospotrebnadzor-predupredil-o-riske-paralicha-pri-poliomielite-izi",
-        "https://iz.ru/2189850/v-mvd-rasskazali-o-sposobe-proverit-pasport-na-deistvitelnost-izi",
-        "https://iz.ru/2189855/minprosveshcheniia-opredelilo-daty-shkolnykh-kanikul-na-uchebnyi-god-izi"
-      ]
-    },
     "2026-10-25": {
       "totalChecked": 289,
       "totalIzi": 64,
@@ -179,31 +151,31 @@
       ]
     },
     "2026-10-30": {
-      "totalChecked": 899,
-      "totalIzi": 163,
+      "totalChecked": 837,
+      "totalIzi": 146,
       "totalIiz": 1,
-      "totalAi": 164,
+      "totalAi": 147,
       "topLinks": [
-        "https://iz.ru/2193329/rossiianam-obiasnili-usloviia-polucheniia-srochnoi-pensionnoi-vyplaty-izi",
-        "https://iz.ru/2193334/professor-nazvala-prichiny-smeny-familii-rossiiankami-v-ssha-izi",
-        "https://iz.ru/2193343/pulkovo-prinial-27-napravliavshikhsia-v-moskvu-reisov-v-kachestve-zapasnogo-aerodroma-izi",
-        "https://iz.ru/2193345/bespilotniki-vsu-atakovali-samarskuiu-oblast-izi",
-        "https://iz.ru/2193346/v-gosdume-predlozhili-davat-skidki-na-zhku-za-uchastie-v-subbotnikakh-izi",
-        "https://iz.ru/2193350/nochnaia-ataka-bespilotnikov-na-moskvu-stala-samoi-masshtabnoi-v-oktiabre-izi",
-        "https://iz.ru/2193356/nochnaia-massirovannaia-ataka-dronov-vsu-na-moskvu-chto-izvestno-izi",
-        "https://iz.ru/2193357/v-sevastopole-zaderzhali-podozrevaemogo-v-peredache-dannykh-o-voennykh-obektakh-vsu-izi",
-        "https://iz.ru/2193359/komandovanie-vsu-otmenilo-otpuska-voennym-iz-za-poter-v-kharkovskoi-oblasti-izi",
-        "https://iz.ru/2193360/gumanitarnaia-missiia-v-aleshkakh-prokhodit-bez-narushenii-rezhima-tishiny-izi",
-        "https://iz.ru/2193365/odin-chelovek-pogib-i-10-raneny-za-sutki-iz-za-atak-vsu-v-belgorodskoi-oblasti-izi",
-        "https://iz.ru/2193370/vs-rf-porazili-predpriiatie-po-bespilotnikam-fanplit-v-kieve-izi",
-        "https://iz.ru/2193375/sily-pvo-za-noch-sbili-1043-ukrainskikh-bpla-nad-regionami-rossii-izi",
-        "https://iz.ru/2193378/bespilotniki-vsu-atakovali-grazhdanskuiu-infrastrukturu-v-samarskoi-oblasti-izi",
-        "https://iz.ru/2193379/fns-aprobiruet-sistemnyi-kontrol-za-sokrytiem-dokhodov-samozaniatymi-izi",
-        "https://iz.ru/2193380/fnpr-otpravila-pervyi-gruzovik-gumanitarnoi-pomoshchi-zhiteliam-aleshek-izi",
-        "https://iz.ru/2193385/moshenniki-nachali-vorovat-dengi-rossiian-pod-predlogom-podarkov-ot-marketpleisov-izi",
         "https://iz.ru/2193386/modernizatciiu-atomnogo-kreisera-petr-velikii-priznali-netcelesoobraznoi-izi",
         "https://iz.ru/2193388/es-zakupil-rossiiskoe-file-mintaia-na-rekordnye-pochti-164-mln-za-leto-izi",
-        "https://iz.ru/2193389/zhurnalist-bouz-ukazal-na-vazhnost-zaiavleniia-putina-o-gotovnosti-k-voine-izi"
+        "https://iz.ru/2193389/zhurnalist-bouz-ukazal-na-vazhnost-zaiavleniia-putina-o-gotovnosti-k-voine-izi",
+        "https://iz.ru/2193400/uchenye-izuchili-naidennyi-v-mali-drevnii-meteorit-s-marsa-izi",
+        "https://iz.ru/2193404/v-arkhangelskoi-oblasti-chinovnik-predlozhil-pokrichat-v-kholodilnik-vmesto-zhalob-izi",
+        "https://iz.ru/2193406/rossiianam-napomnili-o-prave-na-pereraschet-za-plokhoi-nagrev-goriachei-vody-izi",
+        "https://iz.ru/2193407/v-aeroportakh-moskvy-usilili-rabotu-sluzhb-na-fone-zaderzhek-reisov-izi",
+        "https://iz.ru/2193408/doch-biznesmena-ivantcova-vstretilas-s-materiu-vpervye-za-15-let-izi",
+        "https://iz.ru/2193437/vs-rf-nanesli-dva-massirovannykh-i-deviat-gruppovykh-udarov-na-ukraine-za-nedeliu-izi",
+        "https://iz.ru/2193444/ekspert-samarskaia-sprognozirovala-politicheskii-tupik-v-izraile-posle-vyborov-izi",
+        "https://iz.ru/2193447/gitaru-dzhordzha-maikla-iz-klipa-faith-prodali-na-auktcione-izi",
+        "https://iz.ru/2193450/v-kremle-otmetili-vysokii-uroven-koordinatcii-ombudsmenov-rf-i-ukrainy-izi",
+        "https://iz.ru/2193454/berliner-zeitung-soobshchila-ob-ustalosti-nemtcev-ot-prosb-zelenskogo-izi",
+        "https://iz.ru/2193471/cas-priznal-nezakonnym-otstranenie-sbornykh-rossii-ot-turnirov-pod-egidoi-iihf-izi",
+        "https://iz.ru/2193477/bloger-sasha-belair-osporila-vzyskanie-v-polzu-roskomnadzora-izi",
+        "https://iz.ru/2193482/v-ssha-zapodozrili-vo-vzlome-birzhi-binance-khakerov-iz-kndr-izi",
+        "https://iz.ru/2193490/lantratova-v-aleshkakh-organizovana-bolshaia-kolonna-gumanitarnoi-pomoshchi-izi",
+        "https://iz.ru/2193492/peskov-prizval-ne-schitat-slova-kallas-priznakom-ustalosti-evropy-ot-ukrainy-izi",
+        "https://iz.ru/2193503/ushakov-zaiavil-o-stremlenii-vsekh-stran-zavershit-konflikt-na-ukraine-izi",
+        "https://iz.ru/2193505/v-rospotrebnadzore-ukazali-na-otsutstvie-vspyshek-myshinoi-likhoradki-v-strane-izi"
       ]
     },
     "2026-10-31": {
@@ -235,7 +207,7 @@
       ]
     },
     "2026-11-01": {
-      "totalChecked": 488,
+      "totalChecked": 487,
       "totalIzi": 143,
       "totalIiz": 2,
       "totalAi": 145,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-11-06": {
-      "totalChecked": 728,
-      "totalIzi": 117,
+      "totalChecked": 871,
+      "totalIzi": 146,
       "totalIiz": 2,
-      "totalAi": 119,
+      "totalAi": 148,
       "topLinks": [
         "https://iz.ru/2196528/uchenye-rasskazali-o-nizkom-urovne-psikhologicheskogo-blagopoluchiia-molodezhi-izi",
         "https://iz.ru/2196541/uchenye-predupredili-o-roste-chisla-sluchaev-insulta-u-podrostkov-izi",
@@ -400,6 +372,25 @@
         "https://iz.ru/2197088/aktivisty-iz-kuntceva-napravili-gumpomoshch-v-gospital-starobelska-v-lnr-izi",
         "https://iz.ru/2197092/v-ssha-zavili-ob-ugroze-poteri-krepostiu-fort-ross-sviazi-s-rossiei-iz-za-vlastei-izi",
         "https://iz.ru/2197093/wsj-uznala-o-pismakh-belogo-doma-konservatoram-s-dostizheniiami-trampa-izi"
+      ]
+    },
+    "2026-11-07": {
+      "totalChecked": 62,
+      "totalIzi": 9,
+      "totalIiz": 2,
+      "totalAi": 11,
+      "topLinks": [
+        "https://iz.ru/2196678/narodnye-primety-na-7-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2197631/putin-rasporiadilsia-peredat-eshche-riad-aktivov-jti-kompanii-promyshlennye-aktivy-izi",
+        "https://iz.ru/2197634/v-rossii-izuchat-primenenie-ii-pri-razrabotke-programm-reabilitatcii-invalidov-izi",
+        "https://iz.ru/2196678/narodnye-primety-na-7-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2197631/putin-rasporiadilsia-peredat-eshche-riad-aktivov-jti-kompanii-promyshlennye-aktivy-izi",
+        "https://iz.ru/2197632/rossiianam-posovetovali-udaliat-nenuzhnye-akkaunty-dlia-zashchity-ot-moshennikov-izi",
+        "https://iz.ru/2197634/v-rossii-izuchat-primenenie-ii-pri-razrabotke-programm-reabilitatcii-invalidov-izi",
+        "https://iz.ru/2197638/sud-v-estonii-chastichno-reabilitiroval-naemnogo-ubiitcu-imre-arakasa-izi",
+        "https://iz.ru/2197640/pensiia-rabotaiushchikh-pensionerov-prevysili-35-tys-rublei-v-trekh-regionakh-rf-izi",
+        "https://iz.ru/2197643/mvd-slovakii-soobshchilo-ob-otkaze-platit-es-za-nepriniatykh-migrantov-izi",
+        "https://iz.ru/2197648/optovye-tceny-na-mintai-v-rossii-snizilis-na-56-izi"
       ]
     }
   }
