@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:51:18.977Z",
+  "generatedAt": "2026-11-08T07:33:59.291Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,18 +123,11 @@
       ]
     },
     "2026-10-30": {
-      "totalChecked": 602,
-      "totalIzi": 96,
+      "totalChecked": 556,
+      "totalIzi": 89,
       "totalIiz": 1,
-      "totalAi": 97,
+      "totalAi": 90,
       "topLinks": [
-        "https://iz.ru/2193814/v-bundesvere-priznali-tekhnologicheskoe-preimushchestvo-rossii-v-sfere-reb-izi",
-        "https://iz.ru/2193822/ralli-marafon-dakar-2027-goda-proidet-v-portugalii-i-marokko-s-9-po-23-ianvaria-izi",
-        "https://iz.ru/2193855/mishustin-naznachil-nataliu-andrianovu-vrio-rukovoditelia-rosaviatcii-izi",
-        "https://iz.ru/2193875/shvetciia-poprosila-ek-razreshit-otkazyvat-rossiiskim-sportsmenam-v-vizakh-izi",
-        "https://iz.ru/2193880/kndr-vpervye-publichno-pokazala-boevuiu-strelbu-rszo-kalibra-600-mm-izi",
-        "https://iz.ru/2193893/chto-proizoshlo-za-den-30-oktiabria-glavnoe-izi",
-        "https://iz.ru/2193895/vlasti-germanii-priznali-sryv-plana-po-zapolneniiu-gazokhranilishch-k-zime-izi",
         "https://iz.ru/2193940/ombudsmeny-rossii-i-ukrainy-vozglavili-gumanitarnuiu-operatciiu-v-aleshkakh-glavnoe-izi",
         "https://iz.ru/2191577/uchenyi-obiasnil-vliianie-korotkogo-svetovogo-dnia-na-organizm-izi",
         "https://iz.ru/2192012/uchenye-obiasnili-posledstviia-mnogochasovoi-raboty-za-kompiuterom-izi",
@@ -147,11 +140,18 @@
         "https://iz.ru/2192914/narodnye-primety-na-30-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2193287/v-roskosmose-oprovergli-konservatciiu-rossiiskogo-modulia-zvezda-na-mks-izi",
         "https://iz.ru/2193288/zarplaty-vyshe-200-tys-rublei-poluchili-rabotniki-chetyrekh-otraslei-izi",
-        "https://iz.ru/2193296/patrushev-predupredil-o-vozmozhnykh-diversiiakh-protiv-tankerov-s-rossiiskim-dizelem-izi"
+        "https://iz.ru/2193296/patrushev-predupredil-o-vozmozhnykh-diversiiakh-protiv-tankerov-s-rossiiskim-dizelem-izi",
+        "https://iz.ru/2193301/kallas-otkazalas-ukhodit-s-diskussii-posle-nameka-moderatora-izi",
+        "https://iz.ru/2193311/general-silviia-priznalsia-v-utechke-sekretnykh-dannykh-ob-ukraine-i-irane-izi",
+        "https://iz.ru/2193329/rossiianam-obiasnili-usloviia-polucheniia-srochnoi-pensionnoi-vyplaty-izi",
+        "https://iz.ru/2193334/professor-nazvala-prichiny-smeny-familii-rossiiankami-v-ssha-izi",
+        "https://iz.ru/2193343/pulkovo-prinial-27-napravliavshikhsia-v-moskvu-reisov-v-kachestve-zapasnogo-aerodroma-izi",
+        "https://iz.ru/2193345/bespilotniki-vsu-atakovali-samarskuiu-oblast-izi",
+        "https://iz.ru/2193346/v-gosdume-predlozhili-davat-skidki-na-zhku-za-uchastie-v-subbotnikakh-izi"
       ]
     },
     "2026-10-31": {
-      "totalChecked": 485,
+      "totalChecked": 480,
       "totalIzi": 91,
       "totalIiz": 1,
       "totalAi": 92,
@@ -207,12 +207,11 @@
       ]
     },
     "2026-11-02": {
-      "totalChecked": 941,
-      "totalIzi": 160,
+      "totalChecked": 937,
+      "totalIzi": 159,
       "totalIiz": 1,
-      "totalAi": 161,
+      "totalAi": 160,
       "topLinks": [
-        "https://iz.ru/2193834/uchenye-sviazali-kaltcii-v-sosudakh-u-molodykh-liudei-s-riskom-rannei-smerti-izi",
         "https://iz.ru/2194721/gol-i-peredacha-miranchuka-pomogli-fk-atlanta-obygrat-fk-toronto-v-matche-mls-izi",
         "https://iz.ru/2194722/britanskii-politik-galllouei-priznalsia-v-strakhe-vernutsia-na-rodinu-iz-rf-izi",
         "https://iz.ru/2194724/vs-rf-porazili-dostavliavshii-gruzy-vsu-sukhogruz-v-chernom-more-izi",
@@ -231,7 +230,8 @@
         "https://iz.ru/2194779/zakharova-obvinila-zapad-v-ogranicheniiakh-protiv-smi-rf-na-ukraine-i-v-pribaltike-izi",
         "https://iz.ru/2194790/v-rossiiskom-pasporte-razreshili-raspisyvatsia-latinitcei-izi",
         "https://iz.ru/2194792/v-ssha-bratev-millionerov-prigovorili-k-30-godam-tiurmy-za-torgovliu-liudmi-izi",
-        "https://iz.ru/2194796/iliana-jotova-pobedila-na-prezidentskikh-vyborakh-v-bolgarii-izi"
+        "https://iz.ru/2194796/iliana-jotova-pobedila-na-prezidentskikh-vyborakh-v-bolgarii-izi",
+        "https://iz.ru/2194800/v-rossii-vyiavili-pervuiu-uspeshnuiu-kiberataku-s-vozmozhnym-uchastiem-ii-agentov-izi"
       ]
     },
     "2026-11-03": {
@@ -375,12 +375,15 @@
       ]
     },
     "2026-11-08": {
-      "totalChecked": 73,
-      "totalIzi": 11,
+      "totalChecked": 210,
+      "totalIzi": 61,
       "totalIiz": 2,
-      "totalAi": 13,
+      "totalAi": 63,
       "topLinks": [
+        "https://iz.ru/2197183/uchenye-rasskazali-o-dvukh-glavnykh-navykakh-dlia-uspeshnogo-chteniia-u-detei-izi",
+        "https://iz.ru/2197234/uchenye-rasskazali-o-vliianii-pandemicheskogo-stressa-na-biologicheskoe-starenie-izi",
         "https://iz.ru/2197305/narodnye-primety-na-8-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2197358/uchenye-ukazali-na-sviaz-kachestva-sna-s-riskami-dlia-zdorovia-izi",
         "https://iz.ru/2198022/krasnodar-pobedil-tcska-i-prerval-seriiu-bez-pobed-v-rpl-izi",
         "https://iz.ru/2198030/glava-mid-moldavii-zaiavil-o-protcesse-sblizhenii-s-rumyniei-izi",
         "https://iz.ru/2198036/ksir-soobshchil-o-podryve-dvukh-tankerov-na-minakh-v-omanskom-zalive-izi",
@@ -389,10 +392,14 @@
         "https://iz.ru/2198050/moskva-vozglavila-reiting-regionov-po-chislu-prozhivaiushchikh-pensionerov-izi",
         "https://iz.ru/2198055/verkhovnyi-sud-avstrii-razreshil-liagushkam-kvakat-v-svoem-prudu-po-nocham-izi",
         "https://iz.ru/2198059/sredniaia-pensiia-rossiian-vyrosla-pochti-na-10-tys-rublei-za-piat-let-izi",
-        "https://iz.ru/2197305/narodnye-primety-na-8-noiabria-chto-mozhno-i-nelzia-delat-iiz",
-        "https://iz.ru/2198022/krasnodar-pobedil-tcska-i-prerval-seriiu-bez-pobed-v-rpl-izi",
-        "https://iz.ru/2198030/glava-mid-moldavii-zaiavil-o-protcesse-sblizhenii-s-rumyniei-izi",
-        "https://iz.ru/2198036/ksir-soobshchil-o-podryve-dvukh-tankerov-na-minakh-v-omanskom-zalive-izi"
+        "https://iz.ru/2198063/v-mid-rf-zaiavili-o-razrushenii-doveriia-s-evropoi-iz-za-podryva-severnykh-potokov-izi",
+        "https://iz.ru/2198065/ft-uznala-o-podgotovke-demokratami-pomoshchi-ukraine-na-15-mlrd-izi",
+        "https://iz.ru/2198069/rossiia-narastila-import-amerikanskogo-margarina-v-41-raz-izi",
+        "https://iz.ru/2198076/artilleristy-vs-rf-unichtozhili-ukrainskii-blindazh-i-tri-punkta-upravleniia-bpla-izi",
+        "https://iz.ru/2198077/v-minprosveshcheniia-soobshchili-o-zavershenii-razrabotki-uchebnikov-dlia-starshikh-klassov-izi",
+        "https://iz.ru/2198079/sbornaia-shveitcarii-po-khokkeiu-otkazalas-igrat-s-rossiei-na-molodezhnom-chm-izi",
+        "https://iz.ru/2198080/v-mvd-predupredili-ob-ispolzovanii-moshennikami-feikovykh-bankovskikh-prilozhenii-izi",
+        "https://iz.ru/2198084/kachinskii-prizval-otmenit-aktcii-u-ks-polshi-iz-za-strelby-v-krakove-izi"
       ]
     }
   }
