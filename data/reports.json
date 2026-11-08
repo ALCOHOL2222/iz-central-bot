@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:33:59.291Z",
+  "generatedAt": "2026-11-08T15:26:44.687Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -123,12 +123,11 @@
       ]
     },
     "2026-10-30": {
-      "totalChecked": 556,
-      "totalIzi": 89,
+      "totalChecked": 510,
+      "totalIzi": 88,
       "totalIiz": 1,
-      "totalAi": 90,
+      "totalAi": 89,
       "topLinks": [
-        "https://iz.ru/2193940/ombudsmeny-rossii-i-ukrainy-vozglavili-gumanitarnuiu-operatciiu-v-aleshkakh-glavnoe-izi",
         "https://iz.ru/2191577/uchenyi-obiasnil-vliianie-korotkogo-svetovogo-dnia-na-organizm-izi",
         "https://iz.ru/2192012/uchenye-obiasnili-posledstviia-mnogochasovoi-raboty-za-kompiuterom-izi",
         "https://iz.ru/2192065/uchenye-obiasnili-vliianie-sravneniia-sebia-s-drugimi-na-psikhiku-podrostkov-izi",
@@ -147,17 +146,16 @@
         "https://iz.ru/2193334/professor-nazvala-prichiny-smeny-familii-rossiiankami-v-ssha-izi",
         "https://iz.ru/2193343/pulkovo-prinial-27-napravliavshikhsia-v-moskvu-reisov-v-kachestve-zapasnogo-aerodroma-izi",
         "https://iz.ru/2193345/bespilotniki-vsu-atakovali-samarskuiu-oblast-izi",
-        "https://iz.ru/2193346/v-gosdume-predlozhili-davat-skidki-na-zhku-za-uchastie-v-subbotnikakh-izi"
+        "https://iz.ru/2193346/v-gosdume-predlozhili-davat-skidki-na-zhku-za-uchastie-v-subbotnikakh-izi",
+        "https://iz.ru/2193350/nochnaia-ataka-bespilotnikov-na-moskvu-stala-samoi-masshtabnoi-v-oktiabre-izi"
       ]
     },
     "2026-10-31": {
-      "totalChecked": 480,
-      "totalIzi": 91,
+      "totalChecked": 427,
+      "totalIzi": 89,
       "totalIiz": 1,
-      "totalAi": 92,
+      "totalAi": 90,
       "topLinks": [
-        "https://iz.ru/2194050/rzhd-izmeniat-pravila-vozvrata-biletov-na-poezda-s-1-dekabria-izi",
-        "https://iz.ru/2194061/politolog-otcenil-povedenie-kallas-vo-vremia-perepalki-v-kanade-izi",
         "https://iz.ru/2194067/posol-ssha-vyrazil-obespokoennost-situatciei-vokrug-tribunala-v-polshe-izi",
         "https://iz.ru/2194071/prankerov-vovana-i-leksusa-vnesli-v-bazu-gur-ukrainy-izi",
         "https://iz.ru/2194072/gosdolg-ukrainy-vyros-v-130-raz-za-20-let-i-dostig-2126-mlrd-izi",
@@ -175,11 +173,13 @@
         "https://iz.ru/2194148/v-op-rf-otcenili-vozmozhnost-propuska-raboty-iz-za-bolezni-domashnikh-zhivotnykh-izi",
         "https://iz.ru/2194151/zhitel-primoria-umer-iz-za-dlitelnogo-kureniia-veipov-izi",
         "https://iz.ru/2194152/v-gosdume-zaiavili-o-nalichii-u-genshtaba-vs-rf-spiska-tcelei-dlia-oreshnika-izi",
-        "https://iz.ru/2194156/polskie-protestuiushchie-prodolzhaiut-tolpitsia-u-zdaniia-konstitutcionnogo-suda-izi"
+        "https://iz.ru/2194156/polskie-protestuiushchie-prodolzhaiut-tolpitsia-u-zdaniia-konstitutcionnogo-suda-izi",
+        "https://iz.ru/2194158/peskov-nazval-dialog-lantratovoi-i-lubintca-vazhnym-dlia-pravozashchitnoi-raboty-izi",
+        "https://iz.ru/2194164/polonskaia-rasskazala-o-deportatcii-grazhdan-rf-iz-baltii-bez-deneg-izi"
       ]
     },
     "2026-11-01": {
-      "totalChecked": 476,
+      "totalChecked": 474,
       "totalIzi": 140,
       "totalIiz": 1,
       "totalAi": 141,
@@ -207,7 +207,7 @@
       ]
     },
     "2026-11-02": {
-      "totalChecked": 937,
+      "totalChecked": 935,
       "totalIzi": 159,
       "totalIiz": 1,
       "totalAi": 160,
@@ -375,10 +375,10 @@
       ]
     },
     "2026-11-08": {
-      "totalChecked": 210,
-      "totalIzi": 61,
+      "totalChecked": 413,
+      "totalIzi": 98,
       "totalIiz": 2,
-      "totalAi": 63,
+      "totalAi": 100,
       "topLinks": [
         "https://iz.ru/2197183/uchenye-rasskazali-o-dvukh-glavnykh-navykakh-dlia-uspeshnogo-chteniia-u-detei-izi",
         "https://iz.ru/2197234/uchenye-rasskazali-o-vliianii-pandemicheskogo-stressa-na-biologicheskoe-starenie-izi",
