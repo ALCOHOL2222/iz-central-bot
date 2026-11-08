@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:26:44.687Z",
+  "generatedAt": "2026-11-08T20:39:53.026Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,31 +151,31 @@
       ]
     },
     "2026-10-31": {
-      "totalChecked": 427,
-      "totalIzi": 89,
+      "totalChecked": 366,
+      "totalIzi": 68,
       "totalIiz": 1,
-      "totalAi": 90,
+      "totalAi": 69,
       "topLinks": [
-        "https://iz.ru/2194067/posol-ssha-vyrazil-obespokoennost-situatciei-vokrug-tribunala-v-polshe-izi",
-        "https://iz.ru/2194071/prankerov-vovana-i-leksusa-vnesli-v-bazu-gur-ukrainy-izi",
-        "https://iz.ru/2194072/gosdolg-ukrainy-vyros-v-130-raz-za-20-let-i-dostig-2126-mlrd-izi",
-        "https://iz.ru/2194129/poezd-soshel-s-relsov-posle-stolknoveniia-s-medvedem-v-iaponii-izi",
-        "https://iz.ru/2194134/armiia-rossii-porazila-sukhogruz-s-imushchestvom-dlia-vsu-v-chernom-more-izi",
-        "https://iz.ru/2194135/vs-rf-nochiu-porazili-tetc-6-v-kieve-izi",
-        "https://iz.ru/2194136/mvd-predupredilo-o-skhemakh-obmana-v-feikovykh-onlain-magazinakh-izi",
-        "https://iz.ru/2194140/klub-nkhl-tampa-bei-laitning-otkazalsia-obmenivat-nikitu-kucherova-izi",
-        "https://iz.ru/2194141/v-germanii-vozmutilis-bezumnomu-resheniiu-evrokomissii-po-rossiiskomu-gazu-izi",
-        "https://iz.ru/2194142/politolog-usomnilsia-v-nalichii-u-zelenskogo-predlozhenii-dlia-peregovorov-s-rossiei-izi",
-        "https://iz.ru/2194143/sily-pvo-unichtozhili-chetyre-bpla-nad-tulskoi-oblastiu-izi",
-        "https://iz.ru/2194144/sily-pvo-unichtozhili-433-ukrainskikh-drona-nad-regionami-rossii-izi",
-        "https://iz.ru/2194145/mwm-zaiavil-o-prevoskhodstve-su-57-po-boevomu-opytu-nad-zapadnymi-analogami-izi",
-        "https://iz.ru/2194146/iziavivshie-zhelanie-uekhat-na-ukrainu-zhiteli-aleshek-vyleteli-v-belorussiiu-izi",
-        "https://iz.ru/2194148/v-op-rf-otcenili-vozmozhnost-propuska-raboty-iz-za-bolezni-domashnikh-zhivotnykh-izi",
-        "https://iz.ru/2194151/zhitel-primoria-umer-iz-za-dlitelnogo-kureniia-veipov-izi",
-        "https://iz.ru/2194152/v-gosdume-zaiavili-o-nalichii-u-genshtaba-vs-rf-spiska-tcelei-dlia-oreshnika-izi",
-        "https://iz.ru/2194156/polskie-protestuiushchie-prodolzhaiut-tolpitsia-u-zdaniia-konstitutcionnogo-suda-izi",
-        "https://iz.ru/2194158/peskov-nazval-dialog-lantratovoi-i-lubintca-vazhnym-dlia-pravozashchitnoi-raboty-izi",
-        "https://iz.ru/2194164/polonskaia-rasskazala-o-deportatcii-grazhdan-rf-iz-baltii-bez-deneg-izi"
+        "https://iz.ru/2194175/navrotckii-zaiavil-o-silovom-zakhvate-konstitutcionnogo-suda-v-varshave-izi",
+        "https://iz.ru/2194183/vadeful-zaiavil-ob-otsutstvii-rossii-v-zapadnoi-seme-izi",
+        "https://iz.ru/2194194/zemlia-okazalas-v-potoke-plazmy-iz-koronalnoi-dyry-na-solntce-izi",
+        "https://iz.ru/2194197/twz-rasskazala-o-pvo-vokrug-rezidentcii-izi",
+        "https://iz.ru/2194205/medvedev-nazval-konstitutcionnym-perevorotom-situatciiu-v-polshe-izi",
+        "https://iz.ru/2194209/odin-chelovek-pogib-pri-strelbe-v-torgovom-tcentre-v-kalifornii-izi",
+        "https://iz.ru/2194215/rossiiane-stolknulis-s-blokirovkoi-schetov-v-argentinskom-banke-galicia-izi",
+        "https://iz.ru/2194216/lavrov-nazval-povedenie-glavy-mid-germanii-diplomatiei-semeinogo-foto-izi",
+        "https://iz.ru/2194224/v-rf-prodlili-zapret-na-eksport-dizelia-dlia-proizvoditelei-do-31-ianvaria-2027-goda-izi",
+        "https://iz.ru/2194225/pristavy-peredali-v-gokhran-iziatye-u-eks-sudi-chernova-zolotye-slitki-izi",
+        "https://iz.ru/2194235/smi-zaiavil-ob-otkliuchenii-sveta-v-kieve-na-15-18-chasov-iz-za-zhestkogo-grafika-izi",
+        "https://iz.ru/2194241/syn-anatoliia-kashpirovskogo-sviazal-raspad-semi-s-predannostiu-ottca-delu-izi",
+        "https://iz.ru/2194245/smi-soobshchilo-o-raskhozhdenii-mnenii-polskikh-partii-o-konsultatciiakh-s-prezidentom-izi",
+        "https://iz.ru/2194261/voz-predupredila-o-riske-rasprostraneniia-novogo-shtamma-covid-19-po-miru-izi",
+        "https://iz.ru/2194278/ukraina-priznala-kriticheskuiu-zavisimost-ot-amerikanskikh-razveddannykh-izi",
+        "https://iz.ru/2194300/mosbirzha-namerena-zapustit-torgi-tremia-kriptovaliutami-s-1-dekabria-izi",
+        "https://iz.ru/2194307/v-bolee-chem-30-gorodakh-germanii-nachalis-molodezhnye-protesty-izi",
+        "https://iz.ru/2194308/muzei-zapovednik-tcaritcyno-vremenno-zakryt-izi",
+        "https://iz.ru/2194309/moskvichka-lishilas-78-mln-rublei-posle-znakomstva-v-prilozhenii-izi",
+        "https://iz.ru/2194315/v-brianskoi-oblasti-muzhchina-pogib-pri-podryve-na-vzryvnom-ustroistve-vsu-izi"
       ]
     },
     "2026-11-01": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-11-08": {
-      "totalChecked": 413,
-      "totalIzi": 98,
+      "totalChecked": 518,
+      "totalIzi": 116,
       "totalIiz": 2,
-      "totalAi": 100,
+      "totalAi": 118,
       "topLinks": [
         "https://iz.ru/2197183/uchenye-rasskazali-o-dvukh-glavnykh-navykakh-dlia-uspeshnogo-chteniia-u-detei-izi",
         "https://iz.ru/2197234/uchenye-rasskazali-o-vliianii-pandemicheskogo-stressa-na-biologicheskoe-starenie-izi",
