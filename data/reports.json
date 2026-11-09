@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T08:07:49.663Z",
+  "generatedAt": "2026-11-09T19:00:45.344Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -11,11 +11,12 @@
   },
   "days": {
     "2026-10-27": {
-      "totalChecked": 485,
-      "totalIzi": 62,
+      "totalChecked": 487,
+      "totalIzi": 64,
       "totalIiz": 1,
-      "totalAi": 63,
+      "totalAi": 65,
       "topLinks": [
+        "https://iz.ru/2198608/ispanskii-futbolist-unai-simon-biografiia-izi",
         "https://iz.ru/2190612/uchenye-izuchili-povedenie-mozga-pri-bolezni-altcgeimera-izi",
         "https://iz.ru/2190659/narodnye-primety-na-27-oktiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2190732/uchenye-rasskazali-o-genetike-piati-glavnykh-chert-lichnosti-izi",
@@ -34,8 +35,7 @@
         "https://iz.ru/2191182/v-brianskoi-oblasti-pri-atake-vsu-pogib-muzhchina-i-raneny-shest-chelovek-izi",
         "https://iz.ru/2191183/indeks-mosbirzhi-prevysil-2500-punktov-vpervye-s-iiunia-izi",
         "https://iz.ru/2191186/v-izraile-otkrylis-izbiratelnye-uchastki-na-parlamentskikh-vyborakh-izi",
-        "https://iz.ru/2191188/dve-kompanii-knr-prekratili-partnerstvo-s-mbappe-posle-ego-shutki-pro-mao-tczeduna-izi",
-        "https://iz.ru/2191196/vladeltcam-mira-kvestov-mozhet-grozit-konfiskatciia-biznesa-za-finansirovanie-vsu-izi"
+        "https://iz.ru/2191188/dve-kompanii-knr-prekratili-partnerstvo-s-mbappe-posle-ego-shutki-pro-mao-tczeduna-izi"
       ]
     },
     "2026-10-28": {
@@ -151,11 +151,21 @@
       ]
     },
     "2026-11-01": {
-      "totalChecked": 424,
-      "totalIzi": 135,
+      "totalChecked": 249,
+      "totalIzi": 72,
       "totalIiz": 1,
-      "totalAi": 136,
+      "totalAi": 73,
       "topLinks": [
+        "https://iz.ru/2191328/psikhologi-rasskazali-o-sposobakh-zabotitsia-o-sebe-po-mere-nastupleniia-zimy-izi",
+        "https://iz.ru/2193391/narodnye-primety-na-1-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2193484/uchenye-rasskazali-o-sviazi-povtornogo-skrininga-i-riska-prezhdevremennykh-rodov-izi",
+        "https://iz.ru/2193526/uchenye-rasskazali-o-vliianii-orekhov-na-massu-tela-izi",
+        "https://iz.ru/2193592/uchenye-rasskazali-o-vliianii-pitaniia-na-immunnuiu-pamiat-izi",
+        "https://iz.ru/2194354/dombrovskis-zaiavil-ob-okonchatelnom-razryve-energosviazei-es-s-rossiei-izi",
+        "https://iz.ru/2194358/glavu-stambulskoi-birzhi-zaderzhali-po-delu-o-moshennichestve-izi",
+        "https://iz.ru/2194369/datskaia-sportivnaia-assotciatciia-ne-podderzhala-boikot-turnirov-s-uchastiem-rf-izi",
+        "https://iz.ru/2194388/pushilin-zaiavil-o-predstoiashchikh-krupnykh-boiakh-za-osvobozhdenie-dnr-izi",
+        "https://iz.ru/2194392/v-raspp-rasskazali-o-novom-etape-ekonomicheskogo-sotrudnichestva-rf-i-knr-izi",
         "https://iz.ru/2194397/v-turtcii-zaiavili-o-neobkhodimosti-primireniia-evropy-s-rossiei-izi",
         "https://iz.ru/2194404/pilot-ferrari-khemilton-vyigral-kvalifikatciiu-etapa-formuly-1-v-meksike-izi",
         "https://iz.ru/2194410/sud-zaochno-arestoval-eks-zamnachalnika-genshtaba-vsu-artemenko-izi",
@@ -165,30 +175,15 @@
         "https://iz.ru/2194416/armiia-rossii-porazila-morskoe-sudno-s-gruzami-dlia-vsu-iugo-zapadnee-odessy-izi",
         "https://iz.ru/2194417/v-chernogorii-nazvali-vvedenie-viz-dlia-rossiian-ekonomicheskim-samoubiistvom-izi",
         "https://iz.ru/2194418/armiia-rossii-porazila-obekty-upravleniia-dvizheniem-na-stantcii-v-sumskoi-oblasti-izi",
-        "https://iz.ru/2194419/sily-pvo-za-noch-sbili-235-ukrainskikh-bespilotnikov-nad-regionami-rossii-izi",
-        "https://iz.ru/2194420/chislo-pensionerov-v-rossii-prevysilo-405-mln-chelovek-izi",
-        "https://iz.ru/2194423/eks-gensek-odkb-bordiuzha-zaiavil-o-prisutstvii-zapadnogo-spetcnaza-na-ukraine-izi",
-        "https://iz.ru/2194424/vsu-ponesli-bolshie-poteri-pod-sumami-izi",
-        "https://iz.ru/2194426/bek-vokalist-gruppy-liube-aleksei-tarasov-umer-v-vozraste-64-let-izi",
-        "https://iz.ru/2194429/sily-pvo-unichtozhili-bolee-20-bpla-v-taganroge-i-shesti-raionakh-rostovskoi-oblasti-izi",
-        "https://iz.ru/2194432/fitco-podderzhal-reshenie-cas-i-usomnilsia-v-tcennosti-khokkeinogo-zolota-bez-rossii-izi",
-        "https://iz.ru/2194433/analitik-devis-zaiavil-o-nerealnykh-usloviiakh-zelenskogo-dlia-peregovorov-izi",
-        "https://iz.ru/2194435/politciia-oae-ustanovila-lichnosti-podozrevaemykh-v-ubiistve-kriptobiznesmena-novaka-izi",
-        "https://iz.ru/2194437/amerikanetc-soglasilsia-na-pozhiznennyi-srok-radi-sendvicha-i-kartoshki-fri-izi",
-        "https://iz.ru/2194439/soobshchenie-ot-polikliniki-v-messendzhere-mozhet-ostavit-bez-gosuslug-izi"
+        "https://iz.ru/2194419/sily-pvo-za-noch-sbili-235-ukrainskikh-bespilotnikov-nad-regionami-rossii-izi"
       ]
     },
     "2026-11-02": {
-      "totalChecked": 934,
-      "totalIzi": 159,
+      "totalChecked": 848,
+      "totalIzi": 154,
       "totalIiz": 1,
-      "totalAi": 160,
+      "totalAi": 155,
       "topLinks": [
-        "https://iz.ru/2194721/gol-i-peredacha-miranchuka-pomogli-fk-atlanta-obygrat-fk-toronto-v-matche-mls-izi",
-        "https://iz.ru/2194722/britanskii-politik-galllouei-priznalsia-v-strakhe-vernutsia-na-rodinu-iz-rf-izi",
-        "https://iz.ru/2194724/vs-rf-porazili-dostavliavshii-gruzy-vsu-sukhogruz-v-chernom-more-izi",
-        "https://iz.ru/2194727/na-kipre-zaiavili-o-panike-tuska-posle-slov-medvedeva-o-polshe-izi",
-        "https://iz.ru/2194728/sily-pvo-za-noch-sbili-212-bespilotnikov-vsu-nad-regionami-rossii-izi",
         "https://iz.ru/2194733/minfin-razrabotal-proekt-avtoperevoda-nakopitelnykh-pensii-v-programmu-sberezhenii-izi",
         "https://iz.ru/2194738/pravitelstvo-rf-vremenno-zapretilo-vyvoz-vidov-neftekhimicheskoi-produktcii-izi",
         "https://iz.ru/2194739/v-kieve-i-kievskoi-oblasti-vveli-ekstrennye-otkliucheniia-elektroenergii-izi",
@@ -203,7 +198,12 @@
         "https://iz.ru/2194790/v-rossiiskom-pasporte-razreshili-raspisyvatsia-latinitcei-izi",
         "https://iz.ru/2194792/v-ssha-bratev-millionerov-prigovorili-k-30-godam-tiurmy-za-torgovliu-liudmi-izi",
         "https://iz.ru/2194796/iliana-jotova-pobedila-na-prezidentskikh-vyborakh-v-bolgarii-izi",
-        "https://iz.ru/2194800/v-rossii-vyiavili-pervuiu-uspeshnuiu-kiberataku-s-vozmozhnym-uchastiem-ii-agentov-izi"
+        "https://iz.ru/2194800/v-rossii-vyiavili-pervuiu-uspeshnuiu-kiberataku-s-vozmozhnym-uchastiem-ii-agentov-izi",
+        "https://iz.ru/2194803/shoigu-zaiavil-ob-aktivnoi-verbovke-zhelaiushchikh-podderzhat-unichtozhenie-rossii-iznutri-izi",
+        "https://iz.ru/2194804/v-gosdume-predlozhili-platit-2-mln-rublei-po-programme-zemskii-politceiskii-izi",
+        "https://iz.ru/2194806/sily-pvo-perekhvatili-658-dronov-vsu-za-sutki-izi",
+        "https://iz.ru/2194808/ot-gorguli-do-grafa-orloka-samye-iarkie-kostiumy-zvezd-na-khellouin-2026-izi",
+        "https://iz.ru/2194809/v-mid-irana-oprovergli-obsuzhdenie-vyvoza-obogashchennogo-urana-iz-strany-izi"
       ]
     },
     "2026-11-03": {
@@ -375,10 +375,10 @@
       ]
     },
     "2026-11-09": {
-      "totalChecked": 288,
-      "totalIzi": 59,
+      "totalChecked": 769,
+      "totalIzi": 168,
       "totalIiz": 0,
-      "totalAi": 59,
+      "totalAi": 168,
       "topLinks": [
         "https://iz.ru/2197425/uchenye-obnaruzhili-dva-otdelnykh-puti-reguliatcii-boli-i-trevogi-izi",
         "https://iz.ru/2197466/uchenye-vyiavili-sviaz-geneticheskikh-osobennostei-bakterii-kishechnika-i-stareniia-izi",
