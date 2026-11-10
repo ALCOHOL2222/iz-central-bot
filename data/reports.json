@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:02:56.230Z",
+  "generatedAt": "2026-11-10T23:35:02.591Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -10,34 +10,6 @@
     "visitedCount": 68
   },
   "days": {
-    "2026-10-28": {
-      "totalChecked": 576,
-      "totalIzi": 75,
-      "totalIiz": 1,
-      "totalAi": 76,
-      "topLinks": [
-        "https://iz.ru/2188193/50-dobrye-otkrytki-s-dnem-babushek-i-dedushek-kartinki-gifki-i-pozdravleniia-iiz",
-        "https://iz.ru/2191240/vrachi-prizvali-uchityvat-zhenskie-osobennosti-pri-profilaktike-boleznei-serdtca-izi",
-        "https://iz.ru/2191277/uchenye-otmetili-polzu-kliukvennogo-soka-dlia-zdorovia-zubov-izi",
-        "https://iz.ru/2191308/uchenye-rasskazali-o-prichinakh-vozrastnoi-slabosti-izi",
-        "https://iz.ru/2191768/glava-minenergo-ssha-obiasnil-tcel-dizelnoi-sdelki-s-rossiei-izi",
-        "https://iz.ru/2191771/parlamentskie-vybory-v-izraile-zavershilis-iavkoi-777-izi",
-        "https://iz.ru/2191775/arsenal-ustupil-flitvudu-i-vybyl-iz-kubka-angliiskoi-ligi-izi",
-        "https://iz.ru/2191777/ukrainskaia-kompaniia-novaia-pochta-zapustila-chastnuiu-pvo-izi",
-        "https://iz.ru/2191779/ovechkin-i-eshche-chetyre-rossiiskikh-khokkeista-popali-v-bazu-gur-ukrainy-izi",
-        "https://iz.ru/2191790/telegraph-zaiavila-o-raskole-v-es-posle-razgovora-putina-so-stubbom-i-stere-izi",
-        "https://iz.ru/2191808/moskovskii-sud-podtverdil-zakonnost-lisheniia-prav-za-peredachu-mashiny-pianomu-voditeliu-izi",
-        "https://iz.ru/2191822/liaisan-misharina-stala-pervym-zamestitelem-khudruka-mkht-imeni-chekhova-izi",
-        "https://iz.ru/2191837/raskhody-ssha-na-voinu-s-iranom-prevysili-47-mlrd-izi",
-        "https://iz.ru/2191838/v-ssha-zaiavili-ob-ubezhdenii-rossiei-evropy-v-bespoleznosti-konflikta-na-ukraine-izi",
-        "https://iz.ru/2191839/riabkov-otmetil-otsutstvie-politicheskikh-uslovii-v-pomoshchi-afrike-so-storony-rossii-izi",
-        "https://iz.ru/2191845/tokaev-prizval-nachat-stroitelstvo-aes-balkhash-uzhe-v-2027-godu-izi",
-        "https://iz.ru/2191862/ubiitcy-kriptobiznesmena-novaka-v-oae-planirovali-prestuplenie-pochti-polgoda-izi",
-        "https://iz.ru/2191878/fon-der-liaien-ne-otvetila-prokurature-es-po-delu-o-vaktcinakh-pfizer-izi",
-        "https://iz.ru/2191890/murashko-zaiavil-o-snizhenii-letalnosti-v-klinikakh-do-40-blagodaria-ii-izi",
-        "https://iz.ru/2191896/armeniia-nachala-postavki-fruktov-i-iagod-v-oman-izi"
-      ]
-    },
     "2026-10-29": {
       "totalChecked": 554,
       "totalIzi": 77,
@@ -151,7 +123,7 @@
       ]
     },
     "2026-11-02": {
-      "totalChecked": 496,
+      "totalChecked": 479,
       "totalIzi": 81,
       "totalIiz": 1,
       "totalAi": 82,
@@ -179,21 +151,11 @@
       ]
     },
     "2026-11-03": {
-      "totalChecked": 845,
-      "totalIzi": 176,
+      "totalChecked": 762,
+      "totalIzi": 166,
       "totalIiz": 1,
-      "totalAi": 177,
+      "totalAi": 167,
       "topLinks": [
-        "https://iz.ru/2195378/openai-naniala-eks-ministra-armii-ssha-dlia-razvitiia-ii-v-sfere-natcbezopasnosti-izi",
-        "https://iz.ru/2195381/tramp-nazval-sushchimi-kopeikami-raskhody-v-30-mlrd-na-voinu-s-iranom-izi",
-        "https://iz.ru/2195382/sotcfond-dosrochno-perechislit-rabotaiushchim-roditeliam-posobie-po-ukhodu-za-rebenkom-izi",
-        "https://iz.ru/2195383/popavshie-v-plen-v-kharkovskoi-oblasti-soldaty-vsu-stali-lgat-o-mobilizatcii-izi",
-        "https://iz.ru/2195384/vs-rossii-porazili-portovuiu-infrastrukturu-i-morskie-suda-v-odesskoi-oblasti-izi",
-        "https://iz.ru/2195386/mvd-rossii-zafiksirovalo-25-obrashchenii-za-ubezhishchem-ot-grazhdan-ssha-i-kanady-izi",
-        "https://iz.ru/2195387/v-iaroslavle-infrastruktura-npz-poluchila-povrezhdeniia-posle-ataki-bpla-izi",
-        "https://iz.ru/2195388/dmitriev-prokommentiroval-protesty-u-tainoi-tiurmy-v-kievskoi-oblasti-izi",
-        "https://iz.ru/2195392/mendel-nazvala-mobilizatciiu-na-ukraine-pytkoi-i-istochnikom-vziatok-izi",
-        "https://iz.ru/2195394/avtomobilnoe-dvizhenie-po-krymskomu-mostu-bylo-perekryto-pochti-vosem-chasov-izi",
         "https://iz.ru/2195397/endokrinolog-predupredila-rossiian-o-sokrashchenii-zhizni-pri-metabolicheskom-sindrome-izi",
         "https://iz.ru/2195398/vs-rossii-porazili-ladyzhenskuiu-tes-v-vinnitckoi-oblasti-izi",
         "https://iz.ru/2195402/administratora-telegram-kanala-v-zabaikale-osudili-na-deviat-let-za-natcizm-izi",
@@ -203,11 +165,21 @@
         "https://iz.ru/2195413/mvd-predupredilo-o-novoi-skheme-obmana-s-ispolzovaniem-poddelnykh-telegram-botov-izi",
         "https://iz.ru/2195414/nefteprovod-atyrau-samara-vernulsia-k-rabote-posle-ataki-dronov-izi",
         "https://iz.ru/2195415/byvshii-zavod-mercedes-v-rf-perezapustiat-s-novym-avtobrendom-v-2027-godu-izi",
-        "https://iz.ru/2195416/v-mintranse-rf-predlozhili-priravniat-moshchnye-elektrosamokaty-k-mopedam-izi"
+        "https://iz.ru/2195416/v-mintranse-rf-predlozhili-priravniat-moshchnye-elektrosamokaty-k-mopedam-izi",
+        "https://iz.ru/2195421/putin-poruchil-privlekat-prepodavatelei-vuzov-v-kachestve-nastavnikov-dlia-uchitelei-izi",
+        "https://iz.ru/2195424/sk-rf-vozbudil-delo-o-terakte-po-faktu-ukrainskoi-ataki-na-avtobus-v-lnr-izi",
+        "https://iz.ru/2195425/zakharova-sviazala-pytochnye-pod-kievom-s-popytkoi-zelenskogo-uderzhat-vlast-izi",
+        "https://iz.ru/2195429/miroshnik-soobshchil-o-9-tys-pogibshikh-mirnykh-zhiteliakh-rf-s-fevralia-2022-goda-izi",
+        "https://iz.ru/2195432/muzhchina-pogib-pri-napadenii-medvedia-na-iamale-izi",
+        "https://iz.ru/2195439/uchenye-obnaruzhili-sledy-krovi-dinozavra-vozrastom-115-mln-let-izi",
+        "https://iz.ru/2195441/miroshnik-obvinil-mezhdunarodnykh-pravozashchitnikov-v-ignorirovanii-narushenii-kieva-izi",
+        "https://iz.ru/2195443/v-tatarstane-devochka-umerla-ot-predvaritelno-meningokokkovoi-infektcii-izi",
+        "https://iz.ru/2195444/uchitelnitca-v-ssha-rodila-rebenka-ot-13-letnego-uchenika-izi",
+        "https://iz.ru/2195446/smi-soobshchili-o-sposobnosti-zapada-atakovat-vs-rossii-pri-razmeshchenii-na-ukraine-izi"
       ]
     },
     "2026-11-04": {
-      "totalChecked": 690,
+      "totalChecked": 688,
       "totalIzi": 92,
       "totalIiz": 3,
       "totalAi": 95,
@@ -375,10 +347,10 @@
       ]
     },
     "2026-11-10": {
-      "totalChecked": 707,
-      "totalIzi": 140,
+      "totalChecked": 823,
+      "totalIzi": 169,
       "totalIiz": 2,
-      "totalAi": 142,
+      "totalAi": 171,
       "topLinks": [
         "https://iz.ru/2197851/neiroissledovanie-oproverglo-mif-o-prevoskhodstve-reklamy-proshlykh-let-izi",
         "https://iz.ru/2197865/2026-11-10/glava-mvd-nagradil-36-politceiskikh-iz-regionov-za-spasenie-liudei-izi",
@@ -400,6 +372,16 @@
         "https://iz.ru/2199099/khegset-obiavil-o-zavershenii-epokhi-amerikanskikh-subsidii-na-oboronu-evropy-izi",
         "https://iz.ru/2199107/madiar-prizval-es-opredelitsia-s-predstavitelia-dlia-peregovorov-po-ukraine-izi",
         "https://iz.ru/2199148/uchenye-obnaruzhili-ischeznuvshuiu-iz-polia-zreniia-ekzoplanetu-izi"
+      ]
+    },
+    "2026-11-11": {
+      "totalChecked": 42,
+      "totalIzi": 1,
+      "totalIiz": 1,
+      "totalAi": 2,
+      "topLinks": [
+        "https://iz.ru/2199157/narodnye-primety-na-11-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2199592/2026-11-11/riadovoi-abdurakhmonov-likvidiroval-shesterykh-soldat-vsu-pri-zakhvate-opornika-izi"
       ]
     }
   }
