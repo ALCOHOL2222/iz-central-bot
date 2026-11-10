@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T10:03:14.373Z",
+  "generatedAt": "2026-11-10T18:02:56.230Z",
   "timezone": "Europe/Moscow",
   "source": "https://iz.ru/sitemap.xml",
   "debug": {
@@ -151,40 +151,39 @@
       ]
     },
     "2026-11-02": {
-      "totalChecked": 670,
-      "totalIzi": 105,
+      "totalChecked": 496,
+      "totalIzi": 81,
       "totalIiz": 1,
-      "totalAi": 106,
+      "totalAi": 82,
       "topLinks": [
-        "https://iz.ru/2194974/lantratova-obiasnila-otkaz-chasti-zhitelei-aleshek-ot-evakuatcii-izi",
-        "https://iz.ru/2194977/uchenye-opublikovali-prognoz-magnitnykh-bur-na-nachalo-noiabria-2026-goda-izi",
-        "https://iz.ru/2194978/uchenye-razveiali-mif-o-kulikovskoi-bitve-s-pomoshchiu-pyltcy-izi",
-        "https://iz.ru/2194981/v-uzbekistane-muzhchina-zazhivo-szheg-dvoikh-detei-i-pytalsia-ubit-eshche-dvoikh-i-mat-izi",
-        "https://iz.ru/2194982/sud-zaochno-prigovoril-inoagenta-dobrokhotova-k-piati-s-polovinoi-godam-kolonii-izi",
-        "https://iz.ru/2194985/v-serbii-zaderzhali-vladeltca-populiarnogo-u-rossiiskikh-relokantov-banka-alta-izi",
-        "https://iz.ru/2194997/uchenye-sviazali-gipertoniiu-u-materi-do-beremennosti-s-porokami-serdtca-u-detei-izi",
-        "https://iz.ru/2195000/rapporteur-uznal-o-smene-prioritetov-v-rabote-evrokomissii-izi",
-        "https://iz.ru/2195006/glava-equinor-predupredil-ob-uiazvimosti-evropy-zimoi-iz-za-nizkikh-zapasov-gaza-izi",
-        "https://iz.ru/2195010/oblachnyi-provaider-beget-soobshchil-o-massirovannoi-kiberatake-izi",
-        "https://iz.ru/2195013/izvestnogo-permskogo-vedushchego-nikolaia-malkova-nashli-mertvym-v-ego-kvartire-izi",
-        "https://iz.ru/2195020/glava-kalashnikova-poobeshchal-vnedrit-ii-v-avtomat-izi",
-        "https://iz.ru/2195027/putin-utverdil-novyi-poriadok-voennogo-sotrudnichestva-s-belorussiei-izi",
-        "https://iz.ru/2195030/v-turtcii-obiasnili-chastye-vizity-zelenskogo-otsutstviem-ego-boiazni-erdogana-izi",
-        "https://iz.ru/2195066/gac-vernulsia-v-desiatku-samykh-populiarnykh-avtomarok-v-rossii-izi",
-        "https://iz.ru/2195079/frantcuzskie-studenty-anonsirovali-blokadu-vuzov-i-novye-protesty-izi",
-        "https://iz.ru/2195091/roman-elordi-s-kendall-dzhenner-mog-povliiat-na-kasting-novogo-dzheimsa-bonda-izi",
-        "https://iz.ru/2195105/uchenye-obnaruzhili-sviaz-mezhdu-vozdeistviem-pestitcida-i-bolezniu-parkinsona-izi",
-        "https://iz.ru/2195142/politolog-otcenil-veroiatnost-iadernogo-udara-ssha-po-iranu-izi",
-        "https://iz.ru/2195154/chto-proizoshlo-za-den-2-noiabria-glavnoe-izi"
+        "https://iz.ru/2193432/narodnye-primety-na-2-noiabria-chto-mozhno-i-nelzia-delat-iiz",
+        "https://iz.ru/2193762/uchenye-rasskazali-o-vliianii-pitaniia-na-zdorove-serdtca-posle-raka-izi",
+        "https://iz.ru/2193791/uchenye-obiasnili-nochnuiu-trevozhnost-iz-za-obychnykh-zvukov-izi",
+        "https://iz.ru/2193834/uchenye-sviazali-kaltcii-v-sosudakh-u-molodykh-liudei-s-riskom-rannei-smerti-izi",
+        "https://iz.ru/2194721/gol-i-peredacha-miranchuka-pomogli-fk-atlanta-obygrat-fk-toronto-v-matche-mls-izi",
+        "https://iz.ru/2194722/britanskii-politik-galllouei-priznalsia-v-strakhe-vernutsia-na-rodinu-iz-rf-izi",
+        "https://iz.ru/2194724/vs-rf-porazili-dostavliavshii-gruzy-vsu-sukhogruz-v-chernom-more-izi",
+        "https://iz.ru/2194727/na-kipre-zaiavili-o-panike-tuska-posle-slov-medvedeva-o-polshe-izi",
+        "https://iz.ru/2194728/sily-pvo-za-noch-sbili-212-bespilotnikov-vsu-nad-regionami-rossii-izi",
+        "https://iz.ru/2194733/minfin-razrabotal-proekt-avtoperevoda-nakopitelnykh-pensii-v-programmu-sberezhenii-izi",
+        "https://iz.ru/2194738/pravitelstvo-rf-vremenno-zapretilo-vyvoz-vidov-neftekhimicheskoi-produktcii-izi",
+        "https://iz.ru/2194739/v-kieve-i-kievskoi-oblasti-vveli-ekstrennye-otkliucheniia-elektroenergii-izi",
+        "https://iz.ru/2194741/politico-ukazalo-na-opasenie-nato-v-sviazi-s-vyborami-v-kongress-ssha-izi",
+        "https://iz.ru/2194753/zakharova-obvinila-kiev-v-presledovanii-predstavitelei-rossiiskikh-smi-izi",
+        "https://iz.ru/2194762/matvienko-anonsirovala-vstrechu-putina-i-si-tczinpina-na-sammite-ates-izi",
+        "https://iz.ru/2194767/mvd-rf-preseklo-kriminalnuiu-skhemu-vasia-grek-s-fishingovymi-atakami-izi",
+        "https://iz.ru/2194768/u-rossiiskogo-oblachnogo-provaidera-beget-proizoshel-masshtabnyi-sboi-izi",
+        "https://iz.ru/2194770/de-standaard-uznala-o-planakh-premer-ministra-belgii-podat-v-otstavku-2-noiabria-izi",
+        "https://iz.ru/2194778/sk-zavershil-rassledovanie-dela-o-krushenii-samoleta-falcon-10-v-afganistane-izi",
+        "https://iz.ru/2194779/zakharova-obvinila-zapad-v-ogranicheniiakh-protiv-smi-rf-na-ukraine-i-v-pribaltike-izi"
       ]
     },
     "2026-11-03": {
-      "totalChecked": 876,
-      "totalIzi": 177,
+      "totalChecked": 845,
+      "totalIzi": 176,
       "totalIiz": 1,
-      "totalAi": 178,
+      "totalAi": 177,
       "topLinks": [
-        "https://iz.ru/2195121/uchenye-raskryli-mekhanizm-nakopleniia-plokhogo-kholesterina-v-krovi-izi",
         "https://iz.ru/2195378/openai-naniala-eks-ministra-armii-ssha-dlia-razvitiia-ii-v-sfere-natcbezopasnosti-izi",
         "https://iz.ru/2195381/tramp-nazval-sushchimi-kopeikami-raskhody-v-30-mlrd-na-voinu-s-iranom-izi",
         "https://iz.ru/2195382/sotcfond-dosrochno-perechislit-rabotaiushchim-roditeliam-posobie-po-ukhodu-za-rebenkom-izi",
@@ -203,11 +202,12 @@
         "https://iz.ru/2195410/minimum-45-chelovek-raneny-v-dtp-s-turisticheskim-avtobusom-na-iugo-zapade-turtcii-izi",
         "https://iz.ru/2195413/mvd-predupredilo-o-novoi-skheme-obmana-s-ispolzovaniem-poddelnykh-telegram-botov-izi",
         "https://iz.ru/2195414/nefteprovod-atyrau-samara-vernulsia-k-rabote-posle-ataki-dronov-izi",
-        "https://iz.ru/2195415/byvshii-zavod-mercedes-v-rf-perezapustiat-s-novym-avtobrendom-v-2027-godu-izi"
+        "https://iz.ru/2195415/byvshii-zavod-mercedes-v-rf-perezapustiat-s-novym-avtobrendom-v-2027-godu-izi",
+        "https://iz.ru/2195416/v-mintranse-rf-predlozhili-priravniat-moshchnye-elektrosamokaty-k-mopedam-izi"
       ]
     },
     "2026-11-04": {
-      "totalChecked": 692,
+      "totalChecked": 690,
       "totalIzi": 92,
       "totalIiz": 3,
       "totalAi": 95,
@@ -319,7 +319,7 @@
       ]
     },
     "2026-11-08": {
-      "totalChecked": 543,
+      "totalChecked": 541,
       "totalIzi": 122,
       "totalIiz": 2,
       "totalAi": 124,
@@ -347,7 +347,7 @@
       ]
     },
     "2026-11-09": {
-      "totalChecked": 875,
+      "totalChecked": 876,
       "totalIzi": 182,
       "totalIiz": 0,
       "totalAi": 182,
@@ -375,11 +375,12 @@
       ]
     },
     "2026-11-10": {
-      "totalChecked": 302,
-      "totalIzi": 34,
+      "totalChecked": 707,
+      "totalIzi": 140,
       "totalIiz": 2,
-      "totalAi": 36,
+      "totalAi": 142,
       "topLinks": [
+        "https://iz.ru/2197851/neiroissledovanie-oproverglo-mif-o-prevoskhodstve-reklamy-proshlykh-let-izi",
         "https://iz.ru/2197865/2026-11-10/glava-mvd-nagradil-36-politceiskikh-iz-regionov-za-spasenie-liudei-izi",
         "https://iz.ru/2198535/narodnye-primety-na-10-noiabria-chto-mozhno-i-nelzia-delat-iiz",
         "https://iz.ru/2198580/uchenye-izuchili-sviaz-pitaniia-i-fizicheskoi-aktivnosti-s-mikrobiomom-kishechnika-izi",
@@ -398,8 +399,7 @@
         "https://iz.ru/2199098/novye-trebovaniia-k-ostanovkam-obshchestvennogo-transporta-vveli-v-rossii-izi",
         "https://iz.ru/2199099/khegset-obiavil-o-zavershenii-epokhi-amerikanskikh-subsidii-na-oboronu-evropy-izi",
         "https://iz.ru/2199107/madiar-prizval-es-opredelitsia-s-predstavitelia-dlia-peregovorov-po-ukraine-izi",
-        "https://iz.ru/2197865/2026-11-10/glava-mvd-nagradil-36-politceiskikh-iz-regionov-za-spasenie-liudei-izi",
-        "https://iz.ru/2198535/narodnye-primety-na-10-noiabria-chto-mozhno-i-nelzia-delat-iiz"
+        "https://iz.ru/2199148/uchenye-obnaruzhili-ischeznuvshuiu-iz-polia-zreniia-ekzoplanetu-izi"
       ]
     }
   }
